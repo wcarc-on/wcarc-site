@@ -1,0 +1,1640 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List
+href="./digitalonhf/filelist.xml">
+<link rel=Edit-Time-Data
+href="./digitalonhf/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>What's That Racket</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>R.Bandla</o:Author>
+  <o:LastAuthor>R.Bandla</o:LastAuthor>
+  <o:Revision>3</o:Revision>
+  <o:TotalTime>34</o:TotalTime>
+  <o:Created>2004-10-18T00:44:00Z</o:Created>
+  <o:LastSaved>2004-10-18T00:46:00Z</o:LastSaved>
+  <o:Pages>7</o:Pages>
+  <o:Words>1802</o:Words>
+  <o:Characters>10272</o:Characters>
+  <o:Lines>85</o:Lines>
+  <o:Paragraphs>20</o:Paragraphs>
+  <o:CharactersWithSpaces>12614</o:CharactersWithSpaces>
+  <o:Version>9.6926</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:DoNotHyphenateCaps/>
+  <w:PunctuationKerning/>
+  <w:DrawingGridHorizontalSpacing>6 pt</w:DrawingGridHorizontalSpacing>
+  <w:DrawingGridVerticalSpacing>6 pt</w:DrawingGridVerticalSpacing>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>3</w:DisplayVerticalDrawingGridEvery>
+  <w:UseMarginsForDrawingGridOrigin/>
+  <w:DoNotShadeFormData/>
+  <w:Compatibility>
+   <w:FootnoteLayoutLikeWW8/>
+   <w:ShapeLayoutLikeWW8/>
+   <w:AlignTablesRowByRow/>
+   <w:ForgetLastTabAlignment/>
+   <w:LayoutRawTableWidth/>
+   <w:LayoutTableRowsApart/>
+  </w:Compatibility>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:2;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+@font-face
+	{font-family:"Accord Heavy SF";
+	panose-1:2 11 226 0 0 0 0 0 0 0;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+h1
+	{mso-style-next:Normal;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:none;
+	mso-outline-level:1;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:18.0pt;
+	font-family:Arial;
+	mso-font-kerning:0pt;}
+h2
+	{mso-style-next:Normal;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:13.5pt;
+	margin-bottom:.0001pt;
+	text-indent:-13.5pt;
+	mso-pagination:none;
+	mso-outline-level:2;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:14.0pt;
+	font-family:Arial;
+	font-weight:normal;}
+h3
+	{mso-style-next:Normal;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:29.25pt;
+	margin-bottom:.0001pt;
+	text-indent:-11.25pt;
+	mso-pagination:none;
+	mso-outline-level:3;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:12.0pt;
+	font-family:Arial;
+	font-weight:normal;}
+h4
+	{mso-style-next:Normal;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:45.0pt;
+	margin-bottom:.0001pt;
+	text-indent:-9.0pt;
+	mso-pagination:none;
+	mso-outline-level:4;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:10.0pt;
+	font-family:Arial;
+	font-weight:normal;}
+h5
+	{mso-style-next:Normal;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:63.0pt;
+	margin-bottom:.0001pt;
+	text-indent:-9.0pt;
+	mso-pagination:none;
+	mso-outline-level:5;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:9.0pt;
+	font-family:Arial;
+	font-weight:normal;}
+h6
+	{mso-style-next:Normal;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:81.0pt;
+	margin-bottom:.0001pt;
+	text-indent:-9.0pt;
+	mso-pagination:none;
+	mso-outline-level:6;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:9.0pt;
+	font-family:Arial;
+	font-weight:normal;}
+p.MsoHeading7, li.MsoHeading7, div.MsoHeading7
+	{mso-style-next:Normal;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:7;
+	font-size:10.0pt;
+	font-family:"Accord Heavy SF";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	color:#003366;
+	font-weight:bold;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+ /* Page Definitions */
+@page
+	{mso-page-border-surround-header:no;
+	mso-page-border-surround-footer:no;}
+@page Section1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	mso-header-margin:36.0pt;
+	mso-footer-margin:36.0pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+@list l0
+	{mso-list-id:-2;
+	mso-list-type:simple;
+	mso-list-template-ids:-926877712;}
+@list l0:level1
+	{mso-level-start-at:0;
+	mso-level-text:*;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:0cm;
+	text-indent:0cm;}
+@list l0:level1 lfo1
+	{mso-level-number-format:bullet;
+	mso-level-numbering:continue;
+	mso-level-text:\F076;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	mso-level-legacy:yes;
+	mso-level-legacy-indent:0cm;
+	mso-level-legacy-space:0cm;
+	margin-left:0cm;
+	text-indent:0cm;
+	mso-ansi-font-size:9.0pt;
+	mso-bidi-font-size:9.0pt;
+	font-family:Wingdings;
+	mso-bidi-font-family:"Times New Roman";}
+@list l0:level1 lfo2
+	{mso-level-number-format:bullet;
+	mso-level-numbering:continue;
+	mso-level-text:\F076;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	mso-level-legacy:yes;
+	mso-level-legacy-indent:0cm;
+	mso-level-legacy-space:0cm;
+	margin-left:0cm;
+	text-indent:0cm;
+	mso-ansi-font-size:7.5pt;
+	mso-bidi-font-size:7.5pt;
+	font-family:Wingdings;
+	mso-bidi-font-family:"Times New Roman";}
+@list l0:level1 lfo3
+	{mso-level-number-format:bullet;
+	mso-level-numbering:continue;
+	mso-level-text:\F076;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	mso-level-legacy:yes;
+	mso-level-legacy-indent:0cm;
+	mso-level-legacy-space:0cm;
+	margin-left:0cm;
+	text-indent:0cm;
+	mso-ansi-font-size:7.0pt;
+	mso-bidi-font-size:7.0pt;
+	font-family:Wingdings;
+	mso-bidi-font-family:"Times New Roman";}
+@list l0:level1 lfo4
+	{mso-level-number-format:bullet;
+	mso-level-numbering:continue;
+	mso-level-text:\F076;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	mso-level-legacy:yes;
+	mso-level-legacy-indent:0cm;
+	mso-level-legacy-space:0cm;
+	margin-left:0cm;
+	text-indent:0cm;
+	mso-ansi-font-size:10.5pt;
+	mso-bidi-font-size:10.5pt;
+	font-family:Wingdings;
+	mso-bidi-font-family:"Times New Roman";}
+@list l0:level1 lfo5
+	{mso-level-number-format:bullet;
+	mso-level-numbering:continue;
+	mso-level-text:\F0D8;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	mso-level-legacy:yes;
+	mso-level-legacy-indent:0cm;
+	mso-level-legacy-space:0cm;
+	margin-left:0cm;
+	text-indent:0cm;
+	mso-ansi-font-size:7.0pt;
+	mso-bidi-font-size:7.0pt;
+	font-family:Wingdings;
+	mso-bidi-font-family:"Times New Roman";}
+@list l0:level1 lfo6
+	{mso-level-number-format:bullet;
+	mso-level-numbering:continue;
+	mso-level-text:\F076;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	mso-level-legacy:yes;
+	mso-level-legacy-indent:0cm;
+	mso-level-legacy-space:0cm;
+	margin-left:0cm;
+	text-indent:0cm;
+	mso-ansi-font-size:12.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:Wingdings;
+	mso-bidi-font-family:"Times New Roman";}
+@list l0:level1 lfo7
+	{mso-level-number-format:bullet;
+	mso-level-numbering:continue;
+	mso-level-text:\F0D8;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	mso-level-legacy:yes;
+	mso-level-legacy-indent:0cm;
+	mso-level-legacy-space:0cm;
+	margin-left:0cm;
+	text-indent:0cm;
+	mso-ansi-font-size:7.5pt;
+	mso-bidi-font-size:7.5pt;
+	font-family:Wingdings;
+	mso-bidi-font-family:"Times New Roman";}
+@list l0:level1 lfo8
+	{mso-level-number-format:bullet;
+	mso-level-numbering:continue;
+	mso-level-text:\F076;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	mso-level-legacy:yes;
+	mso-level-legacy-indent:0cm;
+	mso-level-legacy-space:0cm;
+	margin-left:0cm;
+	text-indent:0cm;
+	mso-ansi-font-size:6.0pt;
+	mso-bidi-font-size:6.0pt;
+	font-family:Wingdings;
+	mso-bidi-font-family:"Times New Roman";}
+@list l0:level1 lfo9
+	{mso-level-number-format:bullet;
+	mso-level-numbering:continue;
+	mso-level-text:\F0D8;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	mso-level-legacy:yes;
+	mso-level-legacy-indent:0cm;
+	mso-level-legacy-space:0cm;
+	margin-left:0cm;
+	text-indent:0cm;
+	mso-ansi-font-size:6.0pt;
+	mso-bidi-font-size:6.0pt;
+	font-family:Wingdings;
+	mso-bidi-font-family:"Times New Roman";}
+@list l0:level1 lfo10
+	{mso-level-number-format:bullet;
+	mso-level-numbering:continue;
+	mso-level-text:\F0D8;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	mso-level-legacy:yes;
+	mso-level-legacy-indent:0cm;
+	mso-level-legacy-space:0cm;
+	margin-left:0cm;
+	text-indent:0cm;
+	mso-ansi-font-size:5.5pt;
+	mso-bidi-font-size:5.5pt;
+	font-family:Wingdings;
+	mso-bidi-font-family:"Times New Roman";}
+@list l0:level1 lfo11
+	{mso-level-number-format:bullet;
+	mso-level-numbering:continue;
+	mso-level-text:\F0D8;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	mso-level-legacy:yes;
+	mso-level-legacy-indent:0cm;
+	mso-level-legacy-space:0cm;
+	margin-left:0cm;
+	text-indent:0cm;
+	mso-ansi-font-size:9.0pt;
+	mso-bidi-font-size:9.0pt;
+	font-family:Wingdings;
+	mso-bidi-font-family:"Times New Roman";}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1027"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US link=blue vlink=purple style='tab-interval:36.0pt;text-justify-trim:
+punctuation'>
+
+<div class=Section1>
+
+<h1 align=center style='text-align:center'><span style='font-size:20.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></h1>
+
+<p class=MsoNormal align=center style='text-align:center'><b>As Presented at<o:p></o:p></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><!--[if gte vml 1]><v:shapetype
+ id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
+ path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
+ <v:stroke joinstyle="miter"/>
+ <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn="sum @0 1 0"/>
+  <v:f eqn="sum 0 0 @1"/>
+  <v:f eqn="prod @2 1 2"/>
+  <v:f eqn="prod @3 21600 pixelWidth"/>
+  <v:f eqn="prod @3 21600 pixelHeight"/>
+  <v:f eqn="sum @0 0 1"/>
+  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="prod @7 21600 pixelWidth"/>
+  <v:f eqn="sum @8 21600 0"/>
+  <v:f eqn="prod @7 21600 pixelHeight"/>
+  <v:f eqn="sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+</v:shapetype><v:shape id="_x0000_s1026" type="#_x0000_t75" style='position:absolute;
+ left:0;text-align:left;margin-left:-.45pt;margin-top:-44.8pt;width:138pt;
+ height:70.9pt;z-index:1;mso-position-horizontal:absolute;
+ mso-position-vertical:absolute' o:userdrawn="t">
+ <v:imagedata src="./digital/image001.png"
+  o:title="QCWAom"/>
+</v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout;position:
+relative;z-index:0'><span style='left:0px;position:absolute;left:-1px;
+top:-60px;width:184px;height:95px'><img width=184 height=95
+src="./digital/image002.gif" v:shapes="_x0000_s1026"></span></span><![endif]><b>October
+15-17, 2004</b><span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp; </span><b><span
+style='font-size:10.0pt;font-family:"Accord Heavy SF";color:#003366'>QUARTER
+CENTURY WIRELESS ASSOCIATION Conference<o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-size:10.0pt;font-family:"Accord Heavy SF";color:#003366'>Lord Elgin
+Hotel, Ottawa, Ontario, Canada</span></b><b><span style='font-size:7.0pt;
+font-family:"Accord Heavy SF";color:#003366'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span style='color:#003366'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoHeading7><span style="mso-spacerun: yes">&nbsp;</span><span
+style='font-size:20.0pt'><o:p></o:p></span></p>
+
+<h1 align=center style='text-align:center'><span style='font-size:20.0pt'>What's
+That Racket?- HF Digital Modes<o:p></o:p></span></h1>
+
+<h1 align=center style='text-align:center'><span style='font-size:14.0pt;
+mso-bidi-font-size:20.0pt'>By Ken Asmus VA3KA and Rick Bandla VE3CVG <o:p></o:p></span></h1>
+
+<h2><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></h2>
+
+<h2><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></h2>
+
+<h1>Table of Contents</h1>
+
+<h2 style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Introduction<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Common HF Modes include RTTY, TOR modes (AMTOR,
+PACTOR), CLOVER, HELL, MFSK, MT63, Packet, SSTV, PSK-31<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Hardware<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Software<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Getting started<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Internet Resources<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Acknowledgments<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Discussion, questions and demo<o:p></o:p></span></h2>
+
+<h2><span style='font-size:12.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></h2>
+
+<h1>Introduction</h1>
+
+<h2 style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Thanks to the generosity of radio hams with
+programming knowledge, the World Wide Web and the availability of personal
+computers, new and powerful communications tools are available to all hams. <o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>We can all participate in the revolution by trying out
+these modes and judging their performance on all of the HF bands.<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>This presentation will provide a summary of the most
+common digital modes in use today and how you can get on the air with only a
+little effort!<o:p></o:p></span></h2>
+
+<h2><span style='font-size:12.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></h2>
+
+<h1>RTTY</h1>
+
+<h2 style='mso-list:l0 level1 lfo2'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>"Radio Teletype&quot; is an FSK (Frequency Shift
+Keying) mode that has been in use longer than any other digital mode <o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo2'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>RTTY is a very simple technique which uses a five-bit
+code to represent all the letters of the alphabet, the numbers, some
+punctuation and some control characters <o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo2'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>45 baud (typically) corresponds to a typing speed of
+60 WPM. <o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo2'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>There is no error correction provided in RTTY; noise
+and interference can have a seriously detrimental effect <o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo2'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Recent resurgence due to use of sound cards and DSP
+software<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo2'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Very popular contesting mode<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo2'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'><A href="sound001.wav">Click this line to hear what RTTY sounds like</A><o:p></o:p></span></h2>
+
+<h1><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></h1>
+
+<h1>AMTOR</h1>
+
+<h2 style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>AMateur Teleprinting Over Radio <o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Derived from the commercial SITOR system (Simplex
+Telex Over radio) developed primarily for Maritime use in the 1970s. <o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>In the early 1980's, Peter Martinez, G3PLX, made
+several minor changes to the SITOR protocol and called it AMTOR</span> </h2>
+
+<h2 style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>AMTOR improves on RTTY by incorporating a simple Error
+Detection technique</span> </h2>
+
+<h2 style='mso-list:l0 level1 lfo2'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>AMTOR performs well even in poor HF conditions and the
+result is quite tolerable for normal text mode conversations <o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo2'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>There are two modes used in AMTOR: ARQ and FEC<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo2'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Data is sent in groups of 3 characters (ARQ)<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo2'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>The receiver responds to each 3 character group by
+sending either an ACK (ACKnowledge) code (if OK) or a NAK (Negative
+AcKnowledge). Each time the transmitting station gets a NAK, that 3 character
+group is sent again. <o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo2'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>In FEC mode (Forward Error Correcting), sometimes
+called Mode B, the sending station sends each character twice so this mode
+provides a means of transmitting to several stations at once. The receiving
+station does not acknowledge the data received <o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo2'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>AMTOR systems are still limited to the technology of
+the 60s and maximum transmission rate (100 baud) <o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo2'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'><A href="sound001.wav">Click this line to hear what AMTOR sounds like</A><o:p></o:p></span></h2>
+
+<h2><span style='font-size:7.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></h2>
+
+<h1>PACTOR </h1>
+
+<h2 style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>FSK mode and is a standard on modern TNCs <o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Combination of packet and AMTOR Techniques<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>The most popular ARQ digital mode on amateur HF today <o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>200 baud operating rate, Huffman compression technique
+and true binary data transfer capability makes this mode suitable for HF data
+file transfers<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Many RF/INTERNET gateways worldwide using PACTOR and
+the WinLink Network<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo2'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'><A href="sound001.wav">Click this line to hear what PACTOR sounds like</A><o:p></o:p></span></h2>
+
+<h1><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></h1>
+
+<h1>WinLink</h1>
+
+<h2 style='mso-list:l0 level1 lfo3'><![if !supportLists]><span
+style='font-size:7.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Winlink 2000 provides a full-featured radio digital
+message transfer system,<a href="http://winlink.org/worldmap.htm"> <b>worldwide</b></a><o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo3'><![if !supportLists]><span
+style='font-size:7.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Email transfer with attachments, map &amp; text-based
+position reporting, graphic &amp; text-based weather bulletin services, and <i>emergency
+communications</i><b> </b>are now available to the Amateur radio community by
+linking radio to the Internet using PACTOR on the HF Bands<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo3'><![if !supportLists]><span
+style='font-size:7.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>The mobile user, whether on the high seas, jungles of
+a remote region, or&nbsp; traveling in an RV,&nbsp; has the ability to provide
+family and friends with the state of their safety and well-being along with the
+joys of their travels.&nbsp; <o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo3'><![if !supportLists]><span
+style='font-size:7.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><b><i><span
+style='font-size:12.0pt'>The Winlink 2000 system is currently used for </span></i></b><span
+style='font-size:12.0pt'><a href="http://winlink.org/Emergency.htm"><b><i>&nbsp;</i></b></a><a
+href="http://winlink.org/Emergency.htm"><b><i>emergency communications </i></b></a><b><i>where
+local or regional&nbsp; communications are disrupted, including the the loss of
+the Internet,</i> <i>and where accuracy of information is paramount.</i></b><o:p></o:p></span></h2>
+
+<h3><span style='font-size:9.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></h3>
+
+<h1><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></h1>
+
+<h1>PACTOR II</h1>
+
+<h2 style='mso-list:l0 level1 lfo4'><![if !supportLists]><span
+style='font-size:10.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Robust and powerful PSK mode which operates well under
+varying conditions <o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo4'><![if !supportLists]><span
+style='font-size:10.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Uses strong logic, automatic frequency tracking; it is
+DSP based <o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo4'><![if !supportLists]><span
+style='font-size:10.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>As much as 8 times faster then Pactor 1<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo4'><![if !supportLists]><span
+style='font-size:10.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Both PACTOR and PACTOR-2 use the same protocol
+handshake, making the modes compatible <o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo2'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'><A href="sound001.wav">Click this line to hear what PACTOR II sounds like</A><o:p></o:p></span></h2>
+
+<h2><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></h2>
+
+<h1>PACTOR III</h1>
+
+<h2 style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Proprietary mode used for message and traffic handling
+over an HF radio circuit <o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Use of Pactor-III protocol is limited for NA hams and
+some other countries due to the very wide bandwidth <o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Only the embedded hardware (modem) from the German
+company that owns the rights to this mode, is capable of operating Pactor-III. <o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>No software solution available<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>EXPENSIVE modems!<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo2'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'><A href="sound001.wav">Click this line to hear what PACTOR III sounds like</A><o:p></o:p></span></h2>
+
+<h2><span style='font-size:12.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></h2>
+
+<h2><span style='font-size:12.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></h2>
+
+<h1>CLOVER</h1>
+
+<h2 style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>PSK mode which provides a full duplex simulation <o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Suited for HF operation (especially under good
+conditions)<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Clover's key characteristics are band-width efficiency
+with high error-corrected data rates <o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Clover adapts to conditions by constantly monitoring
+the received signal <o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Hardware based mode and limited use<o:p></o:p></span></h2>
+
+<h1><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></h1>
+
+<h1>HELLSCHREIBER </h1>
+
+<h2 style='mso-list:l0 level1 lfo2'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>A method of sending and receiving text using facsimile
+technology <o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo2'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>This mode has been around a long time; the recent use
+of PC sound cards as DSP units has increased the interest in Hellschreiber <o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo2'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>The single-tone version (Feld-Hell) is the method of
+choice for HF operation <o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo2'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>35 WPM text rate, with a narrow bandwidth (about 75
+Hz).<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo2'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Text characters are &quot;painted&quot; on the screen,
+as apposed to being decoded and printed <o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo2'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>As a &quot;fuzzy mode&quot; it has the advantage of
+using the &quot;human processor&quot; for error correction.</span><span
+style='font-size:10.0pt'> <o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo2'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'><A href="sound001.wav">Click this line to hear what HELL sounds like</A><o:p></o:p></span></h2>
+
+<h2><span style='font-size:10.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></h2>
+
+<h1>MFSK16 </h1>
+
+<h2 style='mso-list:l0 level1 lfo2'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>An advancement to the THROB mode and encodes 16 tones <o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo2'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Uses Fast Fourier Transform technology to decode the
+ASCII characters, and Constant Phase Frequency Shift Keying to send the coded
+signal. Continuous Forward Error Correction (FEC) sends all data twice with an
+interleaving technique to reduce errors from impulse noise and static crashes <o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo2'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>The relatively wide bandwidth (316 Hz) for this mode
+allows faster baud rates (typing is about 42 WPM) and greater immunity to multi
+path phase shift<span style="mso-spacerun: yes">&nbsp; </span><o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo2'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Becoming a standard for reliable keyboard to keyboard
+operation and is available in several popular programs <o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo2'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'><A href="sound001.wav">Click this line to hear what MFSK sounds like</A><o:p></o:p></span></h2>
+
+<h1><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></h1>
+
+<h1>MT63</h1>
+
+<h2 style='mso-list:l0 level1 lfo2'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>New DSP based mode for sending keyboard text over
+paths that experience fading and interference <o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo2'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Complex scheme to encode text in a matrix of 64 tones
+over time and frequency <o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo2'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Error correction at the receiving end while still
+providing a 100 WPM rate <o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo2'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Wide bandwidth (1Khz for the standard method) makes
+this mode less desirable on crowded ham bands such as 20 meters <o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo2'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>A fast PC (166 Mhz or faster) is needed to use all the
+functions of this mode. <o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo2'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'><A href="sound001.wav">Click this line to hear what MT63 sounds like</A><o:p></o:p></span></h2>
+
+<h1><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></h1>
+
+<h1>HF PACKET<span style='font-size:10.0pt'> <o:p></o:p></span></h1>
+
+<h2 style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>HF Packet is an FSK mode that is an adaptation of the
+very popular Packet radio used on VHF FM <o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>The HF version of Packet Radio maintains the same
+protocols and ability to &quot;node&quot; many stations on one frequency <o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Even with the reduced bandwidth (300 baud rate), this
+mode is unreliable for general HF ham communications and is mainly used to pass
+routine traffic and data between areas where VHF repeaters may be lacking <o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo2'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'><A href="sound001.wav">Click this line to hear what HF Packet sounds like</A><o:p></o:p></span></h2>
+
+<h1><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></h1>
+
+<h1>PSK-31</h1>
+
+<h2 style='mso-list:l0 level1 lfo3'><![if !supportLists]><span
+style='font-size:7.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Developed by Peter Martinez G3PLX in 1995 <o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo3'><![if !supportLists]><span
+style='font-size:7.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Integration between computers and ham radio.
+Replacement for RTTY?<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo3'><![if !supportLists]><span
+style='font-size:7.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Software uses DSP processing of computer soundcards<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo3'><![if !supportLists]><span
+style='font-size:7.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Software is free (Digipan, HamRadio Deluxe, etc)<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo3'><![if !supportLists]><span
+style='font-size:7.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Great for late night QSO's and ideal for QRP<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo3'><![if !supportLists]><span
+style='font-size:7.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Uses phase shift keying (BPSK or QPSK) - very spectrum
+efficient. <o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo3'><![if !supportLists]><span
+style='font-size:7.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Narrower than CW. Up to 80 PSK31 signals in bandwidth
+of 1 SSB signal.<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo3'><![if !supportLists]><span
+style='font-size:7.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Better than CW under weak signal conditions<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo3'><![if !supportLists]><span
+style='font-size:7.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>PSK31 more susceptible to frequency changes than CW or
+RTTY<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo3'><![if !supportLists]><span
+style='font-size:7.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Throughput is 31 baud and bandwidth is 31Hz<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo3'><![if !supportLists]><span
+style='font-size:7.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Varicode - all 128 ASCII characters are represented<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo3'><![if !supportLists]><span
+style='font-size:7.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Operation centred around specific frequencies on each
+band<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo2'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'><A href="sound001.wav">Click this line to hear what PSK31 sounds like</A><o:p></o:p></span></h2>
+
+<h2><span style='font-size:12.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></h2>
+
+<h1>PSK-31 - Technical Info</h1>
+
+<h2 style='mso-list:l0 level1 lfo2'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>By comparing the 31Hz bandwidth of PSK31 against a CW
+filter of 500 Hz; 10 * log (500/31) dB = 12 dB, reveals that a CW transmitter
+must put out 15 to 18 times more power than a PSK31 transmitter, to achieve the
+same S/N ratio at the Rx <o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo2'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>phase shift keying (bpsk or qsk) - 2 pure tones 31Hz
+apart<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo2'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>0 bit in the data stream generates a 180</span><span
+style='font-size:12.0pt;font-family:Symbol;mso-ascii-font-family:Arial;
+mso-hansi-font-family:Arial;mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&deg;</span></span><span
+style='font-size:12.0pt'> audio phase shift, but 1 does not<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo2'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Decoding uses Viterbi decoder - 5 bit pipeline for 32
+parallel functions<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo2'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>QPSK mode is very accurate but requires 4 Herz freq
+stability<o:p></o:p></span></h2>
+
+<h2><span style='font-size:12.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></h2>
+
+<h2><span style='font-size:12.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></h2>
+
+<h1>SSTV</h1>
+
+<h2 style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>MMSSTV - software solution that has made hardware
+obsolete<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt;font-family:"Times New Roman";mso-hansi-font-family:
+Arial;mso-bidi-font-family:Arial'>By JE3HHT Makoto Mori</span><span
+style='font-size:12.0pt'><span style="mso-spacerun: yes">&nbsp; </span>and it's
+freeware<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>MMSSTV supports numerous subsets of the following
+modes: Robot, AVT90, Scottie, Martin, SC2, PD, P3, P5, P7, MP,MR,ML<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Uses the same soundcard + computer setup as PSK31,
+etc.<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>There are other software packages but this is the
+ultimate<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo2'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'><A href="sound001.wav">Click this line to hear what SSTV sounds like</A><o:p></o:p></span></h2>
+
+<h1><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></h1>
+
+<h1>Hardware</h1>
+
+<h2 style='mso-list:l0 level1 lfo3'><![if !supportLists]><span
+style='font-size:7.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Computer 486 with 16 bit soundcard at least<o:p></o:p></span></h2>
+
+<h3 style='mso-list:l0 level1 lfo5'><![if !supportLists]><span
+style='font-size:7.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>&oslash;<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]>Almost
+every Creative Labs or clone works ok</h3>
+
+<h3 style='mso-list:l0 level1 lfo5'><![if !supportLists]><span
+style='font-size:7.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>&oslash;<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]>Faster
+computers are better + Windows 98 or above is better</h3>
+
+<h2 style='mso-list:l0 level1 lfo3'><![if !supportLists]><span
+style='font-size:7.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Interface - provides elegant connectivity between
+computer and radio<o:p></o:p></span></h2>
+
+<h3 style='mso-list:l0 level1 lfo5'><![if !supportLists]><span
+style='font-size:7.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>&oslash;<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]>Rigblaster
+- Cadillac - $60+ USD</h3>
+
+<h3 style='mso-list:l0 level1 lfo5'><![if !supportLists]><span
+style='font-size:7.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>&oslash;<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]>MFJ
+Sound Card to Rig Interface - Cadillac- $60+ USD </h3>
+
+<h3 style='mso-list:l0 level1 lfo5'><![if !supportLists]><span
+style='font-size:7.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>&oslash;<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]>Rascal
+by Buxcom (Buck Rogers) - $30 USD simple kit</h3>
+
+<h3 style='mso-list:l0 level1 lfo5'><![if !supportLists]><span
+style='font-size:7.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>&oslash;<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]>Homebrew
+- $10 in parts</h3>
+
+<h2 style='mso-list:l0 level1 lfo3'><![if !supportLists]><span
+style='font-size:7.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Commercial boxes<o:p></o:p></span></h2>
+
+<h3 style='mso-list:l0 level1 lfo5'><![if !supportLists]><span
+style='font-size:7.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>&oslash;<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]>PSK80,
+PSK-40, PSK-20, PSK-10 by Small Wonder Labs for PSK-31</h3>
+
+<h3 style='mso-list:l0 level1 lfo5'><![if !supportLists]><span
+style='font-size:7.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>&oslash;<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]>IC756Pro
+is RTTY Rx capable</h3>
+
+<h3 style='mso-list:l0 level1 lfo5'><![if !supportLists]><span
+style='font-size:7.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>&oslash;<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]>Pactor
+III modem - proprietary</h3>
+
+<h3 style='mso-list:l0 level1 lfo5'><![if !supportLists]><span
+style='font-size:7.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>&oslash;<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]>Some
+multimode TNCs<span style='font-size:9.0pt'><o:p></o:p></span></h3>
+
+<h2><span style='font-size:9.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></h2>
+
+<h1>PSK- 80 Warbler</h1>
+
+<h2 style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Transceiver on a card for PSK-31<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>For 80m 3.580.5MHz +/- 500Hz<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>&gt;3w PEP<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>PSK31 on LSB<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Only needs computer + 80m antenna<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Software is free (Digipan, HamRadio Deluxe, etc)<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Great for late night QSO's<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Cost for the transceiver as a kit is $49 USD<o:p></o:p></span></h2>
+
+<h1><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></h1>
+
+<h1>Software - General</h1>
+
+<h2 style='mso-list:l0 level1 lfo6'><![if !supportLists]><span
+style='font-size:12.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Many software packages available on the INTERNET
+mostly<span style="mso-spacerun: yes">&nbsp; </span>"freeware" or "shareware"<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo6'><![if !supportLists]><span
+style='font-size:12.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Single Mode programs i.e. RTTY<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo6'><![if !supportLists]><span
+style='font-size:12.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Multi Mode Programs<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo6'><![if !supportLists]><span
+style='font-size:12.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Soundblaster compatible</span><span style='font-size:
+16.0pt'><o:p></o:p></span></h2>
+
+<h2><span style='font-size:16.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></h2>
+
+<h1>Software - Single Mode</h1>
+
+<h2 style='mso-list:l0 level1 lfo2'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Single Mode<o:p></o:p></span></h2>
+
+<h3 style='mso-list:l0 level1 lfo7'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>&oslash;<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]>MMTTY
+(RTTY)</h3>
+
+<h3 style='mso-list:l0 level1 lfo7'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>&oslash;<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]>WinPSKse
+(PSK31)</h3>
+
+<h3 style='mso-list:l0 level1 lfo7'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>&oslash;<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]>W1SQLPSK
+(PSK31)</h3>
+
+<h3 style='mso-list:l0 level1 lfo7'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>&oslash;<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]>RckRTTY
+(RTTY)</h3>
+
+<h3 style='mso-list:l0 level1 lfo7'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>&oslash;<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]>FELDHELL
+(Hell)</h3>
+
+<h3 style='mso-list:l0 level1 lfo7'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>&oslash;<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]>IZ8BLY
+(MT63)</h3>
+
+<h3 style='mso-list:l0 level1 lfo7'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>&oslash;<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]>STREAM
+(MFSK16)</h3>
+
+<h3 style='mso-list:l0 level1 lfo7'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>&oslash;<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]>MMSSTV
+(SSTV)</h3>
+
+<h2><span style='font-size:10.0pt'><span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp; </span><o:p></o:p></span></h2>
+
+<h1>Software - Multi Mode</h1>
+
+<h2 style='mso-list:l0 level1 lfo2'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Multi-Mode<o:p></o:p></span></h2>
+
+<h3 style='mso-list:l0 level1 lfo7'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>&oslash;<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]>WinWarbler
+(PSK31, RTTY)</h3>
+
+<h3 style='mso-list:l0 level1 lfo7'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>&oslash;<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]>Digipan
+(PSK31, PACTOR I) </h3>
+
+<h3 style='mso-list:l0 level1 lfo7'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>&oslash;<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]>Hamscope
+(CW, PR, RTTY PSK31, MFSK16)</h3>
+
+<h3 style='mso-list:l0 level1 lfo7'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>&oslash;<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]>MultiPSK
+(BPSK31, QPSK31, PSK63, PSKFEC31, PSKAM, PSKAM10, CW, CCW, RTTY, SITOR-AMTOR-NAVTEX,
+FELD HELL, PSK HELL, HF FAX, FILTERS)</h3>
+
+<h3 style='mso-list:l0 level1 lfo7'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>&oslash;<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]>MixW
+(SSB, AM, FM, CW, BPSK31, QPSK31, FSK31, RTTY, Packet (HF/VHF), Pactor (RX
+only), AMTOR (FEC), MFSK, Hellschreiber, Throb, Fax (RX only), SSTV, MT63)</h3>
+
+<h3 style='mso-list:l0 level1 lfo7'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>&oslash;<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]>INTERCOM
+(CW, RTTY Feldhell, PSK (RX &amp; TX),TOR-FEC (RX)</h3>
+
+<h3 style='mso-list:l0 level1 lfo7'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>&oslash;<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]>Many
+others!!</h3>
+
+<h3><span style='font-size:10.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></h3>
+
+<h1>Getting Started - basic pieces</h1>
+
+<h2 style='mso-list:l0 level1 lfo4'><![if !supportLists]><span
+style='font-size:10.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Any modern solid state HF rig (low power ok for most
+digital modes)<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo4'><![if !supportLists]><span
+style='font-size:10.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>PC (Pentium + preferred but some modes will work ok on
+486) with Soundblaster compatible sound card<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo4'><![if !supportLists]><span
+style='font-size:10.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Interface <o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo4'><![if !supportLists]><span
+style='font-size:10.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Software (download from Internet)<o:p></o:p></span></h2>
+
+<h2><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></h2>
+
+<h1>Getting Started - frequencies</h1>
+
+<h2 style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman";
+mso-bidi-font-weight:bold'>v<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
+</span></span><![endif]><span style='font-size:12.0pt'>Where to find digital
+modes??<b><span style="mso-spacerun: yes">&nbsp; </span><o:p></o:p></b></span></h2>
+
+<h3 style='mso-list:l0 level1 lfo7'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>&oslash;<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]><b>6
+Meter Band: 50.290 - 50.292 Mhz</b></h3>
+
+<h3 style='mso-list:l0 level1 lfo7'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman";
+mso-bidi-font-weight:bold'>&oslash;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
+</span></span><![endif]><b>10 Meter Band: 28.110 - 28.125 Mhz<o:p></o:p></b></h3>
+
+<h3 style='mso-list:l0 level1 lfo7'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman";
+mso-bidi-font-weight:bold'>&oslash;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
+</span></span><![endif]><b>12 Meter Band: 24.920 - 24.930 Mhz<o:p></o:p></b></h3>
+
+<h3 style='mso-list:l0 level1 lfo7'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman";
+mso-bidi-font-weight:bold'>&oslash;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
+</span></span><![endif]><b>15 Meter Band: 21.060 - 21.090 Mhz<o:p></o:p></b></h3>
+
+<h3 style='mso-list:l0 level1 lfo7'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman";
+mso-bidi-font-weight:bold'>&oslash;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
+</span></span><![endif]><b>17 Meter Band: 18.100 - 18.110 Mhz<o:p></o:p></b></h3>
+
+<h3 style='mso-list:l0 level1 lfo7'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman";
+mso-bidi-font-weight:bold'>&oslash;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
+</span></span><![endif]><b>20 Meter Band: 14.065 - 14.090 Mhz<o:p></o:p></b></h3>
+
+<h3 style='mso-list:l0 level1 lfo7'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman";
+mso-bidi-font-weight:bold'>&oslash;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
+</span></span><![endif]><b>30 Meter Band: 10.130 - 10.145 Mhz<o:p></o:p></b></h3>
+
+<h3 style='mso-list:l0 level1 lfo7'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman";
+mso-bidi-font-weight:bold'>&oslash;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
+</span></span><![endif]><b>40 Meter Band: 7.060 - 7.080 Mhz<o:p></o:p></b></h3>
+
+<h3 style='mso-list:l0 level1 lfo7'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman";
+mso-bidi-font-weight:bold'>&oslash;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
+</span></span><![endif]><b>80 Meter Band: 3.620 - 3.640 &amp; 3.575 - 3.585 Mhz<o:p></o:p></b></h3>
+
+<h3><b><span style='font-size:10.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></h3>
+
+<h3><b><span style='font-size:10.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></h3>
+
+<h1>Getting Started - PSK frequencies</h1>
+
+<h2 style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>PSK 31 Frequencies<o:p></o:p></span></h2>
+
+<h3 style='mso-list:l0 level1 lfo7'><![if !supportLists]><span
+style='font-size:7.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>&oslash;<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><![endif]>1838
+<br>
+3580<br>
+7035 for region 1 and region 3, and 7080 for region 2 * <br>
+10142 <br>
+<b>14070<br>
+</b>18100 <br>
+21070 </h3>
+
+<h3><span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp; </span>24920 <br>
+28120</h3>
+
+<h2><span style='font-size:12.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></h2>
+
+<h2><span style='font-size:12.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></h2>
+
+<h1>What's In the Future</h1>
+
+<h2 style='mso-list:l0 level1 lfo4'><![if !supportLists]><span
+style='font-size:10.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Present options are excellent!<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo4'><![if !supportLists]><span
+style='font-size:10.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Can it get much better?<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo4'><![if !supportLists]><span
+style='font-size:10.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Software Defined Modes on Software Defined Radios?<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo4'><![if !supportLists]><span
+style='font-size:10.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Speed?<o:p></o:p></span></h2>
+
+<h2 style='mso-list:l0 level1 lfo4'><![if !supportLists]><span
+style='font-size:10.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Continuous path testing. Automatic compensation for
+fading and interference?<o:p></o:p></span></h2>
+
+<h1><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></h1>
+
+<h1>Internet Resources</h1>
+
+<h2 style='mso-list:l0 level1 lfo8'><![if !supportLists]><span
+style='font-size:6.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'><a href="http://home.teleport.com/~nb6z/frame.htm">http://home.teleport.com/~nb6z/frame.htm</a><o:p></o:p></span></h2>
+
+<h3 style='mso-list:l0 level1 lfo9'><![if !supportLists]><span
+style='font-size:6.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>&oslash;<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]>Great
+source of technical information</h3>
+
+<h2 style='mso-list:l0 level1 lfo8'><![if !supportLists]><span
+style='font-size:6.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'><a href="http://www.aintel.bi.ehu.es/psk31.html">http://www.aintel.bi.ehu.es/psk31.html</a><o:p></o:p></span></h2>
+
+<h3 style='mso-list:l0 level1 lfo9'><![if !supportLists]><span
+style='font-size:6.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>&oslash;<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]>The
+"Official PSK31 Homepage"</h3>
+
+<h2 style='mso-list:l0 level1 lfo8'><![if !supportLists]><span
+style='font-size:6.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'><a href="http://www.qsl.net/wm2u/psk31.html">http://www.qsl.net/wm2u/psk31.html</a><o:p></o:p></span></h2>
+
+<h3 style='mso-list:l0 level1 lfo9'><![if !supportLists]><span
+style='font-size:6.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>&oslash;<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]>Interface
+designs, links etc.</h3>
+
+<h2 style='mso-list:l0 level1 lfo8'><![if !supportLists]><span
+style='font-size:6.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'><a href="http://psk31.com/">http://psk31.com/</a><o:p></o:p></span></h2>
+
+<h3 style='mso-list:l0 level1 lfo9'><![if !supportLists]><span
+style='font-size:6.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>&oslash;<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]>Lots
+of information</h3>
+
+<h2 style='mso-list:l0 level1 lfo8'><![if !supportLists]><span
+style='font-size:6.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'><a href="http://mmhamsoft.ham-radio.ch/">http://mmhamsoft.ham-radio.ch/</a><o:p></o:p></span></h2>
+
+<h3 style='mso-list:l0 level1 lfo9'><![if !supportLists]><span
+style='font-size:6.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>&oslash;<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]>Slow
+scan TV</h3>
+
+<h2 style='mso-list:l0 level1 lfo8'><![if !supportLists]><span
+style='font-size:6.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'><a
+href="http://www.arrl.org/tis/info/HTML/psk31/index.html">http://www.arrl.org/tis/info/HTML/psk31/index.html</a><o:p></o:p></span></h2>
+
+<h3 style='mso-list:l0 level1 lfo10'><![if !supportLists]><span
+style='font-size:5.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>&oslash;<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]>PSK31
+information</h3>
+
+<h2 style='mso-list:l0 level1 lfo8'><![if !supportLists]><span
+style='font-size:6.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'><a href="http://winlink.org/">http://winlink.org/</a><o:p></o:p></span></h2>
+
+<h3 style='mso-list:l0 level1 lfo10'><![if !supportLists]><span
+style='font-size:5.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>&oslash;<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]>WinLINK
+information</h3>
+
+<h2 style='mso-list:l0 level1 lfo8'><![if !supportLists]><span
+style='font-size:6.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Do a Google search PSK31!!<o:p></o:p></span></h2>
+
+<h3><span style='font-size:8.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></h3>
+
+<h1><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></h1>
+
+<h1>HW Suppliers - there are many</h1>
+
+<h2 style='mso-list:l0 level1 lfo4'><![if !supportLists]><span
+style='font-size:10.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Interfaces<o:p></o:p></span></h2>
+
+<h3 style='mso-list:l0 level1 lfo11'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>&oslash;<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span><![endif]><a
+href="http://www.radioworld.ca/">http://www.radioworld.ca/</a></h3>
+
+<h3 style='mso-list:l0 level1 lfo11'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>&oslash;<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span><![endif]><a
+href="http://www.packetradio.com/psk31.html">http://www.packetradio.com/psk31.html</a></h3>
+
+<h3 style='mso-list:l0 level1 lfo11'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>&oslash;<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span><![endif]><a
+href="http://www.mfjenterprises.com/">http://www.mfjenterprises.com/</a></h3>
+
+<h3 style='mso-list:l0 level1 lfo11'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>&oslash;<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span><![endif]><a
+href="http://www.westmountainradio.com/RIGblaster.htm">http://www.westmountainradio.com/RIGblaster.htm</a></h3>
+
+<h2 style='mso-list:l0 level1 lfo4'><![if !supportLists]><span
+style='font-size:10.5pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>v<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:12.0pt'>Radio on a card<o:p></o:p></span></h2>
+
+<h3 style='mso-list:l0 level1 lfo11'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-bidi-font-family:"Times New Roman"'>&oslash;<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span><![endif]><a
+href="http://www.smallwonderlabs.com/">http://www.smallwonderlabs.com</a></h3>
+
+<h3><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></h3>
+
+<h1>Acknowledgments</h1>
+<li>Thanks to NB6Z for providing some materials for this
+presentation: <a href="http://home.teleport.com/~nb6z/frame.htm">http://home.teleport.com/~nb6z/frame.htm</a><o:p></o:p></span></h2>
+<br><br>
+</div>
+<h1> Email Us</h1>
+<li> Ken  <script LANGUAGE="JavaScript"><!-- BEGIN Script
+function encrypt_mail(){ var cry0,cry1,cry2,cry3,cry4,cry5,cry6,cry7,cry8,cry9; cry1='<a href=\"mai'; cry2='va3ka'; cry3='\">'; cry1+='lto:'; cry2+='@'; cry5='</a>'; cry6='va3ka@rac.ca'; cry2+='rac.ca'; if (cry6) cry4=cry6; else cry4=cry2 ; document.write(cry1+cry2+cry3+cry4+cry5);}encrypt_mail();
+//END --></script><br><br>
+<li> Rick <script LANGUAGE="JavaScript"><!-- BEGIN Script
+function encrypt_mail(){ var cry0,cry1,cry2,cry3,cry4,cry5,cry6,cry7,cry8,cry9; cry1='<a href=\"mai'; cry2='ve3cvg'; cry3='\">'; cry1+='lto:'; cry2+='@'; cry5='</a>'; cry6='ve3cvg@rac.ca'; cry2+='rac.ca'; if (cry6) cry4=cry6; else cry4=cry2 ; document.write(cry1+cry2+cry3+cry4+cry5);}encrypt_mail();
+//END --></script>
+<P> </P>
+<hr>
+
+<Br>Click here <A href="../index.html"><IMG align=absMiddle border=0 src="../images/back1.gif"> <B>Back to WCARC Home Page</B></A>
+
+<hr>
+<center>
+<P><I>This page was updated on October 17th, 2004 and is Copyright &#169 2004 by Richard Bandla and Kenneth Asmus </I></P></center>
+</body>
+
+</html>
