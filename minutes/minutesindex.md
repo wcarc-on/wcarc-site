@@ -1,0 +1,163 @@
+---
+layout: page
+title: Meeting Minutes
+date: 2017-01-15
+---
+* 2016:
+[Jan](minutes201601.html),
+[Feb](minutes201602.html),
+[Mar](minutes201603.html),
+[Apr](minutes201604.html),
+[May](minutes201605.html),
+[Jun](minutes201606.html),
+[Jul](minutes201607.html),
+[Aug](minutes201608.html),
+[Sep](minutes201609.html),
+[Oct](minutes201610.html),
+[Nov](minutes201611.html)
+* 2015:
+[Jan](minutes201501.html),
+[Feb](minutes201502.html),
+[Mar](minutes201503.html),
+[Apr](minutes201504.html),
+[May](minutes201505.html),
+[Jun](minutes201506.html),
+[Jul](minutes201507.html),
+[Aug](minutes201508.html),
+[Sep](minutes201509.html),
+[Oct](minutes201510.html),
+[Nov](minutes201511.html),
+[Dec](minutes201512.html)
+* 2014:
+[Jan](minutes201401.html),
+[Feb](minutes201402.html),
+[Mar](minutes201403.html),
+[Apr](minutes201404.html),
+[May](minutes201405.html),
+[Jun](minutes201406.html),
+[Jul](minutes201407.html),
+[Aug](minutes201408.html),
+[Sep](minutes201409.html),
+[Oct](minutes201410.html),
+[Nov](minutes201411.html),
+[Dec](minutes201412.html)
+* 2013:
+[Jan](minutes201301.html),
+[Feb](minutes201302.html),
+[Mar](minutes201303.html),
+[Apr](minutes201304.html),
+[May](minutes201305.html),
+[Jun](minutes201306.html),
+[Jul](minutes201307.html),
+[Aug](minutes201308.html),
+[Sep](minutes201309.html),
+[Oct](minutes201310.html),
+[Nov](minutes201311.html),
+[Dec](minutes201312.html)
+* 2012:
+[Jan](minutes201201.html),
+[Feb](minutes201202.html),
+[Mar](minutes201203.html),
+[Apr](minutes201204.html),
+[May](minutes201205.html),
+[Jun](minutes201206.html),
+[Jul](minutes201207.html),
+[Aug](minutes201208.html),
+[Sep](minutes201209.html),
+[Oct](minutes201210.html),
+[Nov](minutes201211.html),
+[Dec](minutes201212.html)
+* 2011:
+[Jan](minutes201101.html),
+[Feb](minutes201102.html),
+[Mar](minutes201103.html),
+[Apr](minutes201104.html),
+[May](minutes201105.html),
+[Jun](minutes201106.html),
+[Jul](minutes201107.html),
+[Aug](minutes201108.html),
+[Sep](minutes201109.html),
+[Oct](minutes201110.html),
+[Nov](minutes201111.html),
+[Dec](minutes201112.html)
+* 2010:
+[Jan](minutes201001.html),
+[Feb](minutes201002.html),
+[Mar](minutes201003.html),
+[Apr](minutes201004.html),
+[May](minutes201005.html),
+[Jun](minutes201006.html),
+[Jul](minutes201007.html),
+[Aug](minutes201008.html),
+[Sep](minutes201009.html),
+[Oct](minutes201010.html),
+[Nov](minutes201011.html),
+[Dec](minutes201012.html)
+* 2009:
+[Jan](minutes200901.html),
+[Feb](minutes200902.html),
+[Mar](minutes200903.html),
+[Apr](minutes200904.html),
+[May](minutes200905.html),
+[Jun](minutes200906.html),
+[Jul](minutes200907.html),
+[Aug](minutes200908.html),
+[Sep](minutes200909.html),
+[Oct](minutes200910.html),
+[Nov](minutes200911.html),
+[Dec](minutes200912.html)
+* 2008:
+[Jan](minutes200801.html),
+[Feb](minutes200802.html),
+[Mar](minutes200803.html),
+[Apr](minutes200804.html),
+[May](minutes200805.html),
+[Jun](minutes200806.html),
+[Jul](minutes200807.html),
+[Aug](minutes200808.html),
+[Sep](minutes200809.html),
+[Oct](minutes200810.html),
+[Nov](minutes200811.html),
+[Dec](minutes200812.html)
+* 2007:
+[Jan](minutes200701.html),
+[Feb](minutes200702.html),
+[Mar](minutes200703.html),
+[Apr](minutes200704.html),
+[May](minutes200705.html),
+[Jun](minutes200706.html),
+[Jul](minutes200707.html),
+[Aug](minutes200708.html),
+[Sep](minutes200709.html),
+[Oct](minutes200710.html),
+[Nov](minutes200711.html),
+[Dec](minutes200712.html)
+* 2006:
+[Jan](minutes200601.html),
+[Feb](minutes200602.html),
+[Mar](minutes200603.html),
+[Apr](minutes200604.html),
+[May](minutes200605.html),
+[Jun](minutes200606.html),
+[Jul](minutes200607.html),
+[Aug](minutes200608.html),
+[Sep](minutes200609.html),
+[Oct](minutes200610.html),
+[Nov](minutes200611.html),
+[Dec](minutes200612.html)
+* 2005:
+[Jan](minutes200501.html),
+[Feb](minutes200502.html),
+[Mar](minutes200503.html),
+[Apr](minutes200504.html),
+[May](minutes200505.html),
+[Jun](minutes200506.html),
+[Jul](minutes200507.html),
+[Aug](minutes200508.html),
+[Sep](minutes200509.html),
+[Oct](minutes200510.html),
+[Nov](minutes200511.html),
+[Dec](minutes200512.html)
+* 2004:
+[Nov](minutes200411.html),
+[Dec](minutes200412.html)
