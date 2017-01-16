@@ -14,7 +14,8 @@ date: 2017-01-15
 [Aug](minutes201608.html),
 [Sep](minutes201609.html),
 [Oct](minutes201610.html),
-[Nov](minutes201611.html)
+[Nov](minutes201611.html),
+[Dec](minutes201612.html)
 * 2015:
 [Jan](minutes201501.html),
 [Feb](minutes201502.html),
