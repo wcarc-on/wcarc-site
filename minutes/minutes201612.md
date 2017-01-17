@@ -21,7 +21,7 @@ The following people were present:
 | Jeremy Jones     | VA3ZTF    | Member         | FN25ag  | YES |  YES  |
 | Glenn MacDonell  | VE3XRA    | Member         | FN25dj  | YES |  YES  |
 | Chris Bisaillion | VE3CBK    | Member         | FN25ai  | YES |  YES  |
-| Richand Ferch    | VE3KI     | Member         | FN25ce  | YES |  YES  |
+| Richard Ferch    | VE3KI     | Member         | FN25ce  | YES |  YES  |
 | Margaret Tidman  | VA3VXN    | Member         | FN25ai  | YES |  YES  |
 | Tyler Tidman     | VA3DGN    | Member         | FN25ai  | YES |  YES  |
 | Clare Fowler     | VE3NPC    | Member         | FN25dj  | YES |  YES  |
@@ -34,19 +34,19 @@ The meeting was opened by the President, Clayton Smith (VE3IRR), at 19:00 hours.
 ### Secretary's Report
 
 The President, (VE3IRR), introduced the minutes of the November meeting.
- Moved by the president (VE3IRR) that the minutes be approved; Seconded by Robert (VE3BE). 
+Moved by the president (VE3IRR) that the minutes be approved; Seconded by Robert (VE3BE).
 The motion was carried.
 
 ### Treasurer's Report
 
-$530 in the bank .
+$530 in the bank.
 4 new members.
- Andy has notified the club that he will be resigning as the Treasurer.
+Andy has notified the club that he would like to pass Treasurer duties on to another member after the end of his term.
 
 ### Vice President's Report
 
 Speakers are set up until July 2017.
- Glenn had a question about the cancellation of the February meeting and it will be looked at to see if the store is closed or not.
+Glenn had a question about the cancellation of the February meeting and it will be looked at to see if the store is closed or not.
 
 ### Director's Report
 
@@ -64,7 +64,7 @@ Nil.
 
 #### Beacons
 
-Doug (VE3XK) mentioned that the IDer had been modified and a long carrier had been added. 
+Doug (VE3XK) mentioned that the IDer had been modified and a long carrier had been added.
 Graham (VE3BYT) enquired about a WSPR beacon. Doug mentioned that the 2m beacon was being built.
 
 #### D-STAR
@@ -74,7 +74,7 @@ Nil.
 #### Broadband Hamnet
 
 People are still trying to connect to the mesh.
-Rick Bandla has been doing mobile tests in the east end. 
+Rick Bandla has been doing mobile tests in the east end.
 There are 40 nodes on the mesh.
 
 ### New Business
@@ -85,22 +85,22 @@ Wayne (VE3CZO) gave information on some of the projects.
 
 ### Announcements
 
-* Bert showed some of the low cost testing equipment he found from Banggood.com 
-* Paul presented his QRP Labs transmitter. 
-* Jeremy talked about a WSPR kit for the PI ,
+* Bert showed some of the low cost testing equipment he found from Banggood.com
+* Paul presented his QRP Labs transmitter.
+* Jeremy talked about a WSPR kit for the PI.
 * Randy mentioned that the NEWS VHF conference was being held in April.
-* Rich talked about his remote control setup for his station.
+* Rich talked about his remote control setup for his station.
 
-### Election of Officers 
+### Election of Officers
 
-Vice President and Treasurer were thanked for their services over the past 2 years. 
+Vice President and Treasurer were thanked for their services over the past 2 years.
 
 * Vice President – No nominations were received so it will be revisited next meeting.
-*  Treasurer – Rob (VE3BE) volunteered for the position and was acclaimed.
+* Treasurer – Rob (VE3BE) volunteered for the position and was acclaimed.
 
 ### Annual Report
 
- Clayton (VE3IRR) gave a review on the club highlights and accomplishments of the past year.
+Clayton (VE3IRR) gave a review on the club highlights and accomplishments of the past year.
 
 ### Adjournment
 
