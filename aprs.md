@@ -32,4 +32,3 @@ Check our [Presentations](presentations.html) web page for a link to a Powerpoin
 
 * [VA3KA Wx via APRS](http://www.findu.com/cgi-bin/wxpage.cgi?call=VA3KA)
 * [VE3CVG Wx via APRS](http://www.findu.com/cgi-bin/wxpage.cgi?call=VE3CVG)
-* [VE3XZT/VA3UW Wx via APRS](http://www.findu.com/cgi-bin/wxpage.cgi?call=VA3UW)
