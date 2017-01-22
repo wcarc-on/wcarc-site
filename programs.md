@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Activities
-date: 2017-01-21
+date: 2017-01-22
 ---
 
 ## WCARC June VHF Contest Participation from FN15 (2014-present)
@@ -10,7 +10,7 @@ With the departure of Al VO1NO, back to his home province, we not only lost Al's
 Contest but we also lost his equipment resources and vehicles. The club decided to try a different approach for 2014, in order to increase participation and encourage
 new operators. Doug Leach (VE3XK) dedicated a huge amount of personal time and championed the efforts to find towers, antennas, feedlines and a location. Others pitched in to organize radio operators, helpers,
 food etc. Loans of some superb equipment greatly helped the cause.
-Details can be found [by clicking here](june_vhf_contest_2014.html).
+Details can be found on our [June VHF Contest](june_vhf_contest.html) page.
 
 ## WCARC June VHF Contest Expeditions to FN04 (2008-2013)
 
