@@ -59,7 +59,7 @@ date: 2017-01-19
 * [Earthquake Info](http://earthquake.usgs.gov/)
 * [GBP - Many interesting projects](http://www.qsl.net/n9zia/)
 * [Lots of interesting information](http://www.k0bg.com/)
-* [About coax feed line losses](coax01.html)
+* [About coax feed line losses](http://www.w4rp.com/ref/coax.html)
 
 ## Useful Downloads
 * [WSJT Site](http://physics.princeton.edu/pulsar/K1JT/)
