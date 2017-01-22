@@ -60,18 +60,18 @@ Following is a list of the WCARC beacons:
 
 ### 2m, 1,25m, 70cm and 33cm Beacons
 
-![picture of beacon enclosure](./images/beaconants01.jpg)
-![picture of beacon enclosure](./images/beaconsontower01.jpg)
-![picture of beacon enclosure](./images/beaconenclosure01.jpg)
+![picture of beacon enclosure](images/beaconants01.jpg)
+![picture of beacon enclosure](images/beaconsontower01.jpg)
+![picture of beacon enclosure](images/beaconenclosure01.jpg)
 
 ### 903MHz and 1296MHz Beacons
 
-![picture of beacon 900mhz_ant_bottomview](./images/900mhz_ant_bottom_01.jpg)
-![picture of beacon 900mhz_ant_topview](./images/900mhz_ant_top_01.jpg)
-![picture of beacon 900mhz and 1296mhz beacon_module_bottom](./images/beacon_module_bottom_01.jpg)
-![picture of beacon 900mhz and 1296mhz beacon_module_top](./images/beacon_module_top_01.jpg)
-![picture of beacon 900mhz and 1296mhz pvc_beacon_encapsulation](./images/pvc_beacon_encapsulation_01.jpg)
-![picture of beacon 900mhz and 1296mhz pvc_beacon_crossarm](./images/pvc_beacons_crossarm1.jpg)
+![picture of beacon 900mhz_ant_bottomview](images/900mhz_ant_bottom_01.jpg)
+![picture of beacon 900mhz_ant_topview](images/900mhz_ant_top_01.jpg)
+![picture of beacon 900mhz and 1296mhz beacon_module_bottom](images/beacon_module_bottom_01.jpg)
+![picture of beacon 900mhz and 1296mhz beacon_module_top](images/beacon_module_top_01.jpg)
+![picture of beacon 900mhz and 1296mhz pvc_beacon_encapsulation](images/pvc_beacon_encapsulation_01.jpg)
+![picture of beacon 900mhz and 1296mhz pvc_beacon_crossarm](images/pvc_beacons_crossarm1.jpg)
 
 ## Other Beacons
 
