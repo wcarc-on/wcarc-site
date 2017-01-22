@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-date: 2017-01-21
+date: 2017-01-22
 ---
 
 Note that most of these projects are individual efforts by
@@ -16,10 +16,6 @@ Doug headed to Constance Bay, Tom and Ken headed for Shirley's Bay, Bryan and Wa
 Unfortuantely, it turns out that Bryan has a model MA5 tellurometer which does not appear to be compatible with the MA3's. But Wayne and Bryan were still able to identify some good locations to try in the future.
 
 Tom VA3NFA has done a good job of recording the contacts in a [blog post](http://va3nfa.blogspot.com/2006/08/10ghz-wbfm-experiments.html).
-
-## 900MHz FM Repeater Project
-
-See the [900MHz Repeater System](900mhzrptr.html) page.
 
 ## 1.2GHz DSTAR Digital Project
 
