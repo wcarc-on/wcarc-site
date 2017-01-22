@@ -83,7 +83,8 @@ For more info about roving see these links.
 
 * [Tom and Dale's Roving Experience to FN14/FN24/FN15/FN25 in 2005](presentations/00_va3nfarover.html)
 * [Rick and Jim's Excursion to FN16/FN26 (Aug. 2004)](presentations/00_ve3cvgrover.html)
-* [Tom's pictures from the September 2006 VHF contest](http://va3nfa.blogspot.ca/2006_09_01_archive.html)
+* [Tom's pictures from the September 2006 VHF contest](http://va3nfa.blogspot.ca/2006/09/pics-from-sept-vhf-contest.html)
+* [Tom's blog post on scouting for rover locations in FN24](http://va3nfa.blogspot.ca/2006/09/scouting-for-rover-locations-in-fn24.html)
 
 ## Family Activities - Diefenbunker Tour
 
