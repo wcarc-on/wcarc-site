@@ -29,7 +29,9 @@ your contact information or request to be added to our mailing list.
 We are proud to introduce our Life Members. These individuals have made extraordinary contributions to West Carleton Amateur Radio Club.
 
 ![VA3KS - Kieran Life Member 20091201](images/lmva3ks.jpg)
+
 ![VA3WK - Manfred Life Member 20091201](images/lmva3wk.jpg)
+
 ![VE3CIQ - Phil Life Member 20091201](images/lmve3ciq.jpg)
 
 ## Members
