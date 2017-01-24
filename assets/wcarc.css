@@ -1,3 +1,10 @@
+.home h1 { font-size: 280%; }
+.home h2 { font-size: 200%; }
+
+.home .note { color: purple; }
+.home .small { font-size: 80%; }
+.home .next-meeting { background-color: yellow; }
+
 ul.navmenu {
   list-style-type: none;
   margin-left: 0;
