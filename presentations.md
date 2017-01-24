@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Presentations
-date: 2017-01-21
+date: 2017-01-24
 ---
 
 ## Upcoming Speakers and Topics
@@ -21,7 +21,7 @@ For a list of meeting dates, speakers and topics, please see our [events page](e
 * [WCARC Beacons Project by Doug VE3XK (January 2008)](presentations/WCARC Beacons v8b.ppt)
 * [Proposed WCARC Constitution and By-laws as of March 4, 2008 by Doug VE3XK and Dean VA3CDD](presentations/proposed_constitution_asof_20080304_minimizer.ppt)
 * [Merchant Navy Sparks by Ernie Brown VA3OEB (April 2008)](presentations/merchant_navy_sparks_v6b_by_va3oeb_minimizer.ppt)
-* [Sources of Information for Merchant Navy Sparks by Ernie Brown VA3OEB (April 2008)](presentations/battle_of_atlantic_sources_by_va3oeb.htm)
+* [Sources of Information for Merchant Navy Sparks by Ernie Brown VA3OEB (April 2008)](presentations/battle_of_atlantic_sources_by_va3oeb.html)
   Added Note: Ernie Brown (VA3OEB) marches in Ottawa every year on Battle of the Atlantic Memorial Sunday in mid-May, in memory of those he knew who were lost, including his rescuers on HMCS St Croix.
 * [WCARC Beacons Project Update by Doug VE3XK (May 6, 2008)](presentations/beacon_update_asof_20080506_minimizer.ppt)
 * [WCARC Beacons Project Update by Doug VE3XK (June 3, 2008)](presentations/beacon_update_asof_20080604_minimizer.ppt)
