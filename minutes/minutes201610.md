@@ -1,9 +1,8 @@
 ---
 layout: minutes
+title: Minutes of the Regular Meeting on October 17, 2016
 date: 2016-11-21
 ---
-
-## Minutes of the Regular Meeting on October 17, 2016
 
 The meeting was held at the Sobey's in Kanata (March Rd. location).
 The following people were present:

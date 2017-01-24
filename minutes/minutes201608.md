@@ -1,9 +1,8 @@
 ---
 layout: minutes
+title: Minutes of the Regular Meeting on August 2, 2016
 date: 2016-12-25
 ---
-
-## Minutes of the Regular Meeting on August 2, 2016
 
 The meeting was held at the Sobey's in Stittsville.
 The following people were present:
