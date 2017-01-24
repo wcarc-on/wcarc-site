@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contacts
-date: 2017-01-19
+date: 2017-01-24
 ---
 ## Executive
 * President: [Clayton (VE3IRR)](mailto:argilo@gmail.com)
@@ -21,7 +21,9 @@ Kanata, ON
 K2L 1A5
 
 ## Club Call Signs
-The Club call signs are issued by Industry Canada and include VE3WCC and VE3DVQ. The official contact for matters related to the Club call signs is the WCARC President.
+The Club call signs are issued by Industry Canada and include
+[VE3WCC](https://www.qrz.com/db/ve3wcc) and [VE3DVQ](https://www.qrz.com/db/ve3dvq).
+The official contact for matters related to the Club call signs is the WCARC President.
 
 ## Mailing List
 Our club uses a Yahoo groups mailing list for annoucements and general discussion:
