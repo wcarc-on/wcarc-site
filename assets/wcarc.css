@@ -1,0 +1,26 @@
+ul.navmenu {
+  list-style-type: none;
+  margin-left: 0;
+  line-height: 210%;
+}
+
+ul.navmenu li {
+  display: inline;
+  border: 1px outset;
+  padding: 0.2em;
+  background-color: #eeeeee;
+}
+
+.minutes-content table, .minutes-content th, .minutes-content td {
+  border: 1px solid #ccaa70;
+  border-spacing: 0;
+}
+
+.minutes-content th, .minutes-content td {
+  padding-left: 0.3em;
+  padding-right: 0.3em;
+}
+
+.minutes-content th {
+  background-color: #cccccc;
+}
