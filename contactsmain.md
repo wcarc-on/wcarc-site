@@ -4,14 +4,14 @@ title: Contacts
 date: 2017-01-24
 ---
 ## Executive
-* President: [Clayton (VE3IRR)](mailto:argilo@gmail.com)
-* Vice President: [Doug (VE3XK)](mailto:ve3xk@bell.net)
-* Treasurer: Robert (VE3BE)
-* Secretary: [Randy (VE3AX)](mailto:randynordlund@hotmail.com)
-* Director: [Bert (VE2ZAZ)](mailto:ve2zaz@rac.ca)
+* President: [Clayton Smith (VE3IRR)](mailto:argilo@gmail.com)
+* Vice President: [Doug Leach (VE3XK)](mailto:ve3xk@bell.net)
+* Treasurer: [Robert Boyd (VE3BE)](mailto:rwboyd@yahoo.com)
+* Secretary: [Randy Nordlund (VE3AX)](mailto:randynordlund@hotmail.com)
+* Director: [Bert Zauhar (VE2ZAZ)](mailto:ve2zaz@rac.ca)
 
 ## Web Pages
-* Webmaster: [Clayton (VE3IRR)](mailto:argilo@gmail.com)
+* Webmaster: [Clayton Smith (VE3IRR)](mailto:argilo@gmail.com)
 
 ## Mailing Address
 West Carleton Amateur Radio Club  
