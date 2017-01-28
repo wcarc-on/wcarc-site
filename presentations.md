@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Presentations
-date: 2017-01-27
+date: 2017-01-28
 ---
 
 ## Upcoming Speakers and Topics
@@ -11,7 +11,7 @@ For a list of meeting dates, speakers and topics, please see our [events page](e
 ## Past Presentations
 
 * [Roving by Tom VA3NFA (November 2005)](va3nfa_rover_ppt/OVMRC-ROVER.htm)
-* [Propagation VHF and Above by Rick VE3CVG (August 2003)](ve3cvg_propagation/proppresentation.htm)
+* [Propagation VHF and Above by Rick VE3CVG (August 2003)](presentations/ve3cvg_propagation.html)
 * [Digital Modes by Ken VA3KA and Rick VE3CVG (October 2004)](presentations/va3ka_ve3cvg_digital_on_hf.html)
 * [Dr. R. V. Jones and the Battle of the Beams by Al VO1NO (2006)](presentations/battle of beams.ppt)
 * [Getting started in Mapping and APRS by Doug VE3XK (February 2006)](ve3xk_aprs_ppt/APRS1.htm)
