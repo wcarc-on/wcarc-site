@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Activities
-date: 2017-01-22
+date: 2017-01-28
 ---
 
 ## WCARC June VHF Contest Participation from FN15 (2014-present)
@@ -76,7 +76,7 @@ Several members of WCARC participate in ARRL VHF contests each year. A rover is 
 
 After a successful September 2005 contest (fall roving), and a successful January 2006 contest (winter roving), Tom VA3NFA, has announced that he will be roving in the June 2006 ARRL VHF contest, so we encourage the club members to help Tom get ready. He will be operating in at least FN14, FN24, FN15, FN25.
 
-* [Tom's Powerpoint Presentation on Roving (Nov. 2005)](va3nfa_rover_ppt/OVMRC-ROVER.htm)
+* [Tom's Powerpoint Presentation on Roving (Nov. 2005)](presentations/va3nfa_rover.pdf)
 * [Tom's Semi-Psycho Rover (2005)](presentations/00_va3nfasemipsycho.html)
 
 For more info about roving see these links.
