@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Meeting Minutes
-date: 2017-01-15
+date: 2017-01-28
 ---
 * 2016:
 [Jan](minutes201601.html),
@@ -152,7 +152,7 @@ date: 2017-01-15
 [Mar](minutes200503.html),
 [Apr](minutes200504.html),
 [May](minutes200505.html),
-[Jun](minutes200506.html),
+Jun,
 [Jul](minutes200507.html),
 [Aug](minutes200508.html),
 [Sep](minutes200509.html),
