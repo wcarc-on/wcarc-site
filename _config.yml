@@ -27,7 +27,6 @@ url: "http://wcarc.on.ca" # the base hostname & protocol for your site, e.g. htt
 markdown: kramdown
 theme: minima
 gems:
-  - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
