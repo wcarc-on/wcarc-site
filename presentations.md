@@ -72,5 +72,5 @@ For a list of meeting dates, speakers and topics, please see our [events page](e
 * [WSPR With the FlexRadio 1500 by Paul Boltwood VE3PLE (March 3, 2015)](presentations/20150303_wspr_by_ve3ple.ppt)
 * [Using Rechargeable Batteries for Ham Radio Applications by Dick Bonnycastle VE3FUA (May 5, 2015)](presentations/20150505_battery_talk_by_ve3fua.ppt)
 * [WCARC Beacon Relocation by Doug Leach VE3XK (August 4, 2015)](presentations/20150804_wcarc_beacon_move_by_ve3xk.ppt)
-* [Candidate Projects for WCARC by Wayne Getchell VE3CZO (September 1, 2015)](presentations/20150901_wcarc_projects_by_ve3czo.ppt)
+* [Candidate Projects for WCARC by Wayne Getchell VE3CZO (September 1, 2015)](presentations/ve3czo_wcarc_project_candidates_2017.pdf)
 * [The Development of an Electronically Disciplined Mechanical Pendulum by Bert Zauhar VE2ZAZ (February 2, 2016)](http://ve2zaz.net/Pendulum_Ctl/Pendulum_Ctl.htm)
