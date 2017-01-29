@@ -19,7 +19,7 @@ author: West Carleton Amateur Radio Club
 description: > # this means to ignore newlines until "baseurl:"
   Official website of the West Carleton Amateur Radio Club
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://wcarc.on.ca" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://wcarc.on.ca" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
