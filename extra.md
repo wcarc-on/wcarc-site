@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 2013 ARRL June VHF Contest & Grid Expedition
-date: 2017-01-23
+date: 2017-01-29
 ---
 
 * second full weekend in June. June 8-9, 2013
@@ -58,7 +58,7 @@ Rovers who will be within range are asked to forward their rover schedules.  Ple
 
 * [Contesting Tips and Suggestions by Rick Bandla VE3CVG](contesting101.html)
 * [Pictures from June 2008 Grid Expedition to FN04xa](gridexfn04200806/gridex_to_fn04.html)
-* [Presentation by Al Penney VO1NO - 2010 June Grid Expedition to FN04xa (June 2010 Mtg)](presentations/wcc_grid_expedition_fn04_by_vo1no_201006_minimizer.ppt)
+* [Presentation by Al Penney VO1NO - 2010 June Grid Expedition to FN04xa (June 2010 Mtg)](presentations/wcc_grid_expedition_fn04_by_vo1no_201006_minimizer.pdf)
 * [Pictures from 2009 and 2010 by Glenn MacDonell VE3XRA - Grid Expedition to FN04xa](http://ve3xra.fronthouse.ca/)
 * [YouTube movie of June 2011 DXpedition to FN04 by Allan VA3FMN](http://www.youtube.com/watch?v=xmpNC0witLI)
 * [Press Release - West Carleton Review - July 21, 2011](news/press1.html)
