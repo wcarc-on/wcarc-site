@@ -26,7 +26,7 @@ For a list of meeting dates, speakers and topics, please see our [events page](e
 * [WCARC Beacons Project Update by Doug VE3XK (May 6, 2008)](presentations/beacon_update_asof_20080506_minimizer.ppt)
 * [WCARC Beacons Project Update by Doug VE3XK (June 3, 2008)](presentations/beacon_update_asof_20080604_minimizer.ppt)
 * [WCARC Grid Expedition to FN04 - June 2008 VHF Contest by Al VO1NO/VE3](presentations/wcc_grid_expedition_200806_minimizer.ppt)
-* [Pictures from WCARC Grid Expedition to FN04 - June 2008 VHF Contest ](gridexfn04200806/gridex_to_fn04.html)
+* [Pictures from WCARC Grid Expedition to FN04 - June 2008 VHF Contest](gridexfn04200806/gridex_to_fn04.html)
 * [Intercepting WW II Enemy Wireless Signals at Ottawa Monitoring Station by Ernie Brown VA3OEB (July 8, 2008)](presentations/intercepting_ww2_enemy_sigs_by_va3oeb_minimizer.ppt)
 * [A Beginner's View of Easy Moonbouncing (EME) by Bert Zauhar VE2ZAZ (October, 2008)](presentations/ememinimizer.ppt)
 * [WCARC Beacons Project Update by Doug VE3XK (January 6, 2009)](presentations/beacon_update_asof_20090106_minimizer.ppt)
