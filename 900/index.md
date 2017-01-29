@@ -47,4 +47,4 @@ Place the unit on the table in front of you with the fan on the right hand side 
 10. While monitoring power output of the amp, tweak XX for maximum power. You should get 7 watts or more.
 11. That's it. You now have a working amp. Close it up. Your work on this part is done.
 
-For more information please send an email to [Rick (VE3CVG)](mailto:ve3cvg@rac.ca").
+For more information please send an email to [Rick (VE3CVG)](mailto:ve3cvg@rac.ca).
