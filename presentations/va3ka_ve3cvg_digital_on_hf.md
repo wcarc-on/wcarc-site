@@ -34,7 +34,7 @@ Lord Elgin Hotel, Ottawa, Ontario, Canada
 * Recent resurgence due to use of sound cards and DSP software
 * Very popular contesting mode
 
-<audio src="digital_on_hf/rtty.wav" type="audio/wav" controls="controls"></audio>
+<audio src="digital_on_hf/rtty.wav" controls="controls"></audio>
 
 ## AMTOR
 * AMateur Teleprinting Over Radio
@@ -48,7 +48,7 @@ Lord Elgin Hotel, Ottawa, Ontario, Canada
 * In FEC mode (Forward Error Correcting), sometimes called Mode B, the sending station sends each character twice so this mode provides a means of transmitting to several stations at once. The receiving station does not acknowledge the data received
 * AMTOR systems are still limited to the technology of the 60s and maximum transmission rate (100 baud)
 
-<audio src="digital_on_hf/amtor.wav" type="audio/wav" controls="controls"></audio>
+<audio src="digital_on_hf/amtor.wav" controls="controls"></audio>
 
 ## PACTOR
 * FSK mode and is a standard on modern TNCs
@@ -57,7 +57,7 @@ Lord Elgin Hotel, Ottawa, Ontario, Canada
 * 200 baud operating rate, Huffman compression technique and true binary data transfer capability makes this mode suitable for HF data file transfers
 * Many RF/INTERNET gateways worldwide using PACTOR and the WinLink Network
 
-<audio src="digital_on_hf/pactor.wav" type="audio/wav" controls="controls"></audio>
+<audio src="digital_on_hf/pactor.wav" controls="controls"></audio>
 
 ## WinLink
 * Winlink 2000 provides a full-featured radio digital message transfer system, [**worldwide**](http://winlink.org/userPositions)
@@ -85,7 +85,7 @@ Lord Elgin Hotel, Ottawa, Ontario, Canada
 * Clover adapts to conditions by constantly monitoring the received signal
 * Hardware based mode and limited use
 
-<audio src="digital_on_hf/clover.wav" type="audio/wav" controls="controls"></audio>
+<audio src="digital_on_hf/clover.wav" controls="controls"></audio>
 
 ## HELLSCHREIBER
 * A method of sending and receiving text using facsimile technology
@@ -95,7 +95,7 @@ Lord Elgin Hotel, Ottawa, Ontario, Canada
 * Text characters are "painted" on the screen, as apposed to being decoded and printed
 * As a "fuzzy mode" it has the advantage of using the "human processor" for error correction.
 
-<audio src="digital_on_hf/hell.wav" type="audio/wav" controls="controls"></audio>
+<audio src="digital_on_hf/hell.wav" controls="controls"></audio>
 
 ## MFSK16
 * An advancement to the THROB mode and encodes 16 tones
@@ -103,7 +103,7 @@ Lord Elgin Hotel, Ottawa, Ontario, Canada
 * The relatively wide bandwidth (316 Hz) for this mode allows faster baud rates (typing is about 42 WPM) and greater immunity to multi path phase shift
 * Becoming a standard for reliable keyboard to keyboard operation and is available in several popular programs
 
-<audio src="digital_on_hf/mfsk16.wav" type="audio/wav" controls="controls"></audio>
+<audio src="digital_on_hf/mfsk16.wav" controls="controls"></audio>
 
 ## MT63
 * New DSP based mode for sending keyboard text over paths that experience fading and interference
@@ -112,14 +112,14 @@ Lord Elgin Hotel, Ottawa, Ontario, Canada
 * Wide bandwidth (1Khz for the standard method) makes this mode less desirable on crowded ham bands such as 20 meters
 * A fast PC (166 Mhz or faster) is needed to use all the functions of this mode.
 
-<audio src="digital_on_hf/mt63.wav" type="audio/wav" controls="controls"></audio>
+<audio src="digital_on_hf/mt63.wav" controls="controls"></audio>
 
 ## HF PACKET
 * HF Packet is an FSK mode that is an adaptation of the very popular Packet radio used on VHF FM
 * The HF version of Packet Radio maintains the same protocols and ability to "node" many stations on one frequency
 * Even with the reduced bandwidth (300 baud rate), this mode is unreliable for general HF ham communications and is mainly used to pass routine traffic and data between areas where VHF repeaters may be lacking
 
-<audio src="digital_on_hf/hf-packet.wav" type="audio/wav" controls="controls"></audio>
+<audio src="digital_on_hf/hf-packet.wav" controls="controls"></audio>
 
 ## PSK-31
 * Developed by Peter Martinez G3PLX in 1995
@@ -135,7 +135,7 @@ Lord Elgin Hotel, Ottawa, Ontario, Canada
 * Varicode - all 128 ASCII characters are represented
 * Operation centred around specific frequencies on each band
 
-<audio src="digital_on_hf/psk31.wav" type="audio/wav" controls="controls"></audio>
+<audio src="digital_on_hf/psk31.wav" controls="controls"></audio>
 
 ## PSK-31 - Technical Info
 * By comparing the 31Hz bandwidth of PSK31 against a CW filter of 500 Hz; 10 * log (500/31) dB = 12 dB, reveals that a CW transmitter must put out 15 to 18 times more power than a PSK31 transmitter, to achieve the same S/N ratio at the Rx
