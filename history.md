@@ -1,20 +1,20 @@
 ---
 layout: page
 title: History of Our Club
-date: 2017-01-22
+date: 2017-01-29
 ---
 
 The West Carleton Amateur Radio Club was formed back in the early 1970's, probably as a spin-off of the OARC for members in the deep west of Ottawa who could not make the regular OARC meetings because of the travel distance.
 
 Meetings were first held in the Bells Corners library building and a little later in the Tennis Club building in Lynwood Village.  George Acton VA3QH was president but did not like the Tennis Club location as it was too close to the power lines and it gave him headaches. He arranged for space for the club at Computing Devices (CDC) in Bells Corners.
 
-Hap Chafe VE3MW was involved with the club back in the days after the library and he recounts "The club's main interest and activity was the annual Field Day operation, set up in a different locale each year. I remember one year we worked one of the RS satellites with one of the gang manually steering a ten element 2 metre beam mounted on a pole about 5 feet high and getting the info for the azimuth shouted through the tent wall.  '5 right.... another 5 right... hold it .. another 5 right ... up a bit'. Very high tech  but it worked!"
+Hap Chafe VE3MW was involved with the club back in the days after the library and he recounts "The club's main interest and activity was the annual Field Day operation, set up in a different locale each year. I remember one year we worked one of the RS satellites with one of the gang manually steering a ten element 2 metre beam mounted on a pole about 5 feet high and getting the info for the azimuth shouted through the tent wall.  '5 right ... another 5 right ... hold it ... another 5 right ... up a bit'. Very high tech but it worked!"
 
-Members included Hap Chafe VE3MW, Ralph Cameron VE3BBM, Barrie Crampton VE3BSB, John Brummel, Ivan Jensen VE3AKL, Joyce Jensen, George Acton VA3QH (SK), Brian Crook VE3CRG, who was the high speed CW operator.
+Members included Hap Chafe VE3MW, Ralph Cameron VE3BBM, Barrie Crampton VE3BSB, John Brummel, Ivan Jensen VE3AKL, Joyce Jensen, George Acton VA3QH (SK), and Brian Crook VE3CRG, who was the high speed CW operator.
 
 At this point the original WCARC faded.
 
-Based on memories of Gord Dey (VE3PSP) .....in about 1985, Kieran Shepherd (VA3KS) and Gord were meeting in a coffee shop, and called themselves a "radio fraternity" so they could use the initials "RF" in the name. There might still be a link on the Ottawa freenet website (www.ncf.ca) to that group. Here's what the freenet link said:
+Based on memories of Gord Dey (VE3PSP), in about 1985, Kieran Shepherd (VA3KS) and Gord were meeting in a coffee shop, and called themselves a "radio fraternity" so they could use the initials "RF" in the name. There might still be a link on the Ottawa freenet website (www.ncf.ca) to that group. Here's what the freenet link said:
 
 > WEST CARLETON NORTH LANARK RADIO FRATERNITY (WCNLRF)
 >
@@ -29,58 +29,59 @@ Based on memories of Gord Dey (VE3PSP) .....in about 1985, Kieran Shepherd (VA3K
 
 Peter Jago, the last remaining member of WCARC, approached WCNLRF and asked if they'd like to take over the West Carleton Amateur Radio Club. They agreed and Gord became the President and Kieran became Treasurer.
 
-Gord began working at Sillicom research, and Peter Williams VE3TFP joined as Secretary. Later, Brian Crook VE3CRG, also of Sillicom, joined to help out. Other employees, John Heckman and Gavin Hurlbut (VE3GJH) wrote their exams and joined. Gavin sold Gord his copy of the Borland C compiler, so Gord started compiling and distributing versions of JNOS for folks to use. You can still see Gord's call in some of the binaries floating around!
+Gord began working at Silcom Research, and Peter Williams VE3TFP joined as Secretary. Later, Brian Crook VE3CRG, also of Silcom, joined to help out. Other employees, John Heckman and Gavin Hurlbut (VE3GJH) wrote their exams and joined. Gavin sold Gord his copy of the Borland C compiler, so Gord started compiling and distributing versions of JNOS for folks to use. You can still see Gord's call in some of the binaries floating around!
 
-Kieran, Peter and Gord, were experimenting with 9,600 bps modems in TAPR/MFJ TNCs, coupled with UHF TEK radios and rolling versions of JNOS so they could learn more about TCP/IP. Kieran set up VE3OSQ BBS and Peter started experimenting with satellites. This is when Gord took over IP administration of the 102 and 103 subnets, so that we could make a routeable RF subnet. With Barry VE3JF's help, Gord was able to NFS mount hydra.ampr.org's disk on his home SUN station, through the 9,600 bps radios. Kieran could get a path to Ottawa on 56 Kbps, so the idea was floated to make a link that extended from Ottawa to Belleville, Kingston, backhaul on 9,600, drop off at 1,200 bps. Kingston had a subnet, Belleville had a subnet, Renfrew had a subnet, Arnprior had a subnet, and of course Ottawa west had a subnet. Gord designed it so that it was all CIDR routeable.
+Kieran, Peter and Gord, were experimenting with 9,600 bps modems in TAPR/MFJ TNCs, coupled with UHF TEK radios and rolling versions of JNOS so they could learn more about TCP/IP. Kieran set up VE3OSQ BBS and Peter started experimenting with satellites. This is when Gord took over IP administration of the 102 and 103 subnets, so that we could make a routeable RF subnet. With Barry VE3JF's help, Gord was able to NFS mount hydra.ampr.org's disk on his home SUN station, through the 9,600 bps radios. Kieran could get a path to Ottawa on 56 Kbps, so the idea was floated to make a link that extended from Ottawa to Belleville, Kingston, backhaul on 9,600, drop off at 1,200 bps. Kingston had a subnet, Belleville had a subnet, Renfrew had a subnet, Arnprior had a subnet, and of course Ottawa West had a subnet. Gord designed it so that it was all CIDR routeable.
 
-Eventually, the UHF radios and cans from Gord's home system became part of the 9,600 bps link at Lavant. Peter supplied a PC and a version of JNOS. Phil VE3CIQ, supplied RF design, and George Sampson VE3GWS supplied access. The group met at Barrie VE3BSB's place to get support for an Ottawa-west/Belleville link.
+Eventually, the UHF radios and cans from Gord's home system became part of the 9,600 bps link at Lavant. Peter supplied a PC and a version of JNOS. Phil VE3CIQ, supplied RF design, and George Sampson VE3GWS supplied access. The group met at Barrie VE3BSB's place to get support for an Ottawa West-Belleville link.
 
 ### The 90's
 
-As Gord relates "By this time, WCARC had reached a membership of 35 strong as I recall, and was meeting in the Legion building in Stittsville, but the air was really smokey in there. Somewhere in here, Manfred VA3MWK, of IGS fame joined the club and we had a web page on his company's server. Anyway, my wife, Trudy VE3TRD and I had Julie in 1995, and I became too busy so Peter VE3TFP took over the reins of the club'.
+As Gord relates "By this time, WCARC had reached a membership of 35 strong as I recall, and was meeting in the Legion building in Stittsville, but the air was really smoky in there. Somewhere in here, Manfred VA3MWK, of IGS fame joined the club and we had a web page on his company's server. Anyway, my wife, Trudy VE3TRD and I had Julie in 1995, and I became too busy so Peter VE3TFP took over the reins of the club".
 
 **More to come.** If you can fill in some or all of this period, please forward to the webmaster:
 * Field Days
 * Meetings at IGS World Headquarters
 * Flea Markets
-* projects
+* Projects
 * Meetings in Ken's Lab 2004
 * Meetings in Sobey's Department Store 2005
 
 ### 2005
 
-In 2005, our exec included President Tom VA3NFA, Secretary Graham VE3BYT, Treasurer Ken VA3KA and VP/webmaster Rick VE3CVG. Highlights of the year included a family tour to the Diefenbunker in the spring, lead by Tom, 903MHz Xvrtr build program co-ordinated by Rick VE3CVG,  our relocation to Sobeys in Kanata as a meeting centre, VE3WCC/R rover co-ordinated by VA3NFA in the September VHF contest. The club was well represented at several local ham flea markets. Our closing meeting for the year was our election, with Christmas snacks and lots of prizes.
+In 2005, our executive included President Tom VA3NFA, Secretary Graham VE3BYT, Treasurer Ken VA3KA and VP/webmaster Rick VE3CVG. Highlights of the year included a family tour to the Diefenbunker in the spring, led by Tom, 903MHz transverter build program co-ordinated by Rick VE3CVG, our relocation to Sobeys in Kanata as a meeting centre, VE3WCC/R rover co-ordinated by VA3NFA in the September VHF contest. The club was well represented at several local ham flea markets. Our closing meeting for the year was our election, with Christmas snacks and lots of prizes.
 
 ### 2006
 
-For 2006, the same executive was elected. Our meetings continued at Sobeys. The opening meeting included an excellent talk by VO1NO about war communications. Early in 2006 we successfully activated our 903 beacon on 903.37MHz (roughly). The RF parts  came from Rick VE3CVG and the ID controller came from Gord VE3PPE. The beacon is located near NRC courtesy of Phil VE3CIQ.
+For 2006, the same executive was elected. Our meetings continued at Sobeys. The opening meeting included an excellent talk by VO1NO about war communications. Early in 2006 we successfully activated our 903 beacon on 903.37MHz (roughly). The RF parts came from Rick VE3CVG and the ID controller came from Gord VE3PPE. The beacon was located near NRC courtesy of Phil VE3CIQ.
 
 Throughout the first quarter, the club continued to add members.
 
 ### 2007
 
-In 2007, WCARC had a total of 26 members, with an average turn-out of 10 members per meeting.
-In January, Tom, VA3NFA hosted/test the club 432 CW beacon, our 903 beacon was heard in south-western Ontario during a tropo opening, VA3WK gave an overview of the latest digital proportional radio control equipment.
+In 2007, WCARC had a total of 26 members, with an average turnout of 10 members per meeting.
 
-In February, VE3AA (Dave Goodwin), President of Radio Amateurs of Canada, gave a "RAC Update" . We also had the first presentation to WCARC by the Ottawa Amateur Radio Digital Group (OARDG) (Rick VE3CVG and Ken VA3KA) on D-STAR.
+In January, Tom, VA3NFA hosted/tested the club 432 CW beacon, our 903 beacon was heard in Southwestern Ontario during a tropo opening, and VA3WK gave an overview of the latest digital proportional radio control equipment.
+
+In February, VE3AAQ (Dave Goodwin), President of Radio Amateurs of Canada, gave a "RAC Update". We also had the first presentation to WCARC by the Ottawa Amateur Radio Digital Group (OARDG) (Rick VE3CVG and Ken VA3KA) on D-STAR.
 
 In March, we initiated a group order of PCB antennas organised by Tom, VA3NFA, and Rick, VE3CVG and Doug, VE3XK gave a talk an demo on Tellurometers.
 
-In April we had discussions on Hydro Smart Meters that are using 900 Mhz; Dale, VE3XZT talked on WinDRM digital voice using the PC sound card; Rick, VE3CVG showed a 10GHZ feed suitable for a 2 foot dish; and several members attended the Iroquois Flea-market. Also, D-STAR Ottawa (VA3ODG) became operational from the Ottawa YMCA HQ building on Argyle Street, Ottawa.
+In April we had discussions on Hydro Smart Meters that are using 900 Mhz; Dale, VE3XZT talked on WinDRM digital voice using the PC sound card; Rick, VE3CVG showed a 10GHz feed suitable for a 2 foot dish; and several members attended the Iroquois Flea Market. Also, D-STAR Ottawa (VA3ODG) became operational from the Ottawa YMCA HQ building on Argyle Street, Ottawa.
 
-In May, the Club had a Diefenbunker Tour attended by several members and some family members. Also WCARC had a presence at the Stittsville Flea Market, along with a demos, and giveways by OARDG members who are also members of WCARC.
+In May, the Club had a Diefenbunker Tour attended by several members and some family members. Also WCARC had a presence at the Stittsville Flea Market, along with demos, and giveways by OARDG members who are also members of WCARC.
 
 In June, VA3NFA and VA3CDD participated in VHF Contest as local rovers assisted by other club members.
 
-In July, VA3SAX talked about Microwave Software-Defined Radio (uW SDR) project; we had a discussion on the June 6m opening to the west and Pacific.
+In July, VA3SAX talked about Microwave Software-Defined Radio (uW SDR) project; we had a discussion on the June 6m opening to the West and Pacific.
 
-In August, VE3NVK (Andy) showed his SoftRock-40 kiit (40M SDR receiver); VO1NO showed his control  and switching for his 160m beverage antenna farm.
+In August, VE3NVK (Andy) showed his SoftRock-40 kit (40M SDR receiver); VO1NO showed his control and switching for his 160m beverage antenna farm.
 
 In September, at the OARC Hamfest, WCARC had a club table, presentation by VA3NFA on Roving and VE3XK on D-STAR.
 
-In October, we discussed a potential future project (Dxpedition and Balloon launch) promoted by Graham VE3BYT and earlier by Barry VE3BSB; Rick showed the 10Ghz DEMI, Transverter kit; discussion, led by VE8CF (Karl) on "Free Energy".
+In October, we discussed a potential future project (DX-pedition and balloon launch) promoted by Graham VE3BYT and earlier by Barry VE3BSB; Rick showed the 10Ghz DEMI transverter kit; discussion, led by VE8CF (Karl) on "Free Energy".
 
-In November, Tom, VA3NFA donated a box of VHF engineering stuff for beacon use;  we discussed a June 2008 VHF/UHF QSO Party DxPedition; 	VE3BYT outlined a proposal for a comprehensive club project (eg Balloon launch); VE3XK showed crimping tools for N connectors.
+In November, Tom, VA3NFA donated a box of VHF engineering stuff for beacon use; we discussed a June 2008 VHF/UHF QSO Party DX-pedition; VE3BYT outlined a proposal for a comprehensive club project (e.g. balloon launch); VE3XK showed crimping tools for N connectors.
 
 ### 2008
 
