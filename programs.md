@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Activities
-date: 2017-01-28
+date: 2017-01-29
 ---
 
 ## WCARC June VHF Contest Participation from FN15 (2014-present)
@@ -93,6 +93,6 @@ On Saturday, March 19th, 2005, WCARC families and friends (11) attended a tour o
 Picture of the tour group from left to right: Brad (VE3BSM) with family, Dean (VA3CDD), Tim (VE3MY), Tom (VA3NFA) and Les (VA3BZQ).
 Frank (VE3YY) and kids were not in the picture. Dale (VE3XZT) took the picture.
 
-![tour group](images/tour2.jpg)
+![tour group](images/tour.jpg)
 
 For more info on the Diefenbunker see [http://www.diefenbunker.ca/](http://www.diefenbunker.ca).
