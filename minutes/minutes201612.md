@@ -1,6 +1,6 @@
 ---
 layout: minutes
-title: Minutes of the Regular Meeting on December 19, 2016
+title: Minutes of the Annual General Meeting on December 19, 2016
 date: 2017-01-16
 ---
 
