@@ -18,6 +18,10 @@ ul.navmenu li {
   background-color: #eeeeee;
 }
 
+.minutes-content table {
+  margin-bottom: 1em;
+}
+
 .minutes-content table, .minutes-content th, .minutes-content td {
   border: 1px solid #ccaa70;
   border-spacing: 0;
