@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Annual Report, 2009
-date: 2017-01-29
 ---
 
 *On December 1, 2009, President Al Penney, delivered the following Annual Report:*

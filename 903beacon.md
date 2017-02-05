@@ -1,7 +1,6 @@
 ---
 layout: page
 title: The 903 Beacon
-date: 2017-01-28
 ---
 
 The CW signal of the WCARC beacon can be heard on 903.367MHz. If you are close, you will hear the steady tone of the oscillator under the main signal, because the PA is keyed, not the oscillator.

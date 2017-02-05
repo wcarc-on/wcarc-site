@@ -1,7 +1,6 @@
 ---
 layout: page
 title: History of Our Club
-date: 2017-01-29
 ---
 
 The West Carleton Amateur Radio Club was formed back in the early 1970's, probably as a spin-off of the OARC for members in the deep west of Ottawa who could not make the regular OARC meetings because of the travel distance.

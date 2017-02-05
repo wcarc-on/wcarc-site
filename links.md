@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Web Links
-date: 2017-01-19
 ---
 
 ## Organizations

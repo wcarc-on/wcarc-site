@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Annual Report, 2013
-date: 2017-01-29
 ---
 
 *On December 3, 2013, Acting President Clayton Smith (VE3IRR), delivered this Annual Report:*

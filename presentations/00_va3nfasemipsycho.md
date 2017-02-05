@@ -1,7 +1,6 @@
 ---
 layout: page
 title: VA3NFA Semi-Psycho Rover 2005
-date: 2017-01-23
 ---
 
 In January I said: Hmmmmm... "VA3NFA Psycho Rover" for the June VHF Contest......

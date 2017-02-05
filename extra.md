@@ -1,7 +1,6 @@
 ---
 layout: page
 title: 2013 ARRL June VHF Contest & Grid Expedition
-date: 2017-01-29
 ---
 
 * second full weekend in June. June 8-9, 2013

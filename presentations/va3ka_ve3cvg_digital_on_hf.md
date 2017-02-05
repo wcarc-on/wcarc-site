@@ -1,7 +1,6 @@
 ---
 layout: page
 title: What's That Racket? - HF Digital Modes
-date: 2017-01-28
 ---
 By Ken Asmus VA3KA and Rick Bandla VE3CVG
 

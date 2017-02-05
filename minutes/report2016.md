@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Annual Report, 2016
-date: 2017-01-29
 ---
 
 *On December 19, 2016, President Clayton Smith (VE3IRR), delivered this Annual Report:*

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: 2016 ARRL June VHF Contest
-date: 2017-01-22
 ---
 
 ## Message from Glenn MacDonnell (VE3XRA)

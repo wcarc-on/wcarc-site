@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Annual Report, 2010
-date: 2017-01-29
 ---
 
 *On December 7, 2010, President Al Penney, delivered this Annual Report:*

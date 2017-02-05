@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Ottawa Antenna Policy
-date: 2017-01-22
 ---
 
 Notes from Glenn MacDonell VE3XRA

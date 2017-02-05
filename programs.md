@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Activities
-date: 2017-01-29
 ---
 
 ## WCARC June VHF Contest Participation from FN15 (2014-present)

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Repeaters Used by WCARC
-date: 2017-01-20
 ---
 
 In 2010, WCARC lost access to its FM repeater site. Rather than store the repeater equipment donated to us by Manfred VA3WK, for an indeterminate length of time, the club voted to sell its 2m and 70cm repeaters to the nearby [Almonte Amateur Radio Club](http://www.almontearclub.ca/).

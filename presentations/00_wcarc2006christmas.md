@@ -1,7 +1,6 @@
 ---
 layout: page
 title: December 2006 Christmas Meeting
-date: 2017-01-22
 ---
 
 ![The Exec Look Serious](../images/pix200612/Dec2006WCARCmtg_execlookserious.jpg)

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: WCARC Events
-date: 2017-01-18
 ---
 
 ## Upcoming WCARC Meetings/Speakers/Topics

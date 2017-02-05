@@ -1,7 +1,6 @@
 ---
 layout: page
 title: VE3CVG/VE3XJ Excursion to FN16/FN26
-date: 2017-01-22
 ---
 
 Jim (VE3XJ) and I made an excursion Sunday August 1, 2004, to the intersection of FN16 and FN26, to activate those grids on 6m, 2m, and 70cm.

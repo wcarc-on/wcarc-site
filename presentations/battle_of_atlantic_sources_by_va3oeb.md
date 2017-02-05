@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Battle of Atlantic Sources
-date: 2017-01-24
 ---
 **"In All Respects Ready"**  
 The Merchant Navy and the Battle of Atlantic  

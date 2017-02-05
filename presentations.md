@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Presentations
-date: 2017-01-29
 ---
 
 ## Upcoming Speakers and Topics

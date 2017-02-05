@@ -1,7 +1,6 @@
 ---
 layout: page
 title: 50Mhz sprint October 23, 2004 - VA3NFA/VE3XZT Rover
-date: 2017-01-23
 ---
 
 Dale, VE3XZT, and I (VA3NFA) had a BLAST during this contest!

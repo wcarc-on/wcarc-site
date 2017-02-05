@@ -1,7 +1,6 @@
 ---
 layout: minutes
 title: Minutes of the Regular Meeting on June 7, 2016
-date: 2016-12-25
 ---
 
 The meeting was held in the Kanata Room at Sobey's, on the SW corner of Hazeldean and Terry Fox Drive in Kanata.

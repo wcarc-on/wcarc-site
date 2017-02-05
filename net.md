@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Ottawa Valley Upper Frequencies Single Sideband Net
-date: 2017-01-15
 ---
 ### Tuesdays 2100hrs on 144.250MHz USB
 

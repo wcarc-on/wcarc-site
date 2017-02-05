@@ -1,7 +1,6 @@
 ---
 layout: minutes
 title: Minutes of the Annual General Meeting on December 19, 2016
-date: 2017-01-16
 ---
 
 The meeting was held at the Sobey's in Kanata (March Rd. location).

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Annual Report, 2007
-date: 2017-01-29
 ---
 
 In 2007, WCARC had a total of 26 members, with an average turnout of 10 members per meeting.

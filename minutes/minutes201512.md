@@ -1,7 +1,6 @@
 ---
 layout: minutes
 title: Minutes of the Regular Meeting on December 1, 2015
-date: 2017-01-29
 ---
 
 The meeting was held in the Kanata Room at Sobey's, on the SW corner of Hazeldean and Terry Fox Drive in Kanata.

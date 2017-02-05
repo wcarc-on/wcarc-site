@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Contacts
-date: 2017-01-24
 ---
 ## Executive
 * President: [Clayton Smith (VE3IRR)](mailto:argilo@gmail.com)

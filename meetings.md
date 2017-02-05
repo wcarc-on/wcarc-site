@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Club Meetings
-date: 2017-01-21
 ---
 
 The club meets on the third Monday of every month unless a change is

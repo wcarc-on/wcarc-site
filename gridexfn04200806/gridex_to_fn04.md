@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Grid Expedition to FN04 June 13-16, 2008
-date: 2017-01-23
 ---
 
 Several members of WCARC, headed by President Al VO1NO, mounted a grid expedition to FN04xa near Coburg and Grafton, Ontario, on Friday June 13. The objective was to participate in the annual ARRL VHF Contest, June 14 - 15.

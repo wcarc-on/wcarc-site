@@ -1,7 +1,6 @@
 ---
 layout: page
 title: 900 MHz Power Amplifiers Suitable for Use in Amateur Radio
-date: 2017-01-28
 ---
 
 ## Description

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Membership
-date: 2017-01-22
 ---
 
 ## Constitution of the WCARC

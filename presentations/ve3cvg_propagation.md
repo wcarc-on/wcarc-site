@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Propagation VHF and Above
-date: 2017-01-28
 ---
 
 ## (an overview only)

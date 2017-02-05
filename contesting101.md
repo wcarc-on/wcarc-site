@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Contesting Tips and Suggestions
-date: 2017-01-22
 ---
 
 *By Rick Bandla (VE3CVG)*

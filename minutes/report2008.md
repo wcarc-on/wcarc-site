@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Annual Report, 2008
-date: 2017-01-29
 ---
 
 *President Al (VO1NO/VE3) wrote (this is an excerpt, because we just would not have space for everything Al said):*

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Regulations
-date: 2017-01-22
 ---
 
 *Disclaimer:* The purpose of this page is to bring changes in regulations to the attention of radio amateurs. West Carleton Amateur Radio Club and the web master accept no responsibility for the the accuracy of the information on these pages. If we have it wrong, please let us know.

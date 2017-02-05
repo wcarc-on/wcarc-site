@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Beacons
-date: 2017-01-22
 ---
 
 The WCARC operates several beacons which are useful for testing equipment, aiming antennas, and propagation analysis.

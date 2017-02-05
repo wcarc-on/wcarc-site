@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Annual Report, 2011
-date: 2017-01-29
 ---
 
 There was an excellent article on WCARC and our DXpeditions in the [West Carleton Review - July 21, 2011](news/press1.html).

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Projects
-date: 2017-01-22
 ---
 
 Note that most of these projects are individual efforts by

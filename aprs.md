@@ -1,7 +1,6 @@
 ---
 layout: page
 title: APRS
-date: 2017-01-20
 ---
 
 ## Digipeaters

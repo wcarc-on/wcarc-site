@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Annual Report, 2012
-date: 2017-01-29
 ---
 
 *On December 4, 2012, President Al Penney (VO1NO), provided the following Annual Report:*
