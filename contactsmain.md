@@ -14,10 +14,10 @@ title: Contacts
 
 ## Mailing Address
 West Carleton Amateur Radio Club  
-c/o Andrew Hart  
-28 Chimo Drive  
-Kanata, ON  
-K2L 1A5
+c/o Randy Nordlund  
+70 Larose Lane  
+Embrun, ON  
+K0A 1W0
 
 ## Club Call Signs
 The Club call signs are issued by Industry Canada and include
