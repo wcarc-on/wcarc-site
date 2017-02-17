@@ -20,8 +20,8 @@ majority vote of the officers. Two weeks in advance of the next monthly general
 meeting, notice of the successful nominee name(s) and the intent to hold a vote
 on the matter shall be sent to the club members. Life members count in the
 membership total and for the purposes of calculating a quorum.
-2. Meetings and Voting: General meetings shall be held on the first Tuesday of each
-calendar month unless cancelled or rescheduled by the President and the members
+2. Meetings and Voting: General Meetings shall be held monthly as advised by
+the President unless cancelled or rescheduled by the President and the members
 notified in advance. The Club's Annual General Meeting shall be part of the
 December general meeting. The election of officers shall be held at the Annual
 General Meeting, or at the first subsequent general meeting for which at least two
@@ -171,4 +171,5 @@ Kenneth Asmus (VA3KA) – Treasurer
 
 Dale Hennigar (VE3XZT) – Director
 
-Approved by all members present on August 5, 2008. Amended on November 3, 2009.
+Approved by all members present on August 5, 2008. Amended on November 3, 2009
+and September 6, 2016.
