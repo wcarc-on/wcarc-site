@@ -5,29 +5,19 @@ title: APRS
 
 ## Digipeaters
 
-Throughout 2005 Brad VE3BSM was on a mission to upgrade the path
-protocol for all local users of APRS to the new WIDEn-N protocol which
-is designed to minimize collisions and improve co-existence of stations
-and digis. We now have near 100% compliance in eastern Ontario.
+Our club operates the VE3DVQ digipeater, located near Lavant. It is presently
+off the air pending repairs. Inquiries should be directed to Barrie Crampton (VE3BSB).
 
-With the demise of VE3MPC digi, the Ottawa area was without a suitable
-digipeater for APRS. In the fall of 2005 Brad obtained approval and financial support from WCARC to upgrade the local digipeaters. WCARC agreed to sponsor a new major digi for the Ottawa area and also to help with repairs of several nearby digi's.
+From 2005 to 2015, the club operated the VE3WCC-1 digipeater located in Nepean.
+After losing access to the tower site, the club donated the remaining equipment
+to the Ottawa Amateur Radio Club, which plans to install a digipeater at Camp
+Fortune, operating under a new call sign.
 
-VE3WCC-1 digi was installed in November 2005, in central Ottawa, with the coordinated effort of Brad VE3BSM, Phil VE3CIQ, and Shawn VE3HXP.
+## APRS Weather Stations
 
-In addition, the VE3DVQ digi located near Lavant was resurrected  to provide coverage to the deep west.
+* [VA3KA weather via APRS](http://www.findu.com/cgi-bin/wxpage.cgi?call=VA3KA)
+* [VE3CVG weather via APRS](http://www.findu.com/cgi-bin/wxpage.cgi?call=VE3CVG)
 
-Thanks to the combined cooperation of the other wide-area digi owners, we now enjoy 2-hop APRS coverage throughout almost all of Eastern Ontario.
+## Further Information
 
-The next goal is to attempt to find suitable sites for digipeaters in the northwest area of the Ottawa Valley and also the deep east of Ottawa between Cumberland and Alfred.
-
-For more information on APRS, the new paradigm and our coverage area see [http://aprs.bpsmicro.com/EO_APRS.htm](http://aprs.bpsmicro.com/EO_APRS.htm).
-
-## APRS Stations
-
-Check our [Presentations](presentations.html) web page for a link to a Powerpoint Presentation on Getting started in Mapping and APRS by Doug VE3XK (Feb.2006).
-
-## APRS Wx Stations
-
-* [VA3KA Wx via APRS](http://www.findu.com/cgi-bin/wxpage.cgi?call=VA3KA)
-* [VE3CVG Wx via APRS](http://www.findu.com/cgi-bin/wxpage.cgi?call=VE3CVG)
+* [Getting started in Mapping and Mobile APRS](presentations/ve3xk_aprs.pdf) by Doug Leach (VE3XK)
