@@ -3,7 +3,8 @@ layout: page
 title: Bylaws
 ---
 
-1. Membership:  Membership is open to radio amateurs, and to individuals who are
+1. Membership:
+    1. Membership is open to radio amateurs, and to individuals who are
 engaged in studies leading to a Certificate of Proficiency in Amateur Radio.
 Membership includes all Club privileges as well as rights to vote on expenditures
 or elections for Club officers, and to hold a Club office except as noted in Bylaw 3.
@@ -13,6 +14,12 @@ communication to Club business, members must provide the Club with an e-mail
 address for communication, and must advise promptly of any address change.
 Membership may be withdrawn by majority vote as defined in Bylaw 2 at a
 general meeting.
+    2. Life membership, free of annual dues or assessments, may be granted to
+major benefactors of the club. Candidates for nomination shall be approved by
+majority vote of the officers. Two weeks in advance of the next monthly general
+meeting, notice of the successful nominee name(s) and the intent to hold a vote
+on the matter shall be sent to the club members. Life members count in the
+membership total and for the purposes of calculating a quorum.
 2. Meetings and Voting: General meetings shall be held on the first Tuesday of each
 calendar month unless cancelled or rescheduled by the President and the members
 notified in advance. The Club's Annual General Meeting shall be part of the
@@ -164,4 +171,4 @@ Kenneth Asmus (VA3KA) – Treasurer
 
 Dale Hennigar (VE3XZT) – Director
 
-Approved by all members present on August 5, 2008
+Approved by all members present on August 5, 2008. Amended on November 3, 2009.
