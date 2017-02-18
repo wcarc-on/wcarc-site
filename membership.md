@@ -7,7 +7,7 @@ title: Membership
 
 * [Constitution of the West Carleton Amateur Radio Club](constitution/wcarc-constitution.html)
 * [Bylaws to the Constitution of the West Carleton Amateur Radio Club](constitution/wcarc-bylaws.html)
-* [Special Information Attachement to the Constitution of the West Carleton Amateur Radio Club](constitution/wcarc-specialinfo.html)
+* [Special Information Attachment to the Constitution of the West Carleton Amateur Radio Club](constitution/wcarc-specialinfo.html)
 
 ## Membership and Dues
 

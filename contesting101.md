@@ -35,7 +35,7 @@ page.
 * CW gets through when SSB doesn't so learn a little CW even if it is only at 5wpm. It really helps.
 * CW NOT MANDATORY - there are still a lot of contacts possible without CW, but it sure helps.
 * If you are in phone contact but cannot get your grid across or your call, switch to CW.
-* Keep it simple eg VA3KA de VE3CVG RRR FN25 K  or BK RRR FN25 BK. Always close with 73.
+* Keep it simple e.g. VA3KA de VE3CVG RRR FN25 K or BK RRR FN25 BK. Always close with 73.
 * The higher above the 2m band you go, the greater the dependency on CW
 
 ## The Buddy System

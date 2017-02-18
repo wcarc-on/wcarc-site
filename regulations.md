@@ -7,7 +7,7 @@ title: Regulations
 
 ## Amateur Radio Antenna Regulations in Ottawa
 
-WCARC Secretary Glenn MacDonell (VE3XRA) and WCARC VicePresident Andy Hart (VE3NVK) spent many hours of their personal time meeting and working with the City of Ottawa to ensure
+WCARC Secretary Glenn MacDonell (VE3XRA) and WCARC Vice President Andy Hart (VE3NVK) spent many hours of their personal time meeting and working with the City of Ottawa to ensure
 a fair and meaningful policy was established, that was mutually acceptable to Amateur Radio Operators in Ottawa, as well as the City of Ottawa government. The new policy became effective April 27th, 2012. Please see our [Ottawa antenna policy](ottawa_antenna_policy.html) page for more details.
 
 We owe these gentlemen, and the others who participated, a special vote of thanks for their work on our behalf. It is our understanding that the City was also co-operative and supportive during this process. Well done!
@@ -16,7 +16,7 @@ We owe these gentlemen, and the others who participated, a special vote of thank
 
 **Restructuring: Canadian Hams to Share with Military System on 70 cm**
 
-Industry Canada has informed Radio Amateurs of Canada that it has authorized the Department of National Defense to use a digital system called Enhanced Position Location Reporting System or EPLRS in the 430 to 450 MHz shared 70 centimeter band. The EPLRS system consists of mobile, fixed, transportable and airborne stations that use 5 MHz-wide spread spectrum channels to provide strategic telemetry information for military platforms.
+Industry Canada has informed Radio Amateurs of Canada that it has authorized the Department of National Defence to use a digital system called Enhanced Position Location Reporting System or EPLRS in the 430 to 450 MHz shared 70 centimetre band. The EPLRS system consists of mobile, fixed, transportable and airborne stations that use 5 MHz-wide spread spectrum channels to provide strategic telemetry information for military platforms.
 
 This authorization is on a no-protection, non-interference basis, which means that no new restrictions will be imposed on Canadian amateur operations in this band as a result. Industry Canada says that there is a slight chance of minor interference to amateur radio systems. Typically in the form of a minor audible clicking noise. If Canadian amateurs encounter such interference, they are requested to report it by e-mail to Radio Amateurs of Canada at [regulatory@rac.ca](mailto:regulatory@rac.ca). The information reported should include the geographical location, date, time, frequency and mode being used by the amateur station, and a description of the interference.
 
@@ -28,7 +28,7 @@ This is further to the regulations of 2009 related to Amateur Radio and Distract
 
 **RAC Bulletin 2012-023E - Distracted Driving in Ontario - 2012-04-17**
 
-On April 16 the MTO posted a regulatory notice proposing a change to Ontario Regulation # 366/09 (Display Screens and Hand-Held Devices) that would Extend the current exemption for licenced amateur radio operators for an additional five years.
+On April 16 the MTO posted a regulatory notice proposing a change to Ontario Regulation # 366/09 (Display Screens and Hand-Held Devices) that would Extend the current exemption for licensed amateur radio operators for an additional five years.
 
 As you know, the exemption was due to expire at the end of this calendar year, and Radio Amateurs of Canada has been lobbying for a permanent exemption since this regulation was introduced back in 2009. We will be providing comments to the Road User Safety Branch of MTO on this issue and will continue to press for a permanent exemption. That said, a 5-year extension is certainly welcome at this point but is not the ultimate resolution that we have been seeking.
 
@@ -36,7 +36,7 @@ The only other groups to obtain an extension are commercial, public transit, and
 
 You can view the [notice in the provincial registry](http://www.ontariocanada.com/registry/view.do?postingId=9043&language=en).
 
-RAC and the Distracted Driving Committee wishes to thank all organisations that supplied letters of support to assist us in obtaining this extension. This shows the support we have from many Ontario organisations.
+RAC and the Distracted Driving Committee wishes to thank all organizations that supplied letters of support to assist us in obtaining this extension. This shows the support we have from many Ontario organizations.
 
 Bill Unger VE3XT - North/East Ontario Regional Director  
 Chair - RAC Distracted Driving Committee  

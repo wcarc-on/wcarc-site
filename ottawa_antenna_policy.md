@@ -29,7 +29,7 @@ land use and to define a process for consultation. The City Council decisions on
 requirements on antennas in the city.
 
 Ottawa is one of the few cities that has defined a specific process for the antenna systems used by residents in addition to the larger
-commercial antenna systems.  Our discussions with the city focussed on the differences between the commercial and personal use antenna systems
+commercial antenna systems.  Our discussions with the city focused on the differences between the commercial and personal use antenna systems
 as city staff had little understanding of amateur radio.  The city's concern was primarily with aesthetics and aimed to ensure that prominent
 antennas would not be erected without the proponent announcing their intent and receiving and responding to comments from the their immediate
 neighbours and city representatives. We worked out a set of criteria addressing the size and location of the antenna to define which required

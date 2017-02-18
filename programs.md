@@ -13,7 +13,7 @@ Details can be found on our [June VHF Contest](june_vhf_contest.html) page.
 
 ## WCARC June VHF Contest Expeditions to FN04 (2008-2013)
 
-From 2008 to 2013, many members of the WCARC embarked on a grid expedition to grid square FN04 near Grafton, Ontario, and set up a Field Day-type intalltion to compete in the annual
+From 2008 to 2013, many members of the WCARC embarked on a grid expedition to grid square FN04 near Grafton, Ontario, and set up a Field Day-type installation to compete in the annual
 ARRL June VHF Contest. Further information can be found in the pages below:
 
 * [Information and pictures from the 2008-2013 grid expeditions](extra.html)
@@ -22,7 +22,7 @@ ARRL June VHF Contest. Further information can be found in the pages below:
 ## VO1NO Antenna Party July 2006
 
 Several members of WCARC and some other hams turned out to help Al VO1NO raise his latest addition to his tower collection. A good time was had by all, and
-it was also very interesting. Our photographer, Barny VA3BGB was on hand to take pictures:
+it was also very interesting. Our photographer, Barney VA3BGB was on hand to take pictures:
 
 * [Photos of VO1NO antenna party, July 2006](vo1noantparty/vo1noant.html)
 
@@ -75,7 +75,7 @@ Several members of WCARC participate in ARRL VHF contests each year. A rover is 
 
 After a successful September 2005 contest (fall roving), and a successful January 2006 contest (winter roving), Tom VA3NFA, has announced that he will be roving in the June 2006 ARRL VHF contest, so we encourage the club members to help Tom get ready. He will be operating in at least FN14, FN24, FN15, FN25.
 
-* [Tom's Powerpoint Presentation on Roving (Nov. 2005)](presentations/va3nfa_rover.pdf)
+* [Tom's PowerPoint Presentation on Roving (Nov. 2005)](presentations/va3nfa_rover.pdf)
 * [Tom's Semi-Psycho Rover (2005)](presentations/00_va3nfasemipsycho.html)
 
 For more info about roving see these links.

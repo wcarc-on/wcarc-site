@@ -7,7 +7,7 @@ Year Beginning January 1<sup>st</sup> 2017
 
 ## Meeting Location
 
-Sobey's Community Room, 2<sup>nd</sup> floor, 840 March Road, Kanata, Ontario
+Sobeys Community Room, 2<sup>nd</sup> floor, 840 March Road, Kanata, Ontario
 
 ## Executive
 * President: [Clayton Smith (VE3IRR)](mailto:argilo@gmail.com)

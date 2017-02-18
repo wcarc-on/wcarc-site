@@ -5,18 +5,18 @@ title: WCARC Events
 
 ## Upcoming WCARC Meetings/Speakers/Topics
 
-* Feb 20, 2017 - **No Meeting** - Sobey's Closed for Family Day
-* Mar 20, 2017 - Jeremy Jones (VA3ZTF) - 2.4 and 5 GHz Wi-Fi Network Experience in Iraq
-* Apr 17, 2017 - Paul Coverdale (VE3ICV) - Vector Network Analyzers and Applications, featuring SARK-110
+* Feb. 20, 2017 - **No Meeting** - Sobeys Closed for Family Day
+* Mar. 20, 2017 - Jeremy Jones (VA3ZTF) - 2.4 and 5 GHz Wi-Fi Network Experience in Iraq
+* Apr. 17, 2017 - Paul Coverdale (VE3ICV) - Vector Network Analyzers and Applications, featuring SARK-110
 * May 15, 2017 - Clayton Smith (VE3IRR) - Planning for June VHF Contest
 * June 9-12, 2017 - **June VHF Contest 2017**
 * June 19, 2017 - Clayton Smith (VE3IRR) - Recap for June VHF Contest
 * July 17, 2017 - Jeremy Jones (VA3ZTF) - Grounding and Bonding
-* Aug 21, 2017 - Wayne Getchell (VE3CZO) - A Bit About Batteries
-* Sep 18, 2017 - Tyler Tidman (VA3DGN) - Introduction to Git, GitHub, and GitLab
-* Oct 16, 2017 - Dave Conn (VE3KL) - Multiband HF Wire Antennas and Adding a Sixth Band to the Off-Centre Fed Antenna
-* Nov 20, 2017 - Bryan Jeffrey (VE3UU) - Adventures from the Coldest Part of the Cold War
-* Dec 18, 2017 - Annual Meeting and Christmas Party
+* Aug. 21, 2017 - Wayne Getchell (VE3CZO) - A Bit About Batteries
+* Sep. 18, 2017 - Tyler Tidman (VA3DGN) - Introduction to Git, GitHub, and GitLab
+* Oct. 16, 2017 - Dave Conn (VE3KL) - Multiband HF Wire Antennas and Adding a Sixth Band to the Off-Centre Fed Antenna
+* Nov. 20, 2017 - Bryan Jeffrey (VE3UU) - Adventures from the Coldest Part of the Cold War
+* Dec. 18, 2017 - Annual Meeting and Christmas Party
 
 ## Some Highlights of What's Coming
 
@@ -95,7 +95,7 @@ down for this year.
 * May second Saturday  Vendors 0700hrs, Public 0900hrs (Confirmed)
 * Curling and Squash Club (this is a new location), Old Sly's Road, Smiths Falls, ON
 * Admission is $5.00 per person. Tables cost $10.00 each. (price includes one admission)
-* Talk-in 147.21MHz(+)fm
+* Talk-in 147.21MHz(+)FM
 * see [http://rac.eton.ca/events/upcoming.php](http://rac.eton.ca/events/upcoming.php)
 *  or see [http://www.ve3rlr.ca/](http://www.ve3rlr.ca/)
 

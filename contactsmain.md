@@ -25,7 +25,7 @@ The Club call signs are issued by Industry Canada and include
 The official contact for matters related to the Club call signs is the WCARC President.
 
 ## Mailing List
-Our club uses a Yahoo groups mailing list for annoucements and general discussion:
+Our club uses a Yahoo groups mailing list for announcements and general discussion:
 [https://ca.groups.yahoo.com/neo/groups/wcclist/info](https://ca.groups.yahoo.com/neo/groups/wcclist/info)
 
 To prevent spam, requests to join the list must be approved by one of the moderators.

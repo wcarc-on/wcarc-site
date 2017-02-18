@@ -27,8 +27,8 @@ title: Web Links
 * [Rick (VE3CVG)](http://ve3cvg.webqth.com)
 
 ## Members' Weather Web Sites
-* [VA3KA  Wx via APRS](http://www.findu.com/cgi-bin/wxpage.cgi?call=VA3KA)
-* [VE3CVG Wx via APRS](http://www.findu.com/cgi-bin/wxpage.cgi?call=VE3CVG)
+* [VA3KA weather via APRS](http://www.findu.com/cgi-bin/wxpage.cgi?call=VA3KA)
+* [VE3CVG weather via APRS](http://www.findu.com/cgi-bin/wxpage.cgi?call=VE3CVG)
 * [VE3CVG Weather Station Info](http://ve3cvg.webqth.com/wx/)
 
 ## Other Local Clubs

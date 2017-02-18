@@ -22,7 +22,7 @@ Each of the past years we have added capability or power.  This year we will add
 through 1296 MHz.  We will run 800w at 2m and 1.5 kw at 6 m this year to single long boom yagis with lower powers on the other bands.  We will
 again have the capability to operate WSJT at 2 and 6m and are interested in setting up skeds for the quiet hours of Sunday morning.
 
-Above 2304 MHz we will use shorter range wideband systems such as 10 GHz Tellurometers and 24GHz gunplexers.
+Above 2304 MHz we will use shorter range wideband systems such as 10 GHz Tellurometers and 24GHz gunnplexers.
 
 Rovers who will be within range are asked to forward their rover schedules to VE3XRA.  Please include the grids squares and approximate times
 you plan to be in each, a list of bands you are able to operate, and the co-ordination frequency you will use.
@@ -36,7 +36,7 @@ arrange skeds up to the start of the contest.
 
 ## Write-up from Previous Years
 
-Members of the West Carleton Amateur Radio Club of Ottawa will operate VE3WCC "Field Day" style in a multi-op effort from FN04xa for the June ARRL VHF QSO Party.  Located at 730 feet ASL overlooking Lake Ontario, the location will have a clear shot to the major population centers of Ontario, Northern New York State and beyond. This will be out 4th year of operating from this site.
+Members of the West Carleton Amateur Radio Club of Ottawa will operate VE3WCC "Field Day" style in a multi-op effort from FN04xa for the June ARRL VHF QSO Party.  Located at 730 feet ASL overlooking Lake Ontario, the location will have a clear shot to the major population centres of Ontario, Northern New York State and beyond. This will be out 4th year of operating from this site.
 
 As in last year's contest, the group will operate all bands from 6M through 1296 MHz. PLUS this year we will run higher power (700w on 6m and 2m).  We will have an unusual 5.8GHz set up, a Ramsey laser kit for relatively nearby communications,  10 GHz wideband FM using a Tellurometers, but no narrowband 10GHz.
 

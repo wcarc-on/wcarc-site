@@ -8,7 +8,7 @@ This net meets most Tuesdays at 2100 hours on 144.250MHz USB (upper sideband).
 
 To the extent possible, both horizontal and vertical polarization will be monitored during the net, although horizontal polarization is the generally accepted standard for SSB and weak signal work.
 
-This is an informal net, open to any and all licenced amateurs who wish to check in. Operators are invited to test their station equipment, experiment, and discuss items of interest to other radio amateurs.
+This is an informal net, open to any and all licensed amateurs who wish to check in. Operators are invited to test their station equipment, experiment, and discuss items of interest to other radio amateurs.
 
 After the net on 144.250MHz, we will hold a quick roll call on 50.150MHz, then 432.150MHz, then other bands including 222.150 MHz, 903.150MHz and 1296.100MHz if stations are interested.
 

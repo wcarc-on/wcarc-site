@@ -12,7 +12,7 @@ Several WCARC members and other local hams have acquired some MA3 Tellurometers.
 
 Doug headed to Constance Bay, Tom and Ken headed for Shirley's Bay, Bryan and Wayne headed for the Experimental Farm, and Rick drove up to Brule Lookout in Gatineau Park.
 
-Unfortuantely, it turns out that Bryan has a model MA5 tellurometer which does not appear to be compatible with the MA3's. But Wayne and Bryan were still able to identify some good locations to try in the future.
+Unfortunately, it turns out that Bryan has a model MA5 tellurometer which does not appear to be compatible with the MA3's. But Wayne and Bryan were still able to identify some good locations to try in the future.
 
 Tom VA3NFA has done a good job of recording the contacts in a [blog post](http://va3nfa.blogspot.com/2006/08/10ghz-wbfm-experiments.html).
 
@@ -24,12 +24,12 @@ See [http://va3odg.webqth.com/](http://va3odg.webqth.com/)
 
 The club is concentrating on putting up local beacons to assist testing. Beacons provide a known signal for  testing both receivers and antennas. The next beacon will be for 222MHz. The hunt is on for a transceiver. Ken believes he has an old handheld which should work fine and we will key the final. Rick has the circuit and software for a beacon controller and will collect the bits and pieces and arrange for Manfred to program the PIC. We can probably use a loop antenna that Manfred made last year. We are looking for a good location for the beacons that is accessible. The intention is to put the 903MHz beacon and the 222MHz beacon in the same location.
 
-March 2005 Update - The ID'er is built and operational. Ken VA3KA has donated a 222MHz fm handheld for the project and Rick has donated a 432MHz fm handheld, so this has become a 222MHz AND 432MHz beacon project. Work continues on modifying the radios. Proposed frequencies for the beacons are 222.037MHz and 432.370MHz. These both appear to be clear (as per Rac Operating Manual) and in the right portion of the respective bands. Pending club approval.
+March 2005 Update - The ID'er is built and operational. Ken VA3KA has donated a 222MHz FM handheld for the project and Rick has donated a 432MHz FM handheld, so this has become a 222MHz AND 432MHz beacon project. Work continues on modifying the radios. Proposed frequencies for the beacons are 222.037MHz and 432.370MHz. These both appear to be clear (as per RAC Operating Manual) and in the right portion of the respective bands. Pending club approval.
 
 
 ## 903MHz Transverter Project (Club)
 
-The objective was to stimulate 900MHz activity in the Ottawa area. We felt that the overall best way to do that was to purchase complete 903MHz xvrtr kits described as #903-144CK, from Down East Microwave, as shown on the [DEMI website](http://www.downeastmicrowave.com/).
+The objective was to stimulate 900MHz activity in the Ottawa area. We felt that the overall best way to do that was to purchase complete 903MHz transverter kits described as #903-144CK, from Down East Microwave, as shown on the [DEMI website](http://www.downeastmicrowave.com/).
 
 This kit includes a 144MHz to 903MHz transverter outputting either 10mW or approximately 10 watts and with a receive noise figure better (less) than 1.5dBNF. The transverter does not need a sequencer and will accept up to 10 W of drive from the IF radio (as per DEM documentation). The transverter is complete with case and ALL hardware (if that is the kit you choose), but is a KIT with minimal instructions, requiring assembly and considerable surface mount soldering. It is not a trivial project. Average assembly time is about 14hours.
 
@@ -37,7 +37,7 @@ Purchasers may choose either a 144MHz or 28MHz IF - same price.
 
 IF and RF switching are included for this model, making this a very attractive route, since no costly external relays are required.
 
-After receipt of firm pricing from DEMI, an order for 8 of the complete kits was placed on March 10th. All are 144MHz IF, 10w output. 7 are for the 903MHz version (VA3KA, VE3XK, VA3NFA, VE3XZT, VE3BYT, VA3WK, VE3CVG) and 1 is for the 902MHz version (VE3ZRK). VE3BYT ordered a 902MHz xtal to give him future flexibility. Unfortunately, delivery is approximately 4 weeks. As per DEMI policy for club orders, a bank draft in US funds was forwarded to DEMI on March 11 by VE3CVG. Copies of the bank draft and postage are on file.
+After receipt of firm pricing from DEMI, an order for 8 of the complete kits was placed on March 10th. All are 144MHz IF, 10w output. 7 are for the 903MHz version (VA3KA, VE3XK, VA3NFA, VE3XZT, VE3BYT, VA3WK, VE3CVG) and 1 is for the 902MHz version (VE3ZRK). VE3BYT ordered a 902MHz crystal to give him future flexibility. Unfortunately, delivery is approximately 4 weeks. As per DEMI policy for club orders, a bank draft in US funds was forwarded to DEMI on March 11 by VE3CVG. Copies of the bank draft and postage are on file.
 
 More information is available on the [project page](proj900.html).
 

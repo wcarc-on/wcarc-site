@@ -3,7 +3,7 @@ layout: page
 title: 2016 ARRL June VHF Contest
 ---
 
-## Message from Glenn MacDonnell (VE3XRA)
+## Message from Glenn MacDonell (VE3XRA)
 
 The West Carleton Amateur Radio Club of Ottawa will again operate VE3WCC for the June ARRL VHF QSO Party,
 our third year at FN15xg after 6 years at FN04xa.
