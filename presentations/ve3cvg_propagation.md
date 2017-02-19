@@ -47,7 +47,7 @@ Typical beam pattern above ground. The ground influences the angle of the lobes 
 * Scattering
   - wave encounters objects smaller than a wavelength.
   - Over-dense scattering resembles refraction and reflection.
-  - Under-dense scattering from objects with order, may result in useable propagation (meteors, aurora)
+  - Under-dense scattering from objects with order, may result in usable propagation (meteors, aurora)
 * Absorption
   - energy converted into heat
 * Diffraction
@@ -70,7 +70,7 @@ Typical beam pattern above ground. The ground influences the angle of the lobes 
 
 ## Tropo Scatter
 * Point to point communication on radio horizon is typically 50km max, S9 signal strength Workable distance is d1(km)=4.1( root h1 +  root h2)
-* Troposcatter Ts is always possible, independent of frequency 50Mhz - 10GHz
+* Troposcatter Ts is always possible, independent of frequency 50MHz - 10GHz
 * Range up to 800km is realistic
 * Troposcatter loss increases with the scatter angle
 * Note: there is also Back Scatter and Side Scatter
@@ -126,7 +126,7 @@ Typical beam pattern above ground. The ground influences the angle of the lobes 
 * Some Temperate Zone predictability/probability:
   - 50MHz Apr-Sept, between 6am and 10pm
   - 144MHz May-Aug, between 11am and 8 pm
-  - mid-morning peak & larger peak at abt 6pm
+  - mid-morning peak & larger peak at about 6pm
   - Tends to occur repeatedly between same spots
 * Es layers contain high concentrations of ionized metal, which gradually fall to earth
 * Constantly being replaced by meteor debris
@@ -138,7 +138,7 @@ Typical beam pattern above ground. The ground influences the angle of the lobes 
 * Complex! Charged particles emanating from sun in the solar wind become trapped in earth's magneto tail which streams behind earth away from sun. Increase in solar flux stretches magneto tail until it snaps and reconnects into a more stable configuration. Some snapped particles eject into space, retained particles collapse back to earth. These collapsing particles somehow pick up enough energy to penetrate the E region.
 * Auroral effects are in E layer
 * Daily rotation of magnetic pole about geographic pole & solar wind make the auroral zone approach and recede twice daily
-* Usable from 50-902MHz but mainly 50MHz and 144Mhz
+* Usable from 50-902MHz but mainly 50MHz and 144MHz
 * Visible aurora (400km high) & radio aurora (100km high) not consistent
 * Both stations point antenna at aurora
 * High power helps
@@ -156,7 +156,7 @@ Typical beam pattern above ground. The ground influences the angle of the lobes 
 
 ## Aurora Map
 
-![map showing auroral donut](propagation/auroralmap.gif)
+![map showing auroral doughnut](propagation/auroralmap.gif)
 
 ## Meteor Scatter (MS)
 * Propagation is actually from trails of ionization as high velocity fragments (grains) burn up at about 100km.
@@ -208,7 +208,7 @@ Typical beam pattern above ground. The ground influences the angle of the lobes 
 * Short Es and long MS sound the same
 * Very short tropo ducts sound same as Es (same time of day, same season)
 * Important to know whether a burst of signal is a prelude to an Es opening
-* Tools include weather maps, books, beacons, broadcast signals, fm repeater behavior, DX spots, web sites, sun stats, aurora stats, celestial patterns, discussion and info sharing
+* Tools include weather maps, books, beacons, broadcast signals, FM repeater behaviour, DX spots, web sites, sun stats, aurora stats, celestial patterns, discussion and info sharing
 * Listen a lot!   Experience!
 
 ## What You Need to Succeed on VHF/UHF & Up

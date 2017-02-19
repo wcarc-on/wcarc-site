@@ -4,7 +4,7 @@ title: What's That Racket? - HF Digital Modes
 ---
 By Ken Asmus VA3KA and Rick Bandla VE3CVG
 
-![QWCA logo](../images/qcwa.png)
+![QCWA logo](../images/qcwa.png)
 
 As Presented at
 October 15-17, 2004 QUARTER CENTURY WIRELESS ASSOCIATION Conference  
@@ -17,7 +17,7 @@ Lord Elgin Hotel, Ottawa, Ontario, Canada
 * Software
 * Getting started
 * Internet Resources
-* Acknowledgments
+* Acknowledgements
 * Discussion, questions and demo
 
 ## Introduction
@@ -58,22 +58,22 @@ Lord Elgin Hotel, Ottawa, Ontario, Canada
 
 <audio src="digital_on_hf/pactor.wav" controls="controls"></audio>
 
-## WinLink
+## Winlink
 * Winlink 2000 provides a full-featured radio digital message transfer system, [**worldwide**](http://winlink.org/userPositions)
 * Email transfer with attachments, map & text-based position reporting, graphic & text-based weather bulletin services, and emergency communications are now available to the Amateur radio community by linking radio to the Internet using PACTOR on the HF Bands
-* The mobile user, whether on the high seas, jungles of a remote region, or  traveling in an RV,  has the ability to provide family and friends with the state of their safety and well-being along with the joys of their travels.
+* The mobile user, whether on the high seas, jungles of a remote region, or travelling in an RV,  has the ability to provide family and friends with the state of their safety and well-being along with the joys of their travels.
 * **The Winlink 2000 system is currently used for  emergency communications where local or regional  communications are disrupted, including the the loss of the Internet, and where accuracy of information is paramount.**
 
 ## PACTOR II
 * Robust and powerful PSK mode which operates well under varying conditions
 * Uses strong logic, automatic frequency tracking; it is DSP based
-* As much as 8 times faster then Pactor 1
+* As much as 8 times faster then PACTOR 1
 * Both PACTOR and PACTOR-2 use the same protocol handshake, making the modes compatible
 
 ## PACTOR III
 * Proprietary mode used for message and traffic handling over an HF radio circuit
-* Use of Pactor-III protocol is limited for NA hams and some other countries due to the very wide bandwidth
-* Only the embedded hardware (modem) from the German company that owns the rights to this mode, is capable of operating Pactor-III.
+* Use of PACTOR-III protocol is limited for NA hams and some other countries due to the very wide bandwidth
+* Only the embedded hardware (modem) from the German company that owns the rights to this mode, is capable of operating PACTOR-III.
 * No software solution available
 * EXPENSIVE modems!
 
@@ -99,7 +99,7 @@ Lord Elgin Hotel, Ottawa, Ontario, Canada
 ## MFSK16
 * An advancement to the THROB mode and encodes 16 tones
 * Uses Fast Fourier Transform technology to decode the ASCII characters, and Constant Phase Frequency Shift Keying to send the coded signal. Continuous Forward Error Correction (FEC) sends all data twice with an interleaving technique to reduce errors from impulse noise and static crashes
-* The relatively wide bandwidth (316 Hz) for this mode allows faster baud rates (typing is about 42 WPM) and greater immunity to multi path phase shift
+* The relatively wide bandwidth (316 Hz) for this mode allows faster baud rates (typing is about 42 WPM) and greater immunity to multipath phase shift
 * Becoming a standard for reliable keyboard to keyboard operation and is available in several popular programs
 
 <audio src="digital_on_hf/mfsk16.wav" controls="controls"></audio>
@@ -108,8 +108,8 @@ Lord Elgin Hotel, Ottawa, Ontario, Canada
 * New DSP based mode for sending keyboard text over paths that experience fading and interference
 * Complex scheme to encode text in a matrix of 64 tones over time and frequency
 * Error correction at the receiving end while still providing a 100 WPM rate
-* Wide bandwidth (1Khz for the standard method) makes this mode less desirable on crowded ham bands such as 20 meters
-* A fast PC (166 Mhz or faster) is needed to use all the functions of this mode.
+* Wide bandwidth (1kHz for the standard method) makes this mode less desirable on crowded ham bands such as 20 meters
+* A fast PC (166 MHz or faster) is needed to use all the functions of this mode.
 
 <audio src="digital_on_hf/mt63.wav" controls="controls"></audio>
 
@@ -138,21 +138,21 @@ Lord Elgin Hotel, Ottawa, Ontario, Canada
 
 ## PSK-31 - Technical Info
 * By comparing the 31Hz bandwidth of PSK31 against a CW filter of 500 Hz; 10 * log (500/31) dB = 12 dB, reveals that a CW transmitter must put out 15 to 18 times more power than a PSK31 transmitter, to achieve the same S/N ratio at the Rx
-* phase shift keying (bpsk or qsk) - 2 pure tones 31Hz apart
+* phase shift keying (BPSK or QPSK) - 2 pure tones 31Hz apart
 * 0 bit in the data stream generates a 180° audio phase shift, but 1 does not
 * Decoding uses Viterbi decoder - 5 bit pipeline for 32 parallel functions
-* QPSK mode is very accurate but requires 4 Herz freq stability
+* QPSK mode is very accurate but requires 4 Hertz frequency stability
 
 ## SSTV
 * MMSSTV - software solution that has made hardware obsolete
-* By JE3HHT Makoto Mori  and it's freeware
+* By JE3HHT Makoto Mori and it's freeware
 * MMSSTV supports numerous subsets of the following modes: Robot, AVT90, Scottie, Martin, SC2, PD, P3, P5, P7, MP,MR,ML
-* Uses the same soundcard + computer setup as PSK31, etc.
+* Uses the same sound card + computer setup as PSK31, etc.
 * There are other software packages but this is the ultimate
 
 ## Hardware
-* Computer 486 with 16 bit soundcard at least
-  - Almost every Creative Labs or clone works ok
+* Computer 486 with 16 bit sound card at least
+  - Almost every Creative Labs or clone works OK
   - Faster computers are better + Windows 98 or above is better
 * Interface - provides elegant connectivity between computer and radio
   - Rigblaster - Cadillac - $60+ USD
@@ -162,8 +162,8 @@ Lord Elgin Hotel, Ottawa, Ontario, Canada
 * Commercial boxes
   - PSK80, PSK-40, PSK-20, PSK-10 by Small Wonder Labs for PSK-31
   - IC756Pro is RTTY Rx capable
-  - Pactor III modem - proprietary
-  - Some multimode TNCs
+  - PACTOR III modem - proprietary
+  - Some multi-mode TNCs
 
 ## PSK- 80 Warbler
 * Transceiver on a card for PSK-31
@@ -198,27 +198,27 @@ Lord Elgin Hotel, Ottawa, Ontario, Canada
   - Digipan (PSK31, PACTOR I)
   - Hamscope (CW, PR, RTTY PSK31, MFSK16)
   - MultiPSK (BPSK31, QPSK31, PSK63, PSKFEC31, PSKAM, PSKAM10, CW, CCW, RTTY, SITOR-AMTOR-NAVTEX, FELD HELL, PSK HELL, HF FAX, FILTERS)
-  - MixW (SSB, AM, FM, CW, BPSK31, QPSK31, FSK31, RTTY, Packet (HF/VHF), Pactor (RX only), AMTOR (FEC), MFSK, Hellschreiber, Throb, Fax (RX only), SSTV, MT63)
+  - MixW (SSB, AM, FM, CW, BPSK31, QPSK31, FSK31, RTTY, Packet (HF/VHF), PACTOR (RX only), AMTOR (FEC), MFSK, Hellschreiber, Throb, Fax (RX only), SSTV, MT63)
   - INTERCOM (CW, RTTY Feldhell, PSK (RX & TX),TOR-FEC (RX)
   - Many others!!
 
 ## Getting Started - basic pieces
-* Any modern solid state HF rig (low power ok for most digital modes)
-* PC (Pentium + preferred but some modes will work ok on 486) with Soundblaster compatible sound card
+* Any modern solid state HF rig (low power OK for most digital modes)
+* PC (Pentium + preferred but some modes will work OK on 486) with Soundblaster compatible sound card
 * Interface
 * Software (download from Internet)
 
 ## Getting Started - frequencies
 * Where to find digital modes??
-  - 6 Meter Band: 50.290 - 50.292 Mhz
-  - 10 Meter Band: 28.110 - 28.125 Mhz
-  - 12 Meter Band: 24.920 - 24.930 Mhz
-  - 15 Meter Band: 21.060 - 21.090 Mhz
-  - 17 Meter Band: 18.100 - 18.110 Mhz
-  - 20 Meter Band: 14.065 - 14.090 Mhz
-  - 30 Meter Band: 10.130 - 10.145 Mhz
-  - 40 Meter Band: 7.060 - 7.080 Mhz
-  - 80 Meter Band: 3.620 - 3.640 & 3.575 - 3.585 Mhz
+  - 6 Meter Band: 50.290 - 50.292 MHz
+  - 10 Meter Band: 28.110 - 28.125 MHz
+  - 12 Meter Band: 24.920 - 24.930 MHz
+  - 15 Meter Band: 21.060 - 21.090 MHz
+  - 17 Meter Band: 18.100 - 18.110 MHz
+  - 20 Meter Band: 14.065 - 14.090 MHz
+  - 30 Meter Band: 10.130 - 10.145 MHz
+  - 40 Meter Band: 7.060 - 7.080 MHz
+  - 80 Meter Band: 3.620 - 3.640 & 3.575 - 3.585 MHz
 
 
 ## Getting Started - PSK frequencies
@@ -254,10 +254,10 @@ Lord Elgin Hotel, Ottawa, Ontario, Canada
 * [http://www.arrl.org/tis/info/HTML/psk31/index.html](http://www.arrl.org/tis/info/HTML/psk31/index.html)
   - PSK31 information
 * [http://winlink.org/](http://winlink.org/)
-  - WinLINK information
+  - Winlink information
 * Do a Google search PSK31!!
 
-## HW Suppliers - there are many
+## Hardware Suppliers - there are many
 * Interfaces
   - [http://www.radioworld.ca/](http://www.radioworld.ca/)
   - [http://www.packetradio.com/psk31.html](http://www.packetradio.com/psk31.html)
@@ -266,7 +266,7 @@ Lord Elgin Hotel, Ottawa, Ontario, Canada
 * Radio on a card
   - [http://www.smallwonderlabs.com](http://www.smallwonderlabs.com)
 
-## Acknowledgments
+## Acknowledgements
 * Thanks to NB6Z for providing some materials for this presentation: [http://home.teleport.com/~nb6z/frame.htm](http://home.teleport.com/~nb6z/frame.htm)
 
 ## Email Us

@@ -4,7 +4,7 @@ title: 900 MHz Power Amplifiers Suitable for Use in Amateur Radio
 ---
 
 ## Description
-* Ericsson 900 Mhz cellular amplifier, removed during site upgrade, working
+* Ericsson 900 MHz cellular amplifier, removed during site upgrade, working
 * RF Transistors TP3022A (1), TP3020A (2)
 * Control Transistors TIP36A (2), TIP32 (1)
 * Length 14¾", Width 4½", Height 3¼"
@@ -13,9 +13,9 @@ title: 900 MHz Power Amplifiers Suitable for Use in Amateur Radio
 * Ten Watts continuous output at its intended frequency of 860MHz. A couple of watts less on 903MHz.
 * Power required is 24 to 28 volts regulated at 2.5A DC.
 * Shipping Weight 8+ LB.
-* This is a broadband class C (non-linear) amp intended for FM. It will also work effectively for CW, without modification. It should be possible to make the amp linear and it would then be useable for SSB.
+* This is a broadband class C (non-linear) amp intended for FM. It will also work effectively for CW, without modification. It should be possible to make the amp linear and it would then be usable for SSB.
 
-![900mhz amp](900mhzamp.jpg)
+![900 MHz amplifier](900mhzamp.jpg)
 
 ## Drawings
 
@@ -36,7 +36,7 @@ Place the unit on the table in front of you with the fan on the right hand side 
 
 1. Carefully remove the control board then toss it into your junk box - there are some useful parts on it, but it is not needed for our application.
 2. Carefully strip out the extra wiring harness, it is not needed.
-3. The input and output can be left as standard sma connenctors. I find the sma's a bit fragile for use on heavy coax as seen on a typical 900MHz antenna cable. You have 2 choices, make a short flexible adapter cable to adapt the output from sma to whatever your coax is, or you can replace the output connector with an N type and that is a bit of a challenge. Unless you are experienced at building up cables for this frequency I suggest you take the easy way out.
+3. The input and output can be left as standard SMA connectors. I find the SMA's a bit fragile for use on heavy coax as seen on a typical 900MHz antenna cable. You have 2 choices, make a short flexible adapter cable to adapt the output from SMA to whatever your coax is, or you can replace the output connector with an N type and that is a bit of a challenge. Unless you are experienced at building up cables for this frequency I suggest you take the easy way out.
 4. Wire the fan to run continuously by connecting XXXX.
 5. Make up a power supply cable, connecting XXXXXX.
 6. Apply power and confirm that the amp is correctly wired.

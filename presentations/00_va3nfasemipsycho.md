@@ -6,7 +6,7 @@ title: VA3NFA Semi-Psycho Rover 2005
 In January I said: Hmmmmm... "VA3NFA Psycho Rover" for the June VHF Contest......
 
 Here are a few pics of my "Mk 1" Rover mount/mast setup with the 144 loop installed. I am using a
-Cdn Tire bike rack for a base, with two pieces of 1x3 oak as the cross pieces to mount the mast on.
+Canadian Tire bike rack for a base, with two pieces of 1x3 oak as the cross pieces to mount the mast on.
 
 I am using 3/4 plastic conduit for mast and I think I will swap it out with 1" aluminum tube or maybe 3/4
 metal conduit.
@@ -42,4 +42,4 @@ Tom (VA3NFA)
 
 73, Tom (VA3NFA) Kanata, Ontario
 
-Editor's Note: This is Tom's set up for operating while in motion. Good job Tom! Tom's stationary set up inclues a taller mast and all horizontal yagis.
+Editor's Note: This is Tom's set up for operating while in motion. Good job Tom! Tom's stationary set up includes a taller mast and all horizontal yagis.

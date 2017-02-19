@@ -7,7 +7,7 @@ On July 3rd, 2006, Al (VO1NO) had an antenna raising party and had a good turnou
 
 ![getting organized](vo1no20060703_001_gettingorganized.jpg)
 
-![missing a lockwasher](vo1no20060703_002_missingalockwasher.jpg)
+![missing a lock washer](vo1no20060703_002_missingalockwasher.jpg)
 
 ![how many hams does it take to change an antenna](vo1no20060703_003_howmanyhamsdoesittaketochnganantenna.jpg)
 
@@ -35,9 +35,9 @@ On July 3rd, 2006, Al (VO1NO) had an antenna raising party and had a good turnou
 
 ![hey this is heavy](vo1no20060703_015_heythisisheavy.jpg)
 
-![i cant get the bolt in](vo1no20060703_016_icantgetthepinin.jpg)
+![I cant get the bolt in](vo1no20060703_016_icantgetthepinin.jpg)
 
-![i dont think its straight](vo1no20060703_017_idontthinkitsstraight.jpg)
+![I don't think its straight](vo1no20060703_017_idontthinkitsstraight.jpg)
 
 ![a little more](vo1no20060703_018_alittlemore.jpg)
 

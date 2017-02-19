@@ -18,7 +18,7 @@ Sobeys Community Room, 2<sup>nd</sup> floor, 840 March Road, Kanata, Ontario
 
 ## Appointees
 * Webmaster: [Clayton Smith (VE3IRR)](mailto:argilo@gmail.com)
-* Callsign Sponsor: [Clayton Smith (VE3IRR)](mailto:argilo@gmail.com)
+* Call Sign Sponsor: [Clayton Smith (VE3IRR)](mailto:argilo@gmail.com)
 * Club Equipment Manager: vacant
 
 ## Committees

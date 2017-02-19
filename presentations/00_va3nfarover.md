@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 50Mhz sprint October 23, 2004 - VA3NFA/VE3XZT Rover
+title: 50MHz sprint October 23, 2004 - VA3NFA/VE3XZT Rover
 ---
 
 Dale, VE3XZT, and I (VA3NFA) had a BLAST during this contest!
@@ -25,7 +25,7 @@ Here are our "unofficial" results:
 * Total QSO's: 22 / Total Grids: 14
 * Claimed Score: 308
 
-We drove a little over 230Kms to work these grids,
+We drove a little over 230km to work these grids,
 thus we only had about 20 minutes "parked" at each
 location.
 
