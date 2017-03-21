@@ -1,6 +1,6 @@
 ---
 layout: minutes
-title: Minutes of the Regular Meeting on January 16, 2017 - Draft
+title: Minutes of the Regular Meeting on January 16, 2017
 ---
 
 The meeting was held at the Sobey's in Kanata (March Rd. location).
