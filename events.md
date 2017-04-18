@@ -5,7 +5,6 @@ title: WCARC Events
 
 ## Upcoming WCARC Meetings/Speakers/Topics
 
-* Apr. 17, 2017 - Paul Coverdale (VE3ICV) - Vector Network Analyzers and Applications, featuring SARK-110
 * May 15, 2017 - Clayton Smith (VE3IRR) - Planning for June VHF Contest
 * June 9-12, 2017 - **June VHF Contest 2017**
 * June 19, 2017 - Clayton Smith (VE3IRR) - Recap for June VHF Contest
