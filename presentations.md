@@ -73,3 +73,4 @@ For a list of meeting dates, speakers and topics, please see our [events page](e
 * [WCARC VHF/UHF Beacon Relocation by Doug Leach VE3XK (August 4, 2015)](presentations/20150804_wcarc_beacon_move_by_ve3xk.pdf)
 * [WCARC Project Candidates by Wayne Getchell VE3CZO (September 1, 2015)](presentations/ve3czo_wcarc_project_candidates_2017.pdf)
 * [Mechanical Pendulum Electronic Control by Bert Zauhar VE2ZAZ (February 2, 2016)](http://ve2zaz.net/Pendulum_Ctl/Pendulum_Ctl.htm)
+* [Vector Network Analyzers and Applications, Featuring the SARK-110 by Paul Coverdale VE3ICV (April 17, 2017)](presentations/ve3icv_vector_network_analyzers.pdf)
