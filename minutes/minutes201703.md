@@ -34,7 +34,7 @@ The meeting was opened by the President, Clayton Smith (VE3IRR), at 19:03 hours.
 ### Secretary's Report
 
 The Secretary, Randy (VE3AX), introduced the minutes of the January meeting as posted.
-Moved by the Secretary (VE3AX) that the minutes be approved; Seconded by Doug (VE3XK)
+Moved by the Secretary (VE3AX) that the minutes be approved; Seconded by Doug (VE3XK).
 Motion carried.
 
 ### Treasurer's Report
