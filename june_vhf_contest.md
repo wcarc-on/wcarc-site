@@ -1,72 +1,54 @@
 ---
 layout: page
-title: 2016 ARRL June VHF Contest
+title: 2017 ARRL June VHF Contest
 ---
-
-## Message from Glenn MacDonell (VE3XRA)
-
-The West Carleton Amateur Radio Club of Ottawa will again operate VE3WCC for the June ARRL VHF QSO Party,
-our third year at FN15xg after 6 years at FN04xa.
-
-The site is about 30km north of the intersection of FN15, FN25, FN14 and FN24.  Last year we worked rovers operating from FN04xa at bands up to 1296 MHz.
-
-Each year we add capability and/or power.   This year we will run 1kW on 2m, 500W on 6m and 70cm, about 300W on 222MHz and 1296 MHz. We will continue
-to use single long yagis but have improved antennas at 2m and 70cm.  We will also operate (but at much lower power) all bands from 2304MHz
-through 24GHz and have again included laser communications. If there is interest, we may also include 47GHz. If you expect to contact us and have 47GHz,
-please advise before Friday.
-
-We will set up on the site at the Corkery Community Centre 3447 Old Almonte Rd. Ottawa ON,  lat 45.259316 N long -76.060858 W,  on Friday June 10 and pack up Monday June 13.  Visitors are welcome to drop by.  Rovers passing nearby are invited to stop by for a snack and hot coffee.
-
-We'll gladly set up scheds with base stations and rovers who will be within range - please send requests to [ve3xra@rac.ca](mailto:ve3xra@rac.ca).   We will again have internet at the site.
-
-Glenn VE3XRA for VE3WCC.
-
-## Message from the WCARC President, Clayton Smith (VE3IRR)
 
 Hi all,
 
-As many of you probably already know, the West Carleton Amateur Radio Club will once again be participating in the ARRL June VHF Contest the weekend of June 11-12.
-Same as last year, we'll be operating close to home, at the Corkery Community Centre, 3447 Old Almonte Rd.  The Community Centre is in grid square FN15xg, just
-west of Ottawa. It's about a 15 minute drive from Kanata or Stittsville.  We hope that the closer location will allow more amateurs to participate.
+This weekend (June 9-12), the West Carleton Amateur Radio Club will participate in the ARRL June VHF contest. It will be our tenth year competing as a multi-operator station (VE3WCC), and our fourth year operating from the Corkery Community Centre, West of Ottawa.
 
-The contest itself begins at 14:00 local time on Saturday, June 11 and continues until 23:00 local time on Sunday, June 12.  But we'll need lots of help on Friday,
-June 10 to get towers, antennas, feedlines, radios, amplifiers and computer equipment set up, and on Monday, June 13 to take everything back down.
+Although we have scored very well in past years, this isn't our primary focus. More importantly, we want to have fun and encourage our members and visitors to try operating VHF and above. I encourage each and every one of you to come visit the station and try your hand at operating, even if it's only for a short time. VHF contests have a much more relaxed pace than HF contests, so anyone should be able to participate. No contesting experience is required.
 
-Rovers who will be within range are asked to forward their rover schedules to Glenn (VE3XRA) [ve3xra@rac.ca](mailto:ve3xra@rac.ca). Please include the grid squares and approximate times you
-plan to be in each, a list of bands you are able to operate, and the co-ordination frequency you will use.
+We'll be active on all bands from 50 MHz through to 24 GHz. Please contact us during the contest if you're able to do so, whether from your home station or as a rover. Every contact makes the contest more interesting and helps us increase our score.
 
-Thanks and 73,  
-Clayton Smith (VE3IRR)  
+I've attached some more information about the contest below.
+
+73,  
+Clayton (VE3IRR)  
 President, WCARC
 
-## Message from the WCARC Vice President and Contest Co-ordinator, Doug Leach (VE3XK)
+-----
 
-This will be an excellent opportunity to sharpen your
-operating skills and enjoy the fellowship of team Amateur Radio communications competition. We will be
-running higher power amplifiers on all six bands 6M to 23CM with good
-antennas, so we expect to be making an even bigger noise than in
-previous years. All we need now is more member participation in this
-serious contesting effort.
+What?
+-----
 
-But WCARC is about much more than VHF Contesting, though we have scored
-well in Canada (and once in the ARRL Central Region) in this contest.
+The ARRL June VHF Contest: [http://www.arrl.org/june-vhf](http://www.arrl.org/june-vhf)
 
-Here is a picture of the facility taken from a Google Map Street View.
+Where?
+------
 
-![Corkery Community Centre](images/corkery_community_centre_small.jpg)
+Corkery Community Centre, 3447 Old Almonte Road, Carp, ON  
+Maidenhead grid square FN15xg
 
-We will set up 3 towers, in the same sort of arrangement as past years, on the lawns between the parking lot and the building and operate from a large
-30' x 15' air conditioned room at the front of the building facing the towers. There are windows along the 30' wall that open at the bottom making it
-easy to bring in the cables and the Community Centre provides tables we can use.  We'll set them up along the window and have electricity from the grid -
-no generators!  We'll have indoor washrooms and a kitchen complete with freezer, fridge, stove, microwave and the internet.  There are fast food places
-a quarter of an hour away and people will be able to bring lunches from home if they want but a full kitchen is tempting.  We haven't yet settled on how
-much food preparation we'll do - it really depends on who can come and help.  We are still finding out who can come and when they would be available.  A
-very big change will be that most people don't have to commit to a long event and won't need tents or motel rooms as they can return home to sleep in
-their own beds!  Downtown Ottawa is about 40 minutes away - Smiths Falls is 48 km.  We will likely have at least one person staying overnight in the
-room for security using cots or air mattresses and there is place for that sort of arrangement.
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d89870.12609831354!2d-76.1314487!3d45.2590866!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cd2046aedc31bc1%3A0x198dda441bc97b10!2s3447+Old+Almonte+Rd%2C+Carp%2C+ON+K0A+1L0!5e0!3m2!1sen!2sca!4v1496709063882" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-We will have the facility from Friday through Monday and plan a similar schedule as past years: set-up on Friday with finishing setup if required Saturday
-morning, operating Saturday afternoon through Sunday evening and take down Monday.  Some setup will be simpler because the power and cooking arrangements
-are already in place.  We have the cables and supplies from last year but the putting together of antennas and
-towers will take time.  We have already checked out the tower locations and marked positions for the towers and stakes and have assembled
-and checked the cables.  As it turned out we have been able to find all the radio equipment and computers we need.
+When?
+-----
+
+Outdoor setup (towers, rotators, antennas, coax) will begin on Friday morning (June 9) around 09:30. We'll have access to the inside of the community centre starting around noon. Final setup will take place on Saturday morning. The contest begins at 14:00 (local) on Saturday (June 10) and continues until 23:00 (local) on Sunday (June 11). We'll dismantle the station on Monday morning (June 12) from about 08:30 to 11:30.
+
+What to bring?
+--------------
+
+* Work boots and work gloves, if you'll be helping with tower setup or teardown
+* A smartphone, tablet or laptop (to make 2.4 GHz microwave contacts over WiFi during your visit)
+* A transmit-capable SDR (e.g. HackRF, BladeRF, LimeSDR), if you have one
+* A Ramsey laser kit, if you have one
+* Food and drinks for yourself
+
+Contact information:
+--------------------
+
+Clayton Smith (VE3IRR)  
+Email: [argilo@gmail.com](mailto:argilo@gmail.com)  
+Phone/SMS: 613-558-7794
