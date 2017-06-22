@@ -5,7 +5,6 @@ title: WCARC Events
 
 ## Upcoming WCARC Meetings/Speakers/Topics
 
-* June 19, 2017 - Clayton Smith (VE3IRR) - Recap for June VHF Contest
 * July 17, 2017 - Jeremy Jones (VA3ZTF) - Grounding and Bonding
 * Aug. 21, 2017 - Wayne Getchell (VE3CZO) - A Bit About Batteries
 * Sep. 18, 2017 - Tyler Tidman (VA3DGN) - Introduction to Git, GitHub, and GitLab
