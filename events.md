@@ -5,10 +5,9 @@ title: WCARC Events
 
 ## Upcoming WCARC Meetings/Speakers/Topics
 
-* July 17, 2017 - Jeremy Jones (VA3ZTF) - Grounding and Bonding
 * Aug. 21, 2017 - Wayne Getchell (VE3CZO) - A Bit About Batteries
 * Sep. 18, 2017 - Tyler Tidman (VA3DGN) - Introduction to Git, GitHub, and GitLab
-* Oct. 16, 2017 - Dave Conn (VE3KL) - Multiband HF Wire Antennas and Adding a Sixth Band to the Off-Centre Fed Antenna
+* Oct. 16, 2017 - Dave Conn (VE3KL) - Exploring Off Centre Fed and Centre Fed Loaded Antennas
 * Nov. 20, 2017 - Bryan Jeffrey (VE3UU) - Adventures from the Coldest Part of the Cold War
 * Dec. 18, 2017 - Annual Meeting and Christmas Party
 
