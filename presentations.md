@@ -75,3 +75,4 @@ For a list of meeting dates, speakers and topics, please see our [events page](e
 * [Mechanical Pendulum Electronic Control by Bert Zauhar VE2ZAZ (February 2, 2016)](http://ve2zaz.net/Pendulum_Ctl/Pendulum_Ctl.htm)
 * [Vector Network Analyzers and Applications, Featuring the SARK-110 by Paul Coverdale VE3ICV (April 17, 2017)](presentations/ve3icv_vector_network_analyzers.pdf)
 * [Grounding and Bonding by Jeremy Jones VA3ZTF (July 17, 2017)](presentations/grounding-and-bonding-by-va3ztf-20170717.pdf)
+* [A Bit about Batteries by Wayne Getchell VE3CZO (August 21, 2017)](presentations/a_bit_about_batteries_ve3czo.pdf)
