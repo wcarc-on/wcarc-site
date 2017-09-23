@@ -76,3 +76,4 @@ For a list of meeting dates, speakers and topics, please see our [events page](e
 * [Vector Network Analyzers and Applications, Featuring the SARK-110 by Paul Coverdale VE3ICV (April 17, 2017)](presentations/ve3icv_vector_network_analyzers.pdf)
 * [Grounding and Bonding by Jeremy Jones VA3ZTF (July 17, 2017)](presentations/grounding-and-bonding-by-va3ztf-20170717.pdf)
 * [A Bit about Batteries by Wayne Getchell VE3CZO (August 21, 2017)](presentations/a_bit_about_batteries_ve3czo.pdf)
+* [An Introduction to Git, GitHub and GitLab by Tyler Tidman VA3DGN (September 18, 2017)](https://tylert.github.io/git-slides/git.svg#1_0)
