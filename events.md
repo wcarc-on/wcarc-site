@@ -5,10 +5,11 @@ title: WCARC Events
 
 ## Upcoming WCARC Meetings/Speakers/Topics
 
-* Sep. 18, 2017 - Tyler Tidman (VA3DGN) - Introduction to Git, GitHub, and GitLab
 * Oct. 16, 2017 - Dave Conn (VE3KL) - Exploring Off Centre Fed and Centre Fed Loaded Antennas
 * Nov. 20, 2017 - Bryan Jeffrey (VE3UU) - Adventures from the Coldest Part of the Cold War
 * Dec. 18, 2017 - Annual Meeting and Christmas Party
+
+2018 meeting schedule - TBA
 
 ## Some Highlights of What's Coming
 
