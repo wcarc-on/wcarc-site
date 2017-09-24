@@ -1,6 +1,6 @@
 ---
 layout: minutes
-title: Minutes of the Regular Meeting on August 21, 2017 - DRAFT
+title: Minutes of the Regular Meeting on August 21, 2017
 ---
 
 The meeting was held at the Sobey's in Kanata (March Rd. location).
@@ -38,7 +38,7 @@ We have 22 paid up members and $494 in the bank.
 
 ### Vice President's Report
 
-The September 18 presenter will be Tyler (VA3DGN) and the subject will be "An Introduction to GitHub".
+The September 18 presenter will be Tyler (VA3DGN) and the subject will be "An Introduction to Git, GitHub and GitLab".
 October will be Dave Conn and the subject will be off-center fed antennas.
 Brian (VE3UU) will be the November speaker.
 The club has a table at the Carp Hamfest.
