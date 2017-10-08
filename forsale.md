@@ -9,7 +9,7 @@ Both WCARC members and non-members are invited to make an offer on any of the li
 
 -----
 
-### Keithley (div. Tektronix) 2000
+### Keithley (div. Tektronix) Model 2000
 
 ![Keithley 2000](images/forsale-k2000-small.jpg)
 
