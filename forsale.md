@@ -37,4 +37,4 @@ Oscilloscope calibrator DC and pulse. 1 mV to 100 V; 1 µsec to 0.5 sec.
 
 ![Micronta 22-8230](images/forsale-22-8230-small.jpg)
 
-Variable DC power supply. 0 to 24 volts, up to 100 mA, current limiting.
+Variable DC power supply. 0 to 24 volts, up to 1 A, current limiting.
