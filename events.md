@@ -5,11 +5,16 @@ title: WCARC Events
 
 ## Upcoming WCARC Meetings/Speakers/Topics
 
-* Oct. 16, 2017 - Dave Conn (VE3KL) - Exploring Off Centre Fed and Centre Fed Loaded Antennas
-* Nov. 20, 2017 - Bryan Jeffrey (VE3UU) - Adventures from the Coldest Part of the Cold War
+* Nov. 20, 2017 - Ralph Cameron (VE3BBM) - Building the Grande-Prairie to Alaska Microwave
+System
 * Dec. 18, 2017 - Annual Meeting and Christmas Party
-
-2018 meeting schedule - TBA
+* Jan. 15, 2018 - Ron McFadyen (VE3YXY, ex-VY1CBC) - Amateur Repeater Builds above 7000 ft.
+* Feb. 19, 2018 - Clayton Smith (VE3IRR) - Software Defined Radio Update
+* Mar. 19, 2018 - Brian Jeffrey (VE3UU) - Adventures from the Coldest Part of the Cold War
+* Apr. 16, 2018 - Clayton Smith (VE3IRR) - June VHF Contest Advance Planning
+* May 21, 2018 - Bert Zauhar (VE2ZAZ) - Topic TBA
+* June 18, 2018 - TBA
+* July 16, 2018 - Clayton Smith (VE3IRR) - June HF Contest Recap
 
 ## Some Highlights of What's Coming
 
