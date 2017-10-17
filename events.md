@@ -9,7 +9,7 @@ title: WCARC Events
 System
 * Dec. 18, 2017 - Annual Meeting and Christmas Party
 * Jan. 15, 2018 - Ron McFadyen (VE3YXY, ex-VY1CBC) - Amateur Repeater Builds above 7000 ft.
-* Feb. 19, 2018 - Clayton Smith (VE3IRR) - Software Defined Radio Update
+* Feb. 12, 2018 - Clayton Smith (VE3IRR) - Software Defined Radio Update
 * Mar. 19, 2018 - Brian Jeffrey (VE3UU) - Adventures from the Coldest Part of the Cold War
 * Apr. 16, 2018 - Clayton Smith (VE3IRR) - June VHF Contest Advance Planning
 * May 21, 2018 - Bert Zauhar (VE2ZAZ) - Topic TBA
