@@ -1,6 +1,6 @@
 ---
 layout: minutes
-title: Minutes of the Regular Meeting on September 18, 2017 - DRAFT
+title: Minutes of the Regular Meeting on September 18, 2017
 ---
 
 The meeting was held at the Sobey's in Kanata (March Rd. location).
@@ -78,7 +78,6 @@ Hams on the Quebec side are trying to connect to the YMCA and installing a new n
 
 * Glenn (VE3XRA) and Tyler (VA3DGN) talked about the NVIS event scheduled for September 24 and what was done last year.
 * Glenn (VE3XRA) showed pictures taken during the September microwave contest and gave a quick update on the RAC AGM and the presentations which were given.
-* Doug (VE3XK) mentioned that he was in discussion with the Sobey's store so that we wouldn't need to schedule on a monthly basis anymore.
 * Clayton (VE3IRR) showed information on the new the LimeSDR Mini project.
 
 ### Speaker
