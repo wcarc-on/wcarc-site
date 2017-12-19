@@ -17,11 +17,11 @@ The club had a full schedule of interesting presentations.  [Materials](presenta
 
 * Bert Zauhar (VE2ZAZ) – Surface Mount Soldering
 * Jeremy Jones (VA3ZTF) – 2.4 and 5 Ghz Wi-Fi network experience in Iraq
-* Paul Coverdale (VE3ICV) – Vector Network Analyzers
-* Jeremy Jones (VA3ZTF) – Grounding and Bonding
-* Wayne Getchell (VE3CZO) – A Bit about Batteries
-* Tyler Tidman (VA3DGN) – An Introduction to Git, GitHub and GitLab
-* Dave Conn (VE3KL) – Exploring Off-Centre Fed and Centre Fed Loaded Antennas
+* Paul Coverdale (VE3ICV) – [Vector Network Analyzers](../presentations/ve3icv_vector_network_analyzers.pdf)
+* Jeremy Jones (VA3ZTF) – [Grounding and Bonding](../presentations/grounding-and-bonding-by-va3ztf-20170717.pdf)
+* Wayne Getchell (VE3CZO) – [A Bit about Batteries](../presentations/a_bit_about_batteries_ve3czo.pdf)
+* Tyler Tidman (VA3DGN) – [An Introduction to Git, GitHub and GitLab](https://tylert.github.io/git-slides/git.svg#1_0)
+* Dave Conn (VE3KL) – [Exploring Off-Centre Fed and Centre Fed Loaded Antennas](../presentations/ve3kl_off_centre_fed_antennas.pdf)
 * Ralph Cameron (VE3BBM) – Building the Grand Prairie to Alaska Microwave system
 
 Attendance at this year's meetings was up compared to last year, averaging around 15:
@@ -45,7 +45,7 @@ The Ottawa Valley Upper Frequencies SSB Net continued to operate weekly througho
 
 The Club's website was overhauled over the course of 2017.  It's now hosted by Amazon, which has improved speed and reliability.  Web pages are automatically generated from template files using a static site generator (Jekyll), and all changes are tracked using a revision control system (git).  All existing content has been preserved during the transition, and presentations have been converted from PowerPoint to the more accessible PDF format.
 
-On September 25, Club member Paul Boltwood (VE3PLE) passed away.  Paul had been a member of WCARC since obtaining his amateur radio certificate with Advanced Qualification in 2014.  His contributions to the Club included substantial help with measurements and connectorization of the coax, heliax and rotator cables for the June Contest, hosting the VHF/UHF beacons and design and construction of the 2m WSPR beacon (in progress). He also made presentations on WSPR (March 2015) and amateur astronomy (September 2016).  Paul and his wife Lee donated his amateur radio and test equipment to the club for auction to club members and local friends who would be able to use and enjoy it (with proceeds going to the club for future expenses and projects).  This donation made a significant boost to the Club's finances.  The WCARC Executive and members sincerely appreciate the generosity of the Boltwood family.
+On September 25, Club member Paul Boltwood (VE3PLE) passed away.  Paul had been a member of WCARC since obtaining his amateur radio certificate with Advanced Qualification in 2014.  His contributions to the Club included substantial help with measurements and connectorization of the coax, heliax and rotator cables for the June Contest, hosting the VHF/UHF beacons and design and construction of the 2m WSPR beacon (in progress). He also made presentations on [WSPR (March 2015)](presentations/20150303_wspr_by_ve3ple.pdf) and amateur astronomy (September 2016).  Paul and his wife Lee donated his amateur radio and test equipment to the club for auction to club members and local friends who would be able to use and enjoy it (with proceeds going to the club for future expenses and projects).  This donation made a significant boost to the Club's finances.  The WCARC Executive and members sincerely appreciate the generosity of the Boltwood family.
 
 The Club's 6m, 2m, 1.25m and 70cm beacons continue to operate from the Boltwood home in Stittsville.  The beacons have been operating well, and can be heard easily throughout most of the Ottawa area.  The Club receives occasional reports of distant reception.  The Club's 33cm and 23cm beacons, located on the roof of the YMCA in downtown Ottawa, continue to function well.
 
