@@ -15,7 +15,7 @@ The Club's 6m, 2m, 1.25m and 70cm beacons continue to operate from the home of P
 
 The Ottawa-Gatineau Broadband-Hamnet, one of the Club’s projects, continues to expand with over 40 nodes now on the mesh network.  Since last year, many more Gatineau stations have joined the network.  Several Stittsville-area stations have succeeded in forming a small mesh, but have not yet been able to connect with the Ottawa-Gatineau mesh.  Further information about the Club's efforts can be found at [http://ve2zaz.net/BBHN-Ottawa_www/](http://ve2zaz.net/BBHN-Ottawa_www/).
 
-The club had a full schedule of interesting presentations.  [Materials](presentations.html) from many of them are available on the club's web site.
+The club had a full schedule of interesting presentations.  [Materials](../presentations.html) from many of them are available on the club's web site.
 
 * Bert Zauhar (VE2ZAZ) – An Electronically Disciplined Mechanical Pendulum
 * Glenn MacDonell (VE3XRA) – Amateur Radio in Canada & RAC

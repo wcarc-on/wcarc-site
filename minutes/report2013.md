@@ -22,7 +22,7 @@ Early in the year, Rick (VE3CVG) built and installed two beacons for the club, o
 These complement the club's existing 6m, 2m, 1.25m and 70cm beacons, which are located in Almonte and maintained by Doug (VE3XK).  In the fall, repairs to the
 antenna support for the 6m beacon were performed by Phil (VE3CIQ) assisted by Dale Hennigar (VE3XZT) and Doug (VE3XK).
 
-The club had a full schedule of interesting presentations. [Materials](presentations.html) from many of them are available on the club's web site.
+The club had a full schedule of interesting presentations. [Materials](../presentations.html) from many of them are available on the club's web site.
 
 * Bert (VE2ZAZ) - Fibre optic communication
 * Dave (VE3AAQ) - Ham Radio Culture Shock

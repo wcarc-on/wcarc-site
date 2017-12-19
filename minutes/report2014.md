@@ -15,7 +15,7 @@ The Club's 6m, 2m, 1.25m and 70cm beacons, located in Almonte, had to be taken o
 
 Club members Bert (VE2ZAZ), Rick (VE3CVG), Ying (VA3YH) and Clayton (VE3IRR) set up 2.4 GHz Broadband-Hamnet mesh nodes at three sites: Aylmer, downtown Ottawa and Kanata.  An 11-km Aylmer-Kanata link and a 21-km Kanata-Ottawa link now operate permanently.  Several other members are experimenting with Broadband-Hamnet equipment and hope to join the mesh network in the coming year.  Further information about the Club's efforts can be found at [http://ve2zaz.net/BBHN-Ottawa_www/](http://ve2zaz.net/BBHN-Ottawa_www/).
 
-The club had a full schedule of interesting presentations. [Materials](presentations.html) from many of them are available on the club's web site.
+The club had a full schedule of interesting presentations. [Materials](../presentations.html) from many of them are available on the club's web site.
 
 * Bert Zauhar (VE2ZAZ) - Voice over IP Telephony on the Raspberry Pi
 * Bob MacKenzie (VA3RKM) - Building Antennas

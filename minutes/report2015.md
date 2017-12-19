@@ -15,7 +15,7 @@ For the first half of the year, the Club's 2m, 1.25m and 70cm beacons operated f
 
 Club members Bert VE2ZAZ, Rick VE3CVG, Ying VA3YH and Clayton VE3IRR expanded the Broadband-Hamnet network, adding a 5.8 GHz link between Kanata and downtown Ottawa, and connecting Dave VE3KMV and Colin VE3CWQ to the mesh.  Tyler VA3DGN and Duane VA3ODD were also able to connect to the network, and may join as permanent nodes in the coming year.  Further information about the Club's efforts can be found at [http://ve2zaz.net/BBHN-Ottawa_www/](http://ve2zaz.net/BBHN-Ottawa_www/).
 
-The club had a full schedule of interesting presentations.  [Materials](presentations.html) from many of them are available on the club's web site.
+The club had a full schedule of interesting presentations.  [Materials](../presentations.html) from many of them are available on the club's web site.
 
 * Tyler Tidman (VA3DGN) – CHIRP
 * Paul Boltwood (VE3PLE) – Flex 1500 & WSPR

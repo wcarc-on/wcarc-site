@@ -13,7 +13,7 @@ The contest operators were Bill VE3MMQ, Ray VE3FN, Bert VE2ZAZ, Luc VE3JGL, Doug
 
 The Ottawa-Gatineau Broadband-Hamnet, one of the Club’s projects, continues to grow with 35-45 nodes on the mesh network at any given time.  Since last year, more Gatineau stations have joined the network.  Further information about the Club's efforts can be found at [http://ve2zaz.net/BBHN-Ottawa_www/](http://ve2zaz.net/BBHN-Ottawa_www/).
 
-The club had a full schedule of interesting presentations.  [Materials](presentations.html) from many of them are available on the club's web site.
+The club had a full schedule of interesting presentations.  [Materials](../presentations.html) from many of them are available on the club's web site.
 
 * Bert Zauhar (VE2ZAZ) – Surface Mount Soldering
 * Jeremy Jones (VA3ZTF) – 2.4 and 5 Ghz Wi-Fi network experience in Iraq
