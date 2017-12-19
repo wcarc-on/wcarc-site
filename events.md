@@ -5,7 +5,6 @@ title: WCARC Events
 
 ## Upcoming WCARC Meetings/Speakers/Topics
 
-* Dec. 18, 2017 - Annual Meeting and Christmas Party
 * Jan. 15, 2018 - Ron McFadyen (VE3YXY, ex-VY1CBC) - Amateur Repeater Builds above 7000 ft.
 * Feb. 12, 2018 - Clayton Smith (VE3IRR) - Software Defined Radio Update
 * Mar. 19, 2018 - Brian Jeffrey (VE3UU) - Adventures from the Coldest Part of the Cold War
