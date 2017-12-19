@@ -3,11 +3,13 @@ layout: page
 title: Annual Report, 2017 - DRAFT
 ---
 
+*On December 18, 2017, President Clayton Smith (VE3IRR), delivered this Annual Report:*
+
 The West Carleton Amateur Radio Club had another productive year in 2017.  Among other activities, the Club participated in the ARRL June VHF Contest from grid square FN15 for the fourth year, and continued to grow its Broadband-Hamnet mesh network.
 
 In June, the Club once again competed in the ARRL June VHF Contest.  Like the past three years, the Corkery Community Centre was the base of operations, located in grid square FN15xg.  Donations and loans of station equipment played a big part in the success of the event.  Special thanks go to Ray VE3BVV and Wayne VE3CZO for their help with transportation, setup and tear-down, and to Doug VE3XK and Robert VE3BE for their help preparing the site in advance of the event.
 
-The contest operators were Bill VE3MMQ, Ray VE3FN, Bert VE2ZAZ, Luc VE3LUP, Doug VE3XK, Clayton VE3IRR, Andy VE3NVK, and Ray VE3BVV.  Many others visited the station and helped with planning and logistics. Conditions on the six metre band were poorer than last year, which limited the number of QSOs and multipliers on that band. But we were able to make better use of the time between sporadic E openings by making digital meteor scatter contacts, and improved our performance on most of the higher bands.  In all, we made 398 contacts (compared to 506 last year) for a total of 105,625 points (compared to 141,372 last year).  We retained our 1st place standing in Canada, while moving up to 8th place among unlimited multi-op stations (from 10th place last year).  Our score was 37th overall (compared to 36th last year).  Contacts were made on all amateur bands from 50 MHz to 24 GHz.  Microwave contacts made using SDRs, WiFi equipment, cordless phones and tellurometers continued to provide a big boost to our score.
+The contest operators were Bill VE3MMQ, Ray VE3FN, Bert VE2ZAZ, Luc VE3JGL, Doug VE3XK, Clayton VE3IRR, Andy VE3NVK, and Ray VE3BVV.  Many others visited the station and helped with planning and logistics. Conditions on the six metre band were poorer than last year, which limited the number of QSOs and multipliers on that band. But we were able to make better use of the time between sporadic E openings by making digital meteor scatter contacts, and improved our performance on most of the higher bands.  In all, we made 398 contacts (compared to 506 last year) for a total of 105,625 points (compared to 141,372 last year).  We retained our 1st place standing in Canada, while moving up to 8th place among unlimited multi-op stations (from 10th place last year).  Our score was 37th overall (compared to 36th last year).  Contacts were made on all amateur bands from 50 MHz to 24 GHz.  Microwave contacts made using SDRs, WiFi equipment, cordless phones and tellurometers continued to provide a big boost to our score.
 
 The Ottawa-Gatineau Broadband-Hamnet, one of the Club’s projects, continues to grow with 35-45 nodes on the mesh network at any given time.  Since last year, more Gatineau stations have joined the network.  Further information about the Club's efforts can be found at [http://ve2zaz.net/BBHN-Ottawa_www/](http://ve2zaz.net/BBHN-Ottawa_www/).
 
@@ -35,7 +37,7 @@ Attendance at this year's meetings was up compared to last year, averaging aroun
 * September: 13
 * October: 16
 * November: 20
-* December: ?
+* December: 15
 
 Membership was substantially higher than last year, with 25 regular members and three life members.  The increase in attendance and membership can likely be attributed to the change from Tuesday night to Monday night meetings made late in 2016.  This change was made to avoid a conflict with the Diefenbunker radio group’s meetings.  
 
