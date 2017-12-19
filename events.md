@@ -10,6 +10,7 @@ title: WCARC Events
 * Mar. 19, 2018 - Brian Jeffrey (VE3UU) - Adventures from the Coldest Part of the Cold War
 * Apr. 16, 2018 - Clayton Smith (VE3IRR) - June VHF Contest Advance Planning
 * May 21, 2018 - Bert Zauhar (VE2ZAZ) - Topic TBA
+* June 8-11, 2017 - **June VHF Contest 2018**
 * June 18, 2018 - TBA
 * July 16, 2018 - Clayton Smith (VE3IRR) - June HF Contest Recap
 
