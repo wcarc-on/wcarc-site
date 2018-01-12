@@ -111,7 +111,7 @@ expenditure. Single expenditures up to $100 may be approved by two Signing
 Officers and disclosed at the next general meeting. Expenditures exceeding $100
 shall require approval by a majority of the members at a general meeting.
 Expenditures exceeding $400 shall require 2 weeks notice prior to discussion at a
-general meting following which a majority vote will be held at the next
+general meeting following which a majority vote will be held at the next
 general meeting.
 11. Communication with Members: In addition to the use of e-mail for
 communications within the Club, the Club shall maintain a web site to facilitate
