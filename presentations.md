@@ -78,3 +78,4 @@ For a list of meeting dates, speakers and topics, please see our [events page](e
 * [A Bit about Batteries by Wayne Getchell VE3CZO (August 21, 2017)](presentations/a_bit_about_batteries_ve3czo.pdf)
 * [An Introduction to Git, GitHub and GitLab by Tyler Tidman VA3DGN (September 18, 2017)](https://tylert.github.io/git-slides/git.svg#1_0)
 * [Exploring Off Centre Fed and Centre Fed Loaded Antennas by Dave Conn VE3KL (October 16, 2017)](presentations/ve3kl_off_centre_fed_antennas.pdf)
+* [Building the Grande-Prairie to Alaska Microwave System by Ralph Cameron VE3BBM (November 20, 2017)](presentations/ve3bbm_building_microwave_system.pdf)
