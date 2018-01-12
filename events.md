@@ -5,14 +5,21 @@ title: WCARC Events
 
 ## Upcoming WCARC Meetings/Speakers/Topics
 
-* Jan. 15, 2018 - Ron McFadyen (VE3YXY, ex-VY1CBC) - Amateur Repeater Builds above 7000 ft.
-* Feb. 12, 2018 - Clayton Smith (VE3IRR) - Software Defined Radio Update
-* Mar. 19, 2018 - Brian Jeffrey (VE3UU) - Adventures from the Coldest Part of the Cold War
-* Apr. 16, 2018 - Clayton Smith (VE3IRR) - June VHF Contest Advance Planning
-* May 21, 2018 - Bert Zauhar (VE2ZAZ) - Topic TBA
+* Jan. 15, 2018 – Ron McFadyen (VE3YXY, ex-VY1CBC) – Amateur Repeater Builds above 7000 ft. (Building the mountain-top Yukon FM network and the Whitehorse D-STAR repeaters)
+* **Feb. 12, 2018**\* – Clayton Smith (VE3IRR) – Software Defined Radio Update
+* Mar. 19, 2018 – Richard Ferch (VE3KI) – Panoramic Spectrum Displays for Amateur Transceivers
+* Apr. 16, 2018 – Clayton Smith (VE3IRR) – June VHF Contest Advance Planning
+* May 21, 2018 – Brian Jeffrey (VE3UU) – Adventures from the Coldest Part of the Cold War
 * June 8-11, 2017 - **June VHF Contest 2018**
-* June 18, 2018 - TBA
-* July 16, 2018 - Clayton Smith (VE3IRR) - June HF Contest Recap
+* June 18, 2018 – Clayton Smith (VE3IRR) – June HF Contest Recap
+* July 16, 2018 – Bryan Rawlings (VE3QN) – A Wire to the New World (The Trans-Atlantic Cable)
+* Aug. 20, 2018 – Alan Goodacre (VE3HX) – Long-Delayed Echoes
+* Sep. 17, 2018 – Bert Zauhar (VE2ZAZ) – Title to be advised
+* Oct. 15, 2018 – Marcus Leech (VE3MDL) – “Radio Astronomy at CCERA and the 21cm Dual-Channel Spectrometer
+* Nov. 19, 2018 – David Conn (VE3KL) – Title to be advised
+* Dec. 17, 2018 – Annual Meeting and Christmas Party
+
+\* Note: The February meeting has moved to the second Monday due to Sobey's being closed Family Day.
 
 ## Some Highlights of What's Coming
 
