@@ -79,7 +79,7 @@ Robert (VE3BE) reports that the Insurance forms have been filled out.
 * Jeremy (VA3ZTF) has some used coax that is available, and reminded the group that the RAC Winter Contest will be held this coming weekend, with a station operating from the Diefenbunker.
 * Doug (VE3XK) mentioned the improvements to the WCARC website.
 
-### Annual Repeort
+### Annual Report
 
 Clayton (VE3IRR) presented the [2017 Annual Report](report2017.html).
 He moved that the annual report be accepted as posted. The motion was seconded by Randy (VE3AX).
