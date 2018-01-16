@@ -1,6 +1,6 @@
 ---
 layout: minutes
-title: Minutes of the Annual General Meeting on December 18, 2017 - DRAFT
+title: Minutes of the Annual General Meeting on December 18, 2017
 ---
 
 The meeting was held at the Sobey's in Kanata (March Rd. location).
@@ -20,12 +20,11 @@ The following people were present:
 | Chris Bisaillion | VE3CBK    | Member         | FN25ai  | YES |  YES  |
 | Luc Pernot       | VE3JGL    | Member         | FN25ek  | YES |  YES  |
 | Andy Hart        | VE3NVK    | Member         | FN25bh  | YES |  YES  |
-| Jacques Bissinger | VA3JBI   | Visitor        | FN25    |     |       |
+| Jacques Bissinger | VA3JBI   | Member         | FN25ai  |     |  YES  |
 
 ### Opening
 
 The meeting was opened by the President, Clayton Smith (VE3IRR), at 19:05 hours.
-One visitor was in attendance.
 
 ### Secretary's Report
 
@@ -102,4 +101,4 @@ There was no scheduled speaker for the December meeting.
 ### Adjournment
 
 The President observed that there being no further business the meeting was
-adjourned at 19:41.
+adjourned at 19:41. The members then took part in the annual Christmas social.
