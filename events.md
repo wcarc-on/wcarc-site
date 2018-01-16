@@ -5,8 +5,7 @@ title: WCARC Events
 
 ## Upcoming WCARC Meetings/Speakers/Topics
 
-* Jan. 15, 2018 – Ron McFadyen (VE3YXY, ex-VY1CBC) – Amateur Repeater Builds above 7000 ft. (Building the mountain-top Yukon FM network and the Whitehorse D-STAR repeaters)
-* **Feb. 12, 2018**\* – Clayton Smith (VE3IRR) – Software Defined Radio Update
+* **Feb. 12, 2018**\* – Clayton Smith (VE3IRR) – What's New in Software Defined Radio?
 * Mar. 19, 2018 – Richard Ferch (VE3KI) – Panoramic Spectrum Displays for Amateur Transceivers
 * Apr. 16, 2018 – Clayton Smith (VE3IRR) – June VHF Contest Advance Planning
 * May 21, 2018 – Brian Jeffrey (VE3UU) – Adventures from the Coldest Part of the Cold War
