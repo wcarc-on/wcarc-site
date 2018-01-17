@@ -3,7 +3,7 @@ layout: page
 title: Special Information Attachment
 ---
 
-Year Beginning January 1<sup>st</sup> 2017
+Year Beginning January 1<sup>st</sup> 2018
 
 ## Meeting Location
 
@@ -14,7 +14,7 @@ Sobeys Community Room, 2<sup>nd</sup> floor, 840 March Road, Kanata, Ontario
 * Vice President: [Doug Leach (VE3XK)](mailto:ve3xk@bell.net)
 * Treasurer: [Robert Boyd (VE3BE)](mailto:rwboyd@yahoo.com)
 * Secretary: [Randy Nordlund (VE3AX)](mailto:randynordlund@hotmail.com)
-* Director: [Bert Zauhar (VE2ZAZ)](mailto:ve2zaz@rac.ca)
+* Director: Jeremy Jones (VA3ZTF)
 
 ## Appointees
 * Webmaster: [Clayton Smith (VE3IRR)](mailto:argilo@gmail.com)

@@ -7,7 +7,7 @@ title: Contacts
 * Vice President: [Doug Leach (VE3XK)](mailto:ve3xk@bell.net)
 * Treasurer: [Robert Boyd (VE3BE)](mailto:rwboyd@yahoo.com)
 * Secretary: [Randy Nordlund (VE3AX)](mailto:randynordlund@hotmail.com)
-* Director: [Bert Zauhar (VE2ZAZ)](mailto:ve2zaz@rac.ca)
+* Director: Jeremy Jones (VA3ZTF)
 
 ## Web Pages
 * Webmaster: [Clayton Smith (VE3IRR)](mailto:argilo@gmail.com)
