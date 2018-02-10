@@ -20,7 +20,7 @@ in last year's contest, the group was determined to regain their rightful positi
 (VA3OMP), Sam (VE3CMS), Andy (VE3NVK), Ray (VE3BBV), Allan (VA3FMN), Michael (VE3ARL), Bert (VE2ZAZ), several hams from Hamilton, and Air Cadets Erin, Kristin and Kristian.  In a very busy
 weekend, they were credited with XXX QSOs and XXX multipliers for a score of 86,335 points.  This was an improvement from the previous year, and made us top multiop station
 not just in our category in Canada, but also in all of the ARRL Central region!  Part of our resurgence can be attributed to increasing our multiplier totals by expanding into
-the 2.4 GHz band.  This was thanks in large part to Glenn (VE3XRA), who used WiFi equipment and helical antennas built by Claire (VE3NPC).  The sight of the antennas on tripods
+the 2.4 GHz band.  This was thanks in large part to Glenn (VE3XRA), who used WiFi equipment and helical antennas built by Clare (VE3NPC).  The sight of the antennas on tripods
 alongside country roads made many a driver slow down, fearing a police radar trap!
 
 The move into 2.4 GHz was sparked by the decision of many of the club's members to participate in a bulk purchase of 1-watt WiFi USB adaptors.  In addition to operating

@@ -51,7 +51,7 @@ We are proud to introduce our Life Members. These individuals have made extraord
 | VE3BYT | Graham Ide | Nepean | FN25ch |
 | VE3CZO | Wayne Getchell | Ottawa | FN25 |
 | VE3IRR | Clayton Smith | Kanata | FN25ai |
-| VE3NPC | Claire Fowler | Ottawa | FN25 |
+| VE3NPC | Clare Fowler | Ottawa | FN25 |
 | VE3NVK | Andy Hart | Kanata | FN25 |
 | VE3PLE | Paul Boltwood | Stittsville | FN25bg |
 
@@ -68,7 +68,7 @@ Note: List is incomplete.
 | VE3XK | Doug Leach | Stittsville | FN25 |
 | VA3KA | Ken Asmus | Carp | FN15wg |
 | VE3CVG | Rick Bandla | Cumberland | FN25hm |
-| VE3NPC | Claire Fowler | Ottawa | FN25 |
+| VE3NPC | Clare Fowler | Ottawa | FN25 |
 | VE3NVK | Andy Hart | Kanata | FN25 |
 | VE3XRA | Glenn MacDonell | Ottawa | FN25 |
 | VO1NO | Al Penney | Merrickville | FN24cw |
@@ -98,7 +98,7 @@ Note: List is incomplete.
 | VE3CVG | Rick Bandla | Cumberland | FN25hm |
 | VE3EFF | Jeff Milne | Stittsville | FN25 |
 | VE3ELM | Tom Bartello | Almonte | FN15 |
-| VE3NPC | Claire Fowler | Ottawa | FN25 |
+| VE3NPC | Clare Fowler | Ottawa | FN25 |
 | VE3NVK | Andy Hart | Kanata | FN25 |
 | VE3XRA | Glenn MacDonell | Ottawa | FN25 |
 | VE3XZT | Dale Hennigar | Almonte | FN15 |
@@ -136,7 +136,7 @@ Note: List is incomplete.
 | *VE3KEJ | Jim Bos | Fitzroy Hrbr | FN15 |
 | *VE3KID | Geoff Johnson | Fallowfield | FN25 |
 | *VE3KKB | Doug Griffith | Ashton | FN15 |
-| VE3NPC | Claire Fowler | Ottawa | FN25 |
+| VE3NPC | Clare Fowler | Ottawa | FN25 |
 | VE3NVK | Andy Hart | Kanata | FN25 |
 | VE3XRA | Glenn MacDonell | Ottawa | FN25 |
 | VE3XZT | Dale Hennigar | Almonte | FN15 |
@@ -170,7 +170,7 @@ Note: List is incomplete.
 | VE3IAO | John Christensen | Almonte | FN15 |
 | VE3IFP | Murray Pierce | Almonte | FN15 |
 | VE3MMQ | Bill Brown | Sharbot Lake | FN14 |
-| VE3NPC | Claire Fowler | Ottawa | FN25 |
+| VE3NPC | Clare Fowler | Ottawa | FN25 |
 | VE3NVK | Andy Hart | Kanata | FN25 |
 | VE3UIN | Andrew Wollin | Kingston | FN |
 | VA3UNK | Harold Hamilton | Ottawa | FN25dj |
