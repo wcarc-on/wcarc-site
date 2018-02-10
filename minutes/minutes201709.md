@@ -15,7 +15,7 @@ The following people were present:
 | Luc Pernot       | VE3JGL    | Visitor        | FN25ek  | YES |       |
 | Glenn MacDonell  | VE3XRA    | Member         | FN25dj  | YES |  YES  |
 | Jeremy Jones     | VA3ZTF    | Member         | FN25ag  | YES |  YES  |
-| Remi De Christofaro | VA3DRI | Member         | FN25bh  | YES |  YES  |
+| Remi De Cristofaro | VA3DRI  | Member         | FN25bh  | YES |  YES  |
 | Margaret Tidman  | VA3VXN    | Member         | FN25ai  | YES |  YES  |
 | Robert Boyd      | VE3BE     | Treasurer      | FN25dj  | YES |  YES  |
 | Tyler Tidman     | VA3DGN    | Member         | FN25ai  | YES |  YES  |

@@ -13,7 +13,7 @@ The following people were present:
 | Clayton Smith    | VE3IRR    | President      | FN25ai  | YES |  YES  |
 | Doug Leach       | VE3XK     | Vice-President | FN25bf  | YES |  YES  |
 | Jeremy Jones     | VA3ZTF    | Member         | FN25ag  | YES |  YES  |
-| Remi De Christofaro | VA3DRI | Member         | FN25bh  | YES |  YES  |
+| Remi De Cristofaro | VA3DRI  | Member         | FN25bh  | YES |  YES  |
 | Robert Boyd      | VE3BE     | Treasurer      | FN25dj  | YES |  YES  |
 | Peter Jago       | VA3PJ     | Member         | FN25ag  | YES |  YES  |
 | Wayne Getchell   | VE3CZO    | Member         | FN25    | YES |  YES  |

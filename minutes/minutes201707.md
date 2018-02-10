@@ -18,7 +18,7 @@ The following people were present:
 | Jeremy Jones     | VA3ZTF    | Member         | FN25ag  | YES |  YES  |
 | Clare Fowler     | VE3NPC    | Member         | FN25dj  | YES |  YES  |
 | Bob Harrington   | VE3YYG    | Member         | FN25bh  | YES |  YES  |
-| Remi De Christofaro | VA3DRI | Visitor        |         | YES |       |
+| Remi De Cristofaro | VA3DRI  | Visitor        |         | YES |       |
 | Chris Charland   | VE3OXU    | Visitor        | FN25bg  | YES |       |
 | Morrie Lightman  | VE3KML    | Visitor        | FN25di  |     |       |
 | Thane Brown      | VA3TTM    | Visitor        | FN25bi  |     |       |

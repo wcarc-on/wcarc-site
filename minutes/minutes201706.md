@@ -18,7 +18,7 @@ The following people were present:
 | Jeremy Jones     | VA3ZTF    | Member         | FN25ag  | YES |  YES  |
 | Clare Fowler     | VE3NPC    | Member         | FN25dj  | YES |  YES  |
 | Bob Harrington   | VE3YYG    | Member         | FN25bh  | YES |  YES  |
-| Remi De Christofaro | VA3DRI | Visitor        |         |     |       |
+| Remi De Cristofaro | VA3DRI  | Visitor        |         |     |       |
 | Paul Boltwood    | VE3PLE    | Member         | FN25bg  | YES |  YES  |
 
 ### Opening

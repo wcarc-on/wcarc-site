@@ -15,7 +15,7 @@ The following people were present:
 | Glenn MacDonell  | VE3XRA    | Member         | FN25dj  | YES |  YES  |
 | Richard Ferch    | VE3KI     | Member         | FN25ce  | YES |  YES  |
 | Clare Fowler     | VE3NPC    | Member         | FN25dj  | YES |  YES  |
-| Remi De Christofaro | VA3DRI | Visitor        | FN25bh  | YES |       |
+| Remi De Cristofaro | VA3DRI  | Visitor        | FN25bh  | YES |       |
 | Chris Bisaillion | VE3CBK    | Member         | FN25ai  | YES |  YES  |
 | Brian Jeffrey    | VE3UU     | Member         | FN15wi  | YES |  YES  |
 | Robert Boyd      | VE3BE     | Treasurer      | FN25dj  | YES |  YES  |
