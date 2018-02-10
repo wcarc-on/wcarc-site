@@ -18,7 +18,7 @@ The following people were present:
 | Robert Boyd      | VE3BE     | Treasurer      | FN25dj  | YES |  YES  |
 | Jeremy Jones     | VA3ZTF    | Member         | FN25ag  | YES |  YES  |
 | Glenn MacDonell  | VE3XRA    | Member         | FN25dj  | YES |  YES  |
-| Stuart Fedak     | VE3SMF    | Member         | FN25eh  | YES |       |
+| Stuart Fedak     | VE3SMF    | Visitor        | FN25eh  | YES |       |
 | Nick Shepherd    | VE3OWV    | Member         | FN15vk  | YES |  YES  |
 | Chris Bisaillion | VE3CBK    | Member         | FN25ai  | YES |  YES  |
 | Michael Kennedy  | VA3TEC    | Visitor        | FN25fl  |     |       |
