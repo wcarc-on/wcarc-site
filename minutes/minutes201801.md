@@ -1,6 +1,6 @@
 ---
 layout: minutes
-title: Minutes of the Regular Meeting on January 15, 2018 - DRAFT
+title: Minutes of the Regular Meeting on January 15, 2018
 ---
 
 The meeting was held at the Sobey's in Kanata (March Rd. location).
@@ -14,7 +14,7 @@ The following people were present:
 | Jeremy Jones     | VA3ZTF    | Director       | FN25ag  | YES |  YES  |
 | Randy Nordlund   | VE3AX     | Secretary      | FN25jg  | YES |  YES  |
 | Brian Jeffrey    | VE3UU     | Member         | FN15wi  | YES |  YES  |
-| Remi De Cristofaro | VA3DRI | Member         | FN25bh  | YES |  YES  |
+| Remi De Cristofaro | VA3DRI  | Member         | FN25bh  | YES |  YES  |
 | Robert Boyd      | VE3BE     | Treasurer      | FN25dj  | YES |  YES  |
 | Stuart Fedak     | VE3SMF    | Visitor        | FN25eh  | YES |       |
 | Glenn MacDonell  | VE3XRA    | Member         | FN25dj  | YES |  YES  |
