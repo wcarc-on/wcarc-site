@@ -12,6 +12,7 @@ For a list of meeting dates, speakers and topics, please see our [events page](e
 ### 2018
 
 * [Amateur Radio Repeater Builds Above 7000 Feet by Ron McFayden VE3YXY (January 15, 2018)](presentations/ve3yxy_yukon_repeater_builds.pdf) Note: The YARA Repeater Coverage map is reproduced with permission of the [Yukon Amateur Radio Association](http://yara.ca/).
+* [What's New in Software-Defined Radio? by Clayton Smith VE3IRR (February 12, 2018)](presentations/ve3irr_sdr_update.pdf)
 
 ### 2017
 
