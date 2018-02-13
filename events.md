@@ -5,7 +5,6 @@ title: WCARC Events
 
 ## Upcoming WCARC Meetings/Speakers/Topics
 
-* **Feb. 12, 2018**\* – Clayton Smith (VE3IRR) – What's New in Software Defined Radio?
 * Mar. 19, 2018 – Richard Ferch (VE3KI) – Panoramic Spectrum Displays for Amateur Transceivers
 * Apr. 16, 2018 – Clayton Smith (VE3IRR) – June VHF Contest Advance Planning
 * May 21, 2018 – Brian Jeffrey (VE3UU) – Adventures from the Coldest Part of the Cold War
@@ -17,8 +16,6 @@ title: WCARC Events
 * Oct. 15, 2018 – Marcus Leech (VE3MDL) – “Radio Astronomy at CCERA and the 21cm Dual-Channel Spectrometer
 * Nov. 19, 2018 – David Conn (VE3KL) – Title to be advised
 * Dec. 17, 2018 – Annual Meeting and Christmas Party
-
-\* Note: The February meeting has moved to the second Monday due to Sobey's being closed Family Day.
 
 ## Some Highlights of What's Coming
 
