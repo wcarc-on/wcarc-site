@@ -91,7 +91,7 @@ Nothing new to report.
 
 * Glenn (VE3XRA) mentioned the Canada-Wide Science Fair happening in May. Glenn talked about the experience operating in the Canadian Ski Marathon.
 * Tyler (VA3DGN) mentioned that there were Raspberry Pi activities at the Science Museum on March 3<sup>rd</sup> and 10<sup>th</sup>.
-* Chris (VE3CBK) mentioned that VE9PZ was activating Canadian lighthouses.
+* Chris (VE3CBK) mentioned that John (VE9EZ) was activating Canadian lighthouses.
 
 ### Adjournment
 
