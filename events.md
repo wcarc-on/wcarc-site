@@ -8,8 +8,8 @@ title: WCARC Events
 * Mar. 19, 2018 – Richard Ferch (VE3KI) – Panoramic Spectrum Displays for Amateur Transceivers
 * Apr. 16, 2018 – Clayton Smith (VE3IRR) – June VHF Contest Advance Planning
 * May 21, 2018 – Brian Jeffrey (VE3UU) – Adventures from the Coldest Part of the Cold War
-* June 8-11, 2017 - **June VHF Contest 2018**
-* June 18, 2018 – Clayton Smith (VE3IRR) – June HF Contest Recap
+* June 8-11, 2017 – **June VHF Contest 2018**
+* June 18, 2018 – Clayton Smith (VE3IRR) – June VHF Contest Recap
 * July 16, 2018 – Bryan Rawlings (VE3QN) – A Wire to the New World (The Trans-Atlantic Cable)
 * Aug. 20, 2018 – Alan Goodacre (VE3HX) – Long-Delayed Echoes
 * Sep. 17, 2018 – Bert Zauhar (VE2ZAZ) – Title to be advised
