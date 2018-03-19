@@ -11,7 +11,7 @@ In February, VE3AAQ (Dave Goodwin), President of Radio Amateurs of Canada, gave 
 
 In March, we initiated a group order of PCB antennas organised by Tom, VA3NFA, and Rick, VE3CVG and Doug, VE3XK gave a talk an demo on Tellurometers.
 
-In April we had discussions on Hydro Smart Meters that are using 900 Mhz; Dale, VE3XZT talked on WinDRM digital voice using the PC sound card; Rick, VE3CVG showed a 10GHz feed suitable for a 2 foot dish; and several members attended the Iroquois Flea Market. Also, D-STAR Ottawa (VA3ODG) became operational from the Ottawa YMCA HQ building on Argyle Street, Ottawa.
+In April we had discussions on Hydro Smart Meters that are using 900 MHz; Dale, VE3XZT talked on WinDRM digital voice using the PC sound card; Rick, VE3CVG showed a 10GHz feed suitable for a 2 foot dish; and several members attended the Iroquois Flea Market. Also, D-STAR Ottawa (VA3ODG) became operational from the Ottawa YMCA HQ building on Argyle Street, Ottawa.
 
 In May, the Club had a Diefenbunker Tour attended by several members and some family members. Also WCARC had a presence at the Stittsville Flea Market, along with demos, and giveways by OARDG members who are also members of WCARC.
 
@@ -23,6 +23,6 @@ In August, VE3NVK (Andy) showed his SoftRock-40 kit (40M SDR receiver); VO1NO sh
 
 In September, at the OARC Hamfest, WCARC had a club table, presentation by VA3NFA on Roving and VE3XK on D-STAR.
 
-In October, we discussed a potential future project (DX-pedition and balloon launch) promoted by Graham VE3BYT and earlier by Barry VE3BSB; Rick showed the 10Ghz DEMI transverter kit; discussion, led by VE8CF (Karl) on "Free Energy".
+In October, we discussed a potential future project (DX-pedition and balloon launch) promoted by Graham VE3BYT and earlier by Barry VE3BSB; Rick showed the 10GHz DEMI transverter kit; discussion, led by VE8CF (Karl) on "Free Energy".
 
 In November, Tom, VA3NFA donated a box of VHF engineering stuff for beacon use; we discussed a June 2008 VHF/UHF QSO Party DX-pedition; VE3BYT outlined a proposal for a comprehensive club project (e.g. balloon launch); VE3XK showed crimping tools for N connectors.

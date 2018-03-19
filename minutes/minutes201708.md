@@ -76,7 +76,7 @@ Nil.
 ### Announcements
 
 * Glenn (VE3XRA) mentioned that Industry Canada has just released a consultation document to implement the changes from World Radio Conference 2015 (WRC-15) including 60 meters.
-* Glenn also mentioned the upcoming 10Ghz and above contest weekends and the Carp Hamfest.
+* Glenn also mentioned the upcoming 10GHz and above contest weekends and the Carp Hamfest.
 * Doug (VE3XK) mentioned that someone will be checking QSL cards at the Hamfest.
 * Bert (VE2ZAZ) talked about an HF converter for RTL dongles and an LCD microscope.
 * Glenn (VE3XRA) and Peter (VA3PJ) talked about a new 5.7GHz transmitter and receiver.

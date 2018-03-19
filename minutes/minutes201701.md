@@ -46,7 +46,7 @@ The Motion was carried.
 
 Next month will be project night.
 We have speakers all set up to the end of the year.
-The speaker in March will be Jeremy Jones (VA3ZTF). He will speak about his 2.4 and 5 Ghz Wi-Fi network experience in Iraq.
+The speaker in March will be Jeremy Jones (VA3ZTF). He will speak about his 2.4 and 5 GHz Wi-Fi network experience in Iraq.
 
 ### Director's Report
 

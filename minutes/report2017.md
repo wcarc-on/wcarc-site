@@ -16,7 +16,7 @@ The Ottawa-Gatineau Broadband-Hamnet, one of the Club’s projects, continues to
 The club had a full schedule of interesting presentations.  [Materials](../presentations.html) from many of them are available on the club's web site.
 
 * Bert Zauhar (VE2ZAZ) – Surface Mount Soldering
-* Jeremy Jones (VA3ZTF) – 2.4 and 5 Ghz Wi-Fi network experience in Iraq
+* Jeremy Jones (VA3ZTF) – 2.4 and 5 GHz Wi-Fi network experience in Iraq
 * Paul Coverdale (VE3ICV) – [Vector Network Analyzers](../presentations/ve3icv_vector_network_analyzers.pdf)
 * Jeremy Jones (VA3ZTF) – [Grounding and Bonding](../presentations/grounding-and-bonding-by-va3ztf-20170717.pdf)
 * Wayne Getchell (VE3CZO) – [A Bit about Batteries](../presentations/a_bit_about_batteries_ve3czo.pdf)

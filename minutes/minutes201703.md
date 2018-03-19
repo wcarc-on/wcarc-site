@@ -91,11 +91,11 @@ Nil.
 
 * Randy (VE3AX) mentioned the NEWS VHF-UHF conference being held in Connecticut April 21.
 * Wayne (VE3CZO) mentioned that this was the last day to reserve the hotel rooms at the reduced price.
-* Randy showed the low cost Ukranian 50MHz – 28Mhz transverter from eBay.
+* Randy showed the low cost Ukranian 50MHz – 28MHz transverter from eBay.
 
 ### Speaker
 
-The speaker tonight is Jeremy VA3ZTF and the subject is his 2.4 and 5 Ghz Wi-Fi
+The speaker tonight is Jeremy VA3ZTF and the subject is his 2.4 and 5 GHz Wi-Fi
 network experience in Iraq.
 
 ### Adjournment

@@ -69,13 +69,13 @@ Following is a list of the WCARC beacons:
 
 ![900 MHz beacon antenna top view](images/900mhz_ant_top_01.jpg)
 
-![900 MHZ and 1296 MHz beacon module bottom](images/beacon_module_bottom_01.jpg)
+![900 MHz and 1296 MHz beacon module bottom](images/beacon_module_bottom_01.jpg)
 
-![900 MHZ and 1296 MHz beacon module top](images/beacon_module_top_01.jpg)
+![900 MHz and 1296 MHz beacon module top](images/beacon_module_top_01.jpg)
 
-![900 MHZ and 1296 MHz beacon PVC encapsulation](images/pvc_beacon_encapsulation_01.jpg)
+![900 MHz and 1296 MHz beacon PVC encapsulation](images/pvc_beacon_encapsulation_01.jpg)
 
-![900 MHZ and 1296 MHz beacon PVC crossarm](images/pvc_beacons_crossarm1.jpg)
+![900 MHz and 1296 MHz beacon PVC crossarm](images/pvc_beacons_crossarm1.jpg)
 
 ## Other Beacons
 

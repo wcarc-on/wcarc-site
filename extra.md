@@ -6,7 +6,7 @@ title: 2013 ARRL June VHF Contest & Grid Expedition
 * second full weekend in June. June 8-9, 2013
 * Begins 1800 UTC Saturday (i.e. 2pm local time), ends 0300 UTC Monday
 * see the [ARRL June VHF Contest](http://www.arrl.org/june-vhf) page for details.
-* 50MHZ and above, all modes
+* 50MHz and above, all modes
 * Exchange is 4 character Maidenhead Grid Square (i.e. FN25) and call
 
 ## 2013 Plans
