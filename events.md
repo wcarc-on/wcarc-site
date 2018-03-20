@@ -5,7 +5,6 @@ title: WCARC Events
 
 ## Upcoming WCARC Meetings/Speakers/Topics
 
-* Mar. 19, 2018 – Richard Ferch (VE3KI) – Panoramic Spectrum Displays for Amateur Transceivers
 * Apr. 16, 2018 – Clayton Smith (VE3IRR) – June VHF Contest Advance Planning
 * May 21, 2018 – Brian Jeffrey (VE3UU) – Adventures from the Coldest Part of the Cold War
 * June 8-11, 2017 – **June VHF Contest 2018**
