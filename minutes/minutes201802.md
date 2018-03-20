@@ -1,6 +1,6 @@
 ---
 layout: minutes
-title: Minutes of the Regular Meeting on February 12, 2018 (DRAFT)
+title: Minutes of the Regular Meeting on February 12, 2018
 ---
 
 The meeting was held at the Sobey's in Kanata (March Rd. location).
@@ -85,7 +85,7 @@ Nothing new to report.
 ### New Business
 
 * Clayton (VE3IRR) moved that we approve the $110 expense for the Corkery Community Centre for the June contest. The motion was seconded by Glenn (VE3XRA). The motion was carried.
-* Doug (VE3XK) presented the plan to have the club purchase a handheld VNA and new antennas for 222, 903, 1296 and 2304 MHz. A discussion followed with the members on what should be purchased, if it should all be at once and how the equipment could be lent out to the members.
+* Doug (VE3XK) presented the plan to have the club purchase a handheld VNA, handheld spectrum analyzer and new antennas for 222, 903, 1296 and 2304 MHz. A discussion followed with the members on what should be purchased, if it should all be at once and how the equipment could be lent out to the members.
 
 ### Announcements / Show & Tell
 
