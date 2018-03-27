@@ -7,7 +7,7 @@ title: WCARC Events
 
 * Apr. 16, 2018 – Clayton Smith (VE3IRR) – June VHF Contest Advance Planning
 * May 14, 2018\* – Brian Jeffrey (VE3UU) – Adventures from the Coldest Part of the Cold War
-* June 8-11, 2017 – **June VHF Contest 2018**
+* June 8-11, 2018 – **June VHF Contest 2018**
 * June 18, 2018 – Clayton Smith (VE3IRR) – June VHF Contest Recap
 * July 16, 2018 – Bryan Rawlings (VE3QN) – A Wire to the New World (The Trans-Atlantic Cable)
 * Aug. 20, 2018 – Alan Goodacre (VE3HX) – Long-Delayed Echoes
