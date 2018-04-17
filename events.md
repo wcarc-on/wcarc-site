@@ -5,7 +5,6 @@ title: WCARC Events
 
 ## Upcoming WCARC Meetings/Speakers/Topics
 
-* Apr. 16, 2018 – Clayton Smith (VE3IRR) – June VHF Contest Advance Planning
 * May 14, 2018\* – Brian Jeffrey (VE3UU) – Adventures from the Coldest Part of the Cold War
 * June 8-11, 2018 – **June VHF Contest 2018**
 * June 18, 2018 – Clayton Smith (VE3IRR) – June VHF Contest Recap
