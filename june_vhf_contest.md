@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 2017 ARRL June VHF Contest
+title: 2018 ARRL June VHF Contest
 ---
 
 Hi all,
 
-This weekend (June 9-12), the West Carleton Amateur Radio Club will participate in the ARRL June VHF contest. It will be our tenth year competing as a multi-operator station (VE3WCC), and our fourth year operating from the Corkery Community Centre, West of Ottawa.
+From June 8<sup>th</sup> to 11<sup>th</sup>, the West Carleton Amateur Radio Club will participate in the ARRL June VHF contest. It will be our 11<sup>th</sup> year competing as a multi-operator station (VE3WCC), and our fifth year operating from the Corkery Community Centre, West of Ottawa.
 
 Although we have scored very well in past years, this isn't our primary focus. More importantly, we want to have fun and encourage our members and visitors to try operating VHF and above. I encourage each and every one of you to come visit the station and try your hand at operating, even if it's only for a short time. VHF contests have a much more relaxed pace than HF contests, so anyone should be able to participate. No contesting experience is required.
 
@@ -22,7 +22,7 @@ President, WCARC
 What?
 -----
 
-The ARRL June VHF Contest: [http://www.arrl.org/june-vhf](http://www.arrl.org/june-vhf)
+The ARRL June VHF Contest: [https://www.arrl.org/june-vhf](https://www.arrl.org/june-vhf)
 
 Where?
 ------
@@ -35,7 +35,7 @@ Maidenhead grid square FN15xg
 When?
 -----
 
-Outdoor setup (towers, rotators, antennas, coax) will begin on Friday morning (June 9) around 09:30. We'll have access to the inside of the community centre starting around noon. Final setup will take place on Saturday morning. The contest begins at 14:00 (local) on Saturday (June 10) and continues until 23:00 (local) on Sunday (June 11). We'll dismantle the station on Monday morning (June 12) from about 08:30 to 11:30.
+Outdoor setup (towers, rotators, antennas, coax) will begin on Friday morning (June 8) around 09:30. We'll have access to the inside of the community centre starting around noon. Final setup will take place on Saturday morning. The contest begins at 14:00 (local) on Saturday (June 9) and continues until 23:00 (local) on Sunday (June 10). We'll dismantle the station on Monday morning (June 11) from about 08:30 to 11:30.
 
 What to bring?
 --------------
