@@ -5,7 +5,6 @@ title: WCARC Events
 
 ## Upcoming WCARC Meetings/Speakers/Topics
 
-* May 14, 2018\* – Brian Jeffrey (VE3UU) – Adventures from the Coldest Part of the Cold War
 * June 8-11, 2018 – **June VHF Contest 2018**
 * June 18, 2018 – Clayton Smith (VE3IRR) – June VHF Contest Recap
 * July 16, 2018 – Bryan Rawlings (VE3QN) – A Wire to the New World (The Trans-Atlantic Cable)
@@ -14,8 +13,6 @@ title: WCARC Events
 * Oct. 15, 2018 – Marcus Leech (VE3MDL) – Radio Astronomy at CCERA and the 21cm Dual-Channel Spectrometer
 * Nov. 19, 2018 – David Conn (VE3KL) – Title to be advised
 * Dec. 17, 2018 – Annual Meeting and Christmas Party
-
-\* Note: The May meeting has moved to the second Monday to avoid the Victoria Day holiday.
 
 ## Some Highlights of What's Coming
 
