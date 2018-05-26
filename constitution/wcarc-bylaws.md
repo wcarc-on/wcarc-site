@@ -107,11 +107,11 @@ Vice President, Secretary, Treasurer and Director.
 9. Signing of Cheques: Cheques drawn on the Club bank account MUST be signed
 by two of the five Signing Officers of the Club.
 10. Expenditures: Expenditures should be approved in advance, and prior to the actual
-expenditure. Single expenditures up to $100 may be approved by two Signing
-Officers and disclosed at the next general meeting. Expenditures exceeding $100
-shall require approval by a majority of the members at a general meeting.
-Expenditures exceeding $400 shall require 2 weeks notice prior to discussion at a
-general meeting following which a majority vote will be held at the next
+expenditure. Single expenditures up to $250 may be approved by two Signing
+Officers and disclosed at the next general meeting. Expenditures exceeding $250
+but less than $500 shall require approval by a majority of the members at a general meeting.
+Expenditures exceeding $500 shall be presented at a general meeting and opened for discussion
+on the WCARC email list, following which a majority vote will be held at the next
 general meeting.
 11. Communication with Members: In addition to the use of e-mail for
 communications within the Club, the Club shall maintain a web site to facilitate
