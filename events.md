@@ -5,7 +5,6 @@ title: WCARC Events
 
 ## Upcoming WCARC Meetings/Speakers/Topics
 
-* June 18, 2018 – Clayton Smith (VE3IRR) – June VHF Contest Recap
 * July 16, 2018 – Bryan Rawlings (VE3QN) – A Wire to the New World (The Trans-Atlantic Cable)
 * Aug. 20, 2018 – Alan Goodacre (VE3HX) – Long-Delayed Echoes
 * Sep. 17, 2018 – Bert Zauhar (VE2ZAZ) – Title to be advised
