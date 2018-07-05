@@ -18,25 +18,25 @@ Following is a list of the WCARC beacons:
 ### 6m - VE3WCC - 50.009MHz CW
 * status: fully operational
 * located in FN25bg
-* power is 3W
+* power is 1W
 * KU4AB Horizontal Omnidirectional Antenna (approx 5 dBi Gain) at about 25 ft AGL
 
 ### 2m - VE3WCC - 144.297MHz CW
 * status: fully operational
 * located in FN25bg
-* power is 3W
+* power is 2W
 * KU4AB Horizontal Omnidirectional Antenna (approx 5 dBi Gain) at about 25 ft AGL
 
 ### 1.25m - VE3WCC - 222.063MHz CW
 * status: fully operational
 * located in FN25bg
-* power is 3W
+* power is 2W
 * KU4AB Horizontal Omnidirectional Antenna (approx 5 dBi Gain) at about 25 ft AGL
 
 ### 70cm VE3WCC - 432.358MHz CW
 * status: fully operational
 * located in FN25bg
-* power is 3W
+* power is 1W
 * KU4AB Horizontal Omnidirectional Antenna (approx 5 dBi Gain) at about 25 ft AGL
 
 ### 33cm - VE3WCC - 903.360MHz CW
