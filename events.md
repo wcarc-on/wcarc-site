@@ -7,7 +7,7 @@ title: WCARC Events
 
 * July 16, 2018 – Bryan Rawlings (VE3QN) – A Wire to the New World (The Trans-Atlantic Cable)
 * Aug. 20, 2018 – Alan Goodacre (VE3HX) – Long-Delayed Echoes
-* Sep. 17, 2018 – Bert Zauhar (VE2ZAZ) – Title to be advised
+* Sep. 17, 2018 – Bert Zauhar (VE2ZAZ) – The beginner's top-10 lists of components, instruments and accessories
 * Oct. 15, 2018 – Marcus Leech (VE3MDL) – Radio Astronomy at CCERA and the 21cm Dual-Channel Spectrometer
 * Nov. 19, 2018 – David Conn (VE3KL) – Title to be advised
 * Dec. 17, 2018 – Annual Meeting and Christmas Party
