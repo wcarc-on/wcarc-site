@@ -1,9 +1,16 @@
 .home h1 { font-size: 280%; }
 .home h2 { font-size: 200%; }
 
+.home .home-content { text-align: center; }
+
 .home .note { color: purple; }
 .home .small { font-size: 80%; }
 .home .next-meeting { background-color: yellow; }
+
+.header-logo {
+  float: left;
+  padding: 0.5em;
+}
 
 ul.navmenu {
   list-style-type: none;
@@ -38,4 +45,16 @@ ul.navmenu li {
 
 div.post-content > ol > li > ol {
   list-style-type: lower-alpha;
+}
+
+.gmap-iframe {
+  border: 0;
+}
+
+.red {
+  color: red;
+}
+
+.picture-frame {
+  border: 1px solid black;
 }

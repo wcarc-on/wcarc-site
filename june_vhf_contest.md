@@ -30,7 +30,7 @@ Where?
 Corkery Community Centre, 3447 Old Almonte Road, Carp, ON  
 Maidenhead grid square FN15xg
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d89870.12609831354!2d-76.1314487!3d45.2590866!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cd2046aedc31bc1%3A0x198dda441bc97b10!2s3447+Old+Almonte+Rd%2C+Carp%2C+ON+K0A+1L0!5e0!3m2!1sen!2sca!4v1496709063882" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d89870.12609831354!2d-76.1314487!3d45.2590866!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cd2046aedc31bc1%3A0x198dda441bc97b10!2s3447+Old+Almonte+Rd%2C+Carp%2C+ON+K0A+1L0!5e0!3m2!1sen!2sca!4v1496709063882" width="600" height="450" frameborder="0" class="gmap-iframe" allowfullscreen></iframe>
 
 When?
 -----
