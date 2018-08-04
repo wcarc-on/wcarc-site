@@ -75,7 +75,6 @@ down for this year.
 * volunteer radio operators are always needed
 * spare radios are needed
 * Contact Harold VA3UNK radio1@admin2.ca, va3unk@rac.ca, va3unk@gmail.com
-* radio assignments and operating info will be posted at [http://www.radio-1.ca](http://www.radio-1.ca)
 
 ### Iroquois Flea Market
 * First Saturday in April ?, Vendors 0800hrs, Public 0900hrs

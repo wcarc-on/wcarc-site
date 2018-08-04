@@ -34,7 +34,7 @@ As you know, the exemption was due to expire at the end of this calendar year, a
 
 The only other groups to obtain an extension are commercial, public transit, and public function drivers.
 
-You can view the [notice in the provincial registry](http://www.ontariocanada.com/registry/view.do?postingId=9043&language=en).
+You can view the [notice in the provincial registry](https://www.ontariocanada.com/registry/view_posting.jsp?language=en&postingId=9043).
 
 RAC and the Distracted Driving Committee wishes to thank all organizations that supplied letters of support to assist us in obtaining this extension. This shows the support we have from many Ontario organizations.
 
@@ -50,6 +50,6 @@ The Toronto FM Communications Society had a director, Neil VE3SST representing t
 
 * [Ministry of Transportation - Ontario's New Rules For Hand-Held Wireless And Entertainment Devices](http://news.ontario.ca/mto/en/2009/09/ontarios-new-rules-for-hand-held-wireless-and-entertainment-devices.html)
 * [Ontario Regulation 366/09 of the HTA or Highway Traffic Act](http://www.e-laws.gov.on.ca/html/source/regs/english/2009/elaws_src_regs_r09366_e.htm)
-* [RAC or Radio Amateurs of Canada Blog](http://blog.rac.ca/)
+* RAC (Radio Amateurs of Canada) Blog
 
 [Web master's Note: Further to above, RAC Bulletin 2011-034E, entitled RAC Distracted Driving Committee meets with MTO Officials 2011-10-27 has been issued to Radio Amateurs. This bulletin describes RAC meetings with Provincial Government officials and states that Ontario has committed to consult with RAC early in 2012 on this matter so a permanent solution can be found prior to January 2013.]

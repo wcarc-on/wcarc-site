@@ -241,7 +241,7 @@ Lord Elgin Hotel, Ottawa, Ontario, Canada
 * Continuous path testing. Automatic compensation for fading and interference?
 
 ## Internet Resources
-* [http://home.teleport.com/~nb6z/frame.htm](http://home.teleport.com/~nb6z/frame.htm)
+* [http://myplace.frontier.com/~nb6z/frame.htm](http://myplace.frontier.com/~nb6z/frame.htm)
   - Great source of technical information
 * [http://www.aintel.bi.ehu.es/psk31.html](http://www.aintel.bi.ehu.es/psk31.html)
   - The "Official PSK31 Homepage"
@@ -249,7 +249,7 @@ Lord Elgin Hotel, Ottawa, Ontario, Canada
   - Interface designs, links etc.
 * [http://psk31.com/](http://psk31.com/)
   - Lots of information
-* [http://mmhamsoft.ham-radio.ch/](http://mmhamsoft.ham-radio.ch/)
+* [http://hamsoft.ca/pages/mmsstv.php](http://hamsoft.ca/pages/mmsstv.php)
   - Slow scan TV
 * [http://www.arrl.org/tis/info/HTML/psk31/index.html](http://www.arrl.org/tis/info/HTML/psk31/index.html)
   - PSK31 information
@@ -267,7 +267,7 @@ Lord Elgin Hotel, Ottawa, Ontario, Canada
   - [http://www.smallwonderlabs.com](http://www.smallwonderlabs.com)
 
 ## Acknowledgements
-* Thanks to NB6Z for providing some materials for this presentation: [http://home.teleport.com/~nb6z/frame.htm](http://home.teleport.com/~nb6z/frame.htm)
+* Thanks to NB6Z for providing some materials for this presentation: [http://myplace.frontier.com/~nb6z/frame.htm](http://myplace.frontier.com/~nb6z/frame.htm)
 
 ## Email Us
 * Ken [va3ka@rac.ca](mailto:va3ka@rac.ca)
