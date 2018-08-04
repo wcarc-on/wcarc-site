@@ -6,21 +6,21 @@ title: Minutes of the Regular Meeting on September 6, 2016
 The meeting was held at the Sobey's in Stittsville.
 The following people were present:
 
-| Name            | Call Sign | Position       | MH Grid | RAC | WCARC |
-|-----------------|-----------|----------------|---------|:---:|:-----:|
-| Glenn MacDonell | VE3XRA    | Member         | FN25dj  | YES |  YES  |
-| Bertrand Zauhar | VE2ZAZ    | Director       | FN25bk  | YES |  YES  |
-| Wayne Getchell  | VE3CZO    | Member         | FN25    | YES |  YES  |
-| Clayton Smith   | VE3IRR    | President      | FN25ai  | YES |  YES  |
-| Doug Leach      | VE3XK     | Vice-President | FN25bf  | YES |  YES  |
-| Peter Jago      | VA3PJ     | Member         | FN25ag  | YES |  YES  |
-| Graham Ide      | VE3BYT    | Member         | FN25ch  | YES |  YES  |
-| Randy Nordlund  | VE3AX     | Secretary      | FN25jg  | YES |  YES  |
-| Andy Hart       | VE3NVK    | Treasurer      | FN25bh  | YES |  YES  |
-| Robert Boyd     | VE3BE     | Visitor        | FN25    |     |       |
-| Clare Fowler    | VE3NPC    | Member         | FN25dj  | YES |  YES  |
-| Rich Ferch      | VE3KI     | Member         | FN25ce  | YES |  YES  |
-| Paul Boltwood   | VE3PLE    | Member         | FN25bg  | YES |  YES  |
+| Name             | Call Sign | Position       | MH Grid | RAC | WCARC |
+|------------------|-----------|----------------|---------|:---:|:-----:|
+| Glenn MacDonell  | VE3XRA    | Member         | FN25dj  | YES |  YES  |
+| Bertrand Zauhar  | VE2ZAZ    | Director       | FN25bk  | YES |  YES  |
+| Wayne Getchell   | VE3CZO    | Member         | FN25    | YES |  YES  |
+| Clayton Smith    | VE3IRR    | President      | FN25ai  | YES |  YES  |
+| Doug Leach       | VE3XK     | Vice-President | FN25bf  | YES |  YES  |
+| Peter Jago       | VA3PJ     | Member         | FN25ag  | YES |  YES  |
+| Graham Ide       | VE3BYT    | Member         | FN25ch  | YES |  YES  |
+| Randy Nordlund   | VE3AX     | Secretary      | FN25jg  | YES |  YES  |
+| Andy Hart        | VE3NVK    | Treasurer      | FN25bh  | YES |  YES  |
+| Robert Boyd      | VE3BE     | Visitor        | FN25    |     |       |
+| Clare Fowler     | VE3NPC    | Member         | FN25dj  | YES |  YES  |
+| Rich Ferch       | VE3KI     | Member         | FN25ce  | YES |  YES  |
+| Paul Boltwood    | VE3PLE    | Member         | FN25bg  | YES |  YES  |
 
 ### Opening
 
