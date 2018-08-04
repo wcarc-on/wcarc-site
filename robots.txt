@@ -1,3 +1,2 @@
 User-agent: *
-Disallow: /minutes/
-Disallow: /membership.html
+Disallow:
