@@ -18,7 +18,7 @@ title: Web Links
 * [Central States VHF Society](http://www.csvhfs.org/)
 * [St Lawrence Valley Repeater Council](http://www.slvrc.org/)
 * [Upper NY Repeater Council](http://www.unyrepco.org/)
-* [Western NY and Southern Ontario Repeater Council](http://www.wnysorc.org/)
+* [Western NY and Southern Ontario Repeater Council](https://wnysorc.net/)
 
 ## Members' Web Sites
 * [Bert (VE2ZAZ)](http://ve2zaz.net/)
@@ -35,7 +35,7 @@ title: Web Links
 * [Almonte Amateur Radio Club (AARC)](http://www.almontearclub.ca/Almonte_Amateur_Radio_Club/Welcome.html)
 * [Ottawa Valley Mobile Radio Club (OVMRC)](http://www.ovmrc.on.ca)
 * [Ottawa Amateur Radio Club (OARC)](http://www.oarc.net)
-* [Quinte Amateur Radio Club (QARC)](http://www.qarc.on.ca/)
+* [Quinte Amateur Radio Club (QARC)](https://www.qarc.on.ca/)
 * [Kingston Amateur Radio Club (KARC)](http://www.ve3kbr.com/)
 * [Montreal Amateur Radio Club (MARC)](http://www.marc.qc.ca)
 * [Ottawa Amateur Radio Digital Group (OARDG) D-STAR](http://va3odg.webqth.com/)
@@ -44,7 +44,6 @@ title: Web Links
 * [KB7TBT's Space Weather](http://www.kb7tbt.com/spaceweather/)
 * [Hepburn's Tropospheric Ducting Forecast](http://www.dxinfocentre.com/tropo.html)
 * [Realtime MUF (max usable freq) Maps](http://www.spacew.com/www/realtime.php)
-* [VHF UHF Realtime QSO Maps](http://www.vhfdx.info/spots/map.php)
 * [WM7D Solar Page](http://www.wm7d.net/hamradio/solar/)
 * [N3KL Solar/Geomagnetic Interpretations](http://www.n3kl.org/sun/status.html)
 * [Space Weather](http://www.sec.noaa.gov/SWN/)

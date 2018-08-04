@@ -3,7 +3,7 @@ layout: page
 title: Annual Report, 2011
 ---
 
-There was an excellent article on WCARC and our DXpeditions in the [West Carleton Review - July 21, 2011](news/press1.html).
+There was an excellent article on WCARC and our DXpeditions in the [West Carleton Review - July 21, 2011](../news/press1.html).
 
 *On December 6, 2011, President Al Penney (VO1NO), delivered the following Annual Report:*
 

@@ -17,7 +17,7 @@ member to full membership privileges. While attendance of meetings is not mandat
 Membership entitles members use of certain equipment and may also entitle members to a discount on certain projects or equipment, as determined by the club from time
 to time.
 
-This club avails itself of certain [insurance protection available from Radio Amateurs of Canada](http://blog.rac.ca/?p=1844). To that end, all members who are not already members of RAC,
+This club avails itself of certain [insurance protection available from Radio Amateurs of Canada](https://wp.rac.ca/insurance/). To that end, all members who are not already members of RAC,
 including family members who are not members of RAC, must make this known to the Treasurer and will be assessed an adjustment amount, equal to the additional amount (currently $12) required by RAC to continue the insurance policy for the club.
 
 Use our [application form](application.html) to register as a new member, update
