@@ -7,7 +7,7 @@ The meeting was held in the Kanata Room at Sobey's, on the SW corner of Hazeldea
 The following people were present:
 
 | Name             | Call Sign | Position       | MH Grid | RAC | WCARC |
-|------------------|-----------|----------------|---------|:---:|:-----:|
+|------------------|-----------|----------------|---------|-----|-------|
 | Glenn MacDonell  | VE3XRA    | Member         | FN25dj  | YES |  YES  |
 | Graham Ide       | VE3BYT    | Member         | FN25ch  | YES |  YES  |
 | Wayne Getchell   | VE3CZO    | Member         | FN25    | YES |  YES  |

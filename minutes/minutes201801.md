@@ -7,7 +7,7 @@ The meeting was held at the Sobey's in Kanata (March Rd. location).
 The following people were present:
 
 | Name             | Call Sign | Position       | MH Grid | RAC | WCARC |
-|------------------|-----------|----------------|---------|:---:|:-----:|
+|------------------|-----------|----------------|---------|-----|-------|
 | Bertrand Zauhar  | VE2ZAZ    | Member         | FN25bk  | YES |  YES  |
 | Clayton Smith    | VE3IRR    | President      | FN25ai  | YES |  YES  |
 | Doug Leach       | VE3XK     | Vice-President | FN25bf  | YES |  YES  |

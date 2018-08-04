@@ -7,7 +7,7 @@ The meeting was held in the Kanata Room at Sobey's, on the SW corner of Hazeldea
 The following people were present:
 
 | Name             | Call Sign | Position       | MH Grid | RAC | WCARC |
-|------------------|-----------|----------------|---------|:---:|:-----:|
+|------------------|-----------|----------------|---------|-----|-------|
 | Clare Fowler     | VE3NPC    | Member         | FN25dj  | YES |  YES  |
 | Bertrand Zauhar  | VE2ZAZ    | Director       | FN25bk  | YES |  YES  |
 | Wayne Getchell   | VE3CZO    | Member         | FN25    | YES |  YES  |

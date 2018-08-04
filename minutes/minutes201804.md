@@ -7,7 +7,7 @@ The meeting was held at the Sobey's in Kanata (March Rd. location).
 The following people were present:
 
 | Name             | Call Sign | Position       | MH Grid | RAC | WCARC |
-|------------------|-----------|----------------|---------|:---:|:-----:|
+|------------------|-----------|----------------|---------|-----|-------|
 | Clayton Smith    | VE3IRR    | President      | FN25ai  | YES |  YES  |
 | Robert Boyd      | VE3BE     | Treasurer      | FN25dj  | YES |  YES  |
 | Marius Draghia   | VE3ETK    | Member         |         | YES |  YES  |

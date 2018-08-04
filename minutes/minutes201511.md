@@ -7,7 +7,7 @@ The meeting was held in the Kanata Room at Sobey's, on the SW corner of Hazeldea
 The following people were present:
 
 | Name             | Call Sign | Position       | MH Grid | RAC | WCARC |
-|------------------|-----------|----------------|---------|:---:|:-----:|
+|------------------|-----------|----------------|---------|-----|-------|
 | Dean Denter      | VA3CDD    | Member         | FN25dk  | YES |  YES  |
 | J.P. Gendron     | VA3JPG    | Visitor        | FN25    | YES |       |
 | Duane Avery      | VA3ODD    | Visitor        |         |     |       |
