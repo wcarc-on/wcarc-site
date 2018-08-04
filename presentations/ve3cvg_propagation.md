@@ -183,7 +183,7 @@ Typical beam pattern above ground. The ground influences the angle of the lobes 
 ## Summary of Propagation Modes
 
 | Medium          | Mode                | Abbrev | 6M | 2M | 70cm | Above |
-|-----------------|---------------------|--------|:--:|:--:|:----:|:-----:|
+|-----------------|---------------------|--------|----|----|------|-------|
 | **Troposphere** | Refraction          | Tropo  | X  | X  | X    | X     |
 | -               | Ducting             | Tropo  | -  | X  | X    | X     |
 | -               | Scatter             | Ts     | X  | X  | X    | X     |

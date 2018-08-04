@@ -80,7 +80,7 @@ Following is a list of the WCARC beacons:
 ## Other Beacons
 
 | Band  | Call   | Grid   | Power | ASL (feet) | Freq (MHz) |
-|:-----:|--------|--------|:-----:|:----------:|:----------:|
+|-------|--------|--------|-------|------------|------------|
 | 6m    | VE2RCS | FN25   | 5W    | TBD        | 50.033     |
 | 6m    | VE3DDW | EN93vu | 5W    | TBD        | 50.073     |
 | 2m    | VE2FUT | FN25up | 15W   | 1000       | 144.280    |
