@@ -3,39 +3,7 @@ layout: page
 title: Membership & Mailing List Application
 ---
 
-<script type="text/javascript">
-
-function Ref(label) {
-	if (document.getElementById) return document.getElementById(label);
-	if (document.all) return document.all(label);
-	return label;
-}
-
-function formCheck() {
-	var messages = [];
-
-	if (Ref("FirstName").value.length < 1) { messages.push("First name is missing!"); }
-	if (Ref("LastName").value.length < 1) { messages.push("Last name is missing!"); }
-	if (Ref("CallSign").value.length < 1) { messages.push("Call sign is missing!"); }
-	if (Ref("Street").value.length < 1) { messages.push("Street address is missing!"); }
-	if (Ref("City").value.length < 1) { messages.push("City name is missing!"); }
-	if (Ref("Province").value.length < 1) { messages.push("Province is missing!"); }
-	if (Ref("Postcode").value.length < 1) { messages.push("Postal code is missing!"); }
-	if (Ref("Telephone").value.length < 1) { messages.push("Phone number is missing!"); }
-	if (Ref("Cellphone").value.length < 1) { messages.push("Cellphone number is missing!"); }
-	if (Ref("Email").value.length < 1) { messages.push("Email address is missing!"); }
-
-	if (messages.length > 0) {
-		alert(messages.join("\n"));
-		return false;
-	} else {
-		return true;
-	}
-}
-
-</script>
-
-<form id="APPFORM" enctype="text/plain" method="post" onsubmit="return formCheck();"
+<form id="appform" enctype="text/plain" method="post"
 action="mailto:argilo@gmail.com,ve3xk@bell.net,rwboyd@yahoo.com,randynordlund@hotmail.com?subject=WCARC%20membership">
 
 <input type="checkbox" name="MemApp" id="MemApp"> Membership Application<br>
@@ -71,3 +39,5 @@ WCARC Membership Date <input type="text" size="10" name="MEMBERDATE" id="MEMBERD
 <sup>2</sup> WCARC Members who are not RAC members may be levied an additional fee.<br>
 <sup>3</sup> If you do not have a call sign, enter NoCall.<br>
 <sup>4</sup> If you have multiple call signs, enter one preferred call.</p>
+
+<script src="assets/application.js" type="text/javascript"></script>
