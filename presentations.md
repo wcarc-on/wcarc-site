@@ -15,11 +15,13 @@ For a list of meeting dates, speakers and topics, please see our [events page](e
 * [What's New in Software-Defined Radio? by Clayton Smith VE3IRR (February 12, 2018)](presentations/ve3irr_sdr_update.pdf)
 * [Panoramic Spectrum Displays for Amateur Transceivers by Richard Ferch VE3KI (March 19, 2018)](presentations/ve3ki_panoramic_displays.pdf)
 * [Adventures from the Coldest Part of the Cold War by Brian Jeffrey VE3UU (May 14, 2018)](presentations/ve3uu_dew_line.pdf)
+* [June VHF Contest 2018 Recap by Clayton Smith VE3IRR (June 18, 2018)](presentations/ve3irr_2018_june_contest_review.pdf)
 * [A Wire to the New World (The Trans-Atlantic Cable) by Bryan Rawlings VE3QN (July 16, 2018)](presentations/ve3qn_wire_to_the_new_world.pdf)
 
 ### 2017
 
 * [Vector Network Analyzers and Applications, Featuring the SARK-110 by Paul Coverdale VE3ICV (April 17, 2017)](presentations/ve3icv_vector_network_analyzers.pdf)
+* [June VHF Contest 2017 Recap by Clayton Smith VE3IRR (June 19, 2017)](presentations/ve3irr_2017_june_contest_review.pdf)
 * [Grounding and Bonding by Jeremy Jones VA3ZTF (July 17, 2017)](presentations/grounding-and-bonding-by-va3ztf-20170717.pdf)
 * [A Bit about Batteries by Wayne Getchell VE3CZO (August 21, 2017)](presentations/a_bit_about_batteries_ve3czo.pdf)
 * [An Introduction to Git, GitHub and GitLab by Tyler Tidman VA3DGN (September 18, 2017)](https://tylert.github.io/git-slides/git.svg#1_0)
@@ -29,12 +31,14 @@ For a list of meeting dates, speakers and topics, please see our [events page](e
 ### 2016
 
 * [Mechanical Pendulum Electronic Control by Bert Zauhar VE2ZAZ (February 2, 2016)](http://ve2zaz.net/Pendulum_Ctl/Pendulum_Ctl.htm)
+* [June VHF Contest 2016 Recap by Clayton Smith VE3IRR (July 5, 2016)](presentations/ve3irr_2016_june_contest_review.pdf)
 * [Accomplishments in Amateur Astronomy and Electronics by Paul Boltwood VE3PLE (September 6, 2016](presentations/ve3ple_amateur_astronomy.pdf)
 
 ### 2015
 
 * [WSPR on the FlexRadio 1500 by Paul Boltwood VE3PLE (March 3, 2015)](presentations/20150303_wspr_by_ve3ple.pdf)
 * [Using Rechargeable Batteries for Ham Radio Applications by Dick Bonnycastle VE3FUA (May 5, 2015)](presentations/20150505_battery_talk_by_ve3fua.pdf)
+* [June VHF Contest 2015 Recap by Clayton Smith VE3IRR (July 7, 2015)](presentations/ve3irr_2015_june_contest_review.pdf)
 * [WCARC VHF/UHF Beacon Relocation by Doug Leach VE3XK (August 4, 2015)](presentations/20150804_wcarc_beacon_move_by_ve3xk.pdf)
 * [WCARC Project Candidates by Wayne Getchell VE3CZO (September 1, 2015)](presentations/ve3czo_wcarc_project_candidates_2017.pdf)
 
