@@ -98,11 +98,11 @@ down for this year.
 
 ### ARRL June VHF QSO Party + WCARC GRID EXPEDITION
 * second full weekend in June. Begins 1800 UTC Saturday, ends 0300 UTC Monday
-* see [http://www.arrl.org/june-vhf](http://www.arrl.org/june-vhf) for details.
+* see [https://www.arrl.org/june-vhf](https://www.arrl.org/june-vhf) for details.
 * 50MHz and above, all modes
 * Exchange is 4 character Maidenhead Grid Square (i.e. FN25) and call
 
 ### ARRL Field Day
 * Always the fourth full weekend of June, beginning at 1800 UTC Saturday and ending at 2100 UTC Sunday
 * all bands, all modes
-* rules are complex - see [http://www.arrl.org/field-day](http://www.arrl.org/field-day) for details.
+* rules are complex - see [https://www.arrl.org/field-day](https://www.arrl.org/field-day) for details.

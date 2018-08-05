@@ -8,7 +8,7 @@ title: Contesting Tips and Suggestions
 Note 1: These tips and suggestions are my personal opinion only.  
 Note 2: Within the last few years, the ARRL rules changed to include a group for
 FM and also different groupings for 3 bands. Details can be found on the ARRL's
-[General Rules for ARRL Contests Above 50 MHz](http://www.arrl.org/general-rules-for-arrl-contests-above-50-mhz)
+[General Rules for ARRL Contests Above 50 MHz](https://www.arrl.org/general-rules-for-arrl-contests-above-50-mhz)
 page.
 
 ## Etiquette

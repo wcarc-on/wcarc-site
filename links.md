@@ -63,8 +63,8 @@ title: Web Links
 * [WSJT Site](http://physics.princeton.edu/pulsar/K1JT/)
 
 ## APRS Sites
-* [Find, or Track an APRS Station using APRS.fi](http://aprs.fi/?)
-* [Figure out your grid square using APRS.fi](http://aprs.fi/?)
+* [Find, or Track an APRS Station using APRS.fi](https://aprs.fi/)
+* [Figure out your grid square using APRS.fi](https://aprs.fi/)
 * [Find an APRS Station on Findu](http://www.findu.com/cgi-bin/find.cgi?call=ve3xzt-9)
 * [Satellite APRS](http://www.aprs.org/astars.html)
 * [APRS Info by VE3BSM](http://aprs.bpsmicro.com)

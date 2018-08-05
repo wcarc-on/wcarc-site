@@ -5,7 +5,7 @@ title: 2013 ARRL June VHF Contest & Grid Expedition
 
 * second full weekend in June. June 8-9, 2013
 * Begins 1800 UTC Saturday (i.e. 2pm local time), ends 0300 UTC Monday
-* see the [ARRL June VHF Contest](http://www.arrl.org/june-vhf) page for details.
+* see the [ARRL June VHF Contest](https://www.arrl.org/june-vhf) page for details.
 * 50MHz and above, all modes
 * Exchange is 4 character Maidenhead Grid Square (i.e. FN25) and call
 
@@ -29,7 +29,7 @@ you plan to be in each, a list of bands you are able to operate, and the co-ordi
 
 We will set up on the site at long -78.00239 W, lat 44.01971 N on Friday June 7 and pack up Monday June 10.  Visitors are welcome to drop by.
 Those rovers who will actually pass near FN04xa are welcome to stop by for a snack and hot coffee.  Directions to our location can be worked
-out easily from the track of VE3XRA-9 on 10 June 2011 on [http://aprs.fi](http://aprs.fi) that ends at the site!
+out easily from the track of VE3XRA-9 on 10 June 2011 on [https://aprs.fi/](https://aprs.fi/) that ends at the site!
 
 Schedules are very welcome - please send requests to [ve3xra@rac.ca](mailto:ve3xra@rac.ca).   We will have limited mobile access to internet at the site and can
 arrange skeds up to the start of the contest.
@@ -59,6 +59,6 @@ Rovers who will be within range are asked to forward their rover schedules.  Ple
 * [Pictures from June 2008 Grid Expedition to FN04xa](gridexfn04200806/gridex_to_fn04.html)
 * [Presentation by Al Penney VO1NO - 2010 June Grid Expedition to FN04xa (June 2010 Mtg)](presentations/wcc_grid_expedition_fn04_by_vo1no_201006_minimizer.pdf)
 * [Pictures from 2009 and 2010 by Glenn MacDonell VE3XRA - Grid Expedition to FN04xa](http://ve3xra.fronthouse.ca/)
-* [YouTube movie of June 2011 DXpedition to FN04 by Allan VA3FMN](http://www.youtube.com/watch?v=xmpNC0witLI)
+* [YouTube movie of June 2011 DXpedition to FN04 by Allan VA3FMN](https://www.youtube.com/watch?v=xmpNC0witLI)
 * [Press Release - West Carleton Review - July 21, 2011](news/press1.html)
 * [WCARC Contest Awards](awards/award1.html)
