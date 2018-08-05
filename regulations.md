@@ -34,7 +34,7 @@ As you know, the exemption was due to expire at the end of this calendar year, a
 
 The only other groups to obtain an extension are commercial, public transit, and public function drivers.
 
-You can view the [notice in the provincial registry](https://www.ontariocanada.com/registry/view_posting.jsp?language=en&postingId=9043).
+You can view the [notice in the provincial registry](https://www.ontariocanada.com/registry/view.do?postingId=9043&language=en).
 
 RAC and the Distracted Driving Committee wishes to thank all organizations that supplied letters of support to assist us in obtaining this extension. This shows the support we have from many Ontario organizations.
 
