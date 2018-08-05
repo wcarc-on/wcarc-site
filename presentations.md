@@ -14,6 +14,7 @@ For a list of meeting dates, speakers and topics, please see our [events page](e
 * [Amateur Radio Repeater Builds Above 7000 Feet by Ron McFayden VE3YXY (January 15, 2018)](presentations/ve3yxy_yukon_repeater_builds.pdf) Note: The YARA Repeater Coverage map is reproduced with permission of the [Yukon Amateur Radio Association](http://yara.ca/).
 * [What's New in Software-Defined Radio? by Clayton Smith VE3IRR (February 12, 2018)](presentations/ve3irr_sdr_update.pdf)
 * [Panoramic Spectrum Displays for Amateur Transceivers by Richard Ferch VE3KI (March 19, 2018)](presentations/ve3ki_panoramic_displays.pdf)
+* [Adventures from the Coldest Part of the Cold War by Brian Jeffrey VE3UU (May 14, 2018)](presentations/ve3uu_dew_line.pdf)
 * [A Wire to the New World (The Trans-Atlantic Cable) by Bryan Rawlings VE3QN (July 16, 2018)](presentations/ve3qn_wire_to_the_new_world.pdf)
 
 ### 2017
