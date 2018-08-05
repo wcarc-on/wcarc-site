@@ -24,12 +24,12 @@ title: Web Links
 * [Bert (VE2ZAZ)](http://ve2zaz.net/)
 * [Clayton (VE3IRR)](http://www.irrational.net)
 * [Brian (VE3UU)](http://www.ve3uu.com/)
-* [Rick (VE3CVG)](http://ve3cvg.webqth.com)
+* [Rick (VE3CVG)](https://ve3cvg.webqth.com)
 
 ## Members' Weather Web Sites
 * [VA3KA weather via APRS](http://www.findu.com/cgi-bin/wxpage.cgi?call=VA3KA)
 * [VE3CVG weather via APRS](http://www.findu.com/cgi-bin/wxpage.cgi?call=VE3CVG)
-* [VE3CVG Weather Station Info](http://ve3cvg.webqth.com/wx/)
+* [VE3CVG Weather Station Info](https://ve3cvg.webqth.com/wx/)
 
 ## Other Local Clubs
 * [Almonte Amateur Radio Club (AARC)](http://www.almontearclub.ca/Almonte_Amateur_Radio_Club/Welcome.html)
@@ -38,7 +38,7 @@ title: Web Links
 * [Quinte Amateur Radio Club (QARC)](https://www.qarc.on.ca/)
 * [Kingston Amateur Radio Club (KARC)](http://www.ve3kbr.com/)
 * [Montreal Amateur Radio Club (MARC)](http://www.marc.qc.ca)
-* [Ottawa Amateur Radio Digital Group (OARDG) D-STAR](http://va3odg.webqth.com/)
+* [Ottawa Amateur Radio Digital Group (OARDG) D-STAR](https://va3odg.webqth.com/)
 
 ## Propagation Info
 * [KB7TBT's Space Weather](http://www.kb7tbt.com/spaceweather/)
@@ -52,7 +52,7 @@ title: Web Links
 ## Other Useful Info
 * [GMT and the exact time](http://wwp.greenwichmeantime.com/)
 * [Meteors and Comets](http://stardate.org/nightsky/meteors)
-* [VE3CVG's Antennas](http://ve3cvg.webqth.com/antennas/index.html)
+* [VE3CVG's Antennas](https://ve3cvg.webqth.com/antennas/index.html)
 * [Lightning Strikes in North America ](http://www.strikestarus.com/)
 * [Earthquake Info](http://earthquake.usgs.gov/)
 * [GBP - Many interesting projects](http://www.qsl.net/n9zia/)

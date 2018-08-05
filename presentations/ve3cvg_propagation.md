@@ -273,6 +273,6 @@ Typical beam pattern above ground. The ground influences the angle of the lobes 
 * IW9CER Spots and info [https://www.dxfuncluster.com/mapas/maps_it9tyr.htm](https://www.dxfuncluster.com/mapas/maps_it9tyr.htm)
 * Paul Kelley N1BUG - VHF and Above [http://www.n1bug.com/](http://www.n1bug.com/)  
 * Palle Preben-Hansen (Denmark) OZ1RH [http://www.qsl.net/oz1rh/](http://www.qsl.net/oz1rh/)
-* Rick Bandla VE3CVG [http://ve3cvg.webqth.com/](http://ve3cvg.webqth.com/)
+* Rick Bandla VE3CVG [https://ve3cvg.webqth.com/](https://ve3cvg.webqth.com/)
 
 ## The End

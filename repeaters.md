@@ -19,7 +19,7 @@ Contact for the AARC repeaters is Rob VE3UIX.
 
 ## D-STAR Repeaters in the area
 
-Several WCARC members are very active in the installation, maintenance, support and operation of the Ottawa area [D-STAR repeater VA3ODG](http://va3odg.webqth.com/). VA3ODG is part of the ICOM-based USTrust system.
+Several WCARC members are very active in the installation, maintenance, support and operation of the Ottawa area [D-STAR repeater VA3ODG](https://va3odg.webqth.com/). VA3ODG is part of the ICOM-based USTrust system.
 
 In addition, some members like Dale VE3XZT in the west, and Rick VE3CVG in the east, operate Hot Spots associated with VA3ODG. Hot spots are simplex frequency extensions to the main repeater. They permit low-power, easy access to the repeater in otherwise poor signal areas.
 

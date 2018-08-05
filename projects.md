@@ -18,7 +18,7 @@ Tom VA3NFA has done a good job of recording the contacts in a [blog post](http:/
 
 ## 1.2GHz DSTAR Digital Project
 
-See [http://va3odg.webqth.com/](http://va3odg.webqth.com/)
+See [https://va3odg.webqth.com/](https://va3odg.webqth.com/)
 
 ## 222MHz and 432MHz Beacon Project (Club)
 
@@ -93,11 +93,11 @@ See [http://www.slvrc.org/902band/](http://www.slvrc.org/902band/)
 
 ## Antennas for VHF/UHF/Microwave by Rick (VE3CVG)
 
-See [http://ve3cvg.webqth.com/antennas/index.html](http://ve3cvg.webqth.com/antennas/index.html)
+See [https://ve3cvg.webqth.com/antennas/index.html](https://ve3cvg.webqth.com/antennas/index.html)
 
 ## Tower Installation by Rick (VE3CVG)
 
-For details, please check out Rick's web site at [http://ve3cvg.webqth.com/tower/index.html](http://ve3cvg.webqth.com/tower/index.html).
+For details, please check out Rick's web site at [https://ve3cvg.webqth.com/tower/index.html](https://ve3cvg.webqth.com/tower/index.html).
 
 Rick describes the trials and tribulations of putting up a respectable
 tower for amateur radio. This is a useful web site to visit if you are looking
