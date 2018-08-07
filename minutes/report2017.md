@@ -39,7 +39,7 @@ Attendance at this year's meetings was up compared to last year, averaging aroun
 * November: 20
 * December: 15
 
-Membership was substantially higher than last year, with 25 regular members and three life members.  The increase in attendance and membership can likely be attributed to the change from Tuesday night to Monday night meetings made late in 2016.  This change was made to avoid a conflict with the Diefenbunker radio group’s meetings.  
+Membership was substantially higher than last year, with 25 regular members and three life members.  The increase in attendance and membership can likely be attributed to the change from Tuesday night to Monday night meetings made late in 2016.  This change was made to avoid a conflict with the Diefenbunker radio group’s meetings.
 
 The Ottawa Valley Upper Frequencies SSB Net continued to operate weekly throughout the year, with participation typically between five and ten stations.  Stations from the Montreal area participated when conditions permitted.  Glenn VE3XRA hosted the net most weeks.
 
