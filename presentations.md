@@ -53,6 +53,7 @@ For a list of meeting dates, speakers and topics, please see our [events page](e
 
 * [Ham Radio Culture Shock by Dave Goodwin VO1AU (February 5, 2013)](presentations/culture_shock_by_vo1au_201302_minimizer.pdf)
 * [An Introduction to Radio Astronomy and Meteor Forward Scatter with GNU Radio and SDR by Marcus Leech VE3MDL (June 4, 2013)](presentations/ve3mdl_ra_introduction.pdf)
+* [A Primer or Digital Modulation by by Bert Zauhar VE2ZAZ (August 6, 2013)](presentations/ve2zaz_digital_modulation_primer.pdf)
 * [WCARC Beacons on 33cm and 23cm by Rick Bandla VE3CVG (October 1, 2013)](presentations/wcarc_33cm_23cm_beacons_by_ve3cvg_20131001.pdf)
 * [My Experience with the ANAN-10 SDR Transceiver by Rick Bandla VE3CVG (October 1, 2013)](presentations/wcarc_anan-10_sdr_by_ve3cvg_20131001.pdf)
 * [Adding A Panoramic Display To My Kenwood TS-2000 by Doug Leach VE3XK (November 5, 2013)](presentations/adding_panoramic_display_to_my_ts2000_by_ve3xk_20131105_minimizer.pdf)
