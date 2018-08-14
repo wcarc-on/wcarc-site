@@ -2,4 +2,4 @@
 layout: minutes
 title: Minutes - Meeting of December 7, 2004
 ---
-<p>The meeting was cancelled due to poor weather.</p>
+The meeting was cancelled due to poor weather.
