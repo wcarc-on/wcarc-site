@@ -22,7 +22,7 @@ The following people were present:
 | Richard Ferch    | VE3KI     | Member         | FN25ce  | YES |  YES  |
 | Dave Conn        | VE3KL     | Member         | FN25bh  | YES |  YES  |
 | Paul Boltwood    | VE3PLE    | Member         | FN25bg  | YES |  YES  |
-| Doug Leach       | VE3XK     | Vice-President | FN25bf  | YES |  YES  |
+| Doug Leach       | VE3XK     | Vice President | FN25bf  | YES |  YES  |
 | Glenn MacDonell  | VE3XRA    | Secretary      | FN25dj  | YES |  YES  |
 
 ### Opening

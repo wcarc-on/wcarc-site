@@ -11,7 +11,7 @@ The following people were present:
 | Bertrand Zauhar  | VE2ZAZ    | Director       | FN25bk  | YES |  YES  |
 | Randy Nordlund   | VE3AX     | Secretary      | FN25jg  | YES |  YES  |
 | Clayton Smith    | VE3IRR    | President      | FN25ai  | YES |  YES  |
-| Doug Leach       | VE3XK     | Vice-President | FN25bf  | YES |  YES  |
+| Doug Leach       | VE3XK     | Vice President | FN25bf  | YES |  YES  |
 | Jeremy Jones     | VA3ZTF    | Member         | FN25ag  | YES |  YES  |
 | Remi De Cristofaro | VA3DRI  | Member         | FN25bh  | YES |  YES  |
 | Robert Boyd      | VE3BE     | Treasurer      | FN25dj  | YES |  YES  |

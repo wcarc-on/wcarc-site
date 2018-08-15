@@ -9,7 +9,7 @@ The following people were present:
 | Name             | Call Sign | Position       | MH Grid | RAC | WCARC |
 |------------------|-----------|----------------|---------|-----|-------|
 | Clayton Smith    | VE3IRR    | President      | FN25ai  | YES |  YES  |
-| Doug Leach       | VE3XK     | Vice-President | FN25bf  | YES |  YES  |
+| Doug Leach       | VE3XK     | Vice President | FN25bf  | YES |  YES  |
 | Jeremy Jones     | VA3ZTF    | Director       | FN25ag  | YES |  YES  |
 | Randy Nordlund   | VE3AX     | Secretary      | FN25jg  | YES |  YES  |
 | Robert Boyd      | VE3BE     | Treasurer      | FN25dj  | YES |  YES  |

@@ -13,7 +13,7 @@ The following people were present:
 | Wayne Getchell   | VE3CZO    | Member         | FN25    | YES |  YES  |
 | Clayton Smith    | VE3IRR    | President      | FN25ai  | YES |  YES  |
 | Andy Hart        | VE3NVK    | Treasurer      | FN25bh  | YES |  YES  |
-| Doug Leach       | VE3XK     | Vice-President | FN25bf  | YES |  YES  |
+| Doug Leach       | VE3XK     | Vice President | FN25bf  | YES |  YES  |
 | Glenn MacDonell  | VE3XRA    | Secretary      | FN25dj  | YES |  YES  |
 
 ### Opening

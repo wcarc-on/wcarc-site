@@ -12,7 +12,7 @@ The following people were present:
 | Graham Ide       | VE3BYT    | Member         | FN25ch  | YES |  YES  |
 | Wayne Getchell   | VE3CZO    | Member         | FN25    | YES |  YES  |
 | Richard Ferch    | VE3KI     | Member         | FN25ce  | YES |  YES  |
-| Doug Leach       | VE3XK     | Vice-President | FN25bf  | YES |  YES  |
+| Doug Leach       | VE3XK     | Vice President | FN25bf  | YES |  YES  |
 | Clare Fowler     | VE3NPC    | Member         | FN25dj  | YES |  YES  |
 | Clayton Smith    | VE3IRR    | President      | FN25ai  | YES |  YES  |
 | Randy Nordlund   | VE3AX     | Secretary      | FN25jg  | YES |  YES  |

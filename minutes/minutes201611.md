@@ -11,7 +11,7 @@ The following people were present:
 | Bertrand Zauhar  | VE2ZAZ    | Director       | FN25bk  | YES |  YES  |
 | Glenn MacDonell  | VE3XRA    | Member         | FN25dj  | YES |  YES  |
 | Clayton Smith    | VE3IRR    | President      | FN25ai  | YES |  YES  |
-| Doug Leach       | VE3XK     | Vice-President | FN25bf  | YES |  YES  |
+| Doug Leach       | VE3XK     | Vice President | FN25bf  | YES |  YES  |
 | Peter Jago       | VA3PJ     | Member         | FN25ag  | YES |  YES  |
 | Graham Ide       | VE3BYT    | Member         | FN25ch  | YES |  YES  |
 | Randy Nordlund   | VE3AX     | Secretary      | FN25jg  | YES |  YES  |
