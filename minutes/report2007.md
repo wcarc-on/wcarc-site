@@ -23,6 +23,6 @@ In August, VE3NVK (Andy) showed his SoftRock-40 kit (40M SDR receiver); VO1NO sh
 
 In September, at the OARC Hamfest, WCARC had a club table, presentation by VA3NFA on Roving and VE3XK on D-STAR.
 
-In October, we discussed a potential future project (DX-pedition and balloon launch) promoted by Graham VE3BYT and earlier by Barry VE3BSB; Rick showed the 10GHz DEMI transverter kit; discussion, led by VE8CF (Karl) on "Free Energy".
+In October, we discussed a potential future project (DX-pedition and balloon launch) promoted by Graham VE3BYT and earlier by Barrie VE3BSB; Rick showed the 10GHz DEMI transverter kit; discussion, led by VE8CF (Karl) on "Free Energy".
 
 In November, Tom, VA3NFA donated a box of VHF engineering stuff for beacon use; we discussed a June 2008 VHF/UHF QSO Party DX-pedition; VE3BYT outlined a proposal for a comprehensive club project (e.g. balloon launch); VE3XK showed crimping tools for N connectors.
