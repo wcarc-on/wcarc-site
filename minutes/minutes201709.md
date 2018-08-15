@@ -40,7 +40,7 @@ We have 24 paid up members and $519 in the bank.
 ### Vice President's Report
 
 Doug reported that there was $15 of sales at the Carp Hamfest. The speaker next month will be Dave Conn (VE3KL) and the subject will be "Exploring Off Centre Fed and Centre Fed Loaded Antennas."
-November will be Brian Jeffery (VE3UU) and the subject will be "Adventures from the Coldest Part of the Cold War."
+November will be Brian Jeffrey (VE3UU) and the subject will be "Adventures from the Coldest Part of the Cold War."
 December will be the Christmas party.
 
 ### Director's Report
