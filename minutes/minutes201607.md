@@ -8,18 +8,18 @@ The following people were present:
 
 | Name             | Call Sign | Position       | MH Grid | RAC | WCARC |
 |------------------|-----------|----------------|---------|-----|-------|
-| Glenn MacDonell  | VE3XRA    | Member         | FN25dj  | YES |  YES  |
-| Graham Ide       | VE3BYT    | Member         | FN25ch  | YES |  YES  |
-| Wayne Getchell   | VE3CZO    | Member         | FN25    | YES |  YES  |
-| Richard Ferch    | VE3KI     | Member         | FN25ce  | YES |  YES  |
-| Doug Leach       | VE3XK     | Vice President | FN25bf  | YES |  YES  |
-| Clare Fowler     | VE3NPC    | Member         | FN25dj  | YES |  YES  |
-| Clayton Smith    | VE3IRR    | President      | FN25ai  | YES |  YES  |
-| Randy Nordlund   | VE3AX     | Secretary      | FN25jg  | YES |  YES  |
-| Andy Hart        | VE3NVK    | Treasurer      | FN25bh  | YES |  YES  |
-| Graham Collins   | VE3GTC    | Member         | FN25ig  | YES |  YES  |
-| Bertrand Zauhar  | VE2ZAZ    | Director       | FN25bk  | YES |  YES  |
-| Peter Jago       | VA3PJ     | Member         | FN25ag  | YES |  YES  |
+| Glenn MacDonell  | VE3XRA    | Member         | FN25dj  | Yes |  Yes  |
+| Graham Ide       | VE3BYT    | Member         | FN25ch  | Yes |  Yes  |
+| Wayne Getchell   | VE3CZO    | Member         | FN25    | Yes |  Yes  |
+| Richard Ferch    | VE3KI     | Member         | FN25ce  | Yes |  Yes  |
+| Doug Leach       | VE3XK     | Vice President | FN25bf  | Yes |  Yes  |
+| Clare Fowler     | VE3NPC    | Member         | FN25dj  | Yes |  Yes  |
+| Clayton Smith    | VE3IRR    | President      | FN25ai  | Yes |  Yes  |
+| Randy Nordlund   | VE3AX     | Secretary      | FN25jg  | Yes |  Yes  |
+| Andy Hart        | VE3NVK    | Treasurer      | FN25bh  | Yes |  Yes  |
+| Graham Collins   | VE3GTC    | Member         | FN25ig  | Yes |  Yes  |
+| Bertrand Zauhar  | VE2ZAZ    | Director       | FN25bk  | Yes |  Yes  |
+| Peter Jago       | VA3PJ     | Member         | FN25ag  | Yes |  Yes  |
 
 ### Opening
 

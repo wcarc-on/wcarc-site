@@ -8,23 +8,23 @@ The following people were present:
 
 | Name             | Call Sign | Position       | MH Grid | RAC | WCARC |
 |------------------|-----------|----------------|---------|-----|-------|
-| Clayton Smith    | VE3IRR    | President      | FN25ai  | YES |  YES  |
-| Doug Leach       | VE3XK     | Vice President | FN25bf  | YES |  YES  |
-| Jeremy Jones     | VA3ZTF    | Director       | FN25ag  | YES |  YES  |
-| Randy Nordlund   | VE3AX     | Secretary      | FN25jg  | YES |  YES  |
-| Brian Jeffrey    | VE3UU     | Member         | FN15wi  | YES |  YES  |
-| Tyler Tidman     | VA3DGN    | Member         | FN25ai  | YES |  YES  |
-| Margaret Tidman  | VA3VXN    | Member         | FN25ai  | YES |  YES  |
-| Glenn MacDonell  | VE3XRA    | Member         | FN25dj  | YES |  YES  |
-| Graham Ide       | VE3BYT    | Member         | FN25ch  | YES |  YES  |
-| Chris Bisaillion | VE3CBK    | Member         | FN25ai  | YES |  YES  |
-| Nick Shepherd    | VE3OWV    | Member         | FN15vk  | YES |  YES  |
-| Robert Boyd      | VE3BE     | Treasurer      | FN25dj  | YES |  YES  |
-| Bertrand Zauhar  | VE2ZAZ    | Member         | FN25bk  | YES |  YES  |
+| Clayton Smith    | VE3IRR    | President      | FN25ai  | Yes |  Yes  |
+| Doug Leach       | VE3XK     | Vice President | FN25bf  | Yes |  Yes  |
+| Jeremy Jones     | VA3ZTF    | Director       | FN25ag  | Yes |  Yes  |
+| Randy Nordlund   | VE3AX     | Secretary      | FN25jg  | Yes |  Yes  |
+| Brian Jeffrey    | VE3UU     | Member         | FN15wi  | Yes |  Yes  |
+| Tyler Tidman     | VA3DGN    | Member         | FN25ai  | Yes |  Yes  |
+| Margaret Tidman  | VA3VXN    | Member         | FN25ai  | Yes |  Yes  |
+| Glenn MacDonell  | VE3XRA    | Member         | FN25dj  | Yes |  Yes  |
+| Graham Ide       | VE3BYT    | Member         | FN25ch  | Yes |  Yes  |
+| Chris Bisaillion | VE3CBK    | Member         | FN25ai  | Yes |  Yes  |
+| Nick Shepherd    | VE3OWV    | Member         | FN15vk  | Yes |  Yes  |
+| Robert Boyd      | VE3BE     | Treasurer      | FN25dj  | Yes |  Yes  |
+| Bertrand Zauhar  | VE2ZAZ    | Member         | FN25bk  | Yes |  Yes  |
 | Thane Brown      | VA3TTM    | Visitor        | FN25bi  |     |       |
-| Dean Denter      | VA3CDD    | Member         | FN15xl  | YES |  YES  |
-| Marius Draghia   | VE3ETK    | Member         |         | YES |  YES  |
-| Georges-André Chaudron | VE2VAB | Visitor     | FN25dl  | YES |       |
+| Dean Denter      | VA3CDD    | Member         | FN15xl  | Yes |  Yes  |
+| Marius Draghia   | VE3ETK    | Member         |         | Yes |  Yes  |
+| Georges-André Chaudron | VE2VAB | Visitor     | FN25dl  | Yes |       |
 | Larissa Reise    | VE3KGC    | Visitor        | FN14pj  |     |       |
 
 ### Opening

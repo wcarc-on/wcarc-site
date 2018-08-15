@@ -8,23 +8,23 @@ The following people were present:
 
 | Name             | Call Sign | Position       | MH Grid | RAC | WCARC |
 |------------------|-----------|----------------|---------|-----|-------|
-| Bertrand Zauhar  | VE2ZAZ    | Director       | FN25bk  | YES |  YES  |
-| Wayne Getchell   | VE3CZO    | Member         | FN25    | YES |  YES  |
-| Clayton Smith    | VE3IRR    | President      | FN25ai  | YES |  YES  |
-| Doug Leach       | VE3XK     | Vice President | FN25bf  | YES |  YES  |
-| Peter Jago       | VA3PJ     | Member         | FN25ag  | YES |  YES  |
-| Graham Ide       | VE3BYT    | Member         | FN25ch  | YES |  YES  |
-| Bob Harrington   | VE3YYG    | Visitor        | FN25bh  | YES |       |
-| Robert Boyd      | VE3BE     | Treasurer      | FN25    | YES |  YES  |
-| Jeremy Jones     | VA3ZTF    | Member         | FN25ag  | YES |  YES  |
-| Glenn MacDonell  | VE3XRA    | Member         | FN25dj  | YES |  YES  |
-| Chris Bisaillion | VE3CBK    | Member         | FN25ai  | YES |  YES  |
-| Richard Ferch    | VE3KI     | Member         | FN25ce  | YES |  YES  |
-| Margaret Tidman  | VA3VXN    | Member         | FN25ai  | YES |  YES  |
-| Tyler Tidman     | VA3DGN    | Member         | FN25ai  | YES |  YES  |
-| John Vandermey   | VA3RLC    | Visitor        | FN15    | YES |       |
-| Brian Jeffrey    | VE3UU     | Member         | FN15    | YES |  YES  |
-| Paul Boltwood    | VE3PLE    | Member         | FN25bg  | YES |  YES  |
+| Bertrand Zauhar  | VE2ZAZ    | Director       | FN25bk  | Yes |  Yes  |
+| Wayne Getchell   | VE3CZO    | Member         | FN25    | Yes |  Yes  |
+| Clayton Smith    | VE3IRR    | President      | FN25ai  | Yes |  Yes  |
+| Doug Leach       | VE3XK     | Vice President | FN25bf  | Yes |  Yes  |
+| Peter Jago       | VA3PJ     | Member         | FN25ag  | Yes |  Yes  |
+| Graham Ide       | VE3BYT    | Member         | FN25ch  | Yes |  Yes  |
+| Bob Harrington   | VE3YYG    | Visitor        | FN25bh  | Yes |       |
+| Robert Boyd      | VE3BE     | Treasurer      | FN25    | Yes |  Yes  |
+| Jeremy Jones     | VA3ZTF    | Member         | FN25ag  | Yes |  Yes  |
+| Glenn MacDonell  | VE3XRA    | Member         | FN25dj  | Yes |  Yes  |
+| Chris Bisaillion | VE3CBK    | Member         | FN25ai  | Yes |  Yes  |
+| Richard Ferch    | VE3KI     | Member         | FN25ce  | Yes |  Yes  |
+| Margaret Tidman  | VA3VXN    | Member         | FN25ai  | Yes |  Yes  |
+| Tyler Tidman     | VA3DGN    | Member         | FN25ai  | Yes |  Yes  |
+| John Vandermey   | VA3RLC    | Visitor        | FN15    | Yes |       |
+| Brian Jeffrey    | VE3UU     | Member         | FN15    | Yes |  Yes  |
+| Paul Boltwood    | VE3PLE    | Member         | FN25bg  | Yes |  Yes  |
 
 ### Opening
 

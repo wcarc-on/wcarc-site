@@ -8,18 +8,18 @@ The following people were present:
 
 | Name             | Call Sign | Position       | MH Grid | RAC | WCARC |
 |------------------|-----------|----------------|---------|-----|-------|
-| Bertrand Zauhar  | VE2ZAZ    | Director       | FN25bk  | YES |  YES  |
-| Randy Nordlund   | VE3AX     | Secretary      | FN25jg  | YES |  YES  |
-| Clayton Smith    | VE3IRR    | President      | FN25ai  | YES |  YES  |
-| Doug Leach       | VE3XK     | Vice President | FN25bf  | YES |  YES  |
-| Peter Jago       | VA3PJ     | Member         | FN25ag  | YES |  YES  |
-| Dave Conn        | VE3KL     | Visitor        | FN25ch  | YES |       |
-| Andy Hart        | VE3NVK    | Member         | FN25bh  | YES |  YES  |
-| Paul Coverdale   | VE3ICV    | Visitor        | FN25ch  | YES |       |
-| Jeremy Jones     | VA3ZTF    | Member         | FN25ag  | YES |  YES  |
-| Glenn MacDonell  | VE3XRA    | Member         | FN25dj  | YES |  YES  |
-| Richard Ferch    | VE3KI     | Member         | FN25ce  | YES |  YES  |
-| Brian Jeffrey    | VE3UU     | Member         | FN15wi  | YES |  YES  |
+| Bertrand Zauhar  | VE2ZAZ    | Director       | FN25bk  | Yes |  Yes  |
+| Randy Nordlund   | VE3AX     | Secretary      | FN25jg  | Yes |  Yes  |
+| Clayton Smith    | VE3IRR    | President      | FN25ai  | Yes |  Yes  |
+| Doug Leach       | VE3XK     | Vice President | FN25bf  | Yes |  Yes  |
+| Peter Jago       | VA3PJ     | Member         | FN25ag  | Yes |  Yes  |
+| Dave Conn        | VE3KL     | Visitor        | FN25ch  | Yes |       |
+| Andy Hart        | VE3NVK    | Member         | FN25bh  | Yes |  Yes  |
+| Paul Coverdale   | VE3ICV    | Visitor        | FN25ch  | Yes |       |
+| Jeremy Jones     | VA3ZTF    | Member         | FN25ag  | Yes |  Yes  |
+| Glenn MacDonell  | VE3XRA    | Member         | FN25dj  | Yes |  Yes  |
+| Richard Ferch    | VE3KI     | Member         | FN25ce  | Yes |  Yes  |
+| Brian Jeffrey    | VE3UU     | Member         | FN15wi  | Yes |  Yes  |
 
 ### Opening
 

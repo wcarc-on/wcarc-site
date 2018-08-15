@@ -8,13 +8,13 @@ The following people were present:
 
 | Name             | Call Sign | Position       | MH Grid | RAC | WCARC |
 |------------------|-----------|----------------|---------|-----|-------|
-| Clare Fowler     | VE3NPC    | Member         | FN25dj  | YES |  YES  |
-| Bertrand Zauhar  | VE2ZAZ    | Director       | FN25bk  | YES |  YES  |
-| Wayne Getchell   | VE3CZO    | Member         | FN25    | YES |  YES  |
-| Clayton Smith    | VE3IRR    | President      | FN25ai  | YES |  YES  |
-| Andy Hart        | VE3NVK    | Treasurer      | FN25bh  | YES |  YES  |
-| Doug Leach       | VE3XK     | Vice President | FN25bf  | YES |  YES  |
-| Glenn MacDonell  | VE3XRA    | Secretary      | FN25dj  | YES |  YES  |
+| Clare Fowler     | VE3NPC    | Member         | FN25dj  | Yes |  Yes  |
+| Bertrand Zauhar  | VE2ZAZ    | Director       | FN25bk  | Yes |  Yes  |
+| Wayne Getchell   | VE3CZO    | Member         | FN25    | Yes |  Yes  |
+| Clayton Smith    | VE3IRR    | President      | FN25ai  | Yes |  Yes  |
+| Andy Hart        | VE3NVK    | Treasurer      | FN25bh  | Yes |  Yes  |
+| Doug Leach       | VE3XK     | Vice President | FN25bf  | Yes |  Yes  |
+| Glenn MacDonell  | VE3XRA    | Secretary      | FN25dj  | Yes |  Yes  |
 
 ### Opening
 

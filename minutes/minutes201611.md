@@ -8,22 +8,22 @@ The following people were present:
 
 | Name             | Call Sign | Position       | MH Grid | RAC | WCARC |
 |------------------|-----------|----------------|---------|-----|-------|
-| Bertrand Zauhar  | VE2ZAZ    | Director       | FN25bk  | YES |  YES  |
-| Glenn MacDonell  | VE3XRA    | Member         | FN25dj  | YES |  YES  |
-| Clayton Smith    | VE3IRR    | President      | FN25ai  | YES |  YES  |
-| Doug Leach       | VE3XK     | Vice President | FN25bf  | YES |  YES  |
-| Peter Jago       | VA3PJ     | Member         | FN25ag  | YES |  YES  |
-| Graham Ide       | VE3BYT    | Member         | FN25ch  | YES |  YES  |
-| Randy Nordlund   | VE3AX     | Secretary      | FN25jg  | YES |  YES  |
+| Bertrand Zauhar  | VE2ZAZ    | Director       | FN25bk  | Yes |  Yes  |
+| Glenn MacDonell  | VE3XRA    | Member         | FN25dj  | Yes |  Yes  |
+| Clayton Smith    | VE3IRR    | President      | FN25ai  | Yes |  Yes  |
+| Doug Leach       | VE3XK     | Vice President | FN25bf  | Yes |  Yes  |
+| Peter Jago       | VA3PJ     | Member         | FN25ag  | Yes |  Yes  |
+| Graham Ide       | VE3BYT    | Member         | FN25ch  | Yes |  Yes  |
+| Randy Nordlund   | VE3AX     | Secretary      | FN25jg  | Yes |  Yes  |
 | Robert Boyd      | VE3BE     | Visitor        | FN25    |     |       |
-| Jeremy Jones     | VA3ZTF    | Visitor        | FN25ag  | YES |  YES  |
-| Andy Hart        | VE3NVK    | Treasurer      | FN25bh  | YES |  YES  |
-| Chris Bisaillion | VE3CBK    | Member         | FN25ai  | YES |  YES  |
-| Dave Conn        | VE3KL     | Visitor        | FN25bh  | YES |       |
-| Margaret Tidman  | VA3VXN    | Member         | FN25ai  | YES |  YES  |
-| Tyler Tidman     | VA3DGN    | Member         | FN25ai  | YES |  YES  |
+| Jeremy Jones     | VA3ZTF    | Visitor        | FN25ag  | Yes |  Yes  |
+| Andy Hart        | VE3NVK    | Treasurer      | FN25bh  | Yes |  Yes  |
+| Chris Bisaillion | VE3CBK    | Member         | FN25ai  | Yes |  Yes  |
+| Dave Conn        | VE3KL     | Visitor        | FN25bh  | Yes |       |
+| Margaret Tidman  | VA3VXN    | Member         | FN25ai  | Yes |  Yes  |
+| Tyler Tidman     | VA3DGN    | Member         | FN25ai  | Yes |  Yes  |
 | Paul Dufresne    | VE3OTB    | Visitor        | FN25dh  |     |       |
-| Paul Boltwood    | VE3PLE    | Member         | FN25bg  | YES |  YES  |
+| Paul Boltwood    | VE3PLE    | Member         | FN25bg  | Yes |  Yes  |
 
 ### Opening
 

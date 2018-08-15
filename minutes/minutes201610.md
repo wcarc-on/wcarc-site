@@ -8,19 +8,19 @@ The following people were present:
 
 | Name             | Call Sign | Position       | MH Grid | RAC | WCARC |
 |------------------|-----------|----------------|---------|-----|-------|
-| Bertrand Zauhar  | VE2ZAZ    | Director       | FN25bk  | YES |  YES  |
-| Wayne Getchell   | VE3CZO    | Member         | FN25    | YES |  YES  |
-| Clayton Smith    | VE3IRR    | President      | FN25ai  | YES |  YES  |
-| Doug Leach       | VE3XK     | Vice President | FN25bf  | YES |  YES  |
-| Peter Jago       | VA3PJ     | Member         | FN25ag  | YES |  YES  |
-| Graham Ide       | VE3BYT    | Member         | FN25ch  | YES |  YES  |
-| Randy Nordlund   | VE3AX     | Secretary      | FN25jg  | YES |  YES  |
+| Bertrand Zauhar  | VE2ZAZ    | Director       | FN25bk  | Yes |  Yes  |
+| Wayne Getchell   | VE3CZO    | Member         | FN25    | Yes |  Yes  |
+| Clayton Smith    | VE3IRR    | President      | FN25ai  | Yes |  Yes  |
+| Doug Leach       | VE3XK     | Vice President | FN25bf  | Yes |  Yes  |
+| Peter Jago       | VA3PJ     | Member         | FN25ag  | Yes |  Yes  |
+| Graham Ide       | VE3BYT    | Member         | FN25ch  | Yes |  Yes  |
+| Randy Nordlund   | VE3AX     | Secretary      | FN25jg  | Yes |  Yes  |
 | Robert Boyd      | VE3BE     | Visitor        | FN25    |     |       |
-| Rich Ferch       | VE3KI     | Member         | FN25ce  | YES |  YES  |
-| Jeremy Jones     | VA3ZTF    | Visitor        | FN25ag  | YES |       |
-| Nick Shepherd    | VE3OWV    | Visitor        | FN15vk  | YES |       |
-| Bryan Rawlings   | VE3QN     | Visitor        | FN25ek  | YES |       |
-| Chris Bisaillion | VE3CBK    | Visitor        | FN25qi  | YES |       |
+| Rich Ferch       | VE3KI     | Member         | FN25ce  | Yes |  Yes  |
+| Jeremy Jones     | VA3ZTF    | Visitor        | FN25ag  | Yes |       |
+| Nick Shepherd    | VE3OWV    | Visitor        | FN15vk  | Yes |       |
+| Bryan Rawlings   | VE3QN     | Visitor        | FN25ek  | Yes |       |
+| Chris Bisaillion | VE3CBK    | Visitor        | FN25qi  | Yes |       |
 
 ### Opening
 

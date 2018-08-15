@@ -8,19 +8,19 @@ The following people were present:
 
 | Name             | Call Sign | Position       | MH Grid | RAC | WCARC |
 |------------------|-----------|----------------|---------|-----|-------|
-| Bertrand Zauhar  | VE2ZAZ    | Director       | FN25bk  | YES |  YES  |
-| Randy Nordlund   | VE3AX     | Secretary      | FN25jg  | YES |  YES  |
-| Clayton Smith    | VE3IRR    | President      | FN25ai  | YES |  YES  |
-| Doug Leach       | VE3XK     | Vice President | FN25bf  | YES |  YES  |
-| Jeremy Jones     | VA3ZTF    | Member         | FN25ag  | YES |  YES  |
-| Remi De Cristofaro | VA3DRI  | Member         | FN25bh  | YES |  YES  |
-| Robert Boyd      | VE3BE     | Treasurer      | FN25dj  | YES |  YES  |
-| Peter Jago       | VA3PJ     | Member         | FN25ag  | YES |  YES  |
-| Wayne Getchell   | VE3CZO    | Member         | FN25    | YES |  YES  |
-| Chris Bisaillion | VE3CBK    | Member         | FN25ai  | YES |  YES  |
-| Luc Pernot       | VE3JGL    | Member         | FN25ek  | YES |  YES  |
-| Andy Hart        | VE3NVK    | Member         | FN25bh  | YES |  YES  |
-| Jacques Bissinger | VA3JBI   | Member         | FN25ai  |     |  YES  |
+| Bertrand Zauhar  | VE2ZAZ    | Director       | FN25bk  | Yes |  Yes  |
+| Randy Nordlund   | VE3AX     | Secretary      | FN25jg  | Yes |  Yes  |
+| Clayton Smith    | VE3IRR    | President      | FN25ai  | Yes |  Yes  |
+| Doug Leach       | VE3XK     | Vice President | FN25bf  | Yes |  Yes  |
+| Jeremy Jones     | VA3ZTF    | Member         | FN25ag  | Yes |  Yes  |
+| Remi De Cristofaro | VA3DRI  | Member         | FN25bh  | Yes |  Yes  |
+| Robert Boyd      | VE3BE     | Treasurer      | FN25dj  | Yes |  Yes  |
+| Peter Jago       | VA3PJ     | Member         | FN25ag  | Yes |  Yes  |
+| Wayne Getchell   | VE3CZO    | Member         | FN25    | Yes |  Yes  |
+| Chris Bisaillion | VE3CBK    | Member         | FN25ai  | Yes |  Yes  |
+| Luc Pernot       | VE3JGL    | Member         | FN25ek  | Yes |  Yes  |
+| Andy Hart        | VE3NVK    | Member         | FN25bh  | Yes |  Yes  |
+| Jacques Bissinger | VA3JBI   | Member         | FN25ai  |     |  Yes  |
 
 ### Opening
 

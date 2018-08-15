@@ -8,28 +8,28 @@ The following people were present:
 
 | Name             | Call Sign | Position       | MH Grid | RAC | WCARC |
 |------------------|-----------|----------------|---------|-----|-------|
-| Clayton Smith    | VE3IRR    | President      | FN25ai  | YES |  YES  |
-| Doug Leach       | VE3XK     | Vice President | FN25bf  | YES |  YES  |
-| Jeremy Jones     | VA3ZTF    | Director       | FN25ag  | YES |  YES  |
-| Randy Nordlund   | VE3AX     | Secretary      | FN25jg  | YES |  YES  |
-| Brian Jeffrey    | VE3UU     | Member         | FN15wi  | YES |  YES  |
-| Clare Fowler     | VE3NPC    | Member         | FN25dj  | YES |  YES  |
-| Tyler Tidman     | VA3DGN    | Member         | FN25ai  | YES |  YES  |
-| Margaret Tidman  | VA3VXN    | Member         | FN25ai  | YES |  YES  |
-| Glenn MacDonell  | VE3XRA    | Member         | FN25dj  | YES |  YES  |
-| Graham Ide       | VE3BYT    | Member         | FN25ch  | YES |  YES  |
-| Andy Hart        | VE3NVK    | Member         | FN25bh  | YES |  YES  |
-| Peter Jago       | VA3PJ     | Member         | FN25ag  | YES |  YES  |
-| Chris Rochefort  | VE2MW     | Visitor        | FN25ck  | YES |       |
-| Chris Bisaillion | VE3CBK    | Member         | FN25ai  | YES |  YES  |
-| Nick Shepherd    | VE3OWV    | Member         | FN15vk  | YES |  YES  |
-| Richard Ferch    | VE3KI     | Member         | FN25ce  | YES |  YES  |
-| Robert Boyd      | VE3BE     | Treasurer      | FN25dj  | YES |  YES  |
-| John Vandermey   | VA3RLC    | Member         | FN15xd  | YES |  YES  |
-| Luc Pernot       | VE3JGL    | Member         | FN25ek  | YES |  YES  |
-| Dean Denter      | VA3CDD    | Member         | FN15xl  | YES |  YES  |
-| Stuart Fedak     | VE3SMF    | Visitor        | FN25dg  | YES |       |
-| Dan McIntosh     | VE3YXE    | Visitor        | FN25bh  | YES |       |
+| Clayton Smith    | VE3IRR    | President      | FN25ai  | Yes |  Yes  |
+| Doug Leach       | VE3XK     | Vice President | FN25bf  | Yes |  Yes  |
+| Jeremy Jones     | VA3ZTF    | Director       | FN25ag  | Yes |  Yes  |
+| Randy Nordlund   | VE3AX     | Secretary      | FN25jg  | Yes |  Yes  |
+| Brian Jeffrey    | VE3UU     | Member         | FN15wi  | Yes |  Yes  |
+| Clare Fowler     | VE3NPC    | Member         | FN25dj  | Yes |  Yes  |
+| Tyler Tidman     | VA3DGN    | Member         | FN25ai  | Yes |  Yes  |
+| Margaret Tidman  | VA3VXN    | Member         | FN25ai  | Yes |  Yes  |
+| Glenn MacDonell  | VE3XRA    | Member         | FN25dj  | Yes |  Yes  |
+| Graham Ide       | VE3BYT    | Member         | FN25ch  | Yes |  Yes  |
+| Andy Hart        | VE3NVK    | Member         | FN25bh  | Yes |  Yes  |
+| Peter Jago       | VA3PJ     | Member         | FN25ag  | Yes |  Yes  |
+| Chris Rochefort  | VE2MW     | Visitor        | FN25ck  | Yes |       |
+| Chris Bisaillion | VE3CBK    | Member         | FN25ai  | Yes |  Yes  |
+| Nick Shepherd    | VE3OWV    | Member         | FN15vk  | Yes |  Yes  |
+| Richard Ferch    | VE3KI     | Member         | FN25ce  | Yes |  Yes  |
+| Robert Boyd      | VE3BE     | Treasurer      | FN25dj  | Yes |  Yes  |
+| John Vandermey   | VA3RLC    | Member         | FN15xd  | Yes |  Yes  |
+| Luc Pernot       | VE3JGL    | Member         | FN25ek  | Yes |  Yes  |
+| Dean Denter      | VA3CDD    | Member         | FN15xl  | Yes |  Yes  |
+| Stuart Fedak     | VE3SMF    | Visitor        | FN25dg  | Yes |       |
+| Dan McIntosh     | VE3YXE    | Visitor        | FN25bh  | Yes |       |
 | Hunter Bagby     | VE3HVB    | Visitor        |         |     |       |
 
 ### Opening

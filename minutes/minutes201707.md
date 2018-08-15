@@ -8,28 +8,28 @@ The following people were present:
 
 | Name             | Call Sign | Position       | MH Grid | RAC | WCARC |
 |------------------|-----------|----------------|---------|-----|-------|
-| Bertrand Zauhar  | VE2ZAZ    | Director       | FN25bk  | YES |  YES  |
-| Randy Nordlund   | VE3AX     | Secretary      | FN25jg  | YES |  YES  |
-| Clayton Smith    | VE3IRR    | President      | FN25ai  | YES |  YES  |
-| Doug Leach       | VE3XK     | Vice President | FN25bf  | YES |  YES  |
-| Peter Jago       | VA3PJ     | Member         | FN25ag  | YES |  YES  |
-| Glenn MacDonell  | VE3XRA    | Member         | FN25dj  | YES |  YES  |
-| Richard Ferch    | VE3KI     | Member         | FN25ce  | YES |  YES  |
-| Jeremy Jones     | VA3ZTF    | Member         | FN25ag  | YES |  YES  |
-| Clare Fowler     | VE3NPC    | Member         | FN25dj  | YES |  YES  |
-| Bob Harrington   | VE3YYG    | Member         | FN25bh  | YES |  YES  |
-| Remi De Cristofaro | VA3DRI  | Visitor        |         | YES |       |
-| Chris Charland   | VE3OXU    | Visitor        | FN25bg  | YES |       |
+| Bertrand Zauhar  | VE2ZAZ    | Director       | FN25bk  | Yes |  Yes  |
+| Randy Nordlund   | VE3AX     | Secretary      | FN25jg  | Yes |  Yes  |
+| Clayton Smith    | VE3IRR    | President      | FN25ai  | Yes |  Yes  |
+| Doug Leach       | VE3XK     | Vice President | FN25bf  | Yes |  Yes  |
+| Peter Jago       | VA3PJ     | Member         | FN25ag  | Yes |  Yes  |
+| Glenn MacDonell  | VE3XRA    | Member         | FN25dj  | Yes |  Yes  |
+| Richard Ferch    | VE3KI     | Member         | FN25ce  | Yes |  Yes  |
+| Jeremy Jones     | VA3ZTF    | Member         | FN25ag  | Yes |  Yes  |
+| Clare Fowler     | VE3NPC    | Member         | FN25dj  | Yes |  Yes  |
+| Bob Harrington   | VE3YYG    | Member         | FN25bh  | Yes |  Yes  |
+| Remi De Cristofaro | VA3DRI  | Visitor        |         | Yes |       |
+| Chris Charland   | VE3OXU    | Visitor        | FN25bg  | Yes |       |
 | Morrie Lightman  | VE3KML    | Visitor        | FN25di  |     |       |
 | Thane Brown      | VA3TTM    | Visitor        | FN25bi  |     |       |
-| Chris Bisaillion | VE3CBK    | Member         | FN25ai  | YES |  YES  |
-| Brian Jeffrey    | VE3UU     | Member         | FN15wi  | YES |  YES  |
-| Margaret Tidman  | VA3VXN    | Member         | FN25ai  | YES |  YES  |
-| Robert Boyd      | VE3BE     | Treasurer      | FN25dj  | YES |  YES  |
-| Nick Shepherd    | VE3OWV    | Member         | FN15vk  | YES |  YES  |
-| Tyler Tidman     | VA3DGN    | Member         | FN25ai  | YES |  YES  |
+| Chris Bisaillion | VE3CBK    | Member         | FN25ai  | Yes |  Yes  |
+| Brian Jeffrey    | VE3UU     | Member         | FN15wi  | Yes |  Yes  |
+| Margaret Tidman  | VA3VXN    | Member         | FN25ai  | Yes |  Yes  |
+| Robert Boyd      | VE3BE     | Treasurer      | FN25dj  | Yes |  Yes  |
+| Nick Shepherd    | VE3OWV    | Member         | FN15vk  | Yes |  Yes  |
+| Tyler Tidman     | VA3DGN    | Member         | FN25ai  | Yes |  Yes  |
 | Les Crezelski    |           | Visitor        |         |     |       |
-| John Vandermey   | VA3RLC    | Member         | FN15xd  | YES |  YES  |
+| John Vandermey   | VA3RLC    | Member         | FN15xd  | Yes |  Yes  |
 | Michael Kennedy  | VA3TEC    | Visitor        | FN25fl  |     |       |
 
 ### Opening

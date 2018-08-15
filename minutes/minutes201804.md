@@ -8,11 +8,11 @@ The following people were present:
 
 | Name             | Call Sign | Position       | MH Grid | RAC | WCARC |
 |------------------|-----------|----------------|---------|-----|-------|
-| Clayton Smith    | VE3IRR    | President      | FN25ai  | YES |  YES  |
-| Robert Boyd      | VE3BE     | Treasurer      | FN25dj  | YES |  YES  |
-| Marius Draghia   | VE3ETK    | Member         |         | YES |  YES  |
-| Wayne Getchell   | VE3CZO    | Member         | FN25bh  | YES |  YES  |
-| Remi De Cristofaro | VA3DRI  | Member         | FN25bh  | YES |  YES  |
+| Clayton Smith    | VE3IRR    | President      | FN25ai  | Yes |  Yes  |
+| Robert Boyd      | VE3BE     | Treasurer      | FN25dj  | Yes |  Yes  |
+| Marius Draghia   | VE3ETK    | Member         |         | Yes |  Yes  |
+| Wayne Getchell   | VE3CZO    | Member         | FN25bh  | Yes |  Yes  |
+| Remi De Cristofaro | VA3DRI  | Member         | FN25bh  | Yes |  Yes  |
 
 ### Opening
 
