@@ -33,6 +33,7 @@ For a list of meeting dates, speakers and topics, please see our [events page](e
 * [Mechanical Pendulum Electronic Control by Bert Zauhar VE2ZAZ (February 2, 2016)](http://ve2zaz.net/Pendulum_Ctl/Pendulum_Ctl.htm)
 * [June VHF Contest 2016 Recap by Clayton Smith VE3IRR (July 5, 2016)](presentations/ve3irr_2016_june_contest_review.pdf)
 * [Accomplishments in Amateur Astronomy and Electronics by Paul Boltwood VE3PLE (September 6, 2016](presentations/ve3ple_amateur_astronomy.pdf)
+* [HF Wire Antennas, EMI & Contest Stations by Dave Conn VE3KL (November 21, 2016)](presentations/ve3kl_hf_wire_antennas.pdf)
 
 ### 2015
 
