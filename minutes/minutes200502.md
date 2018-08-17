@@ -47,7 +47,7 @@ Ken, Rick and possibly others may operate on 2.4 GHz during contests, some using
 
 Tom indicated that the club Field Day involvement might be limited, as he did not get much positive reaction from members about supporting this activity.  Tom will run as a Rover for the June VHF Contest.  He may solicit for equipment loans.
 
-Tom also suggested we take a tour of the Diefenbunker at Carp. There was lots of interest in this suggestion.  Ken will check with the Canadian Broadcasting Corporation concerning a possible tour of the HF Monitoring Station.  
+Tom also suggested we take a tour of the Diefenbunker at Carp. There was lots of interest in this suggestion.  Ken will check with the Canadian Broadcasting Corporation concerning a possible tour of the HF Monitoring Station.
 
 Rick gave an outline of the proposed 902 MHz Transverter Project. There is no 902 band activity in the area now except the club beacon on 903.37, so operation on this band would provide more contesting points in the future.  Rick has looked at several alternative designs and has concluded that the Down East Microwave Inc. kit is best, with helical filters and a better noise figure.  Cost is expected to be in the neighborhood of $300 US for 10 watts output, and $200 US for 10 milliwatts.  There will be a discount for a quantity order of around 12½%.  Interested parties should contact Rick.  So far, Rick, Ken, Doug, Manfred and Graham are in for the project.  It would be nice to get them all going in time for the June contest.
 

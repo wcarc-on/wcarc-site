@@ -51,7 +51,7 @@ Al Penney is active in the VHF/UHF contests.  He will be on 1296 MHz with an FT8
 
 An active discussion took place presenting differing points of view on Helical Antennas - design, gain, and the relative merits of the Kraus, Cebik and Emerson models.  This was followed by opinions as to the optimum spacing for stacking of antennas - over antennas in the same band, and in different bands.
 
-A stimulating time was had by all present.  
+A stimulating time was had by all present.
 
 The next meeting will be on November 1, 2005.
 

@@ -38,7 +38,7 @@ Many thanks to Wayne and Bryan for their efforts at the meeting.
 
 Tom noted that there is a VHF contest on the coming weekend - see ARRL for details.  Tom will be a Rover, and will work 6 bands in 6 grids.
 
-Brad gave a rundown on the APRS digipeater in Almonte.  The equipment is owned by a Calgary amateur.  Brad suggests that the WCARC put in an APRS digipeater.  Some equipment is available at reasonable cost.  Brad will continue to investigate the situation re equipment.  Moved by Tom, seconded by Doug and Kieran that the club make available up to $400.00C  to provide for a wide-area Digi. Carried.  
+Brad gave a rundown on the APRS digipeater in Almonte.  The equipment is owned by a Calgary amateur.  Brad suggests that the WCARC put in an APRS digipeater.  Some equipment is available at reasonable cost.  Brad will continue to investigate the situation re equipment.  Moved by Tom, seconded by Doug and Kieran that the club make available up to $400.00C  to provide for a wide-area Digi. Carried.
 
 Phil, VE3CIQ, will house our 903 MHz beacon. (What is the location?)  There were questions about the suitability of our 903 MHz Skew-Planar Wheel antenna that was used on the beacon when it was located at the Lee Valley Tools building.
 

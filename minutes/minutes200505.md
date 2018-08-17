@@ -35,7 +35,7 @@ Rick and Ken will have a table at the Smiths Falls fleamarket.  There was no dem
 
 Rick did the distribution of the DEMI 902 band transverters, showed the parts in the kits, and gave an explanation of the costs to the participants.  Rick gave the members an overview of the transverter project.  There are 8 participants who will be building the kits (including one who wishes that he had paid for construction by DEMI). The quality of the kits appears to be excellent, with nice extruded aluminum cases and a high class PCB with helical filters mounted and prealigned.  A building spree is planned at Doug's QTH, probably on May 13<sup>th</sup> (we are going to build something with surface-mount parts on a Friday the 13<sup>th</sup>?!!).
 
-Webmaster Rick reported on the club web site.  The minutes are now in the public viewing area.  He has added a new list of VHF and UHF competitions.  
+Webmaster Rick reported on the club web site.  The minutes are now in the public viewing area.  He has added a new list of VHF and UHF competitions.
 
 Rick's work on the 222 and 432 MHz beacons is on hold for the present.  The 222 MHz handheld is not working out well as a beacon transmitter.  Rick will probably use transverters for these beacons. The 10 Meter I/F transmitter is working.  The beacons may use MCW rather than CW.
 

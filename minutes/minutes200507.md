@@ -48,7 +48,7 @@ be made for contacts on 2 meters simplex.  Tom is going to describe
 his rover operations at the OVMRC.
 
 Brad, VE3BSM, says that APRS is restructuring.  144.390 is too
-congested in some areas, with too many repeats.  
+congested in some areas, with too many repeats.
 
 Manfred reported 8 full time users.  It was born of necessity as users
 in the boonies were getting about 24K on dialup on a good day.
