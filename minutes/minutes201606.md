@@ -71,7 +71,7 @@ Nil.
 ### Announcements
 
 * Randy (VE3AX) mentioned that a new low cost SDR rig was coming out. The RS-HFIQ. Also mentioned new WSPR software created by a Quebec Ham VA2GKA.
-* Rich (VE3KI) mentioned that there were 2 new special event callsigns available for Canada’s 150th birthday. CF and CG prefixes.
+* Rich (VE3KI) mentioned that there were 2 new special event callsigns available for Canada’s 150<sup>th</sup> birthday. CF and CG prefixes.
 * Glenn (VE3XRA) gave an update on the Robotics competition. The parents and teachers seemed interested in Ham Radio. Glenn also talked about a new SDR receiver caller Airspy and his trip to the Hamvention in Dayton, Ohio.
 * Doug (VE3XK) announced that the club was given 2 DMX towers.
 

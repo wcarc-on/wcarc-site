@@ -75,7 +75,7 @@ Doug (VE3XK) is looking for volunteers to help Paul (VE3PLE) take down his anten
 
 * Glenn (VE3XRA) mentioned the NEWS VHF-UHF conference being held in Connecticut April 21.
 * Glenn inquired if anyone had built the Ukranian 222 MHz transverter.
-* Doug (VE3XK) asked if the club had a table at Smith Falls which is Saturday May 13th.
+* Doug (VE3XK) asked if the club had a table at Smith Falls which is Saturday May 13<sup>th</sup>.
 
 ### Speaker
 

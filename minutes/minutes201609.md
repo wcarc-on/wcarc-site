@@ -54,7 +54,7 @@ A big thank you was given to Rick (VE3CVG) for all of the work over the years.
 Doug (VE3XK) presented the Motion to amend WCARC bylaw 2. Seconded by Wayne (VE3CZO).
 The motion was carried.
 
-Clayton (VE3IRR) proposed that meetings be held on the 3rd Monday of the month. Seconded by Randy (VE3AX). The motion was carried.
+Clayton (VE3IRR) proposed that meetings be held on the 3<sup>rd</sup> Monday of the month. Seconded by Randy (VE3AX). The motion was carried.
 
 Doug (VE3XK) mentioned that the speaker calendar has been updated on the website.
 
@@ -89,7 +89,7 @@ Robert (VE3BE) reported that a Diefenbunker member had issues registering on the
 
 WCARC will have a table at the OARC hamfest.
 
-OARC will have a portable equipment demo on the weekend of the 17th.
+OARC will have a portable equipment demo on the weekend of the 17<sup>th</sup>.
 
 Wayne showed a simple Powerpole splitter.
 

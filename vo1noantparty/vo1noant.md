@@ -3,7 +3,7 @@ layout: page
 title: VO1NO Antenna Party
 ---
 
-On July 3rd, 2006, Al (VO1NO) had an antenna raising party and had a good turnout of helping hands. Al  gave us a working demonstration of the falling derrick method of raising a tower. Amazing operation to watch. We had a refreshing drink at half time and a BBQ after the hard work was over.
+On July 3<sup>rd</sup>, 2006, Al (VO1NO) had an antenna raising party and had a good turnout of helping hands. Al  gave us a working demonstration of the falling derrick method of raising a tower. Amazing operation to watch. We had a refreshing drink at half time and a BBQ after the hard work was over.
 
 ![getting organized](vo1no20060703_001_gettingorganized.jpg)
 

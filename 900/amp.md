@@ -8,7 +8,7 @@ title: 900 MHz Power Amplifiers Suitable for Use in Amateur Radio
 * RF Transistors TP3022A (1), TP3020A (2)
 * Control Transistors TIP36A (2), TIP32 (1)
 * Length 14¾", Width 4½", Height 3¼"
-* RF Shielded compartment 7/8th's inch deep, cover included
+* RF Shielded compartment ⅞" deep, cover included
 * Large die cast heat sink assembly with high volume PAPST/EBM fan 3 inch
 * Ten Watts continuous output at its intended frequency of 860MHz. A couple of watts less on 903MHz.
 * Power required is 24 to 28 volts regulated at 2.5A DC.

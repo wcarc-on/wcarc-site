@@ -8,7 +8,7 @@ title: Regulations
 ## Amateur Radio Antenna Regulations in Ottawa
 
 WCARC Secretary Glenn MacDonell (VE3XRA) and WCARC Vice President Andy Hart (VE3NVK) spent many hours of their personal time meeting and working with the City of Ottawa to ensure
-a fair and meaningful policy was established, that was mutually acceptable to Amateur Radio Operators in Ottawa, as well as the City of Ottawa government. The new policy became effective April 27th, 2012. Please see our [Ottawa antenna policy](ottawa_antenna_policy.html) page for more details.
+a fair and meaningful policy was established, that was mutually acceptable to Amateur Radio Operators in Ottawa, as well as the City of Ottawa government. The new policy became effective April 27<sup>th</sup>, 2012. Please see our [Ottawa antenna policy](ottawa_antenna_policy.html) page for more details.
 
 We owe these gentlemen, and the others who participated, a special vote of thanks for their work on our behalf. It is our understanding that the City was also co-operative and supportive during this process. Well done!
 
@@ -44,7 +44,7 @@ Radio Amateurs of Canada
 
 ## Changes to Mobile Operation as Related to Hands Free Operation - As of October 2009
 
-This week, new legislation has been passed in Ontario regarding the use of communications devices in Ontario, which includes both cell phones and amateur radio in mobile communications. The regulations take effect October 26th, 2009. In reading the regulation, it appears that amateurs are exempt until 2013. I guess if we operate, we better carry a copy of our licence.
+This week, new legislation has been passed in Ontario regarding the use of communications devices in Ontario, which includes both cell phones and amateur radio in mobile communications. The regulations take effect October 26<sup>th</sup>, 2009. In reading the regulation, it appears that amateurs are exempt until 2013. I guess if we operate, we better carry a copy of our licence.
 
 The Toronto FM Communications Society had a director, Neil VE3SST representing the amateur radio operators with the government authorities during the preparation and tabling of this new legislation, and the websites below were forwarded by TFMCS. They are:
 

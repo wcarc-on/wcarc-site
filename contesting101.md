@@ -28,7 +28,7 @@ page.
 * There are at least 5 factors involved in getting a signal out: antenna height, antenna gain, directivity, RF power level, RF propagation god.
 * There are at least 5 factors involved in receiving a signal: antenna height, antenna gain, directivity, RF sensitivity, RF propagation god.
 * Using HF antennas for 6m (and above) works.
-* Using 2m antennas for 70cm often works (3rd harmonic).
+* Using 2m antennas for 70cm often works (3<sup>rd</sup> harmonic).
 
 ## CW
 

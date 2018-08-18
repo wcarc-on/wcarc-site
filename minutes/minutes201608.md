@@ -65,7 +65,7 @@ December will be the annual meeting and Christmas party.
 
 January will be Brian and the subject will be ‘adventures from the coldest parts of the cold war’
 
-March will be Dave Conn (VE3KL) and adding a 6th band to an OCF antenna.
+March will be Dave Conn (VE3KL) and adding a 6<sup>th</sup> band to an OCF antenna.
 
 ### Director's Report
 

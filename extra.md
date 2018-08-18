@@ -15,7 +15,7 @@ The West Carleton Amateur Radio Club of Ottawa will again operate VE3WCC Field D
 at 730 feet ASL overlooking Lake Ontario, the location has a clear look to the horizon over more than 180 degrees centred on the south. This
 will be the sixth year of a multi-op effort from this site.  The site is near the intersection of 4 grids and has been popular with rovers for
 long before our use of it.  Although trees obstruct the view to one of the nearby grids at microwave frequencies the site allows good
-opportunities for communications on all frequencies.  We registered our highest score and the highest in in Canada in 2012 and placed 9th
+opportunities for communications on all frequencies.  We registered our highest score and the highest in in Canada in 2012 and placed 9<sup>th</sup>
 overall among multi-ops in the contest.  We are working to improve our score again this year!
 
 Each of the past years we have added capability or power.  This year we will add 2304 MHz to our standard coverage of the bands from 6M
@@ -36,11 +36,11 @@ arrange skeds up to the start of the contest.
 
 ## Write-up from Previous Years
 
-Members of the West Carleton Amateur Radio Club of Ottawa will operate VE3WCC "Field Day" style in a multi-op effort from FN04xa for the June ARRL VHF QSO Party.  Located at 730 feet ASL overlooking Lake Ontario, the location will have a clear shot to the major population centres of Ontario, Northern New York State and beyond. This will be out 4th year of operating from this site.
+Members of the West Carleton Amateur Radio Club of Ottawa will operate VE3WCC "Field Day" style in a multi-op effort from FN04xa for the June ARRL VHF QSO Party.  Located at 730 feet ASL overlooking Lake Ontario, the location will have a clear shot to the major population centres of Ontario, Northern New York State and beyond. This will be our 4<sup>th</sup> year of operating from this site.
 
 As in last year's contest, the group will operate all bands from 6M through 1296 MHz. PLUS this year we will run higher power (700w on 6m and 2m).  We will have an unusual 5.8GHz set up, a Ramsey laser kit for relatively nearby communications,  10 GHz wideband FM using a Tellurometers, but no narrowband 10GHz.
 
-We scored the 2nd highest number of points of any Canadian operation last year and hope to do even better this year from this relatively rare grid square.
+We scored the 2<sup>nd</sup> highest number of points of any Canadian operation last year and hope to do even better this year from this relatively rare grid square.
 
 Rovers who will be within range are asked to forward their rover schedules.  Please include the grids squares and approximate times you plan to be in each, a list of bands you are able to operate, and the co-ordination frequency you will use.  Those rovers who will actually pass through FN04 are very welcome to stop by for a snack and hot coffee - directions to our location will be sent by e-mail upon request.  As well, a limited number of 10 GHz Tellurometers and 5.8GHz units will be available for loan to rovers.  We will be located near the intersection of 4 grids, so this could be quite profitable in terms of QSOs!
 

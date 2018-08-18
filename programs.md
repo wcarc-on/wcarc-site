@@ -87,7 +87,7 @@ For more info about roving see these links.
 
 ## Family Activities - Diefenbunker Tour
 
-On Saturday, March 19th, 2005, WCARC families and friends (11) attended a tour of the Diefenbunker, located north of the town of Carp, on Carp Rd. Also talked to the hams at the museum station VE3CWM (Cold War Museum). It was a very interesting experience and if you haven't taken this tour, we suggest that you do so at your next opportunity.
+On Saturday, March 19<sup>th</sup>, 2005, WCARC families and friends (11) attended a tour of the Diefenbunker, located north of the town of Carp, on Carp Rd. Also talked to the hams at the museum station VE3CWM (Cold War Museum). It was a very interesting experience and if you haven't taken this tour, we suggest that you do so at your next opportunity.
 
 Picture of the tour group from left to right: Brad (VE3BSM) with family, Dean (VA3CDD), Tim (VE3MY), Tom (VA3NFA) and Les (VA3BZQ).
 Frank (VE3YY) and kids were not in the picture. Dale (VE3XZT) took the picture.

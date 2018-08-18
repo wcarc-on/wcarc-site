@@ -37,7 +37,7 @@ Purchasers may choose either a 144MHz or 28MHz IF - same price.
 
 IF and RF switching are included for this model, making this a very attractive route, since no costly external relays are required.
 
-After receipt of firm pricing from DEMI, an order for 8 of the complete kits was placed on March 10th. All are 144MHz IF, 10w output. 7 are for the 903MHz version (VA3KA, VE3XK, VA3NFA, VE3XZT, VE3BYT, VA3WK, VE3CVG) and 1 is for the 902MHz version (VE3ZRK). VE3BYT ordered a 902MHz crystal to give him future flexibility. Unfortunately, delivery is approximately 4 weeks. As per DEMI policy for club orders, a bank draft in US funds was forwarded to DEMI on March 11 by VE3CVG. Copies of the bank draft and postage are on file.
+After receipt of firm pricing from DEMI, an order for 8 of the complete kits was placed on March 10<sup>th</sup>. All are 144MHz IF, 10w output. 7 are for the 903MHz version (VA3KA, VE3XK, VA3NFA, VE3XZT, VE3BYT, VA3WK, VE3CVG) and 1 is for the 902MHz version (VE3ZRK). VE3BYT ordered a 902MHz crystal to give him future flexibility. Unfortunately, delivery is approximately 4 weeks. As per DEMI policy for club orders, a bank draft in US funds was forwarded to DEMI on March 11 by VE3CVG. Copies of the bank draft and postage are on file.
 
 More information is available on the [project page](proj900.html).
 

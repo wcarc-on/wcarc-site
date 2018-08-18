@@ -83,7 +83,7 @@ Bert reminded that the insurance was due in December.
 * Margaret (VA3XVN) mentioned that the Tall Pines Rally in Bancroft is looking for volunteers this coming weekend.
 * Doug (VE3XK) mentioned that Paul (VE3PLE) had left a collection of books on C & C++ that are available to a member who wants them.
 * Glenn (VE3XRA) mentioned that the Canada 150 contest has over 21050 distinct call signs in the logs and included 1820 Canadian call signs. The C3 mission docked in Vancouver and is ended. The WSPR beacon is still operating.
-* Doug (VE3XK) mentioned that the February meeting will be on the 2nd Monday as Family Day is on the 3rd Monday.
+* Doug (VE3XK) mentioned that the February meeting will be on the 2<sup>nd</sup> Monday as Family Day is on the 3<sup>rd</sup> Monday.
 * Glenn highlighted the fact that there are 20 people attending tonight's meeting.
 * Doug mentioned that he will bring books from Paul's collection that will be raffled off.
 

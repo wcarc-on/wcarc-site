@@ -9,9 +9,9 @@ The West Carleton Amateur Radio Club has had another busy and productive year.  
 transverter project, replaced one beacon and added one new beacon, for a total complement of six.
 
 In June the club returned to grid square FN04xa for the sixth consecutive year to compete in the ARRL June VHF Contest.  The club had its best ever result,
-finishing in 14th place overall.  The team consisted of Al (VO1NO), Glenn (VE3XRA), Bill (VE3MMQ), Allan (VA3FMN), Michael (VE3ARL), Dave (VE3AAQ), Richard (VE3KI), Steven (VA3EXS),
+finishing in 14<sup>th</sup> place overall.  The team consisted of Al (VO1NO), Glenn (VE3XRA), Bill (VE3MMQ), Allan (VA3FMN), Michael (VE3ARL), Dave (VE3AAQ), Richard (VE3KI), Steven (VA3EXS),
 Bert (VE2ZAZ), Ray (VE3BVV), Sam (VE3CMS), Greg (VA3OMP) and Clayton (VE3IRR), as well as Air Cadets Kristin, Darla and Steph.  The team's final score of 194,575 points also
-gave them the highest score in Canada, highest in the Central Region, and 6th among unlimited multi-op stations.  Plans are already under way to participate in the 2014 June
+gave them the highest score in Canada, highest in the Central Region, and 6<sup>th</sup> among unlimited multi-op stations.  Plans are already under way to participate in the 2014 June
 VHF Contest, perhaps from a new location.
 
 Bert (VE2ZAZ) built a 2304 MHz transverter from surplus Harris equipment, based on a prototype made by Jimmy Howard (VE2JWH).  Bert used his transverter to make

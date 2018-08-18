@@ -129,7 +129,7 @@ On Thursday March 10, I finally spoke with Sandra at Down East Microwave and aft
 
 ## Note added on April 23, 2005 by VE3CVG
 
-On Tuesday April 19th, I received an email from Sandra at Down East Microwave, indicating that our order would be shipped by April 20th. So now we wait anxiously. With luck we can get these built in time for the June contest, or sooner.
+On Tuesday April 19<sup>th</sup>, I received an email from Sandra at Down East Microwave, indicating that our order would be shipped by April 20<sup>th</sup>. So now we wait anxiously. With luck we can get these built in time for the June contest, or sooner.
 
 ## Note added on April 26, 2005 by VE3CVG
 
@@ -200,7 +200,7 @@ Ken and Rick have heard each other. Ken heard Rick's CW and Rick heard Ken give 
 
 ## Note added on June 11, 2005 by VE3CVG
 
-Friday evening June 10th, 2005 between 2100 and 2200hrs (local) we had some excitement on 903MHz in this area, for the first time in history, I think: Ken (VA3KA) and I (VE3CVG) completed a two way Q5 contact on 903.1MHz at a distance of over 60km. This was followed by a contact between Ken and Doug (VE3XK), and then a contact between Ken and Tom (VA3NFA).
+Friday evening June 10<sup>th</sup>, 2005 between 2100 and 2200hrs (local) we had some excitement on 903MHz in this area, for the first time in history, I think: Ken (VA3KA) and I (VE3CVG) completed a two way Q5 contact on 903.1MHz at a distance of over 60km. This was followed by a contact between Ken and Doug (VE3XK), and then a contact between Ken and Tom (VA3NFA).
 
 ## Note added on June 16, 2005 by VE3CVG
 

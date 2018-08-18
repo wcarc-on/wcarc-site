@@ -55,7 +55,7 @@ September 9-11, 2017 1800 UTC Saturday to 0259 UTC Sunday
 
 ### Spring Nearfest Excursion
 * New England Amateur Radio Club
-* 4th weekend of April? 09:00 Friday to Saturday
+* 4<sup>th</sup> weekend of April? 09:00 Friday to Saturday
 * see [http://www.near-fest.com](http://www.near-fest.com)
 * Deerfield, NH (25mi from Manchester). Approx 280mi from Cornwall.
 * members of WCARC will be attending
@@ -67,7 +67,7 @@ September 9-11, 2017 1800 UTC Saturday to 0259 UTC Sunday
 * very limited discount space available in Manchester Super 8
 
 ### Canadian Ski Marathon
-*  48th Ski Marathon
+*  48<sup>th</sup> Ski Marathon
 * Radio Amateurs have been providing communications support to the CSM
 operations and safety for 42 years (as of this year) and show no signs of slowing
 down for this year.

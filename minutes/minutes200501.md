@@ -91,7 +91,7 @@ an issue with the ISP.
 
 Richard, VE3UNW, indicated that about 40 volunteers will be needed
 for the Canadian Ski Marathon the second weekend in February, the
-12th and 13th.  Richard also reported that Mike, VE3FFK, would be
+12<sup>th</sup> and 13<sup>th</sup>.  Richard also reported that Mike, VE3FFK, would be
 holding a course on Net Control on Saturday at Algonquin College.
 
 The meeting was adjourned at about 9:15 PM.
