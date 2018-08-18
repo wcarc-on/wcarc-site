@@ -50,7 +50,7 @@ September 9-11, 2017 1800 UTC Saturday to 0259 UTC Sunday
 * Saturday in September, AFTER Labour Day, Vendors 0730, tailgaters open 0800, building opens 0900hrs EDT
 * $6 general  $12 table plus admission  $5 tailgate plus admission
 * Carp Agricultural fairgrounds, Carp, ON
-* see [http://www.oarc.net/fleamarket/](http://www.oarc.net/fleamarket/)
+* see [https://www.oarc.net/fleamarket/](https://www.oarc.net/fleamarket/)
 * see [http://rac.eton.ca/events/upcoming.php](http://rac.eton.ca/events/upcoming.php)
 
 ### Spring Nearfest Excursion

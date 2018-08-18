@@ -34,7 +34,7 @@ title: Web Links
 ## Other Local Clubs
 * [Almonte Amateur Radio Club (AARC)](http://www.almontearclub.ca/Almonte_Amateur_Radio_Club/Welcome.html)
 * [Ottawa Valley Mobile Radio Club (OVMRC)](http://www.ovmrc.on.ca)
-* [Ottawa Amateur Radio Club (OARC)](http://www.oarc.net)
+* [Ottawa Amateur Radio Club (OARC)](https://www.oarc.net)
 * [Quinte Amateur Radio Club (QARC)](https://www.qarc.on.ca/)
 * [Kingston Amateur Radio Club (KARC)](http://www.ve3kbr.com/)
 * [Montreal Amateur Radio Club (MARC)](http://www.marc.qc.ca)
