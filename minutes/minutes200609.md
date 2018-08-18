@@ -35,7 +35,7 @@ absent.
 Rick, VE3CVG, reported that the
 fleamarket at Carp was a success - good stuff and a good turnout. The RAC Symposium was well attended, with an
 interesting talk on HF Beacons, and an exposé by Eric, VE3EI, of the ICOM
-D-Star system and available equipment. ICOM is prepared to offer the same deal as in the USA - buy 2m and 440
+D-STAR system and available equipment. ICOM is prepared to offer the same deal as in the USA - buy 2m and 440
 MHz gear and ICOM will supply a 1.2 GHz repeater and controller. The object for Ottawa is to have the 144,
 440 and 1.2 digital repeaters at the same location.
 

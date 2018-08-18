@@ -48,20 +48,20 @@ to the project.
 Ken also reported that Digital
 Everything is coming to town. Ken,
 Rick, and a group of interested members are looking into the potential
-applications of D-Star equipment and the likely establishment of a digital
+applications of D-STAR equipment and the likely establishment of a digital
 repeater on the 1240 band in Ottawa. ICOM has equipment for the 144, 430 and 1240 MHz bands and may have
 incentives for equipment purchases. Currently, equipment for 1.2 GHz is priced around $1100C. Applications for personal and emergency
 operations and special events are numerous, with the ability to pass text and
 graphics as well as voice and with connections to the Internet. Members should advise Ken if they are
-interested in the D-Star developments.
+interested in the D-STAR developments.
 
-There is a discussion forum on D-Star at
+There is a discussion forum on D-STAR at
 [http://www.k5tit.org/](http://www.k5tit.org/). Also see
 [https://www.icomamerica.com/en/support/forums/](https://www.icomamerica.com/en/support/forums/)
 and check the local web pages at [https://va3odg.webqth.com/](https://va3odg.webqth.com/).
 
 Apparently Vancouver and Calgary
-(three bands) are on the air with D-Star, and Montreal and Toronto are coming
+(three bands) are on the air with D-STAR, and Montreal and Toronto are coming
 on line soon.
 
 Al, VO1NO, will be going to the

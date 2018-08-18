@@ -33,7 +33,7 @@ had no new guests present.
 Rick, VE3CVG, indicated that the
 web site is up to date and that the 903 MHz beacon is working. Rick announced that he and Ken, VA3KA, would
 be working on two personal projects - 902 band FM repeaters, and implementation
-of the ICOM D-Star digital system.
+of the ICOM D-STAR digital system.
 
 Ken reported that the finances
 are in good shape and the domain name is paid for the year.
@@ -55,9 +55,9 @@ repeaters as well.
 
 Rick reported that he and Ken
 have applied for a $16,000 Seniors Grant to assist them with implementing the
-D-Star system. Rick says that D-Star
+D-STAR system. Rick says that D-STAR
 uses the same protocol as the AOR modules. They are asking ICOM to supply two 1.2 GHz repeaters and the group will
-put up 144 and 440 MHz digital systems as well. D-Star installations are proceeding in a number of cities, including Calgary,
+put up 144 and 440 MHz digital systems as well. D-STAR installations are proceeding in a number of cities, including Calgary,
 Vancouver, Victoria and Montreal. The
 "group" may pass the hat to area clubs to assist with the project.
 

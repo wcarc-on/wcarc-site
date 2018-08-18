@@ -16,7 +16,7 @@ Unfortunately, it turns out that Bryan has a model MA5 tellurometer which does n
 
 Tom VA3NFA has done a good job of recording the contacts in a [blog post](http://va3nfa.blogspot.com/2006/08/10ghz-wbfm-experiments.html).
 
-## 1.2GHz DSTAR Digital Project
+## 1.2GHz D-STAR Digital Project
 
 See [https://va3odg.webqth.com/](https://va3odg.webqth.com/)
 

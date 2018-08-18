@@ -58,16 +58,16 @@ page.
 * 52.525MHz FM
 * 144.200 - 144.250MHz SSB and CW
 * 146.580MHz FM
-* 145.600MHz DSTAR
+* 145.600MHz D-STAR
 * 222.100-222.150MHz SSB and CW
 * 223.500MHz FM
 * 432.100MHz - 432.150MHz SSB and CW
 * 446.000MHz FM
-* 445.800MHz DSTAR
+* 445.800MHz D-STAR
 * 903.100MHz - 903.150MHz SSB and CW
 * 1296.100MHz - 1296.150MHz SSB and CD
 * 1298.000MHz FM
-* 1298.000MHz DSTAR
+* 1298.000MHz D-STAR
 
 Where a frequency range is given, the lowest frequency is the usual calling
 frequency.

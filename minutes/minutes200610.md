@@ -23,7 +23,7 @@ meeting.
 
 Rick, VE3CVG, reported that the
 web site is up to date - with the minutes. He and Ken, VA3KA, are waiting to hear about the requested grant to
-support the D-Star project. They have a
+support the D-STAR project. They have a
 number of radios converted for the 902 MHz band, two receivers for the
 repeaters. Rick has a repeater
 controller on hand.
