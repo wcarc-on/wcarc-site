@@ -98,7 +98,7 @@ Glenn (VE3XRA) has suggested that we start discussions with all of the other loc
 
 Rick (VE3KI) talked about some of the club rules for the June VHF contest.
 
-Clayton (VE3IRR) verified with the members if someone was interested in the position of club Vice-President as Doug is looking to step down. No one showed interest and Doug mentioned that he will continue in the position.
+Clayton (VE3IRR) verified with the members if someone was interested in the position of club Vice President as Doug is looking to step down. No one showed interest and Doug mentioned that he will continue in the position.
 
 ### Speaker
 

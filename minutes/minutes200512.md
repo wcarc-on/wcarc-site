@@ -40,7 +40,7 @@ following nominations took place:
 
 * Ken, VA3KA, was nominated by VA3NFA and seconded by VE3XK for the position of WCARC Treasurer. No other nominations were made thus Ken was acclaimed as Treasurer.
 * Graham, VE3BYT, (absent from meeting) was nominated by VO1NO and seconded by VE3BSM for position of WCARC Secretary. No other nominations were made thus Graham was acclaimed as Secretary.
-* Rick, VE3CVG, was nominated by VA3NFA and seconded by VE3MY for position of WCARC Vice-President and Webmaster. No other nominations were made thus Rick was acclaimed as V.P.
+* Rick, VE3CVG, was nominated by VA3NFA and seconded by VE3MY for position of WCARC Vice President and Webmaster. No other nominations were made thus Rick was acclaimed as V.P.
 * Tom, VA3NFA, was nominated by VE3XZT and seconded by VE3XK for the position of WCARC President. No other nominations were made thus Tom was acclaimed as Pres.
 
 Congratulations to the new (old?) executive for 2006!
