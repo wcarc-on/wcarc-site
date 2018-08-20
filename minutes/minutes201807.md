@@ -15,7 +15,7 @@ The following people were present:
 | Bertrand Zauhar  | VE2ZAZ    | Member         | FN25bk  | Yes |  Yes  |
 | Ray Perrin       | VE3FN     | Member         | FN25dk  | Yes |  Yes  |
 | Marius Draghia   | VE3ETK    | Member         | FN15    | Yes |  Yes  |
-| Don Young        | VE3DKF    | Member         | FN25    | Yes |  Yes  |
+| Don Young        | VE3KDF    | Member         | FN25    | Yes |  Yes  |
 | Roger Egan       | VA3EGY    | Visitor        | FN14pj  | Yes |       |
 | Peter Jago       | VA3PJ     | Member         | FN25ag  | Yes |  Yes  |
 | John Vandermey   | VA3RLC    | Member         | FN15xd  | Yes |  Yes  |

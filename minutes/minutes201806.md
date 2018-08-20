@@ -19,7 +19,7 @@ The following people were present:
 | Ray Perrin       | VE3FN     | Member         | FN25dk  | Yes |  Yes  |
 | Wayne Getchell   | VE3CZO    | Member         | FN25bh  | Yes |  Yes  |
 | Marius Draghia   | VE3ETK    | Member         |         | Yes |  Yes  |
-| Don Young        | VE3DKF    | Visitor        | FN25    | Yes |       |
+| Don Young        | VE3KDF    | Visitor        | FN25    | Yes |       |
 | Roger Egan       | VA3EGY    | Visitor        | FN14pj  | Yes |       |
 | Peter Jago       | VA3PJ     | Member         | FN25ag  | Yes |  Yes  |
 
