@@ -6,20 +6,20 @@ title: Minutes of the Regular Meeting on August 21, 2017
 The meeting was held at the Sobey's in Kanata (March Rd. location).
 The following people were present:
 
-| Name             | Call Sign | Position       | MH Grid | RAC | WCARC |
-|------------------|-----------|----------------|---------|-----|-------|
-| Bertrand Zauhar  | VE2ZAZ    | Director       | FN25bk  | Yes |  Yes  |
-| Clayton Smith    | VE3IRR    | President      | FN25ai  | Yes |  Yes  |
-| Doug Leach       | VE3XK     | Vice President | FN25bf  | Yes |  Yes  |
-| Peter Jago       | VA3PJ     | Member         | FN25ag  | Yes |  Yes  |
-| Glenn MacDonell  | VE3XRA    | Member         | FN25dj  | Yes |  Yes  |
-| Richard Ferch    | VE3KI     | Member         | FN25ce  | Yes |  Yes  |
-| Clare Fowler     | VE3NPC    | Member         | FN25dj  | Yes |  Yes  |
-| Remi De Cristofaro | VA3DRI  | Visitor        | FN25bh  | Yes |       |
-| Chris Bisaillion | VE3CBK    | Member         | FN25ai  | Yes |  Yes  |
-| Brian Jeffrey    | VE3UU     | Member         | FN15wi  | Yes |  Yes  |
-| Robert Boyd      | VE3BE     | Treasurer      | FN25dj  | Yes |  Yes  |
-| Wayne Getchell   | VE3CZO    | Member         | FN25    | Yes |  Yes  |
+| Name                   | Call Sign  | Position         | MH Grid | RAC | WCARC |
+|------------------------|------------|------------------|---------|-----|-------|
+| Bertrand Zauhar        | VE2ZAZ     | Director         | FN25bk  | Yes | Yes   |
+| Clayton Smith          | VE3IRR     | President        | FN25ai  | Yes | Yes   |
+| Doug Leach             | VE3XK      | Vice President   | FN25bf  | Yes | Yes   |
+| Peter Jago             | VA3PJ      | Member           | FN25ag  | Yes | Yes   |
+| Glenn MacDonell        | VE3XRA     | Member           | FN25dj  | Yes | Yes   |
+| Richard Ferch          | VE3KI      | Member           | FN25ce  | Yes | Yes   |
+| Clare Fowler           | VE3NPC     | Member           | FN25dj  | Yes | Yes   |
+| Remi De Cristofaro     | VA3DRI     | Visitor          | FN25bh  | Yes |       |
+| Chris Bisaillion       | VE3CBK     | Member           | FN25ai  | Yes | Yes   |
+| Brian Jeffrey          | VE3UU      | Member           | FN15wi  | Yes | Yes   |
+| Robert Boyd            | VE3BE      | Treasurer        | FN25dj  | Yes | Yes   |
+| Wayne Getchell         | VE3CZO     | Member           | FN25    | Yes | Yes   |
 
 ### Opening
 

@@ -6,21 +6,21 @@ title: Minutes of the Regular Meeting on September 18, 2017
 The meeting was held at the Sobey's in Kanata (March Rd. location).
 The following people were present:
 
-| Name             | Call Sign | Position       | MH Grid | RAC | WCARC |
-|------------------|-----------|----------------|---------|-----|-------|
-| Bertrand Zauhar  | VE2ZAZ    | Director       | FN25bk  | Yes |  Yes  |
-| Randy Nordlund   | VE3AX     | Secretary      | FN25jg  | Yes |  Yes  |
-| Clayton Smith    | VE3IRR    | President      | FN25ai  | Yes |  Yes  |
-| Doug Leach       | VE3XK     | Vice President | FN25bf  | Yes |  Yes  |
-| Luc Pernot       | VE3JGL    | Visitor        | FN25ek  | Yes |       |
-| Glenn MacDonell  | VE3XRA    | Member         | FN25dj  | Yes |  Yes  |
-| Jeremy Jones     | VA3ZTF    | Member         | FN25ag  | Yes |  Yes  |
-| Remi De Cristofaro | VA3DRI  | Member         | FN25bh  | Yes |  Yes  |
-| Margaret Tidman  | VA3VXN    | Member         | FN25ai  | Yes |  Yes  |
-| Robert Boyd      | VE3BE     | Treasurer      | FN25dj  | Yes |  Yes  |
-| Tyler Tidman     | VA3DGN    | Member         | FN25ai  | Yes |  Yes  |
-| Wayne Getchell   | VE3CZO    | Member         | FN25    | Yes |  Yes  |
-| John Vandermey   | VA3RLC    | Member         | FN15xd  | Yes |  Yes  |
+| Name                   | Call Sign  | Position         | MH Grid | RAC | WCARC |
+|------------------------|------------|------------------|---------|-----|-------|
+| Bertrand Zauhar        | VE2ZAZ     | Director         | FN25bk  | Yes | Yes   |
+| Randy Nordlund         | VE3AX      | Secretary        | FN25jg  | Yes | Yes   |
+| Clayton Smith          | VE3IRR     | President        | FN25ai  | Yes | Yes   |
+| Doug Leach             | VE3XK      | Vice President   | FN25bf  | Yes | Yes   |
+| Luc Pernot             | VE3JGL     | Visitor          | FN25ek  | Yes |       |
+| Glenn MacDonell        | VE3XRA     | Member           | FN25dj  | Yes | Yes   |
+| Jeremy Jones           | VA3ZTF     | Member           | FN25ag  | Yes | Yes   |
+| Remi De Cristofaro     | VA3DRI     | Member           | FN25bh  | Yes | Yes   |
+| Margaret Tidman        | VA3VXN     | Member           | FN25ai  | Yes | Yes   |
+| Robert Boyd            | VE3BE      | Treasurer        | FN25dj  | Yes | Yes   |
+| Tyler Tidman           | VA3DGN     | Member           | FN25ai  | Yes | Yes   |
+| Wayne Getchell         | VE3CZO     | Member           | FN25    | Yes | Yes   |
+| John Vandermey         | VA3RLC     | Member           | FN15xd  | Yes | Yes   |
 
 ### Opening
 

@@ -6,31 +6,31 @@ title: Minutes of the Regular Meeting on February 12, 2018
 The meeting was held at the Sobey's in Kanata (March Rd. location).
 The following people were present:
 
-| Name             | Call Sign | Position       | MH Grid | RAC | WCARC |
-|------------------|-----------|----------------|---------|-----|-------|
-| Bertrand Zauhar  | VE2ZAZ    | Member         | FN25bk  | Yes |  Yes  |
-| Clayton Smith    | VE3IRR    | President      | FN25ai  | Yes |  Yes  |
-| Doug Leach       | VE3XK     | Vice President | FN25bf  | Yes |  Yes  |
-| Jeremy Jones     | VA3ZTF    | Director       | FN25ag  | Yes |  Yes  |
-| Randy Nordlund   | VE3AX     | Secretary      | FN25jg  | Yes |  Yes  |
-| Brian Jeffrey    | VE3UU     | Member         | FN15wi  | Yes |  Yes  |
-| Remi De Cristofaro | VA3DRI  | Member         | FN25bh  | Yes |  Yes  |
-| Tyler Tidman     | VA3DGN    | Member         | FN25ai  | Yes |  Yes  |
-| Margaret Tidman  | VA3VXN    | Member         | FN25ai  | Yes |  Yes  |
-| Glenn MacDonell  | VE3XRA    | Member         | FN25dj  | Yes |  Yes  |
-| Graham Ide       | VE3BYT    | Member         | FN25ch  | Yes |  Yes  |
-| Andy Hart        | VE3NVK    | Member         | FN25bh  | Yes |  Yes  |
-| Peter Jago       | VA3PJ     | Member         | FN25ag  | Yes |  Yes  |
-| Ralph Cameron    | VE3BBM    | Visitor        | FN15    | Yes |       |
-| Chris Bisaillion | VE3CBK    | Member         | FN25ai  | Yes |  Yes  |
-| Luc Pernot       | VE3JGL    | Member         | FN25ek  | Yes |  Yes  |
-| Richard Ferch    | VE3KI     | Member         | FN25ce  | Yes |  Yes  |
-| Bob Harrington   | VE3YYG    | Member         | FN25bh  | Yes |  Yes  |
-| John Vandermey   | VA3RLC    | Member         | FN15xd  | Yes |  Yes  |
-| Marius Draghia   | VE3ETK    | Visitor        |         | Yes |       |
-| David Frank      | VE3DMU    | Visitor        | FN25cg  |     |       |
-| Stuart Ollerhead |           | Visitor        |         |     |       |
-| John W. Lalonde  |           | Visitor        |         |     |       |
+| Name                   | Call Sign  | Position         | MH Grid | RAC | WCARC |
+|------------------------|------------|------------------|---------|-----|-------|
+| Bertrand Zauhar        | VE2ZAZ     | Member           | FN25bk  | Yes | Yes   |
+| Clayton Smith          | VE3IRR     | President        | FN25ai  | Yes | Yes   |
+| Doug Leach             | VE3XK      | Vice President   | FN25bf  | Yes | Yes   |
+| Jeremy Jones           | VA3ZTF     | Director         | FN25ag  | Yes | Yes   |
+| Randy Nordlund         | VE3AX      | Secretary        | FN25jg  | Yes | Yes   |
+| Brian Jeffrey          | VE3UU      | Member           | FN15wi  | Yes | Yes   |
+| Remi De Cristofaro     | VA3DRI     | Member           | FN25bh  | Yes | Yes   |
+| Tyler Tidman           | VA3DGN     | Member           | FN25ai  | Yes | Yes   |
+| Margaret Tidman        | VA3VXN     | Member           | FN25ai  | Yes | Yes   |
+| Glenn MacDonell        | VE3XRA     | Member           | FN25dj  | Yes | Yes   |
+| Graham Ide             | VE3BYT     | Member           | FN25ch  | Yes | Yes   |
+| Andy Hart              | VE3NVK     | Member           | FN25bh  | Yes | Yes   |
+| Peter Jago             | VA3PJ      | Member           | FN25ag  | Yes | Yes   |
+| Ralph Cameron          | VE3BBM     | Visitor          | FN15    | Yes |       |
+| Chris Bisaillion       | VE3CBK     | Member           | FN25ai  | Yes | Yes   |
+| Luc Pernot             | VE3JGL     | Member           | FN25ek  | Yes | Yes   |
+| Richard Ferch          | VE3KI      | Member           | FN25ce  | Yes | Yes   |
+| Bob Harrington         | VE3YYG     | Member           | FN25bh  | Yes | Yes   |
+| John Vandermey         | VA3RLC     | Member           | FN15xd  | Yes | Yes   |
+| Marius Draghia         | VE3ETK     | Visitor          |         | Yes |       |
+| David Frank            | VE3DMU     | Visitor          | FN25cg  |     |       |
+| Stuart Ollerhead       |            | Visitor          |         |     |       |
+| John W. Lalonde        |            | Visitor          |         |     |       |
 
 ### Opening
 

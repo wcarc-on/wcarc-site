@@ -6,15 +6,15 @@ title: Minutes of the Regular Meeting on December 1, 2015
 The meeting was held in the Kanata Room at Sobey's, on the SW corner of Hazeldean and Terry Fox Drive in Kanata.
 The following people were present:
 
-| Name             | Call Sign | Position       | MH Grid | RAC | WCARC |
-|------------------|-----------|----------------|---------|-----|-------|
-| Clare Fowler     | VE3NPC    | Member         | FN25dj  | Yes |  Yes  |
-| Bertrand Zauhar  | VE2ZAZ    | Director       | FN25bk  | Yes |  Yes  |
-| Wayne Getchell   | VE3CZO    | Member         | FN25    | Yes |  Yes  |
-| Clayton Smith    | VE3IRR    | President      | FN25ai  | Yes |  Yes  |
-| Andy Hart        | VE3NVK    | Treasurer      | FN25bh  | Yes |  Yes  |
-| Doug Leach       | VE3XK     | Vice President | FN25bf  | Yes |  Yes  |
-| Glenn MacDonell  | VE3XRA    | Secretary      | FN25dj  | Yes |  Yes  |
+| Name                   | Call Sign  | Position         | MH Grid | RAC | WCARC |
+|------------------------|------------|------------------|---------|-----|-------|
+| Clare Fowler           | VE3NPC     | Member           | FN25dj  | Yes | Yes   |
+| Bertrand Zauhar        | VE2ZAZ     | Director         | FN25bk  | Yes | Yes   |
+| Wayne Getchell         | VE3CZO     | Member           | FN25    | Yes | Yes   |
+| Clayton Smith          | VE3IRR     | President        | FN25ai  | Yes | Yes   |
+| Andy Hart              | VE3NVK     | Treasurer        | FN25bh  | Yes | Yes   |
+| Doug Leach             | VE3XK      | Vice President   | FN25bf  | Yes | Yes   |
+| Glenn MacDonell        | VE3XRA     | Secretary        | FN25dj  | Yes | Yes   |
 
 ### Opening
 

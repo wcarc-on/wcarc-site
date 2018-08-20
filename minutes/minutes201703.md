@@ -6,25 +6,25 @@ title: Minutes of the Regular Meeting on March 20, 2017
 The meeting was held at the Sobey's in Kanata (March Rd. location).
 The following people were present:
 
-| Name             | Call Sign | Position       | MH Grid | RAC | WCARC |
-|------------------|-----------|----------------|---------|-----|-------|
-| Bertrand Zauhar  | VE2ZAZ    | Director       | FN25bk  | Yes |  Yes  |
-| Wayne Getchell   | VE3CZO    | Member         | FN25    | Yes |  Yes  |
-| Clayton Smith    | VE3IRR    | President      | FN25ai  | Yes |  Yes  |
-| Doug Leach       | VE3XK     | Vice President | FN25bf  | Yes |  Yes  |
-| Peter Jago       | VA3PJ     | Member         | FN25ag  | Yes |  Yes  |
-| Graham Ide       | VE3BYT    | Member         | FN25ch  | Yes |  Yes  |
-| Andy Hart        | VE3NVK    | Member         | FN25bh  | Yes |  Yes  |
-| Robert Boyd      | VE3BE     | Treasurer      | FN25dj  | Yes |  Yes  |
-| Jeremy Jones     | VA3ZTF    | Member         | FN25ag  | Yes |  Yes  |
-| Glenn MacDonell  | VE3XRA    | Member         | FN25dj  | Yes |  Yes  |
-| Stuart Fedak     | VE3SMF    | Visitor        | FN25eh  | Yes |       |
-| Nick Shepherd    | VE3OWV    | Member         | FN15vk  | Yes |  Yes  |
-| Chris Bisaillion | VE3CBK    | Member         | FN25ai  | Yes |  Yes  |
-| Michael Kennedy  | VA3TEC    | Visitor        | FN25fl  |     |       |
-| John Vandermey   | VA3RLC    | Member         | FN15    | Yes |  Yes  |
-| Brian Jeffrey    | VE3UU     | Member         | FN15    | Yes |  Yes  |
-| Laurens Wit      |           | Visitor        |         |     |       |
+| Name                   | Call Sign  | Position         | MH Grid | RAC | WCARC |
+|------------------------|------------|------------------|---------|-----|-------|
+| Bertrand Zauhar        | VE2ZAZ     | Director         | FN25bk  | Yes | Yes   |
+| Wayne Getchell         | VE3CZO     | Member           | FN25    | Yes | Yes   |
+| Clayton Smith          | VE3IRR     | President        | FN25ai  | Yes | Yes   |
+| Doug Leach             | VE3XK      | Vice President   | FN25bf  | Yes | Yes   |
+| Peter Jago             | VA3PJ      | Member           | FN25ag  | Yes | Yes   |
+| Graham Ide             | VE3BYT     | Member           | FN25ch  | Yes | Yes   |
+| Andy Hart              | VE3NVK     | Member           | FN25bh  | Yes | Yes   |
+| Robert Boyd            | VE3BE      | Treasurer        | FN25dj  | Yes | Yes   |
+| Jeremy Jones           | VA3ZTF     | Member           | FN25ag  | Yes | Yes   |
+| Glenn MacDonell        | VE3XRA     | Member           | FN25dj  | Yes | Yes   |
+| Stuart Fedak           | VE3SMF     | Visitor          | FN25eh  | Yes |       |
+| Nick Shepherd          | VE3OWV     | Member           | FN15vk  | Yes | Yes   |
+| Chris Bisaillion       | VE3CBK     | Member           | FN25ai  | Yes | Yes   |
+| Michael Kennedy        | VA3TEC     | Visitor          | FN25fl  |     |       |
+| John Vandermey         | VA3RLC     | Member           | FN15    | Yes | Yes   |
+| Brian Jeffrey          | VE3UU      | Member           | FN15    | Yes | Yes   |
+| Laurens Wit            |            | Visitor          |         |     |       |
 
 ### Opening
 

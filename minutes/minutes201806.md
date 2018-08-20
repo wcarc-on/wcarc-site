@@ -6,22 +6,22 @@ title: Minutes of the Regular Meeting on June 18, 2018
 The meeting was held at the Sobey's in Kanata (March Rd. location).
 The following people were present:
 
-| Name             | Call Sign | Position       | MH Grid | RAC | WCARC |
-|------------------|-----------|----------------|---------|-----|-------|
-| Clayton Smith    | VE3IRR    | President      | FN25ai  | Yes |  Yes  |
-| Doug Leach       | VE3XK     | Vice President | FN25bf  | Yes |  Yes  |
-| Jeremy Jones     | VA3ZTF    | Director       | FN25ag  | Yes |  Yes  |
-| Randy Nordlund   | VE3AX     | Secretary      | FN25jg  | Yes |  Yes  |
-| Robert Boyd      | VE3BE     | Treasurer      | FN25dj  | Yes |  Yes  |
-| Bertrand Zauhar  | VE2ZAZ    | Member         | FN25bk  | Yes |  Yes  |
-| Remi De Cristofaro | VA3DRI  | Member         | FN25bh  | Yes |  Yes  |
-| Andy Hart        | VE3NVK    | Member         | FN25bh  | Yes |  Yes  |
-| Ray Perrin       | VE3FN     | Member         | FN25dk  | Yes |  Yes  |
-| Wayne Getchell   | VE3CZO    | Member         | FN25bh  | Yes |  Yes  |
-| Marius Draghia   | VE3ETK    | Member         |         | Yes |  Yes  |
-| Don Young        | VE3KDF    | Visitor        | FN25    | Yes |       |
-| Roger Egan       | VA3EGY    | Visitor        | FN14pj  | Yes |       |
-| Peter Jago       | VA3PJ     | Member         | FN25ag  | Yes |  Yes  |
+| Name                   | Call Sign  | Position         | MH Grid | RAC | WCARC |
+|------------------------|------------|------------------|---------|-----|-------|
+| Clayton Smith          | VE3IRR     | President        | FN25ai  | Yes | Yes   |
+| Doug Leach             | VE3XK      | Vice President   | FN25bf  | Yes | Yes   |
+| Jeremy Jones           | VA3ZTF     | Director         | FN25ag  | Yes | Yes   |
+| Randy Nordlund         | VE3AX      | Secretary        | FN25jg  | Yes | Yes   |
+| Robert Boyd            | VE3BE      | Treasurer        | FN25dj  | Yes | Yes   |
+| Bertrand Zauhar        | VE2ZAZ     | Member           | FN25bk  | Yes | Yes   |
+| Remi De Cristofaro     | VA3DRI     | Member           | FN25bh  | Yes | Yes   |
+| Andy Hart              | VE3NVK     | Member           | FN25bh  | Yes | Yes   |
+| Ray Perrin             | VE3FN      | Member           | FN25dk  | Yes | Yes   |
+| Wayne Getchell         | VE3CZO     | Member           | FN25bh  | Yes | Yes   |
+| Marius Draghia         | VE3ETK     | Member           |         | Yes | Yes   |
+| Don Young              | VE3KDF     | Visitor          | FN25    | Yes |       |
+| Roger Egan             | VA3EGY     | Visitor          | FN14pj  | Yes |       |
+| Peter Jago             | VA3PJ      | Member           | FN25ag  | Yes | Yes   |
 
 ### Opening
 

@@ -6,28 +6,28 @@ title: Minutes of the Regular Meeting on November 20, 2017
 The meeting was held at the Sobey's in Kanata (March Rd. location).
 The following people were present:
 
-| Name             | Call Sign | Position       | MH Grid | RAC | WCARC |
-|------------------|-----------|----------------|---------|-----|-------|
-| Bertrand Zauhar  | VE2ZAZ    | Director       | FN25bk  | Yes |  Yes  |
-| Nick Shepherd    | VE3OWV    | Member         | FN15vk  | Yes |  Yes  |
-| Clayton Smith    | VE3IRR    | President      | FN25ai  | Yes |  Yes  |
-| Doug Leach       | VE3XK     | Vice President | FN25bf  | Yes |  Yes  |
-| Glenn MacDonell  | VE3XRA    | Member         | FN25dj  | Yes |  Yes  |
-| Jeremy Jones     | VA3ZTF    | Member         | FN25ag  | Yes |  Yes  |
-| Remi De Cristofaro | VA3DRI  | Member         | FN25bh  | Yes |  Yes  |
-| Graham Ide       | VE3BYT    | Member         | FN25ch  | Yes |  Yes  |
-| Robert Boyd      | VE3BE     | Treasurer      | FN25dj  | Yes |  Yes  |
-| Peter Jago       | VA3PJ     | Member         | FN25ag  | Yes |  Yes  |
-| Wayne Getchell   | VE3CZO    | Member         | FN25    | Yes |  Yes  |
-| John Vandermey   | VA3RLC    | Member         | FN15xd  | Yes |  Yes  |
-| Chris Bisaillion | VE3CBK    | Member         | FN25ai  | Yes |  Yes  |
-| Brian Jeffrey    | VE3UU     | Member         | FN15wi  | Yes |  Yes  |
-| Bob Harrington   | VE3YYG    | Member         | FN25bh  | Yes |  Yes  |
-| Andy Hart        | VE3NVK    | Member         | FN25bh  | Yes |  Yes  |
-| Ralph Cameron    | VE3BBM    | Guest          | FN15    | Yes |       |
-| Tyler Tidman     | VA3DGN    | Member         | FN25ai  | Yes |  Yes  |
-| Margaret Tidman  | VA3VXN    | Member         | FN25ai  | Yes |  Yes  |
-| Thane Brown      | VA3TTM    | Visitor        | FN25bi  |     |       |
+| Name                   | Call Sign  | Position         | MH Grid | RAC | WCARC |
+|------------------------|------------|------------------|---------|-----|-------|
+| Bertrand Zauhar        | VE2ZAZ     | Director         | FN25bk  | Yes | Yes   |
+| Nick Shepherd          | VE3OWV     | Member           | FN15vk  | Yes | Yes   |
+| Clayton Smith          | VE3IRR     | President        | FN25ai  | Yes | Yes   |
+| Doug Leach             | VE3XK      | Vice President   | FN25bf  | Yes | Yes   |
+| Glenn MacDonell        | VE3XRA     | Member           | FN25dj  | Yes | Yes   |
+| Jeremy Jones           | VA3ZTF     | Member           | FN25ag  | Yes | Yes   |
+| Remi De Cristofaro     | VA3DRI     | Member           | FN25bh  | Yes | Yes   |
+| Graham Ide             | VE3BYT     | Member           | FN25ch  | Yes | Yes   |
+| Robert Boyd            | VE3BE      | Treasurer        | FN25dj  | Yes | Yes   |
+| Peter Jago             | VA3PJ      | Member           | FN25ag  | Yes | Yes   |
+| Wayne Getchell         | VE3CZO     | Member           | FN25    | Yes | Yes   |
+| John Vandermey         | VA3RLC     | Member           | FN15xd  | Yes | Yes   |
+| Chris Bisaillion       | VE3CBK     | Member           | FN25ai  | Yes | Yes   |
+| Brian Jeffrey          | VE3UU      | Member           | FN15wi  | Yes | Yes   |
+| Bob Harrington         | VE3YYG     | Member           | FN25bh  | Yes | Yes   |
+| Andy Hart              | VE3NVK     | Member           | FN25bh  | Yes | Yes   |
+| Ralph Cameron          | VE3BBM     | Guest            | FN15    | Yes |       |
+| Tyler Tidman           | VA3DGN     | Member           | FN25ai  | Yes | Yes   |
+| Margaret Tidman        | VA3VXN     | Member           | FN25ai  | Yes | Yes   |
+| Thane Brown            | VA3TTM     | Visitor          | FN25bi  |     |       |
 
 ### Opening
 

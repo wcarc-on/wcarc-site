@@ -6,13 +6,13 @@ title: Minutes of the Regular Meeting on April 16, 2018
 The meeting was held at the Sobey's in Kanata (March Rd. location).
 The following people were present:
 
-| Name             | Call Sign | Position       | MH Grid | RAC | WCARC |
-|------------------|-----------|----------------|---------|-----|-------|
-| Clayton Smith    | VE3IRR    | President      | FN25ai  | Yes |  Yes  |
-| Robert Boyd      | VE3BE     | Treasurer      | FN25dj  | Yes |  Yes  |
-| Marius Draghia   | VE3ETK    | Member         |         | Yes |  Yes  |
-| Wayne Getchell   | VE3CZO    | Member         | FN25bh  | Yes |  Yes  |
-| Remi De Cristofaro | VA3DRI  | Member         | FN25bh  | Yes |  Yes  |
+| Name                   | Call Sign  | Position         | MH Grid | RAC | WCARC |
+|------------------------|------------|------------------|---------|-----|-------|
+| Clayton Smith          | VE3IRR     | President        | FN25ai  | Yes | Yes   |
+| Robert Boyd            | VE3BE      | Treasurer        | FN25dj  | Yes | Yes   |
+| Marius Draghia         | VE3ETK     | Member           |         | Yes | Yes   |
+| Wayne Getchell         | VE3CZO     | Member           | FN25bh  | Yes | Yes   |
+| Remi De Cristofaro     | VA3DRI     | Member           | FN25bh  | Yes | Yes   |
 
 ### Opening
 

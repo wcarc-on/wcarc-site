@@ -6,20 +6,20 @@ title: Minutes of the Regular Meeting on June 19, 2017
 The meeting was held at the Sobey's in Kanata (March Rd. location).
 The following people were present:
 
-| Name             | Call Sign | Position       | MH Grid | RAC | WCARC |
-|------------------|-----------|----------------|---------|-----|-------|
-| Bertrand Zauhar  | VE2ZAZ    | Director       | FN25bk  | Yes |  Yes  |
-| Randy Nordlund   | VE3AX     | Secretary      | FN25jg  | Yes |  Yes  |
-| Clayton Smith    | VE3IRR    | President      | FN25ai  | Yes |  Yes  |
-| Doug Leach       | VE3XK     | Vice President | FN25bf  | Yes |  Yes  |
-| Peter Jago       | VA3PJ     | Member         | FN25ag  | Yes |  Yes  |
-| Glenn MacDonell  | VE3XRA    | Member         | FN25dj  | Yes |  Yes  |
-| Richard Ferch    | VE3KI     | Member         | FN25ce  | Yes |  Yes  |
-| Jeremy Jones     | VA3ZTF    | Member         | FN25ag  | Yes |  Yes  |
-| Clare Fowler     | VE3NPC    | Member         | FN25dj  | Yes |  Yes  |
-| Bob Harrington   | VE3YYG    | Member         | FN25bh  | Yes |  Yes  |
-| Remi De Cristofaro | VA3DRI  | Visitor        |         |     |       |
-| Paul Boltwood    | VE3PLE    | Member         | FN25bg  | Yes |  Yes  |
+| Name                   | Call Sign  | Position         | MH Grid | RAC | WCARC |
+|------------------------|------------|------------------|---------|-----|-------|
+| Bertrand Zauhar        | VE2ZAZ     | Director         | FN25bk  | Yes | Yes   |
+| Randy Nordlund         | VE3AX      | Secretary        | FN25jg  | Yes | Yes   |
+| Clayton Smith          | VE3IRR     | President        | FN25ai  | Yes | Yes   |
+| Doug Leach             | VE3XK      | Vice President   | FN25bf  | Yes | Yes   |
+| Peter Jago             | VA3PJ      | Member           | FN25ag  | Yes | Yes   |
+| Glenn MacDonell        | VE3XRA     | Member           | FN25dj  | Yes | Yes   |
+| Richard Ferch          | VE3KI      | Member           | FN25ce  | Yes | Yes   |
+| Jeremy Jones           | VA3ZTF     | Member           | FN25ag  | Yes | Yes   |
+| Clare Fowler           | VE3NPC     | Member           | FN25dj  | Yes | Yes   |
+| Bob Harrington         | VE3YYG     | Member           | FN25bh  | Yes | Yes   |
+| Remi De Cristofaro     | VA3DRI     | Visitor          |         |     |       |
+| Paul Boltwood          | VE3PLE     | Member           | FN25bg  | Yes | Yes   |
 
 ### Opening
 

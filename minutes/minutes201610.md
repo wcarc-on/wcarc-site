@@ -6,21 +6,21 @@ title: Minutes of the Regular Meeting on October 17, 2016
 The meeting was held at the Sobey's in Kanata (March Rd. location).
 The following people were present:
 
-| Name             | Call Sign | Position       | MH Grid | RAC | WCARC |
-|------------------|-----------|----------------|---------|-----|-------|
-| Bertrand Zauhar  | VE2ZAZ    | Director       | FN25bk  | Yes |  Yes  |
-| Wayne Getchell   | VE3CZO    | Member         | FN25    | Yes |  Yes  |
-| Clayton Smith    | VE3IRR    | President      | FN25ai  | Yes |  Yes  |
-| Doug Leach       | VE3XK     | Vice President | FN25bf  | Yes |  Yes  |
-| Peter Jago       | VA3PJ     | Member         | FN25ag  | Yes |  Yes  |
-| Graham Ide       | VE3BYT    | Member         | FN25ch  | Yes |  Yes  |
-| Randy Nordlund   | VE3AX     | Secretary      | FN25jg  | Yes |  Yes  |
-| Robert Boyd      | VE3BE     | Visitor        | FN25    |     |       |
-| Rich Ferch       | VE3KI     | Member         | FN25ce  | Yes |  Yes  |
-| Jeremy Jones     | VA3ZTF    | Visitor        | FN25ag  | Yes |       |
-| Nick Shepherd    | VE3OWV    | Visitor        | FN15vk  | Yes |       |
-| Bryan Rawlings   | VE3QN     | Visitor        | FN25ek  | Yes |       |
-| Chris Bisaillion | VE3CBK    | Visitor        | FN25qi  | Yes |       |
+| Name                   | Call Sign  | Position         | MH Grid | RAC | WCARC |
+|------------------------|------------|------------------|---------|-----|-------|
+| Bertrand Zauhar        | VE2ZAZ     | Director         | FN25bk  | Yes | Yes   |
+| Wayne Getchell         | VE3CZO     | Member           | FN25    | Yes | Yes   |
+| Clayton Smith          | VE3IRR     | President        | FN25ai  | Yes | Yes   |
+| Doug Leach             | VE3XK      | Vice President   | FN25bf  | Yes | Yes   |
+| Peter Jago             | VA3PJ      | Member           | FN25ag  | Yes | Yes   |
+| Graham Ide             | VE3BYT     | Member           | FN25ch  | Yes | Yes   |
+| Randy Nordlund         | VE3AX      | Secretary        | FN25jg  | Yes | Yes   |
+| Robert Boyd            | VE3BE      | Visitor          | FN25    |     |       |
+| Rich Ferch             | VE3KI      | Member           | FN25ce  | Yes | Yes   |
+| Jeremy Jones           | VA3ZTF     | Visitor          | FN25ag  | Yes |       |
+| Nick Shepherd          | VE3OWV     | Visitor          | FN15vk  | Yes |       |
+| Bryan Rawlings         | VE3QN      | Visitor          | FN25ek  | Yes |       |
+| Chris Bisaillion       | VE3CBK     | Visitor          | FN25qi  | Yes |       |
 
 ### Opening
 

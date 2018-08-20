@@ -6,24 +6,24 @@ title: Minutes of the Regular Meeting on November 3, 2015
 The meeting was held in the Kanata Room at Sobey's, on the SW corner of Hazeldean and Terry Fox Drive in Kanata.
 The following people were present:
 
-| Name             | Call Sign | Position       | MH Grid | RAC | WCARC |
-|------------------|-----------|----------------|---------|-----|-------|
-| Dean Denter      | VA3CDD    | Member         | FN25dk  | Yes |  Yes  |
-| J.P. Gendron     | VA3JPG    | Visitor        | FN25    | Yes |       |
-| Duane Avery      | VA3ODD    | Visitor        |         |     |       |
-| Peter Jago       | VA3PJ     | Member         | FN25ag  | Yes |  Yes  |
-| Bertrand Zauhar  | VE2ZAZ    | Director       | FN25bk  | Yes |  Yes  |
-| Randy Nordlund   | VE3AX     | Member         | FN25jg  | Yes |  Yes  |
-| Graham Ide       | VE3BYT    | Member         | FN25ch  | Yes |  Yes  |
-| Robert Boyd      | VE3BE     | Visitor        | FN25    |     |       |
-| Graham Collins   | VE3GTC    | Visitor        | FN25ig  | Yes |       |
-| Wayne Getchell   | VE3CZO    | Member         | FN25    | Yes |  Yes  |
-| Clayton Smith    | VE3IRR    | President      | FN25ai  | Yes |  Yes  |
-| Richard Ferch    | VE3KI     | Member         | FN25ce  | Yes |  Yes  |
-| Dave Conn        | VE3KL     | Member         | FN25bh  | Yes |  Yes  |
-| Paul Boltwood    | VE3PLE    | Member         | FN25bg  | Yes |  Yes  |
-| Doug Leach       | VE3XK     | Vice President | FN25bf  | Yes |  Yes  |
-| Glenn MacDonell  | VE3XRA    | Secretary      | FN25dj  | Yes |  Yes  |
+| Name                   | Call Sign  | Position         | MH Grid | RAC | WCARC |
+|------------------------|------------|------------------|---------|-----|-------|
+| Dean Denter            | VA3CDD     | Member           | FN25dk  | Yes | Yes   |
+| J.P. Gendron           | VA3JPG     | Visitor          | FN25    | Yes |       |
+| Duane Avery            | VA3ODD     | Visitor          |         |     |       |
+| Peter Jago             | VA3PJ      | Member           | FN25ag  | Yes | Yes   |
+| Bertrand Zauhar        | VE2ZAZ     | Director         | FN25bk  | Yes | Yes   |
+| Randy Nordlund         | VE3AX      | Member           | FN25jg  | Yes | Yes   |
+| Graham Ide             | VE3BYT     | Member           | FN25ch  | Yes | Yes   |
+| Robert Boyd            | VE3BE      | Visitor          | FN25    |     |       |
+| Graham Collins         | VE3GTC     | Visitor          | FN25ig  | Yes |       |
+| Wayne Getchell         | VE3CZO     | Member           | FN25    | Yes | Yes   |
+| Clayton Smith          | VE3IRR     | President        | FN25ai  | Yes | Yes   |
+| Richard Ferch          | VE3KI      | Member           | FN25ce  | Yes | Yes   |
+| Dave Conn              | VE3KL      | Member           | FN25bh  | Yes | Yes   |
+| Paul Boltwood          | VE3PLE     | Member           | FN25bg  | Yes | Yes   |
+| Doug Leach             | VE3XK      | Vice President   | FN25bf  | Yes | Yes   |
+| Glenn MacDonell        | VE3XRA     | Secretary        | FN25dj  | Yes | Yes   |
 
 ### Opening
 

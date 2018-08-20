@@ -6,18 +6,18 @@ title: Minutes of the Regular Meeting on June 7, 2016
 The meeting was held in the Kanata Room at Sobey's, on the SW corner of Hazeldean and Terry Fox Drive in Kanata.
 The following people were present:
 
-| Name             | Call Sign | Position       | MH Grid | RAC | WCARC |
-|------------------|-----------|----------------|---------|-----|-------|
-| Glenn MacDonell  | VE3XRA    | Member         | FN25dj  | Yes |  Yes  |
-| Graham Ide       | VE3BYT    | Member         | FN25ch  | Yes |  Yes  |
-| Wayne Getchell   | VE3CZO    | Member         | FN25    | Yes |  Yes  |
-| Richard Ferch    | VE3KI     | Member         | FN25ce  | Yes |  Yes  |
-| Doug Leach       | VE3XK     | Vice President | FN25bf  | Yes |  Yes  |
-| Clare Fowler     | VE3NPC    | Member         | FN25dj  | Yes |  Yes  |
-| Clayton Smith    | VE3IRR    | President      | FN25ai  | Yes |  Yes  |
-| Randy Nordlund   | VE3AX     | Secretary      | FN25jg  | Yes |  Yes  |
-| Bob Harrington   | VE3YYG    | Visitor        | FN25bh  | Yes |       |
-| Graham Collins   | VE3GTC    | Member         | FN25ig  | Yes |  Yes  |
+| Name                   | Call Sign  | Position         | MH Grid | RAC | WCARC |
+|------------------------|------------|------------------|---------|-----|-------|
+| Glenn MacDonell        | VE3XRA     | Member           | FN25dj  | Yes | Yes   |
+| Graham Ide             | VE3BYT     | Member           | FN25ch  | Yes | Yes   |
+| Wayne Getchell         | VE3CZO     | Member           | FN25    | Yes | Yes   |
+| Richard Ferch          | VE3KI      | Member           | FN25ce  | Yes | Yes   |
+| Doug Leach             | VE3XK      | Vice President   | FN25bf  | Yes | Yes   |
+| Clare Fowler           | VE3NPC     | Member           | FN25dj  | Yes | Yes   |
+| Clayton Smith          | VE3IRR     | President        | FN25ai  | Yes | Yes   |
+| Randy Nordlund         | VE3AX      | Secretary        | FN25jg  | Yes | Yes   |
+| Bob Harrington         | VE3YYG     | Visitor          | FN25bh  | Yes |       |
+| Graham Collins         | VE3GTC     | Member           | FN25ig  | Yes | Yes   |
 
 ### Opening
 

@@ -6,24 +6,24 @@ title: Minutes of the Regular Meeting on November 21, 2016
 The meeting was held at the Sobey's in Kanata (March Rd. location).
 The following people were present:
 
-| Name             | Call Sign | Position       | MH Grid | RAC | WCARC |
-|------------------|-----------|----------------|---------|-----|-------|
-| Bertrand Zauhar  | VE2ZAZ    | Director       | FN25bk  | Yes |  Yes  |
-| Glenn MacDonell  | VE3XRA    | Member         | FN25dj  | Yes |  Yes  |
-| Clayton Smith    | VE3IRR    | President      | FN25ai  | Yes |  Yes  |
-| Doug Leach       | VE3XK     | Vice President | FN25bf  | Yes |  Yes  |
-| Peter Jago       | VA3PJ     | Member         | FN25ag  | Yes |  Yes  |
-| Graham Ide       | VE3BYT    | Member         | FN25ch  | Yes |  Yes  |
-| Randy Nordlund   | VE3AX     | Secretary      | FN25jg  | Yes |  Yes  |
-| Robert Boyd      | VE3BE     | Visitor        | FN25    |     |       |
-| Jeremy Jones     | VA3ZTF    | Visitor        | FN25ag  | Yes |  Yes  |
-| Andy Hart        | VE3NVK    | Treasurer      | FN25bh  | Yes |  Yes  |
-| Chris Bisaillion | VE3CBK    | Member         | FN25ai  | Yes |  Yes  |
-| Dave Conn        | VE3KL     | Visitor        | FN25bh  | Yes |       |
-| Margaret Tidman  | VA3VXN    | Member         | FN25ai  | Yes |  Yes  |
-| Tyler Tidman     | VA3DGN    | Member         | FN25ai  | Yes |  Yes  |
-| Paul Dufresne    | VE3OTB    | Visitor        | FN25dh  |     |       |
-| Paul Boltwood    | VE3PLE    | Member         | FN25bg  | Yes |  Yes  |
+| Name                   | Call Sign  | Position         | MH Grid | RAC | WCARC |
+|------------------------|------------|------------------|---------|-----|-------|
+| Bertrand Zauhar        | VE2ZAZ     | Director         | FN25bk  | Yes | Yes   |
+| Glenn MacDonell        | VE3XRA     | Member           | FN25dj  | Yes | Yes   |
+| Clayton Smith          | VE3IRR     | President        | FN25ai  | Yes | Yes   |
+| Doug Leach             | VE3XK      | Vice President   | FN25bf  | Yes | Yes   |
+| Peter Jago             | VA3PJ      | Member           | FN25ag  | Yes | Yes   |
+| Graham Ide             | VE3BYT     | Member           | FN25ch  | Yes | Yes   |
+| Randy Nordlund         | VE3AX      | Secretary        | FN25jg  | Yes | Yes   |
+| Robert Boyd            | VE3BE      | Visitor          | FN25    |     |       |
+| Jeremy Jones           | VA3ZTF     | Visitor          | FN25ag  | Yes | Yes   |
+| Andy Hart              | VE3NVK     | Treasurer        | FN25bh  | Yes | Yes   |
+| Chris Bisaillion       | VE3CBK     | Member           | FN25ai  | Yes | Yes   |
+| Dave Conn              | VE3KL      | Visitor          | FN25bh  | Yes |       |
+| Margaret Tidman        | VA3VXN     | Member           | FN25ai  | Yes | Yes   |
+| Tyler Tidman           | VA3DGN     | Member           | FN25ai  | Yes | Yes   |
+| Paul Dufresne          | VE3OTB     | Visitor          | FN25dh  |     |       |
+| Paul Boltwood          | VE3PLE     | Member           | FN25bg  | Yes | Yes   |
 
 ### Opening
 

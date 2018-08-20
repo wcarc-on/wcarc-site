@@ -6,28 +6,28 @@ title: Minutes of the Regular Meeting on July 16, 2018 - DRAFT
 The meeting was held at the Sobey's in Kanata (March Rd. location).
 The following people were present:
 
-| Name             | Call Sign | Position       | MH Grid | RAC | WCARC |
-|------------------|-----------|----------------|---------|-----|-------|
-| Doug Leach       | VE3XK     | Vice President | FN25bf  | Yes |  Yes  |
-| Jeremy Jones     | VA3ZTF    | Director       | FN25ag  | Yes |  Yes  |
-| Randy Nordlund   | VE3AX     | Secretary      | FN25jg  | Yes |  Yes  |
-| Robert Boyd      | VE3BE     | Treasurer      | FN25dj  | Yes |  Yes  |
-| Bertrand Zauhar  | VE2ZAZ    | Member         | FN25bk  | Yes |  Yes  |
-| Ray Perrin       | VE3FN     | Member         | FN25dk  | Yes |  Yes  |
-| Marius Draghia   | VE3ETK    | Member         | FN15    | Yes |  Yes  |
-| Don Young        | VE3KDF    | Member         | FN25    | Yes |  Yes  |
-| Roger Egan       | VA3EGY    | Visitor        | FN14pj  | Yes |       |
-| Peter Jago       | VA3PJ     | Member         | FN25ag  | Yes |  Yes  |
-| John Vandermey   | VA3RLC    | Member         | FN15xd  | Yes |  Yes  |
-| Brian Jeffrey    | VE3UU     | Member         | FN15wi  | Yes |  Yes  |
-| Nick Shepherd    | VE3OWV    | Member         | FN15vk  | Yes |  Yes  |
-| Luc Pernot       | VE3JGL    | Member         | FN25ek  | Yes |  Yes  |
-| Glenn MacDonell  | VE3XRA    | Member         | FN25dj  | Yes |  Yes  |
-| Chris Bisaillion | VE3CBK    | Member         | FN25ai  | Yes |  Yes  |
-| Clare Fowler     | VE3NPC    | Member         | FN25dj  | Yes |  Yes  |
-| Bryan Rawlings   | VE3QN     | Visitor        | FN25ek  | Yes |       |
-| Natalie Rawlings |           | Visitor        |         |     |       |
-| Isabella Escobar |           | Visitor        |         |     |       |
+| Name                   | Call Sign  | Position         | MH Grid | RAC | WCARC |
+|------------------------|------------|------------------|---------|-----|-------|
+| Doug Leach             | VE3XK      | Vice President   | FN25bf  | Yes | Yes   |
+| Jeremy Jones           | VA3ZTF     | Director         | FN25ag  | Yes | Yes   |
+| Randy Nordlund         | VE3AX      | Secretary        | FN25jg  | Yes | Yes   |
+| Robert Boyd            | VE3BE      | Treasurer        | FN25dj  | Yes | Yes   |
+| Bertrand Zauhar        | VE2ZAZ     | Member           | FN25bk  | Yes | Yes   |
+| Ray Perrin             | VE3FN      | Member           | FN25dk  | Yes | Yes   |
+| Marius Draghia         | VE3ETK     | Member           | FN15    | Yes | Yes   |
+| Don Young              | VE3KDF     | Member           | FN25    | Yes | Yes   |
+| Roger Egan             | VA3EGY     | Visitor          | FN14pj  | Yes |       |
+| Peter Jago             | VA3PJ      | Member           | FN25ag  | Yes | Yes   |
+| John Vandermey         | VA3RLC     | Member           | FN15xd  | Yes | Yes   |
+| Brian Jeffrey          | VE3UU      | Member           | FN15wi  | Yes | Yes   |
+| Nick Shepherd          | VE3OWV     | Member           | FN15vk  | Yes | Yes   |
+| Luc Pernot             | VE3JGL     | Member           | FN25ek  | Yes | Yes   |
+| Glenn MacDonell        | VE3XRA     | Member           | FN25dj  | Yes | Yes   |
+| Chris Bisaillion       | VE3CBK     | Member           | FN25ai  | Yes | Yes   |
+| Clare Fowler           | VE3NPC     | Member           | FN25dj  | Yes | Yes   |
+| Bryan Rawlings         | VE3QN      | Visitor          | FN25ek  | Yes |       |
+| Natalie Rawlings       |            | Visitor          |         |     |       |
+| Isabella Escobar       |            | Visitor          |         |     |       |
 
 ### Opening
 

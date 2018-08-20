@@ -6,25 +6,25 @@ title: Minutes of the Regular Meeting on January 16, 2017
 The meeting was held at the Sobey's in Kanata (March Rd. location).
 The following people were present:
 
-| Name             | Call Sign | Position       | MH Grid | RAC | WCARC |
-|------------------|-----------|----------------|---------|-----|-------|
-| Bertrand Zauhar  | VE2ZAZ    | Director       | FN25bk  | Yes |  Yes  |
-| Wayne Getchell   | VE3CZO    | Member         | FN25    | Yes |  Yes  |
-| Clayton Smith    | VE3IRR    | President      | FN25ai  | Yes |  Yes  |
-| Doug Leach       | VE3XK     | Vice President | FN25bf  | Yes |  Yes  |
-| Peter Jago       | VA3PJ     | Member         | FN25ag  | Yes |  Yes  |
-| Graham Ide       | VE3BYT    | Member         | FN25ch  | Yes |  Yes  |
-| Bob Harrington   | VE3YYG    | Visitor        | FN25bh  | Yes |       |
-| Robert Boyd      | VE3BE     | Treasurer      | FN25    | Yes |  Yes  |
-| Jeremy Jones     | VA3ZTF    | Member         | FN25ag  | Yes |  Yes  |
-| Glenn MacDonell  | VE3XRA    | Member         | FN25dj  | Yes |  Yes  |
-| Chris Bisaillion | VE3CBK    | Member         | FN25ai  | Yes |  Yes  |
-| Richard Ferch    | VE3KI     | Member         | FN25ce  | Yes |  Yes  |
-| Margaret Tidman  | VA3VXN    | Member         | FN25ai  | Yes |  Yes  |
-| Tyler Tidman     | VA3DGN    | Member         | FN25ai  | Yes |  Yes  |
-| John Vandermey   | VA3RLC    | Visitor        | FN15    | Yes |       |
-| Brian Jeffrey    | VE3UU     | Member         | FN15    | Yes |  Yes  |
-| Paul Boltwood    | VE3PLE    | Member         | FN25bg  | Yes |  Yes  |
+| Name                   | Call Sign  | Position         | MH Grid | RAC | WCARC |
+|------------------------|------------|------------------|---------|-----|-------|
+| Bertrand Zauhar        | VE2ZAZ     | Director         | FN25bk  | Yes | Yes   |
+| Wayne Getchell         | VE3CZO     | Member           | FN25    | Yes | Yes   |
+| Clayton Smith          | VE3IRR     | President        | FN25ai  | Yes | Yes   |
+| Doug Leach             | VE3XK      | Vice President   | FN25bf  | Yes | Yes   |
+| Peter Jago             | VA3PJ      | Member           | FN25ag  | Yes | Yes   |
+| Graham Ide             | VE3BYT     | Member           | FN25ch  | Yes | Yes   |
+| Bob Harrington         | VE3YYG     | Visitor          | FN25bh  | Yes |       |
+| Robert Boyd            | VE3BE      | Treasurer        | FN25    | Yes | Yes   |
+| Jeremy Jones           | VA3ZTF     | Member           | FN25ag  | Yes | Yes   |
+| Glenn MacDonell        | VE3XRA     | Member           | FN25dj  | Yes | Yes   |
+| Chris Bisaillion       | VE3CBK     | Member           | FN25ai  | Yes | Yes   |
+| Richard Ferch          | VE3KI      | Member           | FN25ce  | Yes | Yes   |
+| Margaret Tidman        | VA3VXN     | Member           | FN25ai  | Yes | Yes   |
+| Tyler Tidman           | VA3DGN     | Member           | FN25ai  | Yes | Yes   |
+| John Vandermey         | VA3RLC     | Visitor          | FN15    | Yes |       |
+| Brian Jeffrey          | VE3UU      | Member           | FN15    | Yes | Yes   |
+| Paul Boltwood          | VE3PLE     | Member           | FN25bg  | Yes | Yes   |
 
 ### Opening
 
