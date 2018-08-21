@@ -1,6 +1,6 @@
 ---
 layout: minutes
-title: Minutes of the Regular Meeting on July 16, 2018 - DRAFT
+title: Minutes of the Regular Meeting on July 16, 2018
 ---
 
 The meeting was held at the Sobey's in Kanata (March Rd. location).
@@ -43,6 +43,7 @@ The motion was carried.
 ### Treasurer's Report
 
 Robert (VE3BE) reported that we have 30 paid up members and the bank balance is $51.30.
+We also have $3000 in a term deposit.
 
 ### Vice President's Report
 
