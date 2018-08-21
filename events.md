@@ -5,7 +5,6 @@ title: WCARC Events
 
 ## Upcoming WCARC Meetings/Speakers/Topics
 
-* Aug. 20, 2018 – Alan Goodacre (VE3HX) – Long-Delayed Echoes
 * Sep. 17, 2018 – Bert Zauhar (VE2ZAZ) – The beginner's top-10 lists of components, instruments and accessories
 * Oct. 15, 2018 – Marcus Leech (VE3MDL) – Radio Astronomy at CCERA and the 21cm Dual-Channel Spectrometer
 * Nov. 19, 2018 – David Conn (VE3KL) – Helping Blind Hams with Modern Transceivers and Radio Systems
