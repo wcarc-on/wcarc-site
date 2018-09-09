@@ -73,7 +73,7 @@ Interesting pictures of the beacon installation are available on the [project pa
 
 ## 900MHz Amplifiers (Club)
 
-The club has a supply of retired commercial cellular broadband power amplifiers, suitable for use in amateur radio. Additional information is available on the [900 MHz amplifier page](900/amp.html).
+The club has a supply of retired commercial cellular broadband power amplifiers, suitable for use in amateur radio. Additional information is available on the [900 MHz amplifier page](900/).
 
 ## APRS - HUDX - Manfred (VA3WK)
 
