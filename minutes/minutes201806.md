@@ -10,7 +10,7 @@ The following people were present:
 |------------------------|------------|------------------|---------|-----|-------|
 | Clayton Smith          | VE3IRR     | President        | FN25ai  | Yes | Yes   |
 | Doug Leach             | VE3XK      | Vice President   | FN25bf  | Yes | Yes   |
-| Jeremy Jones           | VA3ZTF     | Director         | FN25ag  | Yes | Yes   |
+| Jeremy Jones           | VA3ZTF     | Director         | FN25ac  | Yes | Yes   |
 | Randy Nordlund         | VE3AX      | Secretary        | FN25jg  | Yes | Yes   |
 | Robert Boyd            | VE3BE      | Treasurer        | FN25dj  | Yes | Yes   |
 | Bertrand Zauhar        | VE2ZAZ     | Member           | FN25bk  | Yes | Yes   |
