@@ -1,6 +1,6 @@
 ---
 layout: minutes
-title: Minutes of the Regular Meeting on August 20, 2018 - DRAFT
+title: Minutes of the Regular Meeting on August 20, 2018
 ---
 
 The meeting was held at the Sobey's in Kanata (March Rd. location).
