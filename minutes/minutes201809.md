@@ -1,6 +1,6 @@
 ---
 layout: minutes
-title: Minutes of the Regular Meeting on September 17, 2018 - DRAFT
+title: Minutes of the Regular Meeting on September 17, 2018
 ---
 
 The meeting was held at the Sobey's in Kanata (March Rd. location).
@@ -17,7 +17,7 @@ The following people were present:
 | Nick Shepherd          | VE3OWV     | Member           | FN15vk  | Yes | Yes   |
 | Don Young              | VE3KDF     | Member           | FN25    | Yes | Yes   |
 | Dan McIntosh           | VE3YXE     | Visitor          | FN25bh  | Yes |       |
-| Wayne Getchell         | VE3CZO     | Member           | FN25bh  | Yes | Yes   |
+| Wayne Getchell         | VE3CZO     | Member           | FN25dh  | Yes | Yes   |
 | John Vandermey         | VA3RLC     | Member           | FN15xd  | Yes | Yes   |
 | Bryan Campbell         | VE3ZRK     | Visitor          | FN25    | Yes |       |
 | Jacques Bissinger      | VA3JBI     | Member           | FN25ai  | Yes | Yes   |
