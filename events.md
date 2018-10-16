@@ -5,7 +5,6 @@ title: WCARC Events
 
 ## Upcoming WCARC Meetings/Speakers/Topics
 
-* Oct. 15, 2018 – Marcus Leech (VE3MDL) – Radio Astronomy at CCERA and the 21cm Dual-Channel Spectrometer
 * Nov. 19, 2018 – David Conn (VE3KL) – Helping Blind Hams with Modern Transceivers and Radio Systems
 * Dec. 17, 2018 – Annual Meeting and Christmas Party
 
