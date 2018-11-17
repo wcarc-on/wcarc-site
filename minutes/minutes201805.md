@@ -24,7 +24,7 @@ The following people were present:
 | Thane Brown            | VA3TTM     | Visitor          | FN25bi  |     |       |
 | Dean Denter            | VA3CDD     | Member           | FN15xl  | Yes | Yes   |
 | Marius Draghia         | VE3ETK     | Member           |         | Yes | Yes   |
-| Georges-André Chaudron       | VE2VAB  | Visitor       | FN25dl  | Yes |       |
+| Georges-André Chaudron | VE2VAB     | Visitor          | FN25dl  | Yes |       |
 | Larissa Reise          | VE3KGC     | Visitor          | FN14pj  |     |       |
 
 ### Opening
