@@ -77,7 +77,7 @@ Nil.
 
 #### Broadband Hamnet
 
-Nil.
+Bert (VE2ZAZ) reported that the link between Clayton and the YMCA is down.
 
 ### New Business
 
