@@ -43,6 +43,32 @@ The N2061A Vector Impedance Analyzer is mainly used for testing antenna, RF comp
 
 ![AAI N2061SA](aai-n2061sa.jpg)
 
+### AAI N2061A Vector Impedance Analyzer Accessories Kit (Under Development)
+
+The N2061A is equipped with a female SMA connector on each of its measurement ports.
+Factory calibration for these two ports allows use of the instrument on devices under test connected directly to these two ports using SMA male connectors.
+
+Insertable precision SMA male to SMA female adapters are provided to reduce wear on the test ports. This will affect the factory calibration accuracy.
+
+Measurements on devices remote from these ports require extension cables. Since most measurements at frequencies up to 1300 MHz use Type N connectors, extension adapter cables are included in both genders as well as SMA extension adapter cables.
+
+Also included in the Accessories Kit are Tee-Configuration SMA and Type N Calibration Kits (Cal Kits) in both genders. These provide high accuracy and repeatable Open-Short-Load references to move the measurement reference plane to the far end of the extension cables.
+
+The Accessory Kits include:
+
+* Precision Insertable Connector-Saver Adapters – SMA male to SMA female Qty 4
+* Precision Cable SMA male to SMA male (60 cm length) Qty 2 plus one spare
+* Precision Cable SMA male to SMA female (52 cm length) Qty 1
+* Precision Cable SMA male to Type N male (52 cm length) Qty 1
+* Precision Cable SMA male to Type N female (49cm length) Qty 1
+* SMA female to UHF male adapters (2) (for measurement of UHF devices using the SMA extension cables.
+* SMA female to BNC male adapters (2) (for measurement of BNC devices using the SMA extension cables.
+* SMA(f) to SMA(f) adapter - (for use when calibrating at remote end of extension cables).
+* UHF(f) to UHF(f) adapter - (for use when calibrating at remote end of extension cables).
+* BNC(f) to BNC(f) adapter - (for use when calibrating at remote end of extension cables).  
+
+N(f) to N(f) adapter is not required. Extension cables have N connectors of both genders which mate with no adapter.
+
 ![AAI N2061SA kit](aai-n2061sa-kit-small.jpg)
 
 [Back to the list of equipment.](./)
