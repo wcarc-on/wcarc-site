@@ -7,7 +7,7 @@ The N2061A Vector Impedance Analyzer is mainly used for testing antenna, RF comp
 
 ### Main Features
 
-* Wide frequency range – S11 port – 1.1 to 1300 MHz; S21 port – 1.1 to 600 MHz
+* Wide frequency range – S11 port: 1.11 to 1300 MHz; S21 port: 1.11 to 600 MHz
 * Small size – 84 x 116 x 32 mm; Light weight – 240 grams
 * Built-in 2000 mAh lithium polymer battery with working time of more than 4 hours
 * High resolution (four significant figures) single point measurements
