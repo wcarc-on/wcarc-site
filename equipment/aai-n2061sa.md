@@ -3,7 +3,7 @@ layout: page
 title: AAI-N2061SA Handheld Vector Network Analyzer
 ---
 
-The N2061A Vector Impedance Analyzer is mainly used for testing antenna, RF component and circuit board impedance.  With built-in lithium ion battery, the unit is small enough to fit in a pocket and convenient for outdoor applications. A clear colour screen with simple pushbuttons makes it easy to use. (A simplified operating procedure is mounted on the rear side). It includes coverage of the HF, VHF and UHF amateur radio bands up to 1300 Mhz.
+The N2061SA Vector Impedance Analyzer is mainly used for testing antenna, RF component and circuit board impedance.  With built-in lithium ion battery, the unit is small enough to fit in a pocket and convenient for outdoor applications. A clear colour screen with simple pushbuttons makes it easy to use. (A simplified operating procedure is mounted on the rear side). It includes coverage of the HF, VHF and UHF amateur radio bands up to 1300 Mhz.
 
 ### Main Features
 
@@ -43,9 +43,9 @@ The N2061A Vector Impedance Analyzer is mainly used for testing antenna, RF comp
 
 ![AAI N2061SA](aai-n2061sa.jpg)
 
-### AAI N2061A Vector Impedance Analyzer Accessories Kit (Under Development)
+### AAI N2061SA Vector Impedance Analyzer Accessories Kit (Under Development)
 
-The N2061A is equipped with a female SMA connector on each of its measurement ports.
+The N2061SA is equipped with a female SMA connector on each of its measurement ports.
 Factory calibration for these two ports allows use of the instrument on devices under test connected directly to these two ports using SMA male connectors.
 
 Insertable precision SMA male to SMA female adapters are provided to reduce wear on the test ports. This will affect the factory calibration accuracy.
