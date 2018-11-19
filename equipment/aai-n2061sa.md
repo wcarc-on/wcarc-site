@@ -43,7 +43,7 @@ The N2061SA Vector Impedance Analyzer is mainly used for testing antenna, RF com
 
 ![AAI N2061SA](aai-n2061sa.jpg)
 
-### AAI N2061SA Vector Impedance Analyzer Accessories Kit (Under Development)
+### AAI N2061SA Vector Impedance Analyzer Accessories Kit
 
 The N2061SA is equipped with a female SMA connector on each of its measurement ports.
 Factory calibration for these two ports allows use of the instrument on devices under test connected directly to these two ports using SMA male connectors.
