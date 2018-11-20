@@ -5,8 +5,7 @@ title: WCARC Events
 
 ## Upcoming WCARC Meetings/Speakers/Topics
 
-* Nov. 19, 2018 – David Conn (VE3KL) – Helping Blind Hams with Modern Transceivers and Radio Systems
-* Dec. 17, 2018 – Annual Meeting and Christmas Party
+* Dec. 17, 2018 – Annual General Meeting and Christmas Party
 
 ## Some Highlights of What's Coming
 
