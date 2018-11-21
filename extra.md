@@ -61,4 +61,4 @@ Rovers who will be within range are asked to forward their rover schedules.  Ple
 * [Pictures from 2009 and 2010 by Glenn MacDonell VE3XRA - Grid Expedition to FN04xa](http://ve3xra.fronthouse.ca/)
 * [YouTube movie of June 2011 DXpedition to FN04 by Allan VA3FMN](https://www.youtube.com/watch?v=xmpNC0witLI)
 * [Press Release - West Carleton Review - July 21, 2011](news/press1.html)
-* [WCARC Contest Awards](awards/award1.html)
+* [WCARC Contest Awards](awards/)
