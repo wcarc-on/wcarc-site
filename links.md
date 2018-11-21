@@ -4,11 +4,11 @@ title: Web Links
 ---
 
 ## Organizations
-* [Radio Amateurs of Canada (RAC)](http://www.rac.ca)
-* [Radio Amateur du Québec (RAQI)](http://www.raqi.qc.ca)
+* [Radio Amateurs of Canada (RAC)](https://wp.rac.ca/)
+* [Radio Amateur du Québec (RAQI)](https://www.raqi.ca/)
 * [Emergency Measures Radio Group (Ottawa ARES)](http://www.emrg.ca/)
-* [Tucson Amateur Packet Radio (TAPR)](http://www.tapr.org)
-* [Radio Amateur Satellite Corporation (AMSAT)](http://www.amsat.org)
+* [Tucson Amateur Packet Radio (TAPR)](https://www.tapr.org/)
+* [Radio Amateur Satellite Corporation (AMSAT)](https://www.amsat.org/)
 * [QCWA Chapter 70 Ottawa](http://www.qcwa70.org)
 * [Amateur Radio Relay League (ARRL)](http://www.arrl.org/)
 
@@ -22,7 +22,7 @@ title: Web Links
 
 ## Members' Web Sites
 * [Bert (VE2ZAZ)](http://ve2zaz.net/)
-* [Clayton (VE3IRR)](http://www.irrational.net)
+* [Clayton (VE3IRR)](https://www.irrational.net)
 * [Brian (VE3UU)](http://www.ve3uu.com/)
 * [Rick (VE3CVG)](https://ve3cvg.webqth.com)
 
@@ -72,7 +72,7 @@ title: Web Links
 
 ## VoIP Stuff
 * [Echolink VoIP Site](http://www.echolink.org/)
-* [Skype VoIP Site](http://www.skype.com/)
+* [Skype VoIP Site](https://www.skype.com/)
 * [Internet Radio Linking Project](http://www.irlp.net/)
 
 ## Ottawa BBHN
