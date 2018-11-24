@@ -58,4 +58,4 @@ Throughout the first quarter, the club continued to add members.
 
 ## 2007 to present
 
-Annual reports detailing the club's activities since 2007 can be found on the [minutes page](minutes/minutesindex.html).
+Annual reports detailing the club's activities since 2007 can be found on the [minutes page](minutes/).
