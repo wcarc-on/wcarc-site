@@ -17,6 +17,8 @@ For a list of meeting dates, speakers and topics, please see our [events page](e
 * [Adventures from the Coldest Part of the Cold War by Brian Jeffrey VE3UU (May 14, 2018)](presentations/ve3uu_dew_line.pdf)
 * [June VHF Contest 2018 Recap by Clayton Smith VE3IRR (June 18, 2018)](presentations/ve3irr_2018_june_contest_review.pdf)
 * [A Wire to the New World (The Trans-Atlantic Cable) by Bryan Rawlings VE3QN (July 16, 2018)](presentations/ve3qn_wire_to_the_new_world.pdf)
+* [An Introduction to Radio Astronomy and the CCERA by Marcus Leech VE3MDL (October 15, 2018)](presentations/ve3mdl_ccera_intro_radio_astronomy.pdf)
+* [Helping Blind Hams to Use Modern Radios by Dave Conn VE3KL (November 19, 2018)](presentations/ve3kl_helping_blind_hams.pdf)
 
 ### 2017
 
