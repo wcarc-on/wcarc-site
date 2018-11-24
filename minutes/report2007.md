@@ -19,7 +19,7 @@ In June, VA3NFA and VA3CDD participated in VHF Contest as local rovers assisted 
 
 In July, VA3SAX talked about Microwave Software-Defined Radio (uW SDR) project; we had a discussion on the June 6m opening to the West and Pacific.
 
-In August, VE3NVK (Andy) showed his SoftRock-40 kit (40M SDR receiver); VO1NO showed his control and switching for his 160m beverage antenna farm.
+In August, VE3NVK (Andy) showed his SoftRock-40 kit (40M SDR receiver); VO1NO showed his control and switching for his 160m Beverage antenna farm.
 
 In September, at the OARC Hamfest, WCARC had a club table, presentation by VA3NFA on Roving and VE3XK on D-STAR.
 
