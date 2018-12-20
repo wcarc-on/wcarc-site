@@ -1,6 +1,6 @@
 ---
 layout: minutes
-title: Minutes of the Regular Meeting on November 19, 2018 - DRAFT
+title: Minutes of the Regular Meeting on November 19, 2018
 ---
 
 The meeting was held at the Sobey's in Kanata (March Rd. location).
@@ -34,7 +34,7 @@ The motion was carried.
 
 ### Treasurer's Report
 
-Robert (VE3BE) reported 36 paid up members and a bank balance of $257.41 plus the $3,000 term deposit.
+Robert (VE3BE) reported 33 paid up members and a bank balance of $257.41 plus the $3,000 term deposit.
 
 ### Vice President's Report
 
