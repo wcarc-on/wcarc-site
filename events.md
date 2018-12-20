@@ -5,7 +5,11 @@ title: WCARC Events
 
 ## Upcoming WCARC Meetings/Speakers/Topics
 
-* Dec. 17, 2018 – Annual General Meeting and Christmas Party
+* Jan. 21, 2019 – Use and Care of WCARC Test Equipment for loan to members – Doug Leach VE3XK
+* **Feb. 11, 2019**\* – Microwave Amateur Radio on 10, 24 and 47 GHz – Ray Perrin VE3FN
+* Mar. 18, 2019 – To Be Announced
+
+\* Note: The February meeting has moved to the second Monday due to Sobey's being closed Family Day.
 
 ## Some Highlights of What's Coming
 
