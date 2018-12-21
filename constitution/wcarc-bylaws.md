@@ -171,5 +171,10 @@ Kenneth Asmus (VA3KA) – Treasurer
 
 Dale Hennigar (VE3XZT) – Director
 
-Approved by all members present on August 5, 2008. Amended on November 3, 2009
-and September 6, 2016.
+Approved by all members present on August 5, 2008.
+
+Amendments were made on the following dates:
+
+* [November 3, 2009](../minutes/minutes200911.html)
+* [September 6, 2016](../minutes/minutes201609.html)
+* [May 14, 2018](../minutes/minutes201805.html)
