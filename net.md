@@ -24,13 +24,16 @@ We look forward to chatting with you. Please join us.
 
 ## Summary of VHF Nets within our reach:
 
-| Area        | Day      | Time  | Freq    | Grid | Controller     |
-|-------------|----------|-------|---------|------|----------------|
-| Guelph      | Mon, Wed | 21:00 | 144.210 | FN   | VE3XTM (Terry) |
-| Guelph      | Friday   | 21:00 | 432.210 | FN   | VE3XTM (Terry) |
-| Rochester   | Monday   | 21:00 | 144.260 | FN13 | W2UTH          |
-| Montréal    | Tuesday  | 20:00 | 144.240 | FN35 | VE2DC          |
-| Ottawa      | Tuesday  | 21:00 | 144.250 | FN25 | VE3XRA (Glenn) |
-| Quebec City | Thursday | 20:00 | 144.240 | FN46 |                |
-| Concord, NH | Thursday | 20:30 | 144.250 | FN43 | W1COT, K1UHF   |
-| Montréal    | Thursday | 20:00 | 144.250 | FN35 | VE2MRC         |
+| Area                | Day      | Time  | Freq     | Grid | Controller                   |
+|---------------------|----------|-------|----------|------|------------------------------|
+| Guelph              | Mon, Wed | 21:00 | 144.210  | FN   | VE3XTM Terry                 |
+| Guelph              | Friday   | 21:00 | 432.210  | FN   | VE3XTM Terry                 |
+| Rochester           | Monday   | 21:00 | 144.260  | FN13 | W2UTH                        |
+| Montréal            | Tuesday  | 20:00 | 144.240  | FN35 | VE2DC **(On hold)**          |
+| Ottawa              | Tuesday  | 21:00 | 144.250  | FN25 | VE3XRA Glenn                 |
+| Quebec City         | Thursday | 20:00 | 144.240  | FN46 |                              |
+| Concord, NH         | Thursday | 20:30 | 144.250  | FN43 | W1COT, K1UHF                 |
+| Montréal            | Thursday | 20:00 | 144.250  | FN35 | VE2MRC **(On hold)**         |
+| St. Lawrence Valley | Friday   | 20:00 | ±144.240 |      | Round table format           |
+| Bangor, ME          | Tuesday  | 19:30 | 144.225  | FN54 | K1GUP Jerry (Pine State Net) |
+| Central Québec      | Sunday   | 20:00 | 144.240  |      | Format not yet determined    |
