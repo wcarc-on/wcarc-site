@@ -16,9 +16,7 @@ Members of the net are usually available to conduct or assist with special tests
 
 Net Control tries his best to have the entire net and roll calls over by 2215hrs so the demand on your personal time is kept to a minimum.
 
-Regular Net Control Stations include:
-* VE3CVG - Rick - located in FN25hm
-* VE3XRA - Glenn - located in FN25dj
+The regular Net Control station is Glenn VE3XRA, located in FN25dj.
 
 We look forward to chatting with you. Please join us.
 
