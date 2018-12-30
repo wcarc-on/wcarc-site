@@ -47,7 +47,7 @@ We are proud to introduce our Life Members. These individuals have made extraord
 | VA3YH | Ying Hum | Ottawa | FN25 |
 | VA3BGB | Barney Baker | Kanata | FN25ai |
 | VA3CDD | Dean Denter | Woodlawn | FN15wl |
-| VE3XK | Doug Leach | Stittsville | FN25 |
+| VE3XK | Doug Leach | Stittsville | FN25bf |
 | VE3BYT | Graham Ide | Nepean | FN25ch |
 | VE3CZO | Wayne Getchell | Ottawa | FN25 |
 | VE3IRR | Clayton Smith | Kanata | FN25ai |
@@ -65,7 +65,7 @@ Note: List is incomplete.
 | VA3WK | Manfred Kahle | Ottawa | FN25 |
 | VE3CIQ | Phil St-Germain | Carleton Place | FN15 |
 | VE2ZAZ | Bert Zauhar | Gatineau | FN25 |
-| VE3XK | Doug Leach | Stittsville | FN25 |
+| VE3XK | Doug Leach | Stittsville | FN25bf |
 | VA3KA | Ken Asmus | Carp | FN15wg |
 | VE3CVG | Rick Bandla | Cumberland | FN25hm |
 | VE3NPC | Clare Fowler | Ottawa | FN25 |
@@ -93,7 +93,7 @@ Note: List is incomplete.
 | VA3SMM | Stan Madore | Almonte | FN15 |
 | VA3UNK | Harold Hamilton | Ottawa | FN25dj |
 | VE2ZAZ | Bert Zauhar | Gatineau | FN25 |
-| VE3XK | Doug Leach | Stittsville | FN25 |
+| VE3XK | Doug Leach | Stittsville | FN25bf |
 | VE3CFZ | Fred Chamberlain | Almonte | FN15ve |
 | VE3CVG | Rick Bandla | Cumberland | FN25hm |
 | VE3EFF | Jeff Milne | Stittsville | FN25 |
@@ -125,7 +125,7 @@ Note: List is incomplete.
 | VA3UNK | Harold Hamilton | Ottawa | FN25dj |
 | VE2ZAZ | Bert Zauhar | Gatineau | FN25 |
 | *VE3KL | Dave Conn | Ottawa | FN25bh |
-| VE3XK | Doug Leach | Stittsville | FN25 |
+| VE3XK | Doug Leach | Stittsville | FN25bf |
 | *VE3BYT | Graham Ide | Nepean | FN25ch |
 | VE3CFZ | Fred Chamberlain | Almonte | FN15ve |
 | *VE3CRG | Brian Crook | Stittsville | FN25 |
@@ -162,7 +162,7 @@ Note: List is incomplete.
 | VE2ZAZ | Bert Zauhar | Gatineau | FN25 |
 | VE3FN | Ray Perrin | Ottawa | FN25 |
 | VE3KL | Dave Conn | Ottawa | FN25bh |
-| VE3XK | Doug Leach | Almonte | FN15 |
+| VE3XK | Doug Leach | Stittsville | FN25bf |
 | VE3BSM | Brad Smith | Merrickville | FN24 |
 | VE3BYT | Graham Ide | Nepean | FN25ch |
 | VE3CVG | Rick Bandla | Cumberland | FN25hm |
