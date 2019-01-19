@@ -4,7 +4,7 @@ title: Contacts
 ---
 ## Executive
 * President: [Clayton Smith (VE3IRR)](mailto:argilo@gmail.com)
-* Vice President: [Doug Leach (VE3XK)](mailto:ve3xk@bell.net)
+* Vice President: Vacant
 * Treasurer: [Robert Boyd (VE3BE)](mailto:rwboyd@yahoo.com)
 * Secretary: [Randy Nordlund (VE3AX)](mailto:randynordlund@hotmail.com)
 * Director: Jeremy Jones (VA3ZTF)
