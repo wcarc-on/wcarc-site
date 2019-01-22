@@ -5,7 +5,6 @@ title: WCARC Events
 
 ## Upcoming WCARC Meetings/Speakers/Topics
 
-* Jan. 21, 2019 – Use and Care of WCARC Test Equipment for loan to members – Doug Leach VE3XK
 * **Feb. 11, 2019**\* – Microwave Amateur Radio on 10, 24 and 47 GHz – Ray Perrin VE3FN
 * Mar. 18, 2019 – To Be Announced
 
