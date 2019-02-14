@@ -5,10 +5,15 @@ title: WCARC Events
 
 ## Upcoming WCARC Meetings/Speakers/Topics
 
-* **Feb. 11, 2019**\* – Microwave Amateur Radio on 10, 24 and 47 GHz – Ray Perrin VE3FN
-* Mar. 18, 2019 – To Be Announced
+* Mar. 18, 2019 – Topic to be announced – José Campione VA3PCJ
+* Apr. 15, 2019
+* May 13, 2019\*
+* Jun. 7-10 – **June VHF Contest 2019**
+* Jun. 17, 2019
+* Jul. 15, 2019
+* Aug. 19, 2019
 
-\* Note: The February meeting has moved to the second Monday due to Sobey's being closed Family Day.
+\* Note: The May meeting will take place on the second Monday to avoid the Victoria Day holiday.
 
 ## Some Highlights of What's Coming
 
