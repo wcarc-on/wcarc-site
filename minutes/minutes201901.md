@@ -8,7 +8,7 @@ The following people were present:
 
 | Name                   | Call Sign  | Position         | MH Grid | RAC | WCARC |
 |------------------------|------------|------------------|---------|-----|-------|
-| Doug Leach             | VE3XK      | Vice President   | FN25bf  | Yes | Yes   |
+| Doug Leach             | VE3XK      | Member           | FN25bf  | Yes | Yes   |
 | Chris Bisaillion       | VE3CBK     | Member           | FN25ai  | Yes | Yes   |
 | Jeremy Jones           | VA3ZTF     | Director         | FN25ac  | Yes | Yes   |
 | Clayton Smith          | VE3IRR     | President        | FN25ai  | Yes | Yes   |
