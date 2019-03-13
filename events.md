@@ -5,7 +5,7 @@ title: WCARC Events
 
 ## Upcoming WCARC Meetings/Speakers/Topics
 
-* Mar. 18, 2019 – Topic to be announced – José Campione VA3PCJ
+* Mar. 18, 2019 – QRP Field Adventures: Portable, Afloat and Abroad – José Campione VA3PCJ
 * Apr. 15, 2019
 * May 13, 2019\*
 * Jun. 7-10 – **June VHF Contest 2019**
