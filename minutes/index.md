@@ -3,7 +3,8 @@ layout: page
 title: Meeting Minutes
 ---
 * 2019:
-[Jan](minutes201901.html)
+[Jan](minutes201901.html),
+[Feb](minutes201902.html)
 * 2018:
 [Jan](minutes201801.html),
 [Feb](minutes201802.html),
