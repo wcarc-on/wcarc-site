@@ -6,7 +6,7 @@ title: WCARC Events
 ## Upcoming WCARC Meetings/Speakers/Topics
 
 * Mar. 18, 2019 – QRP Field Adventures: Portable, Afloat and Abroad – José Campione VA3PCJ
-* Apr. 15, 2019
+* Apr. 15, 2019 – Chasing 6m DXCC using FT8 – Ron Schwartz VE3VN
 * May 13, 2019\*
 * Jun. 7-10 – **June VHF Contest 2019**
 * Jun. 17, 2019
