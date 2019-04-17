@@ -1,6 +1,6 @@
 ---
 layout: minutes
-title: Minutes of the Regular Meeting on March 18, 2019 (DRAFT)
+title: Minutes of the Regular Meeting on March 18, 2019
 ---
 
 The meeting was held at the Sobey's in Kanata (March Rd. location).
