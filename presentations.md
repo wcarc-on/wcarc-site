@@ -14,6 +14,7 @@ For a list of meeting dates, speakers and topics, please see our [events page](e
 * [Use and Care of WCARC Test Equipment for loan to members by Doug Leach VE3XK (January 21, 2019)](presentations/ve3xk_wcarc_test_equipment.pdf)
 * [Microwave Amateur Radio on 10, 24 and 47 GHz by Ray Perrin VE3FN (February 11, 2019)](presentations/ve3fn_microwave.pdf)
 * [QRP Adventures: Portable, Afloat and Abroad by José Campione (VA3PCJ) (March 18, 2019)](presentations/va3pcj_qrp_adventures.pdf)
+* [Chasing 6m DXCC using FT8 by Ron Schwartz VE3VN (April 15, 2019)](presentations/ve3vn_ft8_6m_dx.pdf)
 
 ### 2018
 
