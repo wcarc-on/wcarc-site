@@ -5,10 +5,9 @@ title: WCARC Events
 
 ## Upcoming WCARC Meetings/Speakers/Topics
 
-* Apr. 15, 2019 – Chasing 6m DXCC using FT8 – Ron Schwartz VE3VN
-* May 13, 2019\*
+* May 13, 2019\* – Planning for ARRL June VHF contest
 * Jun. 7-10 – **June VHF Contest 2019**
-* Jun. 17, 2019
+* Jun. 17, 2019 – June VHF contest review – Clayton Smith VE3IRR
 * Jul. 15, 2019
 * Aug. 19, 2019
 
