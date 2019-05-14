@@ -5,13 +5,14 @@ title: WCARC Events
 
 ## Upcoming WCARC Meetings/Speakers/Topics
 
-* May 13, 2019\* – Planning for ARRL June VHF contest
 * Jun. 7-10 – **June VHF Contest 2019**
-* Jun. 17, 2019 – June VHF contest review – Clayton Smith VE3IRR
+* Jun. 17, 2019 – June VHF contest recap – Clayton Smith VE3IRR
 * Jul. 15, 2019
 * Aug. 19, 2019
-
-\* Note: The May meeting will take place on the second Monday to avoid the Victoria Day holiday.
+* Sep. 16, 2019
+* Oct. 21, 2019
+* Nov. 18, 2019
+* Dec. 16, 2019
 
 ## Some Highlights of What's Coming
 
