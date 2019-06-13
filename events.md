@@ -5,7 +5,6 @@ title: WCARC Events
 
 ## Upcoming WCARC Meetings/Speakers/Topics
 
-* Jun. 7-10 – **June VHF Contest 2019**
 * Jun. 17, 2019 – June VHF contest recap – Clayton Smith VE3IRR
 * Jul. 15, 2019
 * Aug. 19, 2019
