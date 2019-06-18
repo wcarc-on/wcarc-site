@@ -1,6 +1,6 @@
 ---
 layout: minutes
-title: Minutes of the Regular Meeting on May 13, 2019 - DRAFT
+title: Minutes of the Regular Meeting on May 13, 2019
 ---
 
 The meeting was held at the Sobey's in Kanata (March Rd. location).
@@ -38,12 +38,12 @@ Seconded by Chris (VE2MW). The motion was carried.
 
 Robert (VE3BE) reported 24 paid up members for 2019 and a bank balance of $276.95.
 $1,000 was deposited in the general account. $2,000 was split up into 2 term
-deposits maturing in April 2020.
+deposits maturing in April & October 2020.
 
 ### Vice President's Report
 
 The Vice-President, Jeremy (VA3ZTF) mentioned that the speaker for June will be
-Clayton with a summary of the June VHF contest. July should be Chris Bissaillon
+Clayton with a summary of the June VHF contest. July should be Chris Bisaillion
 and QRP operations.
 
 ### Director's Report
@@ -56,7 +56,7 @@ Nil.
 
 ### Old Business
 
-Jeremy (VE3IRR) gave an update on the pricing for the Powerline Noise Finder
+Jeremy (VA3ZTF) gave an update on the pricing for the Powerline Noise Finder
 (MFJ-852) and the Ultrasonic Receiver (MFJ-5008).
 It was voted that Wayne look at purchasing the items at Dayton. A maximum price
 of $550 was authorized for the purchase. A motion was passed to purchase the items.
