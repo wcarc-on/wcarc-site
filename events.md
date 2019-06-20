@@ -8,7 +8,7 @@ title: WCARC Events
 *Note:* The following dates may be subject to change, as we're currently
 searching for a new meeting space.
 
-* Jul. 15, 2019
+* Jul. 15, 2019 – Interfacing Radios and Computers for Digital Modes – Jeremy Jones (VA3ZTF)
 * Aug. 19, 2019
 * Sep. 16, 2019
 * Oct. 21, 2019
