@@ -46,7 +46,7 @@ September 9-11, 2017 1800 UTC Saturday to 0259 UTC Sunday
 
 ### WCARC Meetings
 * Third Monday of the month at 19:00 (local)
-* Sobeys, 840 March Rd in Kanata North
+* Grace Thompson room, Ottawa Public Library - Stittsville, 1637 Stittsville Main St.
 * Upstairs in the meeting room
 * Watch your email for changes
 

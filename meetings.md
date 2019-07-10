@@ -20,7 +20,7 @@ For a list of meeting dates, speakers and topics, please see our
 
 ## Meeting Location
 
-Our regular meeting location is the upstairs meeting room in Sobeys,
-840 March Road in Kanata.
+Our regular meeting location is the Grace Thompson room at the Stittsville
+branch of the Ottawa Public Library, 1637 Stittsville Main St.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2803.614266221638!2d-75.93664948423407!3d45.35659827909979!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xed52a9545599ecf2!2sSobeys!5e0!3m2!1sen!2sca!4v1485016770435" width="600" height="450" class="gmap-iframe" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5617.368459673356!2d-75.91931923286504!3d45.25417777626135!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4ccdf8b3f8a5cb6d%3A0x35399a51e8d37c4!2sOttawa+Public+Library+-+Stittsville!5e0!3m2!1sen!2sca!4v1562759848746!5m2!1sen!2sca" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
