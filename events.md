@@ -8,7 +8,7 @@ title: WCARC Events
 *Note:* The following dates may be subject to change, as we're currently
 searching for a new meeting space.
 
-* Aug. 19, 2019
+* Aug. 19, 2019 – Hamming it up on 24GHz... using Police Radars – Bert Zauhar (VE2ZAZ) 
 * Sep. 16, 2019
 * Oct. 21, 2019
 * Nov. 18, 2019
