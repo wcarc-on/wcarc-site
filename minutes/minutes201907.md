@@ -48,7 +48,7 @@ Clayton (VE3IRR) mentioned that a piece of equipment was missing after the June 
 
 ### Speaker
 
-Jeremy (VA3ZTF) presented "How to connect your radio to your computer for digital modes."
+Jeremy (VA3ZTF) presented "[Interconnecting Radios and Computers for Digital Modes](../presentations/va3ztf_connecting_radios_and_computers.pdf)."
 
 ### Old Business
 
@@ -66,7 +66,7 @@ Clayton (VE3IRR) mentioned that the project to put a node at Camp Fortune is sti
 
 #### Beacons
 
-Doug (VE3XK) gave a presentation on a project he is proposing to replace the beacon antennas after having issues with the 6m antenna.
+Doug (VE3XK) gave a [presentation](../presentations/ve3xk_beacon_antennas.pdf) on a project he is proposing to replace the beacon antennas after having issues with the 6m antenna.
 The members followed with a discussion on what should be done.
 Clayton (VE3IRR) made a proposal that the antennas be replaced. It will be voted at the next meeting.
 

@@ -16,6 +16,8 @@ For a list of meeting dates, speakers and topics, please see our [events page](e
 * [QRP Adventures: Portable, Afloat and Abroad by José Campione (VA3PCJ) (March 18, 2019)](presentations/va3pcj_qrp_adventures.pdf)
 * [Chasing 6m DXCC using FT8 by Ron Schwartz VE3VN (April 15, 2019)](presentations/ve3vn_ft8_6m_dx.pdf)
 * [June VHF Contest 2019 Recap by Clayton Smith VE3IRR (June 17, 2018)](presentations/ve3irr_2019_june_contest_review.pdf)
+* [Interconnecting Radios and Computers for Digital Modes by Jeremy Jones VA3ZTF (July 15, 2019)](presentations/va3ztf_connecting_radios_and_computers.pdf)
+* [VHF/UHF Beacon Antennas by Doug Leach VE3XK (July 15, 2019)](presentations/ve3xk_beacon_antennas.pdf)
 
 ### 2018
 
