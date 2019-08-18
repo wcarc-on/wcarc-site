@@ -39,7 +39,7 @@ Seconded by Chris (VE3CBK). The motion was carried.
 
 ### Treasurer's Report
 
-Robert (VE3BE) reported 25 paid up members for 2019 and a bank balance of $1817.
+Robert (VE3BE) reported 25 paid up members for 2019 and a bank balance of $1817, less $500 in uncleared cheques.
 
 ### Vice President's Report
 
