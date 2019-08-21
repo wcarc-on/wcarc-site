@@ -1,6 +1,6 @@
 ---
 layout: minutes
-title: Minutes of the Regular Meeting on July 15, 2019 - DRAFT
+title: Minutes of the Regular Meeting on July 15, 2019
 ---
 
 The meeting was held at the the Stittsville branch of the Ottawa Public Library.
