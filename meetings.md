@@ -4,7 +4,7 @@ title: Club Meetings
 ---
 
 The club meets on the third Monday of every month unless a change is
-announced by email. Meetings begin at 19:00hrs local time.
+announced by email. Meetings begin at 19:00 local time.
 
 Please note that WCARC meetings are informal: we usually have a
 Treasurer's report and a very brief report on various projects that are

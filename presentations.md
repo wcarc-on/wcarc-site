@@ -5,7 +5,7 @@ title: Presentations
 
 ## Upcoming Speakers and Topics
 
-For a list of meeting dates, speakers and topics, please see our [events page](events.html).
+For a list of meeting dates, speakers and topics, please see our [meetings page](meetings.html).
 
 ## Past Presentations
 
