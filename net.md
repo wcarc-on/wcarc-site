@@ -2,9 +2,9 @@
 layout: page
 title: Ottawa Valley Upper Frequencies Single Sideband Net
 ---
-### Tuesdays 2100hrs on 144.250MHz USB
+### Tuesdays at 21:00 on 144.250MHz USB
 
-This net meets most Tuesdays at 2100 hours on 144.250MHz USB (upper sideband).
+This net meets most Tuesdays at 21:00 on 144.250MHz USB (upper sideband).
 
 To the extent possible, both horizontal and vertical polarization will be monitored during the net, although horizontal polarization is the generally accepted standard for SSB and weak signal work.
 
