@@ -15,14 +15,14 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* Sep. 16, 2019 – TBA
-* Oct. 21, 2019 – TBA
-* Nov. 18, 2019 – TBA
+* Sep. 16, 2019 – Extended show-and-tell
+* Oct. 21, 2019 – Pico Balloon WSPR Beacon – Mike Babineau VE3WMB
+* Nov. 18, 2019 – Rebuilding Renfrew and Almonte ARES – Steve Harrison VE3FTS
 * Dec. 16, 2019 – Annual General Meeting and Christmas Party
 
 ## Meeting Location
 
-Our regular meeting location is the Pretty Street Community Centre,
-2 Pretty Street, Stittsville.
+Our regular meeting location is the Fringewood Community Centre,
+14 Fringewood Drive, Stittsville.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2808.4737857246305!2d-75.92099774882787!3d45.25843265506816!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40551f2469b77e29%3A0xa48c9ae33d30490f!2sPretty+Street+Community+Centre!5e0!3m2!1sen!2sca!4v1566386677746!5m2!1sen!2sca" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2807.426581156526!2d-75.91364404863839!3d45.27960097899662!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4ccdff66fc457e19%3A0x6a63a0dcd124b85d!2sFringewood%20Community%20Centre!5e0!3m2!1sen!2sca!4v1568480547606!5m2!1sen!2sca" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
