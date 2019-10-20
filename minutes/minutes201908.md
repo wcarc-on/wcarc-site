@@ -1,6 +1,6 @@
 ---
 layout: minutes
-title: Minutes of the Regular Meeting on August 19, 2019 - DRAFT
+title: Minutes of the Regular Meeting on August 19, 2019
 ---
 
 The meeting was held at the the Hazeldean branch of the Ottawa Public Library.
@@ -92,12 +92,20 @@ Nil.
 
 * Andy (VA3NVK) offered to pay the cost of a replacement 144 MHz beacon antenna.
 * Peter (VA3PJ) offered to pay the cost of a replacement 222 MHz beacon antenna.
-* Multiple members each offered $20 to cover the cost of a replacement 432 MHz beacon antenna.
+* Multiple members each offered $20 to cover the cost of a replacement 432 MHz beacon antenna:
+  * Bert (VE2ZAZ)
+  * Wayne (VE3CZO)
+  * Glenn (VE3XRA)
+  * Randy (VE3AX)
+  * Doug (VE2XK)
+  * Luc (VE3JGL)
+  * Ray (VE3FN)
+  * Clayton (VE3IRR)
 * Glenn (VE3XRA) gave an update on the 10 GHz contest outing with Ray VE3FN.
 * Bert (VE2ZAZ) showed the NanoVNA that he received.
 * Jeremy (VA3ZTF) asked for speaker suggestions for future meetings.
 * Doug (VE3XK) mentioned that the QCWA's September meeting will feature a presentation on an APRS nano beacon that will go around the world with balloons.
-* Remi (VA3DRI) showed an RLC meter and asked the members for ideas to troubleshoot why it wasn't accurate.
+* Remi (VA3DRI) showed an LC meter and asked the members for ideas to troubleshoot why it wasn't accurate.
 
 ### Adjournment
 
