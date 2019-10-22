@@ -15,7 +15,6 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* Oct. 21, 2019 – Pico Balloon WSPR Beacon – Mike Babineau VE3WMB
 * Nov. 18, 2019 – Rebuilding Renfrew and Almonte ARES – Steve Harrison VE3FTS
 * Dec. 16, 2019 – Annual General Meeting and Christmas Party
 
