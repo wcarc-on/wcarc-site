@@ -101,6 +101,7 @@ Nil.
   * Luc (VE3JGL)
   * Ray (VE3FN)
   * Clayton (VE3IRR)
+  * Remi (VA3DRI)
 * Glenn (VE3XRA) gave an update on the 10 GHz contest outing with Ray VE3FN.
 * Bert (VE2ZAZ) showed the NanoVNA that he received.
 * Jeremy (VA3ZTF) asked for speaker suggestions for future meetings.
