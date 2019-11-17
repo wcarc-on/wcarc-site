@@ -26,7 +26,7 @@ url: "https://wcarc.ca" # the base hostname & protocol for your site, e.g. http:
 # Build settings
 markdown: kramdown
 theme: minima
-plugins:
+plugins: []
 exclude:
   - Gemfile
   - Gemfile.lock
