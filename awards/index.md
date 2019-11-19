@@ -3,6 +3,10 @@ layout: page
 title: Awards
 ---
 
+## 2019
+
+![2019 June VHF Contest certificate](2019-jun-vhf.jpg)
+
 ## 2018
 
 ![2018 June VHF Contest certificate](2018-jun-vhf.jpg)
