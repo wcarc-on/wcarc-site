@@ -1,6 +1,6 @@
 ---
 layout: minutes
-title: Minutes of the Regular Meeting on October 21, 2019 - DRAFT
+title: Minutes of the Regular Meeting on October 21, 2019
 ---
 
 The meeting was held at the the Fringewood Community Centre in Stittsville.
@@ -76,8 +76,7 @@ Nil.
 #### Beacons
 
 Doug (VE3XK) reported that the beacons are all functioning well.
-There was a report of a key click issue but the source ended up being an FM
-transmitter and not the Club beacons.
+There was a report of a key click issue due to a local FM receiver being overloaded.
 
 #### D-STAR
 
@@ -97,7 +96,7 @@ Nil.
 * Wayne (VE3CZO) mentioned that he and Luc (VE3JGL) went to Microwave Update.
 * Mike (VE3WMB) talked about a hamfest in the GTA.
 * Georges-André (VE2VAB) asked if anyone had comments about the transverters from the Transverter Store.
-* Peter (VA3PJ) mentioned a transmitter that he designed in 1953 that operated at 152.5 MHz that was carried on a balloon.
+* Peter (VA3PJ) mentioned a ground station transmitter that he designed in 1953 that operated at 152.5 MHz and communicated with balloons.
 
 ### Adjournment
 
