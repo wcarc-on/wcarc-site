@@ -12,7 +12,8 @@ title: Meeting Minutes
 [Jul](minutes201907.html),
 [Aug](minutes201908.html),
 [Sep](minutes201909.html),
-[Oct](minutes201910.html)
+[Oct](minutes201910.html),
+[Nov](minutes201911.html)
 * 2018:
 [Jan](minutes201801.html),
 [Feb](minutes201802.html),
