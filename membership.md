@@ -11,7 +11,7 @@ title: Membership
 
 ## Membership and Dues
 
-Membership in the club is open to all radio amateurs, and those planning to become radio amateurs. Our membership fee (dues) remain $25 per year for 2019 and entitle the
+Membership in the club is open to all radio amateurs, and those planning to become radio amateurs. Our membership fee (dues) is $30 per year for 2020 and entitles the
 member to full membership privileges. While attendance of meetings is not mandatory, the nature of this club is to promote and encourage a participatory membership.
 
 Membership entitles members use of certain equipment and may also entitle members to a discount on certain projects or equipment, as determined by the club from time
