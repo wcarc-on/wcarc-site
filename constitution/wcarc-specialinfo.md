@@ -7,9 +7,8 @@ Year Beginning January 1<sup>st</sup> 2019
 
 ## Meeting Location
 
-Grace Thompson room  
-Ottawa Public Library - Stittsville  
-1637 Stittsville Main St, Stittsville, ON K2S 1A9
+Fringewood Community Centre  
+14 Fringewood Drive, Stittsville, ON K2S 1T4
 
 ## Executive
 * President: [Clayton Smith (VE3IRR)](mailto:argilo@gmail.com)
