@@ -1,6 +1,6 @@
 ---
 layout: minutes
-title: Minutes of the Regular Meeting on November 18, 2019 - DRAFT
+title: Minutes of the Regular Meeting on November 18, 2019
 ---
 
 The meeting was held at CARDELREC Recreation Complex (Goulbourn) in Stittsville.
