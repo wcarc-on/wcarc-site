@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Annual Report, 2019 - DRAFT
+title: Annual Report, 2019
 ---
 
 *On December 16, 2019, President Clayton Smith (VE3IRR), delivered this Annual Report:*
@@ -37,7 +37,7 @@ Attendance at this year's meetings was down a bit compared to last year, averagi
 * September: 14
 * October: 17
 * November: 16
-* December: ??
+* December: 13
 
 Membership was lower than last year but comparable to prior years, with 27 regular members and three life members.
 
