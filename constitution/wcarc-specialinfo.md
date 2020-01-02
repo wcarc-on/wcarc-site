@@ -3,7 +3,7 @@ layout: page
 title: Special Information Attachment
 ---
 
-Year Beginning January 1<sup>st</sup> 2019
+Year Beginning January 1<sup>st</sup> 2020
 
 ## Meeting Location
 
@@ -11,11 +11,11 @@ Fringewood Community Centre
 14 Fringewood Drive, Stittsville, ON K2S 1T4
 
 ## Executive
-* President: [Clayton Smith (VE3IRR)](mailto:argilo@gmail.com)
+* President: vacant
 * Vice President: Jeremy Jones (VA3ZTF)
 * Treasurer: [Robert Boyd (VE3BE)](mailto:rwboyd@yahoo.com)
-* Secretary: [Randy Nordlund (VE3AX)](mailto:randynordlund@hotmail.com)
-* Director: Andy Hart (VE3VNK)
+* Secretary: Bert Zauhar (VE2ZAZ)
+* Director: Wayne Getchell (VE3CZO)
 
 ## Appointees
 * Webmaster: [Clayton Smith (VE3IRR)](mailto:argilo@gmail.com)

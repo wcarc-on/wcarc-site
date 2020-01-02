@@ -3,11 +3,11 @@ layout: page
 title: Contacts
 ---
 ## Executive
-* President: [Clayton Smith (VE3IRR)](mailto:argilo@gmail.com)
+* President: vacant
 * Vice President: Jeremy Jones (VA3ZTF)
 * Treasurer: [Robert Boyd (VE3BE)](mailto:rwboyd@yahoo.com)
-* Secretary: [Randy Nordlund (VE3AX)](mailto:randynordlund@hotmail.com)
-* Director: Andy Hart (VE3VNK)
+* Secretary: Bert Zauhar (VE2ZAZ)
+* Director: Wayne Getchell (VE3CZO)
 
 ## Web Pages
 * Webmaster: [Clayton Smith (VE3IRR)](mailto:argilo@gmail.com)
