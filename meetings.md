@@ -15,7 +15,21 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* Dec. 16, 2019 – Annual General Meeting and Christmas Party
+* Jan. 20, 2020 – Rebuilding ARES in Renfrew and Almonte – Steven Harrison (VE3FTS)
+* Feb. 10, 2020* – TBA
+* Mar. 16, 2020 – SDR Update – Clayton Smith (VE3IRR)
+* Apr. 20, 2020 – WRC-19 Debrief – Bryan Rawlings (VE3QN)
+* May 11, 2020* – VHF Contest Preparation
+* Jun. 12-15, 2020 – **June VHF Contest**
+* Jun. 15, 2020 – 3D Printing Bert – Zauhar (VE2ZAZ)
+* Jul. 20, 2020 – VHF Contest Recap
+* Aug. 17, 2020
+* Sep. 21, 2020
+* Oct. 19, 2020
+* Nov. 16, 2020
+* Dec. 21, 2020 – Annual General Meeting and Christmas Party
+
+\* Note: The February and May meetings will take place on the second Monday of the month to avoid the Family Day and Victoria Day holidays.
 
 ## Meeting Location
 
