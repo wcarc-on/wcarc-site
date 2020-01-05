@@ -21,7 +21,7 @@ into a couple of hours.
 * Apr. 20, 2020 – WRC-19 Debrief – Bryan Rawlings (VE3QN)
 * May 11, 2020* – VHF Contest Preparation
 * Jun. 12-15, 2020 – **June VHF Contest**
-* Jun. 15, 2020 – 3D Printing Bert – Zauhar (VE2ZAZ)
+* Jun. 15, 2020 – 3D Printing from a Novice's Perspective – Bert Zauhar (VE2ZAZ)
 * Jul. 20, 2020 – VHF Contest Recap
 * Aug. 17, 2020
 * Sep. 21, 2020
