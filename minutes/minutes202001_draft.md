@@ -90,8 +90,11 @@ Election of president deferred to the next meeting, as nobody came forward to fu
 
 Lawrence (VE3IQ): A five-week long ham licence course will be offered every Saturday at Carleton University. Details are not known.
 Harrie (VE3HYS): The Canadian Ski Marathon is looking for volounteers for point-to-point communications (non-ham) activity (though ham radio may be used as backup). In preparation for the Marathon, a kit assembly group session of a $30 2m band attenuator kit will be held. Registration sheet circulated during the meeting.
+
 Glenn (VE3XRA): WRC-2019 ended. Reports available in the TCA magazine. Perception was that there will be more pressure for microwave bands re-allocation at the next WRC-2023. We should occupy our bands.
+
 Glenn (VE3XRA): Involved in 'Amateur Radio aboard International Space Station' group. Some of the activities will involve convincing NASA to put ham radio equipment onboard the future moon "Gateway" station.
+
 Glenn (VE3XRA): RAC is planning to provide website hosting services to affiliated clubs in 2020.
 
 ### Adjournment
