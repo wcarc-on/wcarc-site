@@ -10,8 +10,7 @@ off the air pending repairs. Inquiries should be directed to Barrie Crampton (VE
 
 From 2005 to 2015, the club operated the VE3WCC-1 digipeater located in Nepean.
 After losing access to the tower site, the club donated the remaining equipment
-to the Ottawa Amateur Radio Club, which plans to install a digipeater at Camp
-Fortune, operating under a new call sign.
+to the Ottawa Amateur Radio Club, which operates the digipeater from the CFRA transmitter site as VE3OCR-4.
 
 ## APRS Weather Stations
 
