@@ -61,7 +61,7 @@ Steven Harrison gave a presentation on the Renfrew/Almonte Amateur Radio Emergen
 
 Bert (VE2ZAZ): The topic of the Club email group transition from Yahoo! Groups to Groups.io had been discussed before. Bert suggested that we proceed with the transfer to Groups.io. It was understood by all that we would lose the history of emails currently available on Yahoo! Groups website. This should not represent an issue since everyone received individual emails anyway. Bert will contact Clayton (VE3IRR) and will proceed with a manual transfer.
 
-Harrie (VE3HYS): It was previously been mentioned that the VE3OCR WCC digipeater had been relocated to the Camp Fortune tower site, and that the WCARC website shows that. The digipeater is currently located at the CFRA transmitter site, and is operational. It has been there for approximately 4 years. The WCARC website should be updated to show this current location. Jeremy (VA3ZTF) will advise Clayton (VE3IRR) to make that change to the website.
+Harrie (VE3HYS): It was previously been mentioned that the VE3OCR-4 digipeater (formerly VE3WCC-1, donated to OARC in 2017) had been relocated to the Camp Fortune tower site, and that the WCARC website shows that. The digipeater is currently located at the CFRA transmitter site, and is operational. It has been there for approximately 4 years. The WCARC website should be updated to show this current location. Jeremy (VA3ZTF) will advise Clayton (VE3IRR) to make that change to the website.
 
 ### Reports / Project Updates
 
