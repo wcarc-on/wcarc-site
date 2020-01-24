@@ -1,6 +1,6 @@
 ---
 layout: minutes
-title: Minutes of the Regular Meeting on December 16, 2019 - DRAFT
+title: Minutes of the Regular Meeting on December 16, 2019
 ---
 
 The meeting was held at the the Fringewood Community Centre in Stittsville.
