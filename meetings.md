@@ -15,16 +15,15 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* Jan. 20, 2020 – Rebuilding ARES in Renfrew and Almonte – Steven Harrison (VE3FTS)
-* Feb. 10, 2020* – TBA
+* Feb. 10, 2020* – Electric Cars – Norm Rashleigh (VE3LC)
 * Mar. 16, 2020 – SDR Update – Clayton Smith (VE3IRR)
 * Apr. 20, 2020 – WRC-19 Debrief – Bryan Rawlings (VE3QN)
 * May 11, 2020* – VHF Contest Preparation
 * Jun. 12-15, 2020 – **June VHF Contest**
-* Jun. 15, 2020 – 3D Printing from a Novice's Perspective – Bert Zauhar (VE2ZAZ)
+* Jun. 15, 2020 – FT8 – Richard Firch (VE3KI)
 * Jul. 20, 2020 – VHF Contest Recap
-* Aug. 17, 2020
-* Sep. 21, 2020
+* Aug. 17, 2020 – 3D Printing from a Novice's Perspective – Bert Zauhar (VE2ZAZ)
+* Sep. 21, 2020 – SO2R – Lawrence Dobranski (VA3IQ)
 * Oct. 19, 2020
 * Nov. 16, 2020
 * Dec. 21, 2020 – Annual General Meeting and Christmas Party
