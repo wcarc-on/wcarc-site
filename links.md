@@ -39,6 +39,7 @@ title: Web Links
 * [Kingston Amateur Radio Club (KARC)](http://www.ve3kbr.com/)
 * [Montreal Amateur Radio Club (MARC)](http://www.marc.qc.ca)
 * [Ottawa Amateur Radio Digital Group (OARDG) D-STAR](https://va3odg.webqth.com/)
+* [Rideau Lakes Amateur Radio Club](https://www.ve3rlr.ca/)
 
 ## Propagation Info
 * [KB7TBT's Space Weather](http://www.kb7tbt.com/spaceweather/)
