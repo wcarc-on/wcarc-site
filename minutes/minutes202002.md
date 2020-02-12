@@ -79,7 +79,7 @@ The election of president was deferred to the next meeting, as nobody came forwa
 
 Norm (VE3LC): There is a local FM net held here in Ottawa on Sundays at 8PM, on 144.250 MHz. A vertical polarization antenna is recommended.
 
-G-A Chaudron (VE2VAB): CRAO Gatineau Club had two TYT-9000 220MHz mobile transceivers stolen from their Hull Hospital site. People should be on the watch for these. Note that they had no microphone attached. 
+G-A Chaudron (VE2VAB): CRAO Gatineau Club had two TYT-9000 220MHz mobile transceivers stolen from their Hull Hospital site. People should be on the watch for these. Note that they had no microphone attached.
 
 Glenn (VE3XRA): Reported on the Canadian Ski Marathon. This year, they were very tight on the number of radio operators available.
 
