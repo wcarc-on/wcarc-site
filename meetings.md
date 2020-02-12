@@ -15,7 +15,6 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* Feb. 10, 2020* – Electric Cars – Norm Rashleigh (VE3LC)
 * Mar. 16, 2020 – SDR Update – Clayton Smith (VE3IRR)
 * Apr. 20, 2020 – WRC-19 Debrief – Bryan Rawlings (VE3QN)
 * May 11, 2020* – VHF Contest Preparation
@@ -28,7 +27,7 @@ into a couple of hours.
 * Nov. 16, 2020
 * Dec. 21, 2020 – Annual General Meeting and Christmas Party
 
-\* Note: The February and May meetings will take place on the second Monday of the month to avoid the Family Day and Victoria Day holidays.
+\* Note: The May meeting will take place on the second Monday of the month to avoid the Victoria Day holiday.
 
 ## Meeting Location
 
