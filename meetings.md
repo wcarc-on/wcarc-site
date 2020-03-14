@@ -15,7 +15,6 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* Mar. 16, 2020 – SDR Update – Clayton Smith (VE3IRR)
 * Apr. 20, 2020 – WRC-19 Debrief – Bryan Rawlings (VE3QN)
 * May 11, 2020* – VHF Contest Preparation
 * Jun. 12-15, 2020 – **June VHF Contest**
