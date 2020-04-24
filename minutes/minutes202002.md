@@ -1,6 +1,6 @@
 ---
 layout: minutes
-title: Minutes of the Regular Meeting on February 10, 2020 - DRAFT
+title: Minutes of the Regular Meeting on February 10, 2020
 ---
 
 The meeting was held at the Fringewood Community Centre in Stittsville.
