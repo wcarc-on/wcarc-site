@@ -38,14 +38,14 @@ Two visitors were in attendance: Bryan Rawlings (VE3QN) and Paul Coverdale (VE3I
 
 ### Treasurer's Report
 
-Robert (VE3BE) reported 22 paid up members for 2020 and a bank balance of $1419.57 .
+Robert (VE3BE) reported 22 paid up members for 2020 and a bank balance of $1419.57.
 There is also $2,000 which is split up into 2 term deposits. One will mature on April 23rd and will be renewed with a maturity date of June 21st, 2021. The other deposit will mature in October 2020.
 
 ### Vice President's Report
 
-- Jeremy (VA3ZTF) announced that the Club participation to the ARRL June VHF contest is canceled due to the COVID-19 pandemic situation. The City of Ottawa facilities are all shut down, and this includes our venue. The City is planning to re-open the facilities on June 30th. 
+- Jeremy (VA3ZTF) announced that the Club participation to the ARRL June VHF contest is canceled due to the COVID-19 pandemic situation. The City of Ottawa facilities are all shut down, and this includes our venue. The City is planning to re-open the facilities on June 30th.
 - Jeremy also confirmed that Clayton (VE3IRR) would be the speaker at the May meeting and that Rich (VE3KI) would be the speaker at the June meeting.
-- Looking forward, the Fringewood Community Center will no longer be our meeting venue. Either the Kanata Recreation Complex or the Kanata Seniors Centre will be chosen for our meeting location. We must wait for the City services to re-open in order to book a meeting room. 
+- Looking forward, the Fringewood Community Center will no longer be our meeting venue. Either the Kanata Recreation Complex or the Kanata Seniors Centre will be chosen for our meeting location. We must wait for the City services to re-open in order to book a meeting room.
 - Jeremy reminded the members that the President's position was currently unoccupied. He expressed the importance of having a complete board of officers, as required by our non-for-profit status and by our constitution. In order to facilitate the election of the missing officer, he offered to move to the President's position, if necessary, to free up the Vice President position. He suggested that the members present should consider moving forward as candidate for either position.
 
 ### Director's Report
@@ -77,12 +77,12 @@ Jeremy reported substantial activity on the Ottawa D-Star network and the VA3ODG
 #### Broadband Hamnet
 
 - Bert (VE2ZAZ) reported that the Ottawa-West to YMCA link is still inconsistent in performance. It was suggested that we change the link channel, as it is possible that there are interfering signals on the current channel. But this would have to be coordinated at both ends of the link.
-- Georges-André (VE2VAB) reported that there were no configuration activity on the Gatineau side of the network, due mostly to the pandemic lock-down.
+- Georges-André (VE2VAB) reported that there was no configuration activity on the Gatineau side of the network, due mostly to the pandemic lock-down.
 
 ### New Business
 
-- Bert (VE2ZAZ) suggested that the Club could participate to the September VHF Contest instead. Many members present at the meeting confirmed that they would likely participate to the activity. One open item is the rental of the Corkery Community Center, which may not be available for that second weekend of September. This will be checked once the City re-opens their services.
-- Bert (VE2ZAZ) offered to order some WCARC-logo waterproof stickers. This would help in identifying the Club assets from other individuals' assets. The expenditure should be of around 60$. Since that amount is below the allowed discretionary budget, a go-ahead was given by the Vice-President and the Treasurer to place an order.
+- Bert (VE2ZAZ) suggested that the Club could participate in the September VHF Contest instead. Many members present at the meeting confirmed that they would likely participate in the activity. One open item is the rental of the Corkery Community Center, which may not be available for that second weekend of September. This will be checked once the City re-opens their services.
+- Bert (VE2ZAZ) offered to order some WCARC-logo waterproof stickers. This would help in identifying the Club assets from other individuals' assets. The expenditure should be of around $60. Since that amount is below the allowed discretionary budget, a go-ahead was given by the Vice-President and the Treasurer to place an order.
 
 ### Election of President
 
