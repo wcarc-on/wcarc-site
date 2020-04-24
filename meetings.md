@@ -15,7 +15,6 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* Apr. 20, 2020 – WRC-19 Debrief – Bryan Rawlings (VE3QN)
 * May 11, 2020* – Building SDR Challenges for a Hacking Competition – Clayton Smith (VE3IRR)
 * Jun. 13-14, 2020 – **June VHF Contest**
 * Jun. 15, 2020 – FT8 – Richard Firch (VE3KI)
