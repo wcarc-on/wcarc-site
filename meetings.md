@@ -15,9 +15,8 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* May 11, 2020* – Building SDR Challenges for a Hacking Competition – Clayton Smith (VE3IRR)
 * Jun. 13-14, 2020 – **June VHF Contest**
-* Jun. 15, 2020 – FT8 – Richard Firch (VE3KI)
+* Jun. 15, 2020 – Operating VHF and Up – Ray Perrin (VE3FN)
 * Jul. 20, 2020
 * Aug. 17, 2020 – 3D Printing from a Novice's Perspective – Bert Zauhar (VE2ZAZ)
 * Sep. 21, 2020 – SO2R – Lawrence Dobranski (VA3IQ)
