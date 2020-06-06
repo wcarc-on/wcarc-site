@@ -1,6 +1,6 @@
 ---
 layout: minutes
-title: Minutes of the Regular Meeting on April 20, 2020 - DRAFT
+title: Minutes of the Regular Meeting on April 20, 2020
 ---
 
 The meeting was held over the internet via a Zoom video meeting.
