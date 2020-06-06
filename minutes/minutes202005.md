@@ -18,13 +18,13 @@ The following people were present:
 | Clare Fowler           | VE3NPC     | Member           | FN25    | Yes   | Yes |
 | Rich Ferch             | VE3KI      | Member           | FN25    | Yes   | Yes |
 | Wayne Getchell         | VE3CZO     | Director         | FN25dh  | Yes   | Yes |
-| Glenn MacDonell        | VE3XRA     | Member           | FN25dj  | Yes | Yes   |
-| Lawrence Dobranski     | VA3IQ      | Member           | FN25    | Yes | Yes   |
+| Glenn MacDonell        | VE3XRA     | Member           | FN25dj  | Yes   | Yes |
+| Lawrence Dobranski     | VA3IQ      | Member           | FN25    | Yes   | Yes |
 | Ray Perrin             | VE3FN      | Member           | FN25dk  | Yes   | Yes |
 | Raj Thukral            | VA3RZT     | Member           | FN25    | Yes   | Yes |
 | Chris Rochefort        | VE2MW      | Member           | FN25ck  | Yes   | Yes |
 | G-A Chaudron           | VE2VAB     | Member           | FN25    | Yes   | Yes |
-| Tyler Tidman           | VA3DGN     | Member           | FN25    | Yes   | Yes |    
+| Tyler Tidman           | VA3DGN     | Member           | FN25    | Yes   | Yes |
 
 ### Opening
 
@@ -41,7 +41,7 @@ Robert (VE3BE) reported 24 paid up members for 2020 and a bank balance of $1449.
 
 ### Vice President's Report
 
-- Jeremy reminded the members that the President's position was still unoccupied. He expressed the importance of having a complete board of officers, as required by our non-for-profit status and by our constitution. In order to facilitate the election of the missing officer, he offered to move to the President's position, if necessary, to free up the Vice President position. As for his role in filling up the President's position, this meeting will be his last one as acting president. If no candidates come forward by the June meeting, then there will be no Club meeting. 
+- Jeremy reminded the members that the President's position was still unoccupied. He expressed the importance of having a complete board of officers, as required by our non-for-profit status and by our constitution. In order to facilitate the election of the missing officer, he offered to move to the President's position, if necessary, to free up the Vice President position. As for his role in filling up the President's position, this meeting will be his last one as acting president. If no candidates come forward by the June meeting, then there will be no Club meeting.
 - Jeremy will prepare and publish a survey in which he will collect feedback from the members on the Club's activities.
 
 ### Director's Report
@@ -54,12 +54,12 @@ None. The President's position is open.
 
 ### Speaker
 
-Clayton Smith (VE3IRR): BSide Ottawa 2019 Radio Challenges (SDR receiving and processing competition).
+Clayton Smith (VE3IRR): BSides Ottawa 2019 Radio Challenges (SDR receiving and processing competition).
 
 ### Old Business
 
 - Asset identification. Bert (VE2ZAZ) proposed, at Robert (VE3BE)'s suggestion, that we print asset stickers on P-Touch or Dymo printer labels. Bert owns one such graphics printer, along with many spare label cartridges. This will cost less than ordering custom stickers.
-- September VHF Contest. Clayton to check with Ray Burell for his availability in the event that the Club participates in the ARRL September VHF contest.
+- September VHF Contest. Clayton to check with Ray Burrell for his availability in the event that the Club participates in the ARRL September VHF contest.
 
 ### Reports / Project Updates
 
@@ -85,9 +85,8 @@ The election of president was deferred to the next meeting, as nobody came forwa
 
 ### Announcements / Show & Tell
 
-Glenn VE3XRA is involved in the ARISS program. People are currently planning for the next space station to be launched by 2024, which will orbit the moon. The plan is to put one ham 2.4/10 GHz SDR module onboard the moon space station. Scientific experiments that use ham radio are also being planned. They are looking for volunteers to help on the hardware, software and on building ground stations. Please let Glenn know if you are interested.
+Glenn (VE3XRA) is involved in the ARISS program. People are currently planning for the next space station to be launched by 2024, which will orbit the moon. The plan is to put one ham 2.4/10 GHz SDR module onboard the moon space station. Scientific experiments that use ham radio are also being planned. They are looking for volunteers to help on the hardware, software and on building ground stations. Please let Glenn know if you are interested.
 
 ### Adjournment
 
 The Vice President observed that there being no further business; the meeting was adjourned at 20:45.
-
