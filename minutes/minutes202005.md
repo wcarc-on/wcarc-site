@@ -69,7 +69,7 @@ Several members confirmed that the 70cm beacon signal is weaker than the other b
 
 #### D-STAR
 
-Jeremy reported substantial activity on the Ottawa D-Star network.
+Jeremy reported substantial activity on the Ottawa D-STAR network.
 
 #### Broadband Hamnet
 

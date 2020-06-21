@@ -72,7 +72,7 @@ Several members reported having heard the 6m, 2m and 70cm Club beacons. It appea
 
 #### D-STAR
 
-Jeremy reported substantial activity on the Ottawa D-Star network and the VA3ODG repeater during the last few weeks.
+Jeremy reported substantial activity on the Ottawa D-STAR network and the VA3ODG repeater during the last few weeks.
 
 #### Broadband Hamnet
 
