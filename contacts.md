@@ -3,7 +3,7 @@ layout: page
 title: Contacts
 ---
 ## Executive
-* President: vacant
+* President: Charles MacDonald (VA3CPY)
 * Vice President: Jeremy Jones (VA3ZTF)
 * Treasurer: [Robert Boyd (VE3BE)](mailto:rwboyd@yahoo.com)
 * Secretary: Bert Zauhar (VE2ZAZ)
