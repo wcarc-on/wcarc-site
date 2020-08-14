@@ -15,8 +15,7 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* Jul. 20, 2020 – Operating VHF and Up – Ray Perrin (VE3FN)
-* Aug. 17, 2020 – 3D Printing from a Novice's Perspective – Bert Zauhar (VE2ZAZ)
+* Aug. 17, 2020 – TBA
 * Sep. 21, 2020 – SO2R – Lawrence Dobranski (VA3IQ)
 * Oct. 19, 2020
 * Nov. 16, 2020
