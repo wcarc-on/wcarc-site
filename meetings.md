@@ -22,7 +22,6 @@ into a couple of hours.
 
 ## Meeting Location
 
-Our regular meeting location is the Fringewood Community Centre,
-14 Fringewood Drive, Stittsville.
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2807.426581156526!2d-75.91364404863839!3d45.27960097899662!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4ccdff66fc457e19%3A0x6a63a0dcd124b85d!2sFringewood%20Community%20Centre!5e0!3m2!1sen!2sca!4v1568480547606!5m2!1sen!2sca" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+During the COVID-19 pandemic, all meetings will take place online. Details are
+sent to the [WCARC mailing list](https://groups.io/g/wcclist/topics) before each
+meeting.
