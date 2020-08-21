@@ -51,7 +51,7 @@ None.
 ### Reports / Project Updates
 
 #### Beacons
-From Robert (VE3BE): The 6m, 2m, 1.25m and 70cm beacons are still off the air. Replacement N-connectors were received and installed. There is also work being done to improve ventilation and cooling, with the addition of a fan. The plan is to have the beacons installed on the new Deifenbunker tower, which was erected earlier this month. It is very likely that we will be able to install them there before the winter. In the event that this would not be possible, we would re-install the beacons at the Boltwood's place. The CW ID EPROM will need to be re-programmed if the beacons end up being relocated. Bert (VE2ZAZ) has offered to re-program the EPROM with the new grid square suffix.
+From Robert (VE3BE): The 6m, 2m, 1.25m and 70cm beacons are still off the air. Replacement N-connectors were received and installed. There is also work being done to improve ventilation and cooling, with the addition of a fan. The plan is to have the beacons installed on the new Diefenbunker tower, which was erected earlier this month. It is very likely that we will be able to install them there before the winter. In the event that this would not be possible, we would re-install the beacons at the Boltwoods' place. The CW ID EPROM will need to be re-programmed if the beacons end up being relocated. Bert (VE2ZAZ) has offered to re-program the EPROM with the new grid square suffix.
 
 #### Broadband Hamnet
 Nothing to report.
