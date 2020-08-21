@@ -1,6 +1,6 @@
 ---
 layout: minutes
-title: Minutes of the Regular Meeting on July 20th, 2020 - DRAFT
+title: Minutes of the Regular Meeting on July 20th, 2020
 ---
 The meeting was held over the internet via a GoToMeeting video conference.
 The following people were present:
