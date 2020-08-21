@@ -15,7 +15,6 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* Aug. 17, 2020 – Fiber-Optic Communications – Bert Zauhar (VE2ZAZ)
 * Sep. 21, 2020 – SO2R – Lawrence Dobranski (VA3IQ)
 * Oct. 19, 2020
 * Nov. 16, 2020
