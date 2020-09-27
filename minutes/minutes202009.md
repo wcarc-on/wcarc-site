@@ -37,8 +37,8 @@ Bert (VE2ZAZ) posted a draft version of the August 2020 meeting minutes on the w
 
 ### Vice President's Report
 - Jeremy (VA3ZTF) confirmed that there are no meetings in City of Ottawa locations planned for the time being. The Club got refunded for 3 months by the City. It is likely that we will resume meeting in person only in the mid-2021.
-- Two Officer positions will be up for election in December: Vice President and Treasurer. The current Officers will not run again for their respective position. Members are informed of this three months ahead of the election so that it helps with their preparation/reflection.
-- Jeremy is working on ensuring that there are speakers booked for each Club meeting until the January meet (included). The newly elected Vice President will take over the duties after that date.
+- Two Officer positions will be up for election in December: Vice President and Treasurer. The current Officers will not run again for their respective positions. Members are informed of this three months ahead of the election so that it helps with their preparation/reflection.
+- Jeremy is working on ensuring that there are speakers booked for each Club meeting until the January meet (inclusive). The newly elected Vice President will take over the duties after that date.
 
 ### Director's Report
 Wayne (VE3CZO) took over management of the Club-owned test equipment loaning process. He asks that the members feel free to reach him via email if one needs to borrow such equipment. Wayne is currently checking the equipment to ensure that it is fully operational. He is also updating the associated documentation.
@@ -71,7 +71,7 @@ From Robert (VE3BE): Robert reported that the beacons are now repaired and back 
 #### Mesh Network
 From Bert (VE2ZAZ): Mesh Networking activity is currently low in the Ottawa/Gatineau area. In the greater-Montréal area, there is some ongoing exploration activity. Bert receives emails and phone calls every now and then from hams seeking answers or recommendations.
 
-### Show and Tell/ Announcements
+### Show and Tell / Announcements
 - Mike (VE3MKX) suggested that we meet every few weeks on Zoom to discuss projects (an informal, round-table meet). Charles then offered to set up a Zoom meeting time slot whenever needed for that activity.
 - Wayne (VE3CZO) showed an N-connector version of the Nano-VNA. The frequency range reaches 3 GHz. It offers a 4-inch touch LCD display. The overall quality is good. It is compatible with all existing Nano-VNA software. It sells for 130 Canadian dollars.
 
