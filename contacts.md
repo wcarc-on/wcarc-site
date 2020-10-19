@@ -7,7 +7,7 @@ title: Contacts
 * Vice President: Jeremy Jones (VA3ZTF)
 * Treasurer: [Robert Boyd (VE3BE)](mailto:rwboyd@yahoo.com)
 * Secretary: Bert Zauhar (VE2ZAZ)
-* Director: Wayne Getchell (VE3CZO)
+* Director: [Wayne Getchell (VE3CZO)](mailto:ve3czo@gmail.com)
 
 ## Web Pages
 * Webmaster: [Clayton Smith (VE3IRR)](mailto:argilo@gmail.com)
