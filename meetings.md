@@ -15,7 +15,6 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* Oct. 19, 2020
 * Nov. 16, 2020
 * Dec. 21, 2020 – Annual General Meeting and Christmas Party
 
