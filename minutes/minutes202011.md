@@ -31,13 +31,13 @@ There were no visitors attending the meeting.
 The Secretary was absent. As the Club webmaster, Clayton (VE3IRR) posted the October meeting minutes to the website. In the absence of the Secretary, Clayton put forward a motion to adopt the minutes as posted. It was seconded by Robert (VE3BE). The motion was carried.
 
 ### Treasurer's Report
--  Collection of 2021 membership dues: It can be done through an Alterna online banking account. The newly elected Treasurer will have to open the account. Two Club officer signatures will be required. 
-- Robert reported 25 paid up members for 2020 and a bank balance of $1457.99. There is also $2,000 which is split up into two term deposits. One matured on October 21st, 2020, and was renewed for another year. The other one has a maturity date of June 21st, 2021.
+- Collection of 2021 membership dues: It can be done through an Alterna online banking account. The newly elected Treasurer will have to open the account. Two Club officer signatures will be required.
+- Robert reported 25 paid up members for 2020 and a bank balance of $1,457.99. There is also $2,000 which is split up into two term deposits. One matured on October 21st, 2020, and was renewed for another year. The other one has a maturity date of June 21st, 2021.
 
 ### Vice President's Report
 - Jeremy received a check from the city of Ottawa, a refund for one meeting room rental. He will deposit it soon to our bank account at an Alterna branch.
 - The next meeting will be the annual general meeting. Two Officer positions will be up for election: Vice President and Treasurer. The current Officers in these positions have announced that they would not run again for their respective positions. The meeting will also feature a Show-And-Tell session, so members will be invited to show some of their ongoing projects or newly acquired products.
-- Mike (VE3MKX) will be the speaker at the January meeting. 
+- Mike (VE3MKX) will be the speaker at the January meeting.
 - Karen (VA3IGO) thanked Jeremy for his support in introducing her and Charles (VA3CPY) to the hobby and in joining the Club.
 
 ### Director's Report
@@ -45,8 +45,8 @@ The Director was absent.
 
 ### President's Report
 - In preparation for the upcoming December Officer election, Charles (VA3CPY) once again promoted the importance of getting involved on the executive committee, especially to those with basic accounting skills who could fill the treasurer's position.
-- Charles asked for input from members on how the next meeting - which is normally also our Christmas party - would unfold, considering the online nature of our meetings. A few members suggested that a show-and-tell can be very popular, particularly if the objects shown are unknown, and members have to guess what they are.
-- Considering the current state of the pandemic, the members should expect to continue meeting online for the first half of 2021. 
+- Charles asked for input from members on how the next meeting—which is normally also our Christmas party—would unfold, considering the online nature of our meetings. A few members suggested that a show-and-tell can be very popular, particularly if the objects shown are unknown, and members have to guess what they are.
+- Considering the current state of the pandemic, the members should expect to continue meeting online for the first half of 2021.
 
 ### Speaker
 Lawrence (VA3IQ) - Security and the digital amateur, and why I should care about information security.
@@ -67,8 +67,8 @@ No report.
 No report.
 
 ### Show and Tell/ Announcements
-- Mike (VE3MKX): On November 17th, the Burlington Amateur Radio Club will host a presentation on FT-8 and filtering. It is a very interesting presentation. He has already sent the details by email.
-- Lawrence (VA3IQ): He reminded that the RAC Canada Winter Contest 2020 will be held earlier this year, on December 19th. 
+- Mike (VE3MKX): On November 17th, the Burlington Amateur Radio Club will host a presentation on FT8 and filtering. It is a very interesting presentation. He has already sent the details by email.
+- Lawrence (VA3IQ): He reminded that the RAC Canada Winter Contest 2020 will be held earlier this year, on December 19th.
 - Jeremy (VA3ZTF): The OARC will once again participate in the RAC Canada Winter Contest from the Diefenbunker. Everyone is welcome to join.
 
 ### Adjournment
