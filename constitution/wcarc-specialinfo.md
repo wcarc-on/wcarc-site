@@ -3,7 +3,7 @@ layout: page
 title: Special Information Attachment
 ---
 
-Year Beginning January 1<sup>st</sup> 2020
+Year Beginning January 1<sup>st</sup> 2021
 
 ## Meeting Location
 

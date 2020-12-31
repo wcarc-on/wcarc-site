@@ -15,7 +15,21 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* Dec. 21, 2020 – Annual General Meeting and Christmas Party
+* Jan. 18, 2021 – TBA
+* Feb. 8, 2021* – TBA
+* Mar. 15, 2021 – TBA
+* Apr. 19, 2021 – TBA
+* May 17, 2021 – TBA
+* Jun. 11-14, 2021 – **June VHF Contest**
+* Jun. 21, 2021 – TBA
+* Jul. 19, 2021 – TBA
+* Aug. 16, 2021 – TBA
+* Sep. 20, 2021 – TBA
+* Oct. 18, 2021 – TBA
+* Nov. 15, 2021 – TBA
+* Dec. 20, 2021 – Annual General Meeting and Christmas Party
+
+\* Note: The February meeting will take place on the second Monday of the month to avoid the Family Day holiday.
 
 ## Meeting Location
 
