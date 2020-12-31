@@ -11,8 +11,8 @@ Due to the COVID-19 pandemic, all meetings are being held online using Zoom.
 
 ## Executive
 * President: Charles MacDonald (VA3CPY)
-* Vice President: Jeremy Jones (VA3ZTF)
-* Treasurer: [Robert Boyd (VE3BE)](mailto:rwboyd@yahoo.com)
+* Vice President: Mike Kassay (VE3MKX)
+* Treasurer: Ray Perrin (VE3FN)
 * Secretary: Bert Zauhar (VE2ZAZ)
 * Director: Wayne Getchell (VE3CZO)
 

@@ -4,10 +4,10 @@ title: Contacts
 ---
 ## Executive
 * President: Charles MacDonald (VA3CPY)
-* Vice President: Jeremy Jones (VA3ZTF)
-* Treasurer: [Robert Boyd (VE3BE)](mailto:rwboyd@yahoo.com)
+* Vice President: Mike Kassay (VE3MKX)
+* Treasurer: Ray Perrin (VE3FN)
 * Secretary: Bert Zauhar (VE2ZAZ)
-* Director: [Wayne Getchell (VE3CZO)](mailto:ve3czo@gmail.com)
+* Director: Wayne Getchell (VE3CZO)
 
 ## Web Pages
 * Webmaster: [Clayton Smith (VE3IRR)](mailto:argilo@gmail.com)
