@@ -36,7 +36,7 @@ There were no visitors attending the meeting.
 Robert reported 25 paid up members for 2020 and a bank balance of $1518.05. There is also $2,000 which is split up into two term deposits. One matured on October 21st, 2020, and was renewed for another year. The other one has a maturity date of June 21st, 2021.
 
 ### Vice President's Report
-Jeremy (VA3ZTF) voiced that the 2020 year had been a very challenging one for the Club. 
+Jeremy (VA3ZTF) voiced that the 2020 year had been a very challenging one for the Club.
 
 ### Director's Report
 Wayne (VE3CZO) reminded attendees that the Club-owned test equipment is avaiable for loan by members. The process is now fully documented. Members are invited to send an email to Wayne when the need comes for such equipment.
@@ -63,9 +63,9 @@ No report.
 No report.
 
 #### Election of Officers.
-- As stated by the Club constitution, five officers are required. Up for election were the Treasurer and Vice President positions. 
+- As stated by the Club constitution, five officers are required. Up for election were the Treasurer and Vice President positions.
 - Mike (VE3MKX) stepped forward to occupy the position of Vice President. Since there were no other candidates, he was elected by acclamation.
-- Ray (VE3FN) stepped forward to fill the position of Treasurer. Since there were no other candidates, he was elected by acclamation. Robert (VE3BE) offered to help the new Treasurer in the transition. 
+- Ray (VE3FN) stepped forward to fill the position of Treasurer. Since there were no other candidates, he was elected by acclamation. Robert (VE3BE) offered to help the new Treasurer in the transition.
 
 ### Show and Tell/ Announcements
 Various items were shown, and various subjects were discussed.
