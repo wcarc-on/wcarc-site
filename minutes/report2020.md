@@ -27,12 +27,12 @@ title: Annual Report, 2020
 ### August
 - The board has noticed, likely due to the pandemic, that nobody has volunteered to organize the September VHF Contest. Moreover, it is anticipated that there would insufficient participation. Thus there will be no Club participation in the 2020 September VHF contest.
 - Wayne (VE3CZO) took over management of the Club-owned test equipment loaning process.
-- Bert (VE2ZAZ): Confirmed having submitted the Ontario non-for-profit status update forms by mail
+- Bert (VE2ZAZ): Confirmed having submitted the Ontario non-for-profit status update forms by mail.
 - Bert (VE2ZAZ): Mesh Networking activity is currently low in the Ottawa/Gatineau area.
 
 *The following was added by the Vice President at the meeting:*
 
-- Since losing the Sobey's meeting room back in 2019, we had been meeting at the Fringewood Community Center as a temporary location, with the goal of making the Kanata Recreation Center our permanent meeting location. With the pandemic unfolding, all meeting room bookings were cancelled.
+- Since losing the Sobey's meeting room back in 2019, we had been meeting at the Fringewood Community Center as a temporary location, with the goal of making the Kanata Recreation Complex our permanent meeting location. With the pandemic unfolding, all meeting room bookings were cancelled.
 - Meeting via video platforms initially proved to be challenging, but we have managed to adapt the meeting flow and presentations to a more suitable format for remote meetings.
 
 *The following was added by the Secretary after the meeting:*

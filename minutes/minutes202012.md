@@ -39,10 +39,10 @@ Robert reported 25 paid up members for 2020 and a bank balance of $1518.05. Ther
 Jeremy (VA3ZTF) voiced that the 2020 year had been a very challenging one for the Club.
 
 ### Director's Report
-Wayne (VE3CZO) reminded attendees that the Club-owned test equipment is avaiable for loan by members. The process is now fully documented. Members are invited to send an email to Wayne when the need comes for such equipment.
+Wayne (VE3CZO) reminded attendees that the Club-owned test equipment is available for loan by members. The process is now fully documented. Members are invited to send an email to Wayne when the need comes for such equipment.
 
 ### President's Report
--For the annual report, Charles listed the 2020 Club highlights. The report is filed as a separate document, and is available for consultation on the Club website.
+- For the [annual report](report2020.html), Charles listed the 2020 Club highlights. The report is filed as a separate document, and is available for consultation on the Club website.
 - As Vice President, Jeremy added that it was especially challenging to transition to remote meetings, but that we managed to find a good format and meeting platform.
 
 ### Speaker
