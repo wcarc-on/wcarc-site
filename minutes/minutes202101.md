@@ -19,7 +19,7 @@ The following people were present:
 | Jeremy Jones           | VA3ZTF     | Member           | FN25ac  | Yes   | Yes |
 | Glenn MacDonell        | VE3XRA     | Member           | FN25dj  | Yes   | Yes |
 | Randy Nordlund         | VE3AX      | Member           | FN25jg  | Yes   | Yes |
-| Mike Kennedy           | VA3TEC     | Member           | FN25    | Yes   | No  |
+| Mike Kennedy           | VA3TEC     | Member           | FN25    | Yes   |     |
 | Robert Boyd            | VE3BE      | Member           | FN25dj  | Yes   | Yes |
 | Clayton Smith          | VE3IRR     | Member           | FN25ai  | Yes   | Yes |
 | Luc Pernot             | VE3JGL     | Member           | FN25ek  | Yes   | Yes |
