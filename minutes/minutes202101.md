@@ -64,8 +64,8 @@ No report.
 No report.
 
 ### Show and Tell/ Announcements
-- Various news were briefly discussed, some regarding the US FCC vs. the amateur radio service.
+- Various news items were briefly discussed, some regarding the US FCC vs. the amateur radio service.
 - There was an open discussion on working on the 23cm and 1.25m bands.
 
 ### Adjournment
-The President observed that there were no further business; the meeting was adjourned at 8:15 pm.
+The President observed that there was no further business; the meeting was adjourned at 8:15 pm.
