@@ -15,8 +15,7 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* Jan. 18, 2021 – TBA
-* Feb. 8, 2021* – TBA
+* Feb. 15, 2021 – Spectrum Analyzers And Network Analyzers – Bert Zauhar (VE2ZAZ)
 * Mar. 15, 2021 – TBA
 * Apr. 19, 2021 – TBA
 * May 17, 2021 – TBA
@@ -28,8 +27,6 @@ into a couple of hours.
 * Oct. 18, 2021 – TBA
 * Nov. 15, 2021 – TBA
 * Dec. 20, 2021 – Annual General Meeting and Christmas Party
-
-\* Note: The February meeting will take place on the second Monday of the month to avoid the Family Day holiday.
 
 ## Meeting Location
 
