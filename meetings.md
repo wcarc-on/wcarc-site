@@ -15,7 +15,6 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* Feb. 15, 2021 – Spectrum Analyzers And Network Analyzers – Bert Zauhar (VE2ZAZ)
 * Mar. 15, 2021 – TBA
 * Apr. 19, 2021 – TBA
 * May 17, 2021 – TBA
