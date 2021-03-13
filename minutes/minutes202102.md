@@ -22,25 +22,25 @@ The following people were present:
 | Ray Perrin             | VE3FN      | Treasurer        | FN25dk  | Yes   | Yes |
 | Mike Kennedy           | VA3TEC     | Member           | FN25    | Yes   | No  |
 | Clayton Smith          | VE3IRR     | Member           | FN25ai  | Yes   | Yes |
-| Kieran                 | VA3KS      | Member           |   -     | Yes   | Yes |
+| Kieran                 | VA3KS      | Member           |         | Yes   | Yes |
 | Lawrence Dobranski     | VA3IQ      | Member           | FN25    | Yes   | Yes |
-| Howard                 | VE3HBH     | Guest            |   -     | No    | -   |
-| John                   | VE3FDK     | Guest            |   -     | No    | -   |
-| Fred                   | VE3LAF     | Guest            |   -     | No    | -   |
-| Gary                   | VE3TGH     | Guest            |   -     | No    | -   |
-| Larry                  | VE3LBI     | Guest            |   -     | No    | -   |
-| Don                    | VE3EIR     | Guest            |   -     | No    | -   |
-| Leo                    | VE3ZLG     | Guest            |   -     | No    | -   |
-| John McGowan           | VA3JYK     | Guest            |   -     | No    | -   |
-| John Allan             | VE3TTP     | Guest            |   -     | No    | -   |
-| Tom                    | VE3THR     | Guest            |   -     | No    | -   |
-| Gary                   | VE3JGK     | Guest            |   -     | No    | -   |
-| Don                    | VE3WPK     | Guest            |   -     | No    | -   |
-| Tom                    | VE3CEU     | Guest            |   -     | No    | -   |
-| John                   | VA3JYK     | Guest            |   -     | No    | -   |
-| Fred                   | VE3LAF     | Guest            |   -     | No    | -   |
-| Brian                  | VE3XNS     | Guest            |   -     | No    | -   |
-| Richard M.             |   -        | Guest            |   -     | No    | -   |
+| Howard                 | VE3HBH     | Guest            |         | No    |     |
+| John                   | VE3FDK     | Guest            |         | No    |     |
+| Fred                   | VE3LAF     | Guest            |         | No    |     |
+| Gary                   | VE3TGH     | Guest            |         | No    |     |
+| Larry                  | VE3LBI     | Guest            |         | No    |     |
+| Don                    | VE3EIR     | Guest            |         | No    |     |
+| Leo                    | VE3ZLG     | Guest            |         | No    |     |
+| John McGowan           | VA3JYK     | Guest            |         | No    |     |
+| John Allan             | VE3TTP     | Guest            |         | No    |     |
+| Tom                    | VE3THR     | Guest            |         | No    |     |
+| Gary                   | VE3JGK     | Guest            |         | No    |     |
+| Don                    | VE3WPK     | Guest            |         | No    |     |
+| Tom                    | VE3CEU     | Guest            |         | No    |     |
+| John                   | VA3JYK     | Guest            |         | No    |     |
+| Fred                   | VE3LAF     | Guest            |         | No    |     |
+| Brian                  | VE3XNS     | Guest            |         | No    |     |
+| Richard M.             |            | Guest            |         | No    |     |
 
 ### Opening
 The meeting was opened by the President, Charles (VA3CPY) at 7:00 pm.
