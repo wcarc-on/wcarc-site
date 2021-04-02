@@ -77,7 +77,7 @@ There were 45 visitors attending the meeting.
 ### Treasurer's Report
 - The current bank balance is $1822.62. There is also $2,000 which is split up into two term deposits. One has a maturity date of June 21st, 2021. The other one will mature on October 21st, 2021.
 - We received a T5 slip to the amount of ($66.27). He will look into this to see whether we need to take action.
-- There are 22 members as of today. There are also three life members. Individuals can send cheque by mail to Ray (VE3FN) to his home address. Interac payment can also be made to Ray's email (either ray.perrin@sympatico.ca or treasurer@wcarc.ca). Receipts will be sent back by email.
+- There are 22 members as of today. There are also three life members. Individuals can send cheque by mail to Ray (VE3FN) to his home address. Interac payment can also be made to Ray's email (either [ray.perrin@sympatico.ca](mailto:ray.perrin@sympatico.ca) or [treasurer@wcarc.ca](mailto:treasurer@wcarc.ca)). Receipts will be sent back by email.
 - The signing Officers information of has been submitted to the Alterna Bank. We are now waiting for updates from the Bank.
 
 ### Vice President's Report
