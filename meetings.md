@@ -15,8 +15,6 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* Mar. 15, 2021 – John Kruk (N9UPC) — The new Yaesu line, and Parks on the Air
-operation
 * Apr. 19, 2021 – TBA
 * May 17, 2021 – Bob Heil (K9EID) — Microphones, and how to set them up for your radios
 * Jun. 11-14, 2021 – **June VHF Contest**
