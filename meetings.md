@@ -15,7 +15,6 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* Apr. 19, 2021 – Ivan Gerginov (VA3NKA) — Solar panels
 * May 17, 2021 – Bob Heil (K9EID) — Microphones, and how to set them up for your radios
 * Jun. 11-14, 2021 – **June VHF Contest**
 * Jun. 21, 2021 – TBA
