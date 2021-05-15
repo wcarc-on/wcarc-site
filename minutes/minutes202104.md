@@ -11,14 +11,14 @@ The following people were present:
 | Karen Bryden           | VA3IGO     | Member           | FN25ag  | Yes   | Yes |
 | Bertrand Zauhar        | VE2ZAZ     | Secretary        | FN25bk  | Yes   | Yes |
 | Kieran                 | VA3KS      | Member           |   -     | Yes   | Yes |
-| Rémi De Cristofaro     | VA3DRI     | Member           | FN25    | Yes   | Yes |    
+| Rémi De Cristofaro     | VA3DRI     | Member           | FN25    | Yes   | Yes |
 | Ray Perrin             | VE3FN      | Treasurer        | FN25dk  | Yes   | Yes |
 | Mike Kassay            | VE3MKX     | Vice-President   | FN14st  | Yes   | Yes |
 | Peter Jago             | VA3PJ      | Member           | FN25ag  | Yes   | Yes |
 | Clayton Smith          | VE3IRR     | Member           | FN25ai  | Yes   | Yes |
 | Wayne Getchell         | VE3CZO     | Director         | FN25dh  | Yes   | Yes |
 | Dave Bour              | VA3ZEV     | Visitor          |    -    | No    |  -  |
-| Peter                  | VE3PXX     | Visitor          |    -    | No    |  -  |           
+| Peter                  | VE3PXX     | Visitor          |    -    | No    |  -  |
 | Larry                  | VE3LBI     | Visitor          |    -    | No    |  -  |
 | John Kassay            | VE3FDK     | Visitor          |    -    | No    |  -  |
 | Bill                   | VE3FWM     | Visitor          |    -    | No    |  -  |
@@ -89,11 +89,11 @@ Ivan (VA3NKA), Solar Photovoltaic - Ham Radio Applications.
 Charles will soon contact Brian (VE3UU) from the Diefenbunker Amateur Radio Club to follow up on the topic of moving our beacons and relocating our equipment storage.
 
 ### Reports / Club Project Updates
-- Beacons:  Charles (VA3CPY) reports that the 6m, 2m, 220 MHz and 70cm beacons are operational.
+- Beacons: Charles (VA3CPY) reports that the 6m, 2m, 220 MHz and 70cm beacons are operational.
 - Karen (VA3IGO) passed her advanced ham licence. The members present congratulated her for the achievement.
 
 ### New Business
-2021 ARRL June VHF Contest - Club participation: The Club will once again have to skip this year's June contest.  We will consider participating in the September 2021 VHF contest.
+2021 ARRL June VHF Contest - Club participation: The Club will once again have to skip this year's June contest. We will consider participating in the September 2021 VHF contest.
 
 ### Show and Tell / Announcements
 Various ham-related items were shown to the attendees.
