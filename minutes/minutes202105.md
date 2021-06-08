@@ -97,7 +97,7 @@ Bob Heil (K9EID), Heil Sound - His story.
 Glenn (VE3XRA): The OARC is installing a VE2CRA DMR repeater at the Camp Fortune site. They are considering installing a BBHN link as a contingency plan for linking with the DMR network. Dave (VE3BOW) is looking after that project.
 
 ### New Business
-Charles (VA3CPY) brought up the item of finding ways to promote ham radio and the Club, and is requesting for some suggestions. He will send an email on the WCC groups.io to solicit feedback, and to inform that we will be discussing this at the June meeting. Glenn (VE3XRA) suggested that there may be a lot of new hams who are unaware of the Club's existence, as many got their license via online learning in the last year.
+Charles (VA3CPY) brought up the item of finding ways to promote ham radio and the Club, and is requesting suggestions. He will send an email on the WCC groups.io to solicit feedback, and to inform that we will be discussing this at the June meeting. Glenn (VE3XRA) suggested that there may be a lot of new hams who are unaware of the Club's existence, as many got their license via online learning in the last year.
 
 ### Show and Tell / Announcements
 The show and tell was skipped due to the meeting duration.
