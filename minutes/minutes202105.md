@@ -11,14 +11,14 @@ The following people were present:
 | Karen Bryden           | VA3IGO     | Member           | FN25ag  | Yes   | Yes |
 | Bertrand Zauhar        | VE2ZAZ     | Secretary        | FN25bk  | Yes   | Yes |
 | Mike Kassay            | VE3MKX     | Vice-President   | FN14st  | Yes   | Yes |
-| Rémi De Cristofaro     | VA3DRI     | Member           | FN25    | Yes   | Yes     
-| Kieran                 | VA3KS      | Member           |   -     | Yes   | Yes | 
+| Rémi De Cristofaro     | VA3DRI     | Member           | FN25    | Yes   | Yes |
+| Kieran                 | VA3KS      | Member           |   -     | Yes   | Yes |
 | Wayne Getchell         | VE3CZO     | Director         | FN25dh  | Yes   | Yes |
 | Ray Perrin             | VE3FN      | Treasurer        | FN25dk  | Yes   | Yes |
 | Clayton Smith          | VE3IRR     | Member           | FN25ai  | Yes   | Yes |
 | Glenn MacDonell        | VE3XRA     | Member           | FN25dj  | Yes   | Yes |
 | Clare Fowler           | VE3NPC     | Member           | FN25    | Yes   | Yes |
-| Bob                    | VE3AKV     | Visitor          |   -     | No    |  -  | 
+| Bob                    | VE3AKV     | Visitor          |   -     | No    |  -  |
 | Chris                  | VE3EAY     | Visitor          |   -     | No    |  -  |
 | John                   | VE3ZOV     | Visitor          |   -     | No    |  -  |
 | Gérard Piette          | VE3GF      | Visitor          |   -     | No    |  -  |
@@ -37,11 +37,11 @@ The following people were present:
 | Norm                   | VE3CZI     | Visitor          |   -     | No    |  -  |
 | Norm                   | VE3LC      | Visitor          |   -     | No    |  -  |
 | Rick                   | VE3BK      | Visitor          |   -     | No    |  -  |
-| Fred                   | VE3LAF     | Visitor          |   -     | No    |  -  | 
-| Marcel                 | VE3FNG     | Visitor          |   -     | No    |  -  | 
+| Fred                   | VE3LAF     | Visitor          |   -     | No    |  -  |
+| Marcel                 | VE3FNG     | Visitor          |   -     | No    |  -  |
 | Bob Heil               | K9EID      | Visitor          |   -     | No    |  -  |
-| Brian                  | VE3IBW     | Visitor          |   -     | No    |  -  | 
-| Raj                    | VA3RZT     | Visitor          |   -     | No    |  -  | 
+| Brian                  | VE3IBW     | Visitor          |   -     | No    |  -  |
+| Raj                    | VA3RZT     | Visitor          |   -     | No    |  -  |
 | John J. Riddell        | VE3AMZ     | Visitor          |   -     | No    |  -  |
 | Alan                   | VA3IAH     | Visitor          |   -     | No    |  -  |
 | Harold                 | VE3CD      | Visitor          |   -     | No    |  -  |
@@ -72,8 +72,8 @@ There were 45 visitors attending the meeting.
 Bert (VE2ZAZ) posted a draft version of the April 2021 meeting minutes on the website prior to this meeting. Moved by him that the minutes be adopted as posted on the website. Seconded by Glenn (VE3XRA). The motion was carried.
 
 ### Treasurer's Report
-- The bank balance as of April 30th was $2,002.78. There is also $2,000 which is split up into two term deposits. One has a maturity date of June 21st, 2021. The other one will mature on October 21st, 2021. 
-- There are 24 members as of today. There are also three life members. 
+- The bank balance as of April 30th was $2,002.78. There is also $2,000 which is split up into two term deposits. One has a maturity date of June 21st, 2021. The other one will mature on October 21st, 2021.
+- There are 24 members as of today. There are also three life members.
 
 ### Vice President's Report
 - The June meeting speaker will be Wayne VE3CZO.
@@ -90,7 +90,7 @@ Bob Heil (K9EID), Heil Sound - His story.
 
 ### Old Business
 - Our beacons are currently located in Stittsville. The Officers had a conversation with Bryan (VE3UU) regarding the possibility of moving our beacons there. The Diefenbunker hosts a ham club, VE3CWM, The Cold War Museum Club; Bryan is one of the club officers. They offer to take over ownership of the beacons, and to run and to maintain them. Some help would be provided by us to set up the beacons at their location. In the event that they would no longer want to run them, they agree to return the equipment back to WCARC. Discussions will be ongoing, as there are still several technical details to clarify before we can decide on that matter. There are also discussions on storing our Club equipment at the Museum, with a storage fee charged to us. Fee details are unknown at this point. Charles (VA3CPY) will send a meeting request email to Bryan. Wayne (VE3CZO) will provide a list of open issues to be included in the email.
-- The Club will not participate in the September 2021 VHF contest, as other ham venues are also cancelled. One activity that will take place is the OARC participation in the ARRL Field Day, assuming that the Ontario lockdown is lifted. 
+- The Club will not participate in the September 2021 VHF contest, as other ham venues are also cancelled. One activity that will take place is the OARC participation in the ARRL Field Day, assuming that the Ontario lockdown is lifted.
 - Bert (VE2ZAZ) will send an email about the ARRL June VHF contest to remind Club members of the event, and to set a date and time for a meet over the air during the Contest.
 
 ### Reports / Club Project Updates
