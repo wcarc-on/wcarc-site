@@ -6,7 +6,8 @@ title: Meeting Minutes
 [Jan](minutes202101.html),
 [Feb](minutes202102.html),
 [Mar](minutes202103.html),
-[Apr](minutes202104.html)
+[Apr](minutes202104.html),
+[May](minutes202105.html)
 * 2020:
 [Jan](minutes202001.html),
 [Feb](minutes202002.html),
