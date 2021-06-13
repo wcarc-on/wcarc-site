@@ -95,7 +95,7 @@ Wayne showed a simple Powerpole splitter.
 
 Randy mentioned that there was a good 2m east west opening during the previous weekend.
 
-Andy showed a 9$US microcontroller board.
+Andy showed a $9 U.S. microcontroller board.
 
 ### Adjournment
 

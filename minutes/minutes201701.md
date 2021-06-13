@@ -39,7 +39,7 @@ The Motion was carried.
 
 ### Treasurer's Report
 
-820$ in the bank.
+$820 in the bank.
 15 paid up members.
 
 ### Vice President's Report
@@ -84,7 +84,7 @@ Doug (VE3XK) is suggesting that we reserve the Corkery Community Center for the 
 Moved by Doug (VE3XK) to pay for the reservation.  Seconded by Bert (VE2ZAZ).
 Motion was carried.
 
-Graham (VE3BYT) is offering the club his Cushcraft A50-6 6m yagi for 195$.
+Graham (VE3BYT) is offering the club his Cushcraft A50-6 6m yagi for $195.
 Move by Doug (VE3XK) to buy the antenna. Seconded by Rich (VE3KI).
 Motion was carried.
 
