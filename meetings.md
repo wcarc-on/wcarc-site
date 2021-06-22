@@ -15,8 +15,6 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* Jun. 11-14, 2021 – **June VHF Contest**
-* Jun. 21, 2021 – Wayne Getchell (VE3CZO)
 * Jul. 19, 2021 – TBA
 * Aug. 16, 2021 – TBA
 * Sep. 20, 2021 – TBA
