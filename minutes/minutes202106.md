@@ -52,7 +52,7 @@ Bert (VE2ZAZ) posted a draft version of the May 2021 meeting minutes on the webs
 - There are 24 members as of today. There are also three life members.
 
 ### Vice President's Report
-The Vice President is absent.
+The Vice President was absent.
 
 ### Director's Report
 Nothing to report.
@@ -62,12 +62,12 @@ Nothing to report.
 - Former Club officer and current webmaster Clayton (VE3IRR) will be leaving the region in August. He has offered to retain the position of Webmaster. The Club thanked him for his past contribution and for carrying on with the website duties.
 
 ### Speaker
-Wayne - VE3CZO: Tx/Rx Sequencing for transverters.
+Wayne (VE3CZO): Tx/Rx Sequencing for transverters.
 
 ### Old Business
 - Beacons: Charles (VA3CPY) contacted Neil from the Diefenbunker Amateur Radio Club to pursue the WCARC beacon move assessment. The DARC officers will need to contact the Diefenbunker administration to be able to answer our questions, for example the availability of an always-on AC supply. Communication with the Diefenbunker was difficult due to COVID, but the situation is improving. Charles will contact the DARC officers again within the next two weeks.
 - The Officers reiterated that The Club would not participate in the September 2021 VHF contest.
-- As previously announced, Charles asked the attendants for ideas on how to promote ham radio and our Club. Glenn (VE3XRA) mentioned that the Canada-Wide Science Fair in Ottawa in 2023 (and STEM-Expo) could be a good opportunity to show what ham radio is. Charles suggested setting up a table at one of the fall fairs (For example at the Carp Fairgrounds) to show off ham radio and to introduce the Club to the visitors.
+- As previously announced, Charles asked the attendees for ideas on how to promote ham radio and our Club. Glenn (VE3XRA) mentioned that the Canada-Wide Science Fair in Ottawa in 2023 (and STEM-Expo) could be a good opportunity to show what ham radio is. Charles suggested setting up a table at one of the fall fairs (For example at the Carp Fairgrounds) to show off ham radio and to introduce the Club to the visitors.
 
 ### Reports / Club Project Updates
 - Glenn (VE3XRA): The OARC is getting closer to installing a VE2CRA DMR repeater at the Camp Fortune site.
@@ -78,7 +78,7 @@ None.
 
 ### Show and Tell / Announcements
 - Charles (VA3CPY) proposed that the Show and Tell period include a time for attendees to ask to ask technical questions, as there are several members who are very knowledgeable and who can answer most questions.
-- Bert (VE2ZAZ) announced that he is developing a VHF contest logging software. He will show off the completed software at the July meeting.
+- Bert (VE2ZAZ) announced that he is developing a VHF contest logging software package. He will show off the completed software at the July meeting.
 
 ### Adjournment
 The President observed that there was no further business; the meeting was adjourned at 9:32 pm.
