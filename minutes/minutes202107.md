@@ -30,17 +30,18 @@ Bert (VE2ZAZ) posted a draft version of the June 2021 meeting minutes on the web
 
 ### Treasurer's Report
 The following report was provided by email ahead of the meeting by the Ray (VE3FN), the Treasurer.
-- The balance as of June 30th was $2032.95. There is also $2,000 which is split up into two term deposits. One has a maturity date of June 21st, 2021. The other one will mature on October 21st, 2021.
+- The balance as of June 30th was $2,032.95. There is also $2,000 which is split up into two term deposits. One has a maturity date of June 21st, 2021. The other one will mature on October 21st, 2021.
 - There are 24 members as of today. There are also three life members.
 
 ### Vice President's Report
 Mike (VE3MKX) mentioned several ham radio upcoming events and contests:
-- Two events - the Hanover Hamfest in August and the Barrie Hamfest in September - are being organized. They will likely take place.
+- Two events—the Hanover Hamfest in August and the Barrie Hamfest in September—are being organized. They will likely take place.
 - Lighthouse on the Air
 - Parks on the Air
+
 Glenn (VE3XRA) added two more events:
-- The RAC Portable Station Challenge started on July 1st and running until year end.
-- The 2021 RAC conference and AGM on September 19th. More information available on the RAC website.
+- The RAC Portable Station Challenge started on July 1st and runs until year end.
+- The 2021 RAC conference and AGM on September 19th. More information available on the [RAC website](https://www.rac.ca/agm/).
 
 ### Director's Report
 - The VE3WCC Club call sign is now officially managed by Wayne (VE3CZO).
@@ -63,9 +64,9 @@ Mike (VE3MKX) did not book a speaker for this meeting, as he thought that the Cl
 None.
 
 ### Show and Tell / Announcements
-- Glenn (VE3XRA) solicited feedback from attendees on whether RAC should allow to use the digital modes during the RAC contests.
-- Bert (VE2ZAZ) showed a VHF contest logging software package he is putting together. The software package is available on GitHub or via the ve2zaz.net website.
-- Lawrence (VA3IQ) mentioned the existence of the HamshackHotline.com ham radio VOIP telephone network.
+- Glenn (VE3XRA) solicited feedback from attendees on whether RAC should allow digital modes during the RAC contests.
+- Bert (VE2ZAZ) showed a VHF contest logging software package he is putting together. The software package is available [on GitHub](https://github.com/VE2ZAZ/VHF_Contest_Logger_Software) or [via the ve2zaz.net website](http://ve2zaz.net/VHF_QSO_Logger/VHF_Contest_Logger.htm).
+- Lawrence (VA3IQ) mentioned the existence of the [HamshackHotline.com](https://hamshackhotline.com/) ham radio VOIP telephone network.
 - Clayton (VE3IRR) shared a 1987 Stittsville News newspaper article featuring the WCARC during the field day. It is James (K0FE) who sent it by email. Back then, his father, Melvyn (KN4GB, previously VE3OFD), was a member of the WCARC.
 - Wayne (VE3CZO) gave a quick update on the last month's presentation: His Tx/Rx Sequencer now uses a ATTiny microcontroller. The product is still in development. He will provide a better update at the next month's meeting.
 - Bert (VE2ZAZ) showed a TinySA $50 spectrum analyzer. Considering the cost, it offers some impressive performance.
