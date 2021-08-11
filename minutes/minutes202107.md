@@ -30,8 +30,8 @@ Bert (VE2ZAZ) posted a draft version of the June 2021 meeting minutes on the web
 
 ### Treasurer's Report
 The following report was provided by email ahead of the meeting by the Ray (VE3FN), the Treasurer.
-- The balance as of June 30th was $2032.95. There is also $2,000 which is split up into two term deposits. One has a maturity date of June 21st, 2021. The other one will mature on October 21st, 2021. 
-- There are 24 members as of today. There are also three life members. 
+- The balance as of June 30th was $2032.95. There is also $2,000 which is split up into two term deposits. One has a maturity date of June 21st, 2021. The other one will mature on October 21st, 2021.
+- There are 24 members as of today. There are also three life members.
 
 ### Vice President's Report
 Mike (VE3MKX) mentioned several ham radio upcoming events and contests:
@@ -43,15 +43,15 @@ Glenn (VE3XRA) added two more events:
 - The 2021 RAC conference and AGM on September 19th. More information available on the RAC website.
 
 ### Director's Report
-- The VE3WCC Club call sign is now officially managed by Wayne (VE3CZO). 
+- The VE3WCC Club call sign is now officially managed by Wayne (VE3CZO).
 - We received a QSL request for a contact made during our June 2011 VHF Contest in FN04 (in Grafton, ON). Since we do not have an official QSL card design, Wayne will create a generic QSL card and send it to the requester.
 
 ### President's Report
-- The Club-sponsored call sign VE3DVQ is now officially owned by the Lanark North Leeds ARES. 
-- A RAC advanced amateur radio course will likely start in September. 
+- The Club-sponsored call sign VE3DVQ is now officially owned by the Lanark North Leeds ARES.
+- A RAC advanced amateur radio course will likely start in September.
 
 ### Speaker
-Mike (VE3MKX) did not book a speaker for this meeting, as he thought that the Club did not hold meetings in July and August. 
+Mike (VE3MKX) did not book a speaker for this meeting, as he thought that the Club did not hold meetings in July and August.
 
 ### Old Business
 - Beacons move: Charles (VE3CPY): We should hear from the DARC regarding the beacons move next week. The Officers will be informed of any update on the subject.
@@ -68,7 +68,7 @@ None.
 - Lawrence (VA3IQ) mentioned the existence of the HamshackHotline.com ham radio VOIP telephone network.
 - Clayton (VE3IRR) shared a 1987 Stittsville News newspaper article featuring the WCARC during the field day. It is James (K0FE) who sent it by email. Back then, his father, Melvyn (KN4GB, previously VE3OFD), was a member of the WCARC.
 - Wayne (VE3CZO) gave a quick update on the last month's presentation: His Tx/Rx Sequencer now uses a ATTiny microcontroller. The product is still in development. He will provide a better update at the next month's meeting.
-- Bert (VE2ZAZ) showed a TinySA $50 spectrum analyzer. Considering the cost, it offers some impressive performance. 
+- Bert (VE2ZAZ) showed a TinySA $50 spectrum analyzer. Considering the cost, it offers some impressive performance.
 
 ### Adjournment
 The President observed that there was no further business; the meeting was adjourned at 8:51 pm.
