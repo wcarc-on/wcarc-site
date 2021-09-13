@@ -15,7 +15,6 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* Aug. 16, 2021 – TBA
 * Sep. 20, 2021 – TBA
 * Oct. 18, 2021 – TBA
 * Nov. 15, 2021 – TBA
