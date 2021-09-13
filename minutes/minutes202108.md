@@ -30,12 +30,12 @@ Bert (VE2ZAZ) posted a draft version of the July 2021 meeting minutes on the web
 
 ### Treasurer's Report
 The following report was provided by email ahead of the meeting by Ray (VE3FN), the Treasurer.
-- The balance as of July 31st was $2033.04. There is also $2,000 which is split up into two term deposits. One has a maturity date of June 21st, 2021. The other one will mature on October 21st, 2021. 
-- There are 24 members as of today. There are also three life members. 
+- The balance as of July 31st was $2033.04. There is also $2,000 which is split up into two term deposits. One has a maturity date of June 21st, 2021. The other one will mature on October 21st, 2021.
+- There are 24 members as of today. There are also three life members.
 
 ### Vice President's Report
 - The Lanark hamfest held last weekend was a success and will become an annual event.
-- After a ten-year stay in Ottawa, Vice President Mike (VE3MKX) is moving away from the area in September. 
+- After a ten-year stay in Ottawa, Vice President Mike (VE3MKX) is moving away from the area in September.
 - The radio bands propagation has been very variable lately.
 
 ### Director's Report
@@ -45,7 +45,7 @@ The following report was provided by email ahead of the meeting by Ray (VE3FN), 
 - The latest earthquake in Haiti is generating some emergency amateur HF traffic. There are frequencies that the non-involved hams should avoid. Those frequencies are listed on the RAC website.
 
 ### Speaker
-Wayne (VE3CZO) gave an update on his Tx/Rx Sequencer. It now uses a ATTiny micro-controller for timing purpose. 
+Wayne (VE3CZO) gave an update on his Tx/Rx Sequencer. It now uses a ATTiny micro-controller for timing purpose.
 
 ### Old Business
 - Beacons move: Charles has received an update from the DARC on the beacons relocation. There may be a cost issue with feeding an uninterruptible AC supply to the beacons, as a licensed electrician would be required. We will know more about the expected cost in the next few weeks. The information should be available at the next meeting.
@@ -58,8 +58,8 @@ Wayne (VE3CZO) gave an update on his Tx/Rx Sequencer. It now uses a ATTiny micro
 None.
 
 ### Show and Tell / Announcements
-- Charles is reporting that the RAC Advanced Ham Course is very good and is worth the expense. 
-- The International Lighthouse Lightship Weekend will be happening this upcoming weekend. 
+- Charles is reporting that the RAC Advanced Ham Course is very good and is worth the expense.
+- The International Lighthouse Lightship Weekend will be happening this upcoming weekend.
 
 ### Ask the Club
 This new period in the meeting offers an opportunity to ask technical questions and get answers from knowledgeable Club members.
