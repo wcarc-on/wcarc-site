@@ -45,13 +45,13 @@ The following report was provided by email ahead of the meeting by Ray (VE3FN), 
 - The latest earthquake in Haiti is generating some emergency amateur HF traffic. There are frequencies that the non-involved hams should avoid. Those frequencies are listed on the RAC website.
 
 ### Speaker
-Wayne (VE3CZO) gave an update on his Tx/Rx Sequencer. It now uses a ATTiny micro-controller for timing purpose.
+Wayne (VE3CZO) gave an update on his Tx/Rx Sequencer. It now uses a ATTiny micro-controller for timing purposes.
 
 ### Old Business
-- Beacons move: Charles has received an update from the DARC on the beacons relocation. There may be a cost issue with feeding an uninterruptible AC supply to the beacons, as a licensed electrician would be required. We will know more about the expected cost in the next few weeks. The information should be available at the next meeting.
+- Beacons move: Charles has received an update from the DARC on the beacon relocation. There may be a cost issue with feeding an uninterruptible AC supply to the beacons, as a licensed electrician would be required. We will know more about the expected cost in the next few weeks. The information should be available at the next meeting.
 
 ### Reports / Club Project Updates
-- Ray (VE3FN) regarding contest cooperation. He is looking for some hams to help him with the 10 GHz and Up contest this upcoming weekend. He is planning to go to Mont Tremblant.
+- Ray (VE3FN) regarding contest cooperation: He is looking for some hams to help him with the 10 GHz and Up contest this upcoming weekend. He is planning to go to Mont Tremblant.
 - Bert (VE2ZAZ) and DMR: The OARC VE2CRA DMR repeater is now fully operational from the Camp Fortune site. Frequency is 444.400 MHz, color code 1.
 
 ### New Business
