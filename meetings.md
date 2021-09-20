@@ -15,7 +15,6 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* Sep. 20, 2021 – TBA
 * Oct. 18, 2021 – TBA
 * Nov. 15, 2021 – TBA
 * Dec. 20, 2021 – Annual General Meeting and Christmas Party
