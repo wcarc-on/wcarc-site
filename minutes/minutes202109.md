@@ -26,12 +26,12 @@ Bert (VE2ZAZ) posted a draft version of the August 2021 meeting minutes on the w
 
 ### Treasurer's Report
 The following report was provided by email ahead of the meeting by Ray (VE3FN), the Treasurer.
-- The balance as of August 31st was $2033.13. There is also $2,000 which is split up into two term deposits. One has a maturity date of June 21st, 2021. The other one will mature on October 21st, 2021. 
-- There are 24 members as of today. There are also three life members. 
+- The balance as of August 31st was $2033.13. There is also $2,000 which is split up into two term deposits. One has a maturity date of June 21st, 2021. The other one will mature on October 21st, 2021.
+- There are 24 members as of today. There are also three life members.
 
 ### Vice President's Report
 - Mike (VE3MKX) reported via email: He has moved out of the Ottawa area. He does not currently have high speed internet, so it is not possible for him to attend the meeting. He has advised the board that he would resign from the Vice President position at the end of the year.  
-- In response to Mike's plan to resign as Vice President: 
+- In response to Mike's plan to resign as Vice President:
 -- Charles (VA3CPY) announced that the Officers election to be held in December will also include the Vice President's position.
 -- Bert (VE2ZAZ) mentioned that a few members can fill in with presentations when told ahead of time, if Mike cannot book one in time.
 
@@ -45,22 +45,22 @@ The following report was provided by email ahead of the meeting by Ray (VE3FN), 
 Wayne (VE3CZO) had an impromptu quiz: He showed a 5.8 GHz feedpoint made by Peter VA3PJ. Wayne made measurements and the feedpoint is a good performer on that band.
 
 ### Old Business
-- VHF/UHF Beacon move: 
--- Charles (VA3CPY) has received an update from the DARC on cost of feeding an uninterruptible AC supply to the beacons by a licensed electrician. It is $1,685 plus tax. Other option would be to chose solar or wind power. Third option would be to find another location for the beacons. We will need to keep the discussion going and investigate further. 
--- Charles will ask the DARC for a forecast of the additional hardware that may be required at the Diefenbunker site. 
--- Bert (VE2ZAZ) will contact Rick (VE3CVG) about the possibility of using the YMCA site for the beacons. 
--- Wayne (VE3CZO) will check with Terry (VE3HYS) of the OARC regarding using Camp Fortune site. 
+- VHF/UHF Beacon move:
+-- Charles (VA3CPY) has received an update from the DARC on cost of feeding an uninterruptible AC supply to the beacons by a licensed electrician. It is $1,685 plus tax. Other option would be to chose solar or wind power. Third option would be to find another location for the beacons. We will need to keep the discussion going and investigate further.
+-- Charles will ask the DARC for a forecast of the additional hardware that may be required at the Diefenbunker site.
+-- Bert (VE2ZAZ) will contact Rick (VE3CVG) about the possibility of using the YMCA site for the beacons.
+-- Wayne (VE3CZO) will check with Terry (VE3HYS) of the OARC regarding using Camp Fortune site.
 
 ### Reports / Club Project Updates
-- Bert (VE2ZAZ) reported that Ray's (VE3FN) participation in the 10 GHz and Up contest last weekend from Mont Tremblant was a success, with 13 contacts made on 10 GHz. 
+- Bert (VE2ZAZ) reported that Ray's (VE3FN) participation in the 10 GHz and Up contest last weekend from Mont Tremblant was a success, with 13 contacts made on 10 GHz.
 - Wayne (VE3CZO) on his continuity tester kit: Many members had signed up to get one kit. Wayne will hold an assembly session once we can resume the in-person meetings.
 
 ### New Business
 None.
 
 ### Show and Tell / Announcements
-- Bert (VE2ZAZ) showed a legal, stable low power AM broadcast transmitter he designed for a friend. 
-- Clayton (VE3IRR) attended the ARRL & TAPR Digital Communications Conference. He found it very interesting. 
+- Bert (VE2ZAZ) showed a legal, stable low power AM broadcast transmitter he designed for a friend.
+- Clayton (VE3IRR) attended the ARRL & TAPR Digital Communications Conference. He found it very interesting.
 - Clayton (VE3IRR) also mentioned about the GNU Radio Conference happening this week (20-24 September). There is no cost for attending. If you are interested in digital radio, it is a conference not to miss.
 
 ### Ask the Club
