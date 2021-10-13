@@ -49,7 +49,7 @@ Wayne (VE3CZO) had an impromptu quiz: He showed a 5.8 GHz feedpoint made by Pete
   - Charles (VA3CPY) has received an update from the DARC on cost of feeding an uninterruptible AC supply to the beacons by a licensed electrician. It is $1,685 plus tax. Other option would be to chose solar or wind power. Third option would be to find another location for the beacons. We will need to keep the discussion going and investigate further.
   - Charles will ask the DARC for a forecast of the additional hardware that may be required at the Diefenbunker site.
   - Bert (VE2ZAZ) will contact Rick (VE3CVG) about the possibility of using the YMCA site for the beacons.
-  - Wayne (VE3CZO) will check with Terry (VE3HYS) of the OARC regarding using Camp Fortune site.
+  - Wayne (VE3CZO) will check with Harrie (VE3HYS) of the OARC regarding using Camp Fortune site.
 
 ### Reports / Club Project Updates
 - Bert (VE2ZAZ) reported that Ray's (VE3FN) participation in the 10 GHz and Up contest last weekend from Mont Tremblant was a success, with 13 contacts made on 10 GHz.
