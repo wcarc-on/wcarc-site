@@ -53,10 +53,10 @@ Bert (VE2ZAZ) posted a draft version of the September 2021 meeting minutes on th
 
 ### Old Business
 - VHF/UHF Beacon move:
--- Bert (VE2ZAZ) is trying to identify the full name and call sign of a certain "Dale the electrician", who could be a good resource for our beacon move. Some attendees suggested that it may be Dale Henniger (VE3XZT). Bert will confirm that information.
--- Plan B location at the Diefenbunker: We shall visit the site to confirm that it is suitable. Verification shall include  checking the always-on AC outlet and verifying the metal frame sturdiness. Bert will send an email to Nick (VE3OWV) to organize a visit.
--- Bert contacted Rick (VE3CVG) to inquire about how suitable the YMCA rooftop could be for our beacons. Rick was clear that, for many reasons, the YMCA would not be a good location for our beacons.
--- Mike (VE3MKX): The Lanark Club have a new tower. He suggested that this could be a good location for the beacons. However, Glenn (VE3XRA) reckoned that the Lanark Club would likely not want VHF transmitters near their station.
+  - Bert (VE2ZAZ) is trying to identify the full name and call sign of a certain "Dale the electrician", who could be a good resource for our beacon move. Some attendees suggested that it may be Dale Henniger (VE3XZT). Bert will confirm that information.
+  - Plan B location at the Diefenbunker: We shall visit the site to confirm that it is suitable. Verification shall include  checking the always-on AC outlet and verifying the metal frame sturdiness. Bert will send an email to Nick (VE3OWV) to organize a visit.
+  - Bert contacted Rick (VE3CVG) to inquire about how suitable the YMCA rooftop could be for our beacons. Rick was clear that, for many reasons, the YMCA would not be a good location for our beacons.
+  - Mike (VE3MKX): The Lanark Club have a new tower. He suggested that this could be a good location for the beacons. However, Glenn (VE3XRA) reckoned that the Lanark Club would likely not want VHF transmitters near their station.
 
 ### Reports / Club Project Updates
 None
