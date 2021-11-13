@@ -32,8 +32,8 @@ There were two visitors attending the meeting.
 Bert (VE2ZAZ) posted a draft version of the September 2021 meeting minutes on the website prior to this meeting. Moved by him that the minutes be adopted as posted on the website. Seconded by Mike (VE3MKX). The motion was carried.
 
 ### Treasurer's Report
-- The balance as of September 30th was $2033.21. There is also $2,000 which is split up into two term deposits. One has a maturity date of August 21st, 2022. The other one will mature on October 21st, 2022. 
-- There are 24 members as of today. There are also three life members. 
+- The balance as of September 30th was $2033.21. There is also $2,000 which is split up into two term deposits. One has a maturity date of August 21st, 2022. The other one will mature on October 21st, 2022.
+- There are 24 members as of today. There are also three life members.
 
 ### Vice President's Report
 - Mike (VE3MKX) finally got the internet at his new location.
@@ -44,7 +44,7 @@ Bert (VE2ZAZ) posted a draft version of the September 2021 meeting minutes on th
 - Regarding looking for a decent place for our beacons: Harrie Jones (VE3HYS) replied that it is unlikely that Camp Fortune will be a suitable location. Being an access-restricted and an RFI-prone commercial site, gaining permission to add more transmitters is a challenge.
 
 ### President's Report
-- Charles (VA3CPY) had nothing new to report on the beacon move front. 
+- Charles (VA3CPY) had nothing new to report on the beacon move front.
 - He mentioned our Club meeting on the 3640 HF net.
 
 ### Speaker
@@ -52,7 +52,7 @@ Bert (VE2ZAZ) posted a draft version of the September 2021 meeting minutes on th
 - Ray (VE3FN): Report on his participation in the 2021 10GHz+ contest.
 
 ### Old Business
-- VHF/UHF Beacon move: 
+- VHF/UHF Beacon move:
 -- Bert (VE2ZAZ) is trying to identify the full name and call sign of a certain "Dale the electrician", who could be a good resource for our beacon move. Some attendees suggested that it may be Dale Henniger (VE3XZT). Bert will confirm that information.
 -- Plan B location at the Diefenbunker: We shall visit the site to confirm that it is suitable. Verification shall include  checking the always-on AC outlet and verifying the metal frame sturdiness. Bert will send an email to Nick (VE3OWV) to organize a visit.
 -- Bert contacted Rick (VE3CVG) to inquire about how suitable the YMCA rooftop could be for our beacons. Rick was clear that, for many reasons, the YMCA would not be a good location for our beacons.
