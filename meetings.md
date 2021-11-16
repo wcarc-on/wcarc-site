@@ -15,7 +15,6 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* Nov. 15, 2021 – Mike Kassay (VE3MKX) – Contesting
 * Dec. 20, 2021 – Annual General Meeting and Christmas Party
 
 ## Meeting Location
