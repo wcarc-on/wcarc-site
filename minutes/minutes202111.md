@@ -50,21 +50,21 @@ There were five visitors attending the meeting.
 The Director was absent.
 
 ### President's Report
--Next month's meeting will be the Annual General Meeting and an election meeting. Four Officer positions, the President, the Vice President (due to the current Vice President's departure from the region), the Secretary and the director, are due for re-election. Bert (VE2ZAZ) announced during the meeting that he would run again for the Secretary position.
+- Next month's meeting will be the Annual General Meeting and an election meeting. Four Officer positions, the President, the Vice President (due to the current Vice President's departure from the region), the Secretary and the director, are due for re-election. Bert (VE2ZAZ) announced during the meeting that he would run again for the Secretary position.
 
 ### Speaker
 Mike (VE3MKX) on HF Contesting.
 
 ### Old Business
 - VHF/UHF Beacon move:
--- Bert (VE2ZAZ) confirmed with Rick (VE3CVG) that "Dale the Electrician" is Dale Hennigar (VE3XZT).
--- Plan B location at the Diefenbunker: Bert (VE2ZAZ) sent an email to Nick (VE3OWV) requesting a visit of the proposed location. Nick found out that the Diefenbunker staff is currently performing an Energy Audit. Until that exercise is completed, there will be no additions made to the power distribution. They expect the exercise to be completed by January. Knowing this, and with the winter weather arriving, Bert reckoned that the move would be postponed to next spring. All agreed.
--- In the mean time, we shall assess the maximum power consumption of the beacon enclosure, including the winter heating system.
+  - Bert (VE2ZAZ) confirmed with Rick (VE3CVG) that "Dale the Electrician" is Dale Hennigar (VE3XZT).
+  - Plan B location at the Diefenbunker: Bert (VE2ZAZ) sent an email to Nick (VE3OWV) requesting a visit of the proposed location. Nick found out that the Diefenbunker staff is currently performing an Energy Audit. Until that exercise is completed, there will be no additions made to the power distribution. They expect the exercise to be completed by January. Knowing this, and with the winter weather arriving, Bert reckoned that the move would be postponed to next spring. All agreed.
+  - In the mean time, we shall assess the maximum power consumption of the beacon enclosure, including the winter heating system.
 Bert informed the members that the beacon manuals are currently located at Andy (VE3NVK)'s place.
--- John (VA3JYK) will visit the site next week, will take pictures and assess the frame ruggedness.
+  - John (VA3JYK) will visit the site next week, will take pictures and assess the frame ruggedness.
 
 ### Reports / Club Project Updates
-None
+None.
 
 ### New Business
 None.
