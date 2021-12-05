@@ -35,11 +35,11 @@ There were five visitors attending the meeting.
 
 ### Secretary's Report
 - Bert (VE2ZAZ) posted a draft version of the October 2021 meeting minutes on the Club website prior to this meeting. Moved by him that the minutes be adopted as posted on the website. Seconded by Karen (VA3IGO). The motion was carried.
-- Bert submitted the RAC Insurance and Club Affiliation program forms last week. He is expecting an invoice via email. 
+- Bert submitted the RAC Insurance and Club Affiliation program forms last week. He is expecting an invoice via email.
 
 ### Treasurer's Report
-- The balance as of October 31st was $2033.30. There is also $2,000 which is split up into two term deposits. One has a maturity date of August 21st, 2022. The other one will mature on October 21st, 2022. 
-- There are 24 members as of today. There are also three life members. 
+- The balance as of October 31st was $2033.30. There is also $2,000 which is split up into two term deposits. One has a maturity date of August 21st, 2022. The other one will mature on October 21st, 2022.
+- There are 24 members as of today. There are also three life members.
 
 ### Vice President's Report
 - It was announced that the Dayton Hamfest and the Hamcation event would take place in 2022.
@@ -56,10 +56,10 @@ The Director was absent.
 Mike (VE3MKX) on HF Contesting.
 
 ### Old Business
-- VHF/UHF Beacon move: 
+- VHF/UHF Beacon move:
 -- Bert (VE2ZAZ) confirmed with Rick (VE3CVG) that "Dale the Electrician" is Dale Hennigar (VE3XZT).
 -- Plan B location at the Diefenbunker: Bert (VE2ZAZ) sent an email to Nick (VE3OWV) requesting a visit of the proposed location. Nick found out that the Diefenbunker staff is currently performing an Energy Audit. Until that exercise is completed, there will be no additions made to the power distribution. They expect the exercise to be completed by January. Knowing this, and with the winter weather arriving, Bert reckoned that the move would be postponed to next spring. All agreed.
--- In the mean time, we shall assess the maximum power consumption of the beacon enclosure, including the winter heating system. 
+-- In the mean time, we shall assess the maximum power consumption of the beacon enclosure, including the winter heating system.
 Bert informed the members that the beacon manuals are currently located at Andy (VE3NVK)'s place.
 -- John (VA3JYK) will visit the site next week, will take pictures and assess the frame ruggedness.
 
@@ -71,7 +71,7 @@ None.
 
 ### Show and Tell / Announcements
 - Charles (VA3CPY) showed a Chinese-made semiconductor and passive component tester. Available for less than $20, it offers a surprising measurement accuracy.
-- Bert (VE2ZAZ) showed a DC electronic load sold for about $20. He also showed a magnifying head band, which does not suit him. 
+- Bert (VE2ZAZ) showed a DC electronic load sold for about $20. He also showed a magnifying head band, which does not suit him.
 - Glenn (VE3XRA) reported back on his experience with the loop-on-the-ground antenna.  
 
 ### Ask the Club
