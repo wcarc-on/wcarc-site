@@ -15,7 +15,19 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* Dec. 20, 2021 – Annual General Meeting and Christmas Party
+* Jan. 17, 2022 – TBA
+* Feb. 21, 2022 – TBA
+* Mar. 21, 2022 – TBA
+* Apr. 18, 2022 – TBA
+* May 16, 2022 – TBA
+* Jun. 11-13, 2021 – **June VHF Contest**
+* Jun. 20, 2022 – TBA
+* Jul. 18, 2022 – TBA
+* Aug. 15, 2022 – TBA
+* Sep. 19, 2022 – TBA
+* Oct. 17, 2022 – TBA
+* Nov. 21, 2022 – TBA
+* Dec. 19, 2022 – Annual General Meeting and Christmas Party
 
 ## Meeting Location
 
