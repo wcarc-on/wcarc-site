@@ -4,7 +4,7 @@ title: Contacts
 ---
 ## Executive
 * President: Charles MacDonald (VA3CPY)
-* Vice President: Mike Kassay (VE3MKX)
+* Vice President: *Vacant*
 * Treasurer: Ray Perrin (VE3FN)
 * Secretary: Bert Zauhar (VE2ZAZ)
 * Director: Wayne Getchell (VE3CZO)
@@ -14,15 +14,15 @@ title: Contacts
 
 ## Mailing Address
 West Carleton Amateur Radio Club  
-c/o Randy Nordlund  
-70 Larose Lane  
-Embrun, ON  
-K0A 1W0
+c/o Wayne Getchell  
+18 Gervin Street  
+Nepean, ON  
+K2G 0J8
 
 ## Club Call Signs
-The Club call signs are issued by Industry Canada and include
-[VE3WCC](https://www.qrz.com/db/ve3wcc) and [VE3DVQ](https://www.qrz.com/db/ve3dvq).
-The official contact for matters related to the Club call signs is the WCARC President.
+The Club call sign [VE3WCC](https://www.qrz.com/db/ve3wcc) is issued by Industry
+Canada. The official contact for matters related to the Club call sign is the
+WCARC Director.
 
 ## Mailing List
 Our club uses a Groups.io mailing list for announcements and general discussion:
