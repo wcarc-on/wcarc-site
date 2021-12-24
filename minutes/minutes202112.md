@@ -27,8 +27,8 @@ There were no visitors attending the meeting.
 - Bert (VE2ZAZ) posted a draft version of the November 2021 meeting minutes on the Club website prior to this meeting. Moved by the President that the minutes be adopted as posted on the website. The motion was carried.
 
 ### Treasurer's Report
-- The balance as of November 30th was $2033.38. There is also $2,000 which is split up into two term deposits. One has a maturity date of August 21st, 2022. The other one will mature on October 21st, 2022. 
-- There are 24 members as of today. There are also three life members. 
+- The balance as of November 30th was $2033.38. There is also $2,000 which is split up into two term deposits. One has a maturity date of August 21st, 2022. The other one will mature on October 21st, 2022.
+- There are 24 members as of today. There are also three life members.
 - Ray (VE3FN) is working with the Alterna Bank on setting up some electronic deposit capabilities. This would help on the collection of the Club dues. It is not clear at this point whether it will be possible, as the account is of the Non-Profit Organization type.
 
 ### Vice President's Report
@@ -45,9 +45,9 @@ The Director had nothing to report.
 Since this is the Annual General Meeting, no presentation is scheduled.
 
 ### Old Business
-- VHF/UHF Beacon move: 
+- VHF/UHF Beacon move:
 -- John (VA3JYK) sent pictures of the proposed "Plan B" location at the Diefenbunker site. Charles (VA3CPY) showed and commented the pictures.
--- We are currently waiting for the energy audit exercise to be completed. The DARC people will contact us when it is. We will then be able to resume the discussions on the move. 
+-- We are currently waiting for the energy audit exercise to be completed. The DARC people will contact us when it is. We will then be able to resume the discussions on the move.
 
 ### Officer Election
 The President and Secretary positions are up for election. Additionally, the Vice President, Mike (VE3MKX) has moved out of the region, and has asked the board of Officers to be relieved of his duties.
