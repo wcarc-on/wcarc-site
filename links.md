@@ -9,7 +9,7 @@ title: Web Links
 * [Emergency Measures Radio Group (Ottawa ARES)](http://www.emrg.ca/)
 * [Tucson Amateur Packet Radio (TAPR)](https://www.tapr.org/)
 * [Radio Amateur Satellite Corporation (AMSAT)](https://www.amsat.org/)
-* [QCWA Chapter 70 Ottawa](http://www.qcwa70.org)
+* [QCWA Chapter 70 Ottawa](https://qcwa70.ca/)
 * [Amateur Radio Relay League (ARRL)](http://www.arrl.org/)
 
 ## More Organizations
