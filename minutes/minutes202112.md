@@ -1,6 +1,6 @@
 ---
 layout: minutes
-title: Minutes of the Annual General Meeting on December 20th, 2021 - DRAFT
+title: Minutes of the Annual General Meeting on December 20th, 2021
 ---
 The meeting was held over the internet via a Zoom video conference.
 The following people were present:
