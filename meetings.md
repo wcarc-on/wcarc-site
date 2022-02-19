@@ -15,7 +15,6 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* Jan. 17, 2022 – TBA
 * Feb. 21, 2022 – TBA
 * Mar. 21, 2022 – TBA
 * Apr. 18, 2022 – TBA
