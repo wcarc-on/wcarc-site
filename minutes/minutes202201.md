@@ -40,7 +40,7 @@ The Vice President position is currently unoccupied.
 The Director was absent.
 
 ### President's Report
-- The Quebec QSO party has been announced and will take place on April 17. The topic will be covered by Georges-André-(VE2VAB) at the February meeting.
+- The Quebec QSO party has been announced and will take place on April 17. The topic will be covered by Georges-André (VE2VAB) at the February meeting.
 
 ### Speaker
 Michael VE3TKI (Ontario Incoming QSL Bureau manager) on the IARU and QSL Bureau System.
@@ -56,7 +56,7 @@ Not all Officer positions were fulfilled during the AGM.
   - Bert (VE2ZAZ) reported that the beacon enclosure power consumption should be much less than 100W, as the built in heating system made up of a few power resistors is disconnected.
 
 ### Reports / Club Project Updates
-None
+None.
 
 ### New Business
 None.
@@ -64,9 +64,9 @@ None.
 ### Show and Tell / Announcements
 - Karen (VA3IGO): Explained her venture into FT8 and WSPR using a Raspberry Pi.
 - Bert (VE2ZAZ): Reported on his participation in the ARRL January VHF contest. He contacted mostly local stations (< 500 km). As usual, most activity was in the FT8 mode.
-- Ray (VE3FN): His participation to the ARRL January VHF contest was essentially in CW ans SSB modes. Because of that, he contacted few stations.
+- Ray (VE3FN): His participation to the ARRL January VHF contest was essentially in CW and SSB modes. Because of that, he contacted few stations.
 - Georges (VE2VAB): The Quebec HF QSO party will take place on April 17th 2022. It was chosen as the same weekend as the Ontario QSO Party. This year the date coincides with the Easter weekend.
-- Clayton (VE3IRR): GNU Radio 3.10 was just released, with new features and bug fixes. Also, GQRX SDR receiver software had a major release (he is the maintainer). Both pieces of software should be available in Linux Ubuntu 22.04 LTS.
+- Clayton (VE3IRR): GNU Radio 3.10 was just released, with new features and bug fixes. Also, Gqrx SDR receiver software had a major release (he is the maintainer). Both pieces of software should be available in Linux Ubuntu 22.04 LTS.
 - Bert (VE2ZAZ): He has made changes to his VHF Contest Logger software. He has just tested the new software version during the VHF contest. He will release it on GitHub in the near future.
 - Lawrence (VA3IQ) is working on setting up a GPS rover grid square driver for his logging software and to auto-grid FT8.
 
