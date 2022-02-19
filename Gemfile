@@ -21,3 +21,6 @@ gem "minima", "~> 2.0"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
 end
+
+# Temporarily add webrick as a dependency until Jekyll 4.3 is released.
+gem "webrick"
