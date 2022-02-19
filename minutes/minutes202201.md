@@ -29,8 +29,8 @@ There was one visitor attending the meeting.
 - Bert (VE2ZAZ) posted a draft version of the December 2021 meeting minutes on the Club website prior to this meeting. Moved by him that the minutes be adopted as posted on the website. Seconded by Remi-VA3DRI. The motion was carried.
 
 ### Treasurer's Report
-- The balance as of December 31st was $2033.47. There is also $2,000 which is split up into two term deposits. One has a maturity date of August 21st, 2022. The other one will mature on October 21st, 2022. 
-- There are 13 members as of today. There are also three life members. 
+- The balance as of December 31st was $2033.47. There is also $2,000 which is split up into two term deposits. One has a maturity date of August 21st, 2022. The other one will mature on October 21st, 2022.
+- There are 13 members as of today. There are also three life members.
 - Ray (VE3FN) is still collecting the 2022 membership dues. He accepts Interac email transfers and mailed-in bank checks.
 
 ### Vice President's Report
@@ -43,7 +43,7 @@ The Director was absent.
 - The Quebec QSO party has been announced and will take place on April 17. The topic will be covered by Georges-André-(VE2VAB) at the February meeting.
 
 ### Speaker
-Michael VE3TKI (Ontario Incoming QSL Bureau manager) on the IARU and QSL Bureau System. 
+Michael VE3TKI (Ontario Incoming QSL Bureau manager) on the IARU and QSL Bureau System.
 
 ### Officer Election
 Not all Officer positions were fulfilled during the AGM.
@@ -51,8 +51,8 @@ Not all Officer positions were fulfilled during the AGM.
 - Director: no other candidates for that position have come forward. Moreover, Wayne (VE3CZO), the previous Director, is absent. As he cannot confirm whether he accepts to renew his role as Director for the 2022-2023 period, his re-election is deferred to the next meeting.
 
 ### Old Business
-- VHF/UHF Beacon move: 
--- On Hold until further notice from the DARC officers. 
+- VHF/UHF Beacon move:
+-- On Hold until further notice from the DARC officers.
 -- Bert (VE2ZAZ) reported that the beacon enclosure power consumption should be much less than 100W, as the built in heating system made up of a few power resistors is disconnected.
 
 ### Reports / Club Project Updates
