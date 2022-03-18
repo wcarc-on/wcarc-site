@@ -32,12 +32,12 @@ There was one visitor attending the meeting.
 
 ### Treasurer's Report
 - The balance as of January 31st was $2125.49. In comparison with last month, we had a deposit of $390 for memberships and $0.09 in interest.  We had a withdrawal of $298.07 for our RAC liability insurance. There is also $2,000 which is split up into two term deposits. One has a maturity date of August 21st, 2022. The other one will mature on October 21st, 2022. We also have $15 in our "share accounts".
-- There are 17 members as of today. There are also three life members. 
+- There are 17 members as of today. There are also three life members.
 - Ray (VE3FN) expressed his concerns about the low number of members, considering the fixed expenses the Club carries. He sent a reminder email on the Club's groups.io reflector but got no answer.
 - Ray is still collecting the 2022 membership dues. He accepts Interac email transfers and mailed-in bank checks.
 
 ### Vice President's Report
-- Lawrence is looking for suggestions of potential contacts for our monthly presentations. 
+- Lawrence is looking for suggestions of potential contacts for our monthly presentations.
 - The March meeting presentation topic will be about contest logging.
 
 ### Director's Report
@@ -56,9 +56,9 @@ All Officer positions are now fulfilled.
 - Director: Wayne (VE3CZO) confirmed his candidature to the Director position. As he is the only candidate to that position, he is re-elected by acclamation.
 
 ### Old Business
-- VHF/UHF Beacon: 
+- VHF/UHF Beacon:
 -- Bert (VE2ZAZ) measured the UHF beacon frequency remotely. The objective was to assess the impact temperature has on its transmitted frequency. At +1 Celsius, the frequency was 432.357,1 MHz, the publicized frequency being 432.357 MHz. From +1 Celsius to -21 Celsius, he measured a -915 Hz drift. It would then be expected for the frequency to drift upward by about 1 KHz as the temperature reaches +25 Celsius. Considering that it is centered at zero Celsius and that there is an absence of radio congestion on the 432 MHz band, Bert concludes that the existing drift is acceptable, and that there is no need to activate the beacon enclosure heating system.
--- The beacon move On Hold until we get further notice from the DARC officers. 
+-- The beacon move On Hold until we get further notice from the DARC officers.
 
 ### Reports / Club Project Updates
 None
