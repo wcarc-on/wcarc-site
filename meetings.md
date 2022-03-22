@@ -15,7 +15,6 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* Mar. 21, 2022 – Lawrence (VA3IQ) – HF Rover for the Ontario QSO Party 2022
 * Apr. 11, 2022* – TBA
 * May 16, 2022 – TBA
 * Jun. 11-13, 2021 – **June VHF Contest**
