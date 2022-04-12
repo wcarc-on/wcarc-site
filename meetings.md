@@ -15,7 +15,6 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* Apr. 11, 2022* – TBA
 * May 16, 2022 – TBA
 * Jun. 11-13, 2021 – **June VHF Contest**
 * Jun. 20, 2022 – TBA
@@ -25,9 +24,6 @@ into a couple of hours.
 * Oct. 17, 2022 – TBA
 * Nov. 21, 2022 – TBA
 * Dec. 19, 2022 – Annual General Meeting and Christmas Party
-
-\* Note: The April meeting will take place on the second Monday of the month to
-avoid the Easter Monday holiday.
 
 ## Meeting Location
 
