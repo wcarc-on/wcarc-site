@@ -29,7 +29,7 @@ There were no visitors attending the meeting.
 
 ### Treasurer's Report
 - The balance as of March 31st was $2275.67. In comparison with last month, we had a deposit of $30 for membership and $0.10 in interest.  There is also $2,000 which is split up into two term deposits. One has a maturity date of August 21st, 2022. The other one will mature on October 21st, 2022. We also have $15 in our "share accounts".
-- There are 18 members as of today. There are also three life members. 
+- There are 18 members as of today. There are also three life members.
 
 ### Vice President's Report
 - Lawrence has had speaker cancellations. He is still trying to find speakers for upcoming meetings. He may rely on Club members to fill in when no other outside speakers are available. The next meeting will be devoted to VHF contest planning so no speaker will be required.
@@ -44,11 +44,11 @@ The Director had nothing to report.
 - Charles (VA3CPY) showed his HF/VHF radio and antenna setup.
 - Lawrence (VA3IQ) showed a CW paddle from American Morse Equipment. It is precision-made, has a hefty base and is very smooth to operate.
 - Glenn (VE3XRA) mentioned a portable SDR QRP CW transceiver, the DMX-40+ from PreppComm. Good for beginners. Very good in decoding and sending CW. A multi-band version will soon follow.
-- Wayne (VE3CZO) presented the OARC home brew project, a QRP paddle/keyer circuit. He also showed a few additional projects. 
+- Wayne (VE3CZO) presented the OARC home brew project, a QRP paddle/keyer circuit. He also showed a few additional projects.
 - Clayton showed a radiosonde (weather balloon tracker), and the tracking web site (sondehub.org) fed by a network of ground stations. He recovered one radiosonde that had landed near where he lives.
 
 ### Old Business
-- VHF/UHF Beacons: The beacon move is On Hold until we get further notice from the DARC officers. 
+- VHF/UHF Beacons: The beacon move is On Hold until we get further notice from the DARC officers.
 
 ### New Business
 - 2022 June VHF Contest on June 11th-13th 2022. A sub-committee was created to prepare for the Club's participation in the VHF Contest. The sub-committee met right after this meeting.
