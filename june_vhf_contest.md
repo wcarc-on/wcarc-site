@@ -3,7 +3,9 @@ layout: page
 title: 2022 ARRL June VHF Contest
 ---
 
-After a two-year break due to COVID, the West Carleton Amateur Radio Club will once again participate in the ARRL June VHF contest from June 10<sup>th</sup> to 13<sup>th</sup>. This will be our 13<sup>th</sup> year competing as a multi-operator station (VE3WCC). We'll be operating from a new site: the [Kinburn Community Centre](https://www.kinburn.ca/), which is located between Carp and Arnprior.
+After a two-year break due to COVID, the West Carleton Amateur Radio Club will once again participate in the ARRL June VHF contest from June 10<sup>th</sup> to 13<sup>th</sup>. This will be our 13<sup>th</sup> year competing as a multi-operator station (VE3WCC). We'll be operating from a new site: the [Kinburn Community Centre](https://www.kinburn.ca/), which is located West of Ottawa, between Carp and Arnprior.
+
+Helping with setup of the station is a great opportunity for beginners to get experience setting up a station. You'll learn how to assemble antennas, towers, rotors, coax, radios, and logging software.
 
 Although we have scored very well in past years, this isn't our primary focus. More importantly, we want to have fun and encourage our members and visitors to try operating VHF and above. We encourage you to come visit the station and try your hand at operating, even if it's only for a short time. VHF contests have a much more relaxed pace than HF contests, so anyone should be able to participate. No contesting experience is required.
 
@@ -29,7 +31,7 @@ Maidenhead grid square FN15vj
 When?
 -----
 
-Outdoor setup (towers, rotators, antennas, coax) will begin on Friday morning (June 10) around 09:30. We'll have access to the inside of the community centre starting around noon. Final setup will take place on Saturday morning. The contest begins at 14:00 (local) on Saturday (June 11) and continues until 23:00 (local) on Sunday (June 12). We'll dismantle the station on Monday morning (June 13) from about 08:30 to 11:30.
+Outdoor setup (towers, rotators, antennas, coax) will begin on Friday morning (June 10) around 09:00. We'll have access to the inside of the community centre starting around noon. Final setup will take place on Saturday morning. The contest begins at 14:00 (local) on Saturday (June 11) and continues until 23:00 (local) on Sunday (June 12). We'll dismantle the station on Monday morning (June 13) from about 09:00 to 12:00.
 
 What to bring?
 --------------
@@ -38,6 +40,7 @@ What to bring?
 * A smartphone, tablet or laptop (to make 2.4 GHz microwave contacts over WiFi during your visit)
 * A transmit-capable SDR (e.g. HackRF, BladeRF, LimeSDR), if you have one
 * A Ramsey laser kit, if you have one
+* A handy-talkie to make FM contacts with the station
 * Food and drinks for yourself
 
 Contact information:
