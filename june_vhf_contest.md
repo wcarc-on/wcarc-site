@@ -44,5 +44,4 @@ Contact information:
 --------------------
 
 Bert Zauhar (VE2ZAZ)  
-Email: [ve2zaz@sympatico.ca](mailto:ve2zaz@sympatico.ca)  
-Phone/SMS: 819-328-8876
+Email: [ve2zaz@rac.ca](mailto:ve2zaz@rac.ca)
