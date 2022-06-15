@@ -12,7 +12,7 @@ The following people were present:
 | Bertrand Zauhar        | VE2ZAZ     | Secretary        | FN25bk  | Yes   | Yes |
 | Lawrence Dobranski     | VA3IQ      | Member           | FN25    | Yes   | Yes |
 | Rémi De Cristofaro     | VA3DRI     | Member           | FN25    | Yes   | Yes |    
-| Clayton Smith          | VE3IRR     | Member           | FN25ai  | Yes   | Yes |
+| Clayton Smith          | VE3IRR     | Member           | EN82qb  | Yes   | Yes |
 | Ray Perrin             | VE3FN      | Member           | FN25dk  | Yes   | Yes |
 | Peter Jago             | VA3PJ      | Member           | FN25ag  | Yes   | Yes |
 | G-A Chaudron           | VE2VAB     | Member           | FN25    | Yes   | Yes |

@@ -14,7 +14,7 @@ The following people were present:
 | Fred                   | VE3LAF     | Visitor          |   -     | No    |  -  |      
 | Peter Jago             | VA3PJ      | Member           | FN25ag  | Yes   | Yes |
 | John                   | VA3JYK     | Visitor          |   -     | No    |  -  |          
-| Clayton Smith          | VE3IRR     | Member           | FN25ai  | Yes   | Yes |
+| Clayton Smith          | VE3IRR     | Member           | EN82qb  | Yes   | Yes |
 | Wayne Getchell         | VE3CZO     | Director         | FN25dh  | Yes   | Yes |
 
 ### Opening

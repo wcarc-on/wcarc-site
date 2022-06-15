@@ -16,7 +16,7 @@ The following people were present:
 | Ray Perrin             | VE3FN      | Treasurer        | FN25dk  | Yes   | Yes |
 | Rich Ferch             | VE3KI      | Member           | FN25    | Yes   | Yes |
 | Rémi De Cristofaro     | VA3DRI     | Member           | FN25    | Yes   | Yes |
-| Clayton Smith          | VE3IRR     | Member           | FN25ai  | Yes   | Yes |
+| Clayton Smith          | VE3IRR     | Member           | EN82qb  | Yes   | Yes |
 | Wayne Getchell         | VE3CZO     | Director         | FN25dh  | Yes   | Yes |
 | Melvyn Robinson        | KN4GB      | Visitor          |   -     | No    | No  |
 

@@ -15,7 +15,7 @@ The following people were present:
 | Peter Jago             | VA3PJ      | Member           | FN25ag  | Yes   | Yes |
 | John McGowan           | VA3JYK     | Member           | FN25    | No    | Yes |
 | Lawrence Dobranski     | VA3IQ      | Member           | FN25    | Yes   | Yes |
-| Clayton Smith          | VE3IRR     | Member           | FN25ai  | Yes   | Yes |
+| Clayton Smith          | VE3IRR     | Member           | EN82qb  | Yes   | Yes |
 | G-A Chaudron           | VE2VAB     | Member           | FN25    | Yes   | Yes |
 | Ray Perrin             | VE3FN      | Member           | FN25dk  | Yes   | Yes |
 | Michael                | VE3TKI     | Visitor          |   -     |  -    |  -  |

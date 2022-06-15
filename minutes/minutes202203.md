@@ -15,7 +15,7 @@ The following people were present:
 | Rich Ferch             | VE3KI      | Member           | FN25    | Yes   | Yes |
 | Peter Jago             | VA3PJ      | Member           | FN25ag  | Yes   | Yes |
 | John                   | VA3JYK     | Member           |   -     | Yes   | Yes |
-| Clayton Smith          | VE3IRR     | Member           | FN25ai  | Yes   | Yes |
+| Clayton Smith          | VE3IRR     | Member           | EN82qb  | Yes   | Yes |
 | Ray Perrin             | VE3FN      | Member           | FN25dk  | Yes   | Yes |
 | Mike Kassay            | VE3MKX     | Member           | FN14st  | Yes   | Yes |
 

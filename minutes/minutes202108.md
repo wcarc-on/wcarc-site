@@ -18,7 +18,7 @@ The following people were present:
 | Wayne Getchell         | VE3CZO     | Director         | FN25dh  | Yes   | Yes |
 | Ray Perrin             | VE3FN      | Treasurer        | FN25dk  | Yes   | Yes |
 | John                   | VA3JYK     | Visitor          |   -     | No    |  -  |          
-| Clayton Smith          | VE3IRR     | Member           | FN25ai  | Yes   | Yes |
+| Clayton Smith          | VE3IRR     | Member           | EN82qb  | Yes   | Yes |
 | Lawrence Dobranski     | VA3IQ      | Member           | FN25    | Yes   | Yes |
 
 ### Opening
