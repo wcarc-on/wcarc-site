@@ -17,8 +17,8 @@ The following people were present:
 | Andrew Hart            | VE3NVK     | Visitor          | FN25    | No    |     |
 | Clayton Smith          | VE3IRR     | Member           | FN25ai  | Yes   | Yes |
 | Mike Kassay            | VE3MKX     | Member           | FN14st  | Yes   | Yes |
-| John McGowan           | VA3JYK     | Member           |   -     | Yes   | Yes |          
-| Robert Clermont        | VE3AKV     | Visitor          | FN15    | No    |  -  |  
+| John McGowan           | VA3JYK     | Member           |   -     | Yes   | Yes |
+| Robert Clermont        | VE3AKV     | Visitor          | FN15    | No    |  -  |
 
 
 ### Opening
@@ -31,11 +31,11 @@ There were two visitors attending the meeting.
 
 ### Treasurer's Report
 - The balance as of April 30th was $2275.76. In comparison with last month, this is an increase of $0.09.  There is also $2,000 which is split up into two term deposits. One has a maturity date of August 21st, 2022. The other one will mature on October 21st, 2022. We also have $15 in our "share accounts".
-- There are 18 members as of today. There are also three life members. 
+- There are 18 members as of today. There are also three life members.
 - Ray made a payment of $110 to the Kinburn Community Centre from his own pocket. His expectation was that those who participate in the contest would partly compensate Ray. However, soon after the payment was made, the Club received $250 from an anonymous donor to cover the costs of our 2022 VHF contest. During this meeting, the members thanked the anonymous person for this very generous donation.
 
 ### Vice President's Report
-- Lawrence is working on finding speakers for upcoming meetings. 
+- Lawrence is working on finding speakers for upcoming meetings.
 - Many of the potential speakers will be at the Dayton Hamvention. Mike (VE3MKX) will report back on the Hamvention at the June meeting.
 
 ### Director's Report
