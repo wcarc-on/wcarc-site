@@ -15,7 +15,7 @@ The following people were present:
 | Ray Perrin             | VE3FN      | Treasurer        | FN25dk  | Yes   | Yes |
 | Rich Ferch             | VE3KI      | Member           | FN25    | Yes   | Yes |
 | Andrew Hart            | VE3NVK     | Visitor          | FN25    | No    |     |
-| Clayton Smith          | VE3IRR     | Member           | FN25ai  | Yes   | Yes |
+| Clayton Smith          | VE3IRR     | Member           | EN82qb  | Yes   | Yes |
 | Mike Kassay            | VE3MKX     | Member           | FN14st  | Yes   | Yes |
 | John McGowan           | VA3JYK     | Member           |   -     | Yes   | Yes |
 | Robert Clermont        | VE3AKV     | Visitor          | FN15    | No    |  -  |
