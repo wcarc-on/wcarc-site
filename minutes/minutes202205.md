@@ -30,7 +30,7 @@ There were two visitors attending the meeting.
 - He has sent a Non-For-Profit status update form to the Government of Ontario, adding the recently-elected Club Officers.
 
 ### Treasurer's Report
-- The balance as of April 30th was $2275.76. In comparison with last month, this is an increase of $0.09.  There is also $2,000 which is split up into two term deposits. One has a maturity date of August 21st, 2022. The other one will mature on October 21st, 2022. We also have $15 in our "share accounts".
+- The balance as of April 30th was $2,275.76. In comparison with last month, this is an increase of $0.09.  There is also $2,000 which is split up into two term deposits. One has a maturity date of August 21st, 2022. The other one will mature on October 21st, 2022. We also have $15 in our "share accounts."
 - There are 18 members as of today. There are also three life members.
 - Ray made a payment of $110 to the Kinburn Community Centre from his own pocket. His expectation was that those who participate in the contest would partly compensate Ray. However, soon after the payment was made, the Club received $250 from an anonymous donor to cover the costs of our 2022 VHF contest. During this meeting, the members thanked the anonymous person for this very generous donation.
 
@@ -42,17 +42,17 @@ There were two visitors attending the meeting.
 The Director was absent.
 
 ### President's Report
-- As it was announced that the Corkery Community Center would not be available due to renovations, we have decided to rent the Kinburn Community Center as the venue for our VHF Contest. We will have a large, clear area to set up our equipment. We have already visited the site at a couple of occasions for planning purpose.
+- As it was announced that the Corkery Community Center would not be available due to renovations, we have decided to rent the Kinburn Community Center as the venue for our VHF Contest. We will have a large, clear area to set up our equipment. We have already visited the site at a couple of occasions for planning purposes.
 
 ### Show and tell
 None.
 
 ### Old Business
-- VHF/UHF Beacons: We received an authorisation from the DARC officers to move the Club beacon to the Diefenbunker. We notified them that we would first tackle the VHF contest in June, and then redirect our focus to the beacon move.
+- VHF/UHF Beacons: We received an authorization from the DARC officers to move the Club beacons to the Diefenbunker. We notified them that we would first tackle the VHF contest in June, and then redirect our focus to the beacon move.
 - ARRL VHF contest in June: The sub-committee will meet during the latter part of this meeting to further coordinate the preparation of the event. The details of the contest meeting will not be reported here.
 
 ### New Business
-None
+None.
 
 ### Ask the Club
 No questions were asked.
