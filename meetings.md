@@ -15,8 +15,6 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* Jun. 11-13, 2021 – **June VHF Contest**
-* Jun. 20, 2022 – TBA
 * Jul. 18, 2022 – TBA
 * Aug. 15, 2022 – TBA
 * Sep. 19, 2022 – TBA
