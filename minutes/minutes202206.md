@@ -15,7 +15,7 @@ The following people were present:
 | Ray Perrin             | VE3FN      | Treasurer        | FN25dk  | Yes   | Yes |
 | Rich Ferch             | VE3KI      | Member           | FN25    | Yes   | Yes |
 | Randy Nordlund         | VE3AX      | Member           | FN25jg  | Yes   | Yes |
-| John McGowan           | VA3JYK     | Member           |   -     | Yes   | Yes |          
+| John McGowan           | VA3JYK     | Member           |   -     | Yes   | Yes |
 | Peter Jago             | VA3PJ      | Member           | FN25ag  | Yes   | Yes |
 | Graham Ide             | VE3BYT     | Visitor          | FN25ch  | No    | Yes |
 
@@ -29,7 +29,7 @@ There were two visitors attending the meeting.
 
 ### Treasurer's Report
 - The balance as of May 31st was $2525.86.  We had a deposit of $250 from an anonymous donor to cover the costs of our participation in the ARRL VHF Contest. There is also $2,000 which is split up into two term deposits. One has a maturity date of August 21st, 2022. The other one will mature on October 21st, 2022. We also have $15 in our "share accounts".
-- There are 18 members as of today. There are also three life members. 
+- There are 18 members as of today. There are also three life members.
 - As authorized by the Officers, the Treasurer will issue a 110$ payment to himself to cover for the Kinburn Community Center rental fee, which he paid with his own money. He will also send a 50$ cheque to both Lawrence (VA3IQ) and Randy (VE3AX) to compensate for gas expenditures incurred in the retrieval and return of the contest material.
 
 ### Vice President's Report
@@ -45,11 +45,11 @@ The Director was absent.
 None.
 
 ### Old Business
-- VHF/UHF Beacons: Since we have received an authorization from the DARC officers to move the Club beacon to the Diefenbunker. We shall proceed with the move. We will plan a visit of the Diefenbunker site in July. John (VA3JYK) can be our liaison with the DARC, as he is a member of both Clubs. 
+- VHF/UHF Beacons: Since we have received an authorization from the DARC officers to move the Club beacon to the Diefenbunker. We shall proceed with the move. We will plan a visit of the Diefenbunker site in July. John (VA3JYK) can be our liaison with the DARC, as he is a member of both Clubs.
 - VHF Contest. Clayton (VE3IRR) gave a report on the contest results and also provided a list of improvements. A few items came out as follow up actions in preparation for next year's VHF contest.
    - The Club shall purchase a 432 MHz long boom antenna. The one we used was a loaner and will not be available next year.
-   - It would be advisable to stock up on spare bolts and nuts to cover all of the antenna hardware we use. 
- 
+   - It would be advisable to stock up on spare bolts and nuts to cover all of the antenna hardware we use.
+
 ### New Business
 None
 
