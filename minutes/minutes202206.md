@@ -22,7 +22,7 @@ The following people were present:
 
 ### Opening
 The meeting was opened by the President, Charles (VA3CPY) at 7:09 pm.
-There were two visitors attending the meeting.
+There was one visitor attending the meeting.
 
 ### Secretary's Report
 - Bert (VE2ZAZ) posted a draft version of the May 2022 meeting minutes on the Club website prior to this meeting. Moved by him that the minutes be adopted as posted on the website. Seconded by Randy (VE3AX). The motion was carried.
