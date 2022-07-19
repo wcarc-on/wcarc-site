@@ -15,8 +15,7 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* Jul. 18, 2022 – Bertrand Zauhar (VE2ZAZ) – Oscillator Frequency and Performance Measurement
-* Aug. 15, 2022 – TBA
+* Aug. 15, 2022 – Clint Bradford (K6LCS) – How to Work Amateur Satellites with Your HT
 * Sep. 19, 2022 – TBA
 * Oct. 17, 2022 – TBA
 * Nov. 21, 2022 – TBA
