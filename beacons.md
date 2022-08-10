@@ -11,31 +11,32 @@ elevation angle of 20-30 degrees above the horizon.
 
 The beacons were relocated from FN15wg to FN15vf in July 2009.  
 The beacons were relocated from FN15vf to FN25ce in May 2015.  
-The beacons were relocated from FN25ce to FN25bg in June-July 2015.
+The beacons were relocated from FN25ce to FN25bg in June-July 2015.  
+The beacons were relocated from FN15bg to FN15xi in August 2022.
 
 Following is a list of the WCARC beacons:
 
 ### 6m - VE3WCC - 50.009MHz CW
 * status: fully operational
-* located in FN25bg
+* located in FN15xi
 * power is 500mW
 * PAR Electronics OA-50 antenna at about 25 ft AGL
 
 ### 2m - VE3WCC - 144.297MHz CW
 * status: fully operational
-* located in FN25bg
+* located in FN15xi
 * power is 2W
 * PAR Electronics OA-144 antenna at about 25 ft AGL
 
 ### 1.25m - VE3WCC - 222.063MHz CW
 * status: fully operational
-* located in FN25bg
+* located in FN15xi
 * power is 2W
 * PAR Electronics OA-222 antenna at about 25 ft AGL
 
 ### 70cm VE3WCC - 432.358MHz CW
 * status: fully operational
-* located in FN25bg
+* located in FN15xi
 * power is 1W
 * PAR Electronics OA-432 antenna at about 25 ft AGL
 
@@ -57,11 +58,15 @@ Following is a list of the WCARC beacons:
 
 ## Photos
 
-### 2m, 1,25m, 70cm and 33cm Beacons
+### 2m, 1,25m, 70cm, and 33cm Beacons
 
-![picture of beacon enclosure](images/beaconants01.jpg)
-![picture of beacon enclosure](images/beaconsontower01.jpg)
-![picture of beacon enclosure](images/beaconenclosure01.jpg)
+![interior of beacon enclosure](images/beacon_enclosure_inside.jpg)
+
+![mounted beacon enclosure](images/beacon_enclosure_mounted.jpg)
+
+![beacon antenna tower](images/beacon_tower.jpg)
+
+![closeup of beacon antennas on the tower](images/beacon_tower_close.jpg)
 
 ### 903MHz and 1296MHz Beacons
 
