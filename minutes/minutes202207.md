@@ -39,13 +39,13 @@ There were eight visitors attending the meeting.
 - Due to changes in the Ontario Corporation (non-for-profit) update procedure, Bert had to re-send the update forms.
 
 ### Treasurer's Report
-- The balance as of June 30th was $2,415.96. The main change was a cheque issued for $110.00 to cover the rental of the site at Kinburn for the VHF Contest. There is also $2,000 which is split up into two term deposits. One has a maturity date of August 21st, 2022. The other one will mature on October 21st, 2022. We also have $15 in our "share accounts".
+- The balance as of June 30th was $2,415.96. The main change was a cheque issued for $110.00 to cover the rental of the site at Kinburn for the VHF Contest. There is also $2,000 which is split up into two term deposits. One has a maturity date of August 21st, 2022. The other one will mature on October 21st, 2022. We also have $15 in our "share accounts."
 - There are 18 members as of today. There are also three life members.
 
 ### Vice President's Report
 - At the August meeting, we will have an amateur radio satellite operation training, a 90 minute presentation, given by a ham operator affiliated with AMSAT.
 - At the September meeting, we will have a presentation on Parks-On-The-Air.
-- To be confirmed, a St-Paul Island CY9C operations report. The speaker and date will be announced later.
+- To be confirmed, a St. Paul Island CY9C operations report. The speaker and date will be announced later.
 
 ### Director's Report
 - We received a QSL request in the mail from DL5ME for a 6m QSO completed during the June contest. Wayne will create a WCARC QSL and send it back to DL5ME.
@@ -55,7 +55,7 @@ There were eight visitors attending the meeting.
 - Charles would like to mention Rick Bandla (VE3CVG)'s passing. He had been a former WCARC member for many years prior to his move outside of the Ottawa area.
 
 ### Presentation
-Bert (VE2ZAZ) - Oscillator Frequency Performance Measurements
+Bert (VE2ZAZ) – Oscillator Frequency Performance Measurements
 
 ### Show and tell
 None.
