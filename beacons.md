@@ -12,7 +12,7 @@ elevation angle of 20-30 degrees above the horizon.
 The beacons were relocated from FN15wg to FN15vf in July 2009.  
 The beacons were relocated from FN15vf to FN25ce in May 2015.  
 The beacons were relocated from FN25ce to FN25bg in June-July 2015.  
-The beacons were relocated from FN15bg to FN15xi in August 2022.
+The beacons were relocated from FN25bg to FN15xi in August 2022.
 
 Following is a list of the WCARC beacons:
 
