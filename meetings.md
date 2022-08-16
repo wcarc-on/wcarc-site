@@ -19,6 +19,15 @@ into a couple of hours.
 * Oct. 17, 2022 – TBA
 * Nov. 21, 2022 – TBA
 * Dec. 19, 2022 – Annual General Meeting and Christmas Party
+* Jan. 16, 2023 – TBA
+* Feb. 20, 2023 – TBA
+* Mar. 20, 2023 – TBA
+* Apr. 17, 2023 – TBA
+* May 15, 2023 – TBA
+* Jun. 9-12, 2023 – **June VHF Contest**
+* Jun. 19, 2023 – TBA
+* Jul. 17, 2023 – TBA
+* Aug. 21, 2023 – TBA
 
 ## Meeting Location
 
