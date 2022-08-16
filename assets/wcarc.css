@@ -6,6 +6,13 @@
 .home .note { color: purple; }
 .home .next-meeting { background-color: yellow; }
 
+.home .facebook a {
+  display: block;
+  width: fit-content;
+  border: 1px outset;
+  padding: 0.4em;
+}
+
 .header-logo {
   float: left;
   padding: 0.5em;
