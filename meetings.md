@@ -15,7 +15,6 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* Aug. 15, 2022 – Clint Bradford (K6LCS) – How to Work Amateur Satellites with Your HT
 * Sep. 19, 2022 – Matt Heere (N3NWV) – POTA 101 and typical equipment used on POTA activations
 * Oct. 17, 2022 – TBA
 * Nov. 21, 2022 – TBA
