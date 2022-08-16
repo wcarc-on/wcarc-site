@@ -15,7 +15,6 @@ owned by Lanark & North Leeds ARES.
 ## APRS Weather Stations
 
 * [VA3KA weather via APRS](http://www.findu.com/cgi-bin/wxpage.cgi?call=VA3KA)
-* [VE3CVG weather via APRS](http://www.findu.com/cgi-bin/wxpage.cgi?call=VE3CVG)
 
 ## Further Information
 
