@@ -15,7 +15,7 @@ The following people were present:
 | Lawrence Dobranski     | VA3IQ      | Member           | FN25    | Yes   | Yes |
 | Mike Kassay            | VE3MKX     | Vice President   | FN14st  | Yes   | Yes |
 | Graham Ide             | VE3BYT     | Member           | FN25ch  | Yes   | Yes |
-| Rémi De Cristofaro     | VA3DRI     | Member           | FN25    | Yes   | Yes |    
+| Rémi De Cristofaro     | VA3DRI     | Member           | FN25    | Yes   | Yes |
 | Peter Jago             | VA3PJ      | Member           | FN25ag  | Yes   | Yes |
 
 ### Opening

@@ -11,15 +11,15 @@ The following people were present:
 | Karen Bryden           | VA3IGO     | Member           | FN25ag  | Yes   | Yes |
 | Bertrand Zauhar        | VE2ZAZ     | Secretary        | FN25bk  | Yes   | Yes |
 | Lawrence Dobranski     | VA3IQ      | Member           | FN25    | Yes   | Yes |
-| Rémi De Cristofaro     | VA3DRI     | Member           | FN25    | Yes   | Yes |    
+| Rémi De Cristofaro     | VA3DRI     | Member           | FN25    | Yes   | Yes |
 | Clayton Smith          | VE3IRR     | Member           | EN82qb  | Yes   | Yes |
 | Ray Perrin             | VE3FN      | Member           | FN25dk  | Yes   | Yes |
 | Peter Jago             | VA3PJ      | Member           | FN25ag  | Yes   | Yes |
 | G-A Chaudron           | VE2VAB     | Member           | FN25    | Yes   | Yes |
 | Wayne Getchell         | VE3CZO     | Director         | FN25dh  | Yes   | Yes |
 | Luc Pernot             | VE3JGL     | Member           | FN25ek  | Yes   | Yes |
-| John                   | VA3JYK     | Member           |   -     | Yes   | Yes |          
-| Fred                   | VE3LAF     | Visitor          |   -     | No    |  -  |      
+| John                   | VA3JYK     | Member           |   -     | Yes   | Yes |
+| Fred                   | VE3LAF     | Visitor          |   -     | No    |  -  |
 
 
 ### Opening

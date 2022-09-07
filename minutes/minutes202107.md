@@ -15,11 +15,11 @@ The following people were present:
 | Randy Nordlund         | VE3AX      | Member           | FN25jg  | Yes   | Yes |
 | Wayne Getchell         | VE3CZO     | Director         | FN25dh  | Yes   | Yes |
 | Glenn MacDonell        | VE3XRA     | Member           | FN25dj  | Yes   | Yes |
-| Rémi De Cristofaro     | VA3DRI     | Member           | FN25    | Yes   | Yes |    
+| Rémi De Cristofaro     | VA3DRI     | Member           | FN25    | Yes   | Yes |
 | Clayton Smith          | VE3IRR     | Member           | FN25ai  | Yes   | Yes |
 | Peter Jago             | VA3PJ      | Member           | FN25ag  | Yes   | Yes |
 | Fred                   | VE3LAF     | Visitor          |   -     | No    |  -  |
-| John                   | VA3JYK     | Visitor          |   -     | No    |  -  |          
+| John                   | VA3JYK     | Visitor          |   -     | No    |  -  |
 
 ### Opening
 The meeting was opened by the President, Charles (VA3CPY) at 7:15 pm.

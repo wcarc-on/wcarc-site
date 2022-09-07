@@ -18,7 +18,7 @@ The following people were present:
 | Robert Boyd            | VE3BE      | Treasurer        | FN25dj  | Yes   | Yes |
 | Mike Kassay            | VE3MKX     | Member           | FN14st  | Yes   | Yes |
 | Clayton Smith          | VE3IRR     | Member           | FN25ai  | Yes   | Yes |
-| Rémi De Cristofaro     | VA3DRI     | Member           | FN25    | Yes   | Yes |    
+| Rémi De Cristofaro     | VA3DRI     | Member           | FN25    | Yes   | Yes |
 | Alan Hotte             | VA3IAH     | Member           | FN25ci  | Yes   | Yes |
 | Ray Perrin             | VE3FN      | Member           | FN25dk  | Yes   | Yes |
 | Brian Jeffrey          | VE3UU      | Member           | FN15    | Yes   | Yes |
@@ -60,12 +60,12 @@ Mike (VE3MKX) - Weather Observing and Recording
 - VHF/UHF Beacons Monitoring and Care (item ongoing)
   - Jeremy (VA3ZTF): The Club is looking for someone to take the torch on monitoring and taking care of the beacons.
   - Andy (VE3NVK) has offered to take over that responsibility. He will become the main contact with the property owner. He will also visit the site in the next few days. Existing documentation will get scanned and put up on the web.
-  - Raj (VA3RZT) has also offered to help; he also lives close to the site.  
+  - Raj (VA3RZT) has also offered to help; he also lives close to the site.
 - Membership fees for 2021 (item closed)
   - In the context of the pandemic, one consideration would be to grant a rebate on the membership fee to existing Club members, or even to waive the fee entirely.
   - The Club's expenses have come down in 2020, but we do not know what is going to happen in 2021 as far as expenses go (VHF contest, meeting room rental, future projects, beacon relocation and maintenance).
   - We shall continue to subscribe to the RAC insurance for its liability coverage at the beacon sites and also on the City of Ottawa premises.
-  - After a lengthy discussion, Charles (VA3CPY) proposed that we charge the full membership fees in 2021, and that we figure out a way to collect the dues. The proposal was seconded by Jeremy (VA3ZTF). There was an unanimous vote in favour of that proposal.  
+  - After a lengthy discussion, Charles (VA3CPY) proposed that we charge the full membership fees in 2021, and that we figure out a way to collect the dues. The proposal was seconded by Jeremy (VA3ZTF). There was an unanimous vote in favour of that proposal.
 
 ### New Business
 None.

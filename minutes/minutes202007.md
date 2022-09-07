@@ -19,7 +19,7 @@ The following people were present:
 | Glenn MacDonell        | VE3XRA     | Member           | FN25dj  | Yes   | Yes |
 | Chris Rochefort        | VE2MW      | Member           | FN25ck  | Yes   | Yes |
 | Mike Kassay            | VE3MKX     | Member           | FN14st  | Yes   | Yes |
-| Rémi De Cristofaro     | VA3DRI     | Member           | FN25    | Yes   | Yes |    
+| Rémi De Cristofaro     | VA3DRI     | Member           | FN25    | Yes   | Yes |
 | Clare Fowler           | VE3NPC     | Member           | FN25    | Yes   | Yes |
 | Wayne Getchell         | VE3CZO     | Director         | FN25dh  | Yes   | Yes |
 | Luc Pernot             | VE3JGL     | Member           | FN25ek  | Yes   | Yes |

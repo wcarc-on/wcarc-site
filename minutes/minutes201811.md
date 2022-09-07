@@ -73,7 +73,7 @@ Bert (VE2ZAZ) reported that the link between Clayton and the YMCA is still down.
 
 ### Announcements / Show & Tell
 
-* Bert (VA2ZAZ) mentioned that NIST is proposing to take WWV off the air.  
+* Bert (VA2ZAZ) mentioned that NIST is proposing to take WWV off the air.
 * Clayton (VE3IRR) talked about the BSides security conference and the SDR challenges he set up.
 
 ### Adjournment

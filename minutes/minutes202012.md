@@ -11,7 +11,7 @@ The following people were present:
 | Karen Bryden           | VA3IGO     | Member           | FN25ag  | Yes   | Yes |
 | Lawrence Dobranski     | VA3IQ      | Member           | FN25    | Yes   | Yes |
 | Bertrand Zauhar        | VE2ZAZ     | Secretary        | FN25bk  | Yes   | Yes |
-| Rémi De Cristofaro     | VA3DRI     | Member           | FN25    | Yes   | Yes |    
+| Rémi De Cristofaro     | VA3DRI     | Member           | FN25    | Yes   | Yes |
 | Jeremy Jones           | VA3ZTF     | Vice President   | FN25ac  | Yes   | Yes |
 | Wayne Getchell         | VE3CZO     | Director         | FN25dh  | Yes   | Yes |
 | Ray Perrin             | VE3FN      | Member           | FN25dk  | Yes   | Yes |
@@ -28,7 +28,7 @@ The following people were present:
 The meeting was opened by the President, Charles (VA3CPY) at 7:17 pm.
 There were no visitors attending the meeting.
 
-### Secretary's Report  
+### Secretary's Report
 - Bert (VE2ZAZ) posted a draft version of the November 2020 meeting minutes on the website prior to this meeting. Moved by him that the minutes be adopted as posted on the website. Seconded by Robert (VE3BE). The motion was carried.
 - Bert is in the process of filling out the various forms required for the RAC insurance and the RAC affiliated club program. The Treasurer has already mailed a cheque covering the RAC fees to him. He should receive it soon.
 

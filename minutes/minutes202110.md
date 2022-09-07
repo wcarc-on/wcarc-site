@@ -11,17 +11,17 @@ The following people were present:
 | Karen Bryden           | VA3IGO     | Member           | FN25ag  | Yes   | Yes |
 | Bertrand Zauhar        | VE2ZAZ     | Secretary        | FN25bk  | Yes   | Yes |
 | Lawrence Dobranski     | VA3IQ      | Member           | FN25    | Yes   | Yes |
-| Fred                   | VE3LAF     | Visitor          |   -     | No    |  -  |      
+| Fred                   | VE3LAF     | Visitor          |   -     | No    |  -  |
 | Clare Fowler           | VE3NPC     | Member           | FN25    | Yes   | Yes |
 | Rich Ferch             | VE3KI      | Member           | FN25    | Yes   | Yes |
 | Glenn MacDonell        | VE3XRA     | Member           | FN25dj  | Yes   | Yes |
 | Ray Perrin             | VE3FN      | Member           | FN25dk  | Yes   | Yes |
 | Peter Jago             | VA3PJ      | Member           | FN25ag  | Yes   | Yes |
-| John                   | VA3JYK     | Visitor          |   -     | No    |  -  |          
+| John                   | VA3JYK     | Visitor          |   -     | No    |  -  |
 | Wayne Getchell         | VE3CZO     | Director         | FN25dh  | Yes   | Yes |
 | Luc Pernot             | VE3JGL     | Member           | FN25ek  | Yes   | Yes |
 | Mike Kassay            | VE3MKX     | Vice President   | FN14st  | Yes   | Yes |
-| Rémi De Cristofaro     | VA3DRI     | Member           | FN25    | Yes   | Yes |    
+| Rémi De Cristofaro     | VA3DRI     | Member           | FN25    | Yes   | Yes |
 
 
 ### Opening

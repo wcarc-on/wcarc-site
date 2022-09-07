@@ -10,7 +10,7 @@ The following people were present:
 | Charles MacDonald      | VA3CPY     | President        | FN25ag  | Yes   | Yes |
 | Karen Bryden           | VA3IGO     | Member           | FN25ag  | Yes   | Yes |
 | Bertrand Zauhar        | VE2ZAZ     | Secretary        | FN25bk  | Yes   | Yes |
-| Rémi De Cristofaro     | VA3DRI     | Member           | FN25    | Yes   | Yes |    
+| Rémi De Cristofaro     | VA3DRI     | Member           | FN25    | Yes   | Yes |
 | Clare Fowler           | VE3NPC     | Member           | FN25    | Yes   | Yes |
 | Peter Jago             | VA3PJ      | Member           | FN25ag  | Yes   | Yes |
 | John McGowan           | VA3JYK     | Member           | FN25    | No    | Yes |

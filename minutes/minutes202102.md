@@ -11,7 +11,7 @@ The following people were present:
 | Karen Bryden           | VA3IGO     | Member           | FN25ag  | Yes   | Yes |
 | Brian Jeffrey          | VE3UU      | Member           | FN15    | Yes   | Yes |
 | Bertrand Zauhar        | VE2ZAZ     | Secretary        | FN25bk  | Yes   | Yes |
-| Rémi De Cristofaro     | VA3DRI     | Member           | FN25    | Yes   | Yes |    
+| Rémi De Cristofaro     | VA3DRI     | Member           | FN25    | Yes   | Yes |
 | Luc Pernot             | VE3JGL     | Member           | FN25ek  | Yes   | Yes |
 | Peter Jago             | VA3PJ      | Member           | FN25ag  | Yes   | Yes |
 | Mike Kassay            | VE3MKX     | Vice-President   | FN14st  | Yes   | Yes |

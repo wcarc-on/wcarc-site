@@ -11,7 +11,7 @@ The following people were present:
 | Karen Bryden           | VA3IGO     | Member           | FN25ag  | Yes   | Yes |
 | Andrew Hart            | VE3NVK     | Member           | FN25bh  | Yes   | Yes |
 | Lawrence Dobranski     | VA3IQ      | Member           | FN25    | Yes   | Yes |
-| Rémi De Cristofaro     | VA3DRI     | Member           | FN25    | Yes   | Yes |    
+| Rémi De Cristofaro     | VA3DRI     | Member           | FN25    | Yes   | Yes |
 | Jeremy Jones           | VA3ZTF     | Vice President   | FN25ac  | Yes   | Yes |
 | Raj Thukral            | VA3RZT     | Member           | FN25    | Yes   | Yes |
 | Rich Ferch             | VE3KI      | Member           | FN25    | Yes   | Yes |

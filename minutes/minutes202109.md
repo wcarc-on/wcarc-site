@@ -11,9 +11,9 @@ The following people were present:
 | Karen Bryden           | VA3IGO     | Member           | FN25ag  | Yes   | Yes |
 | Bertrand Zauhar        | VE2ZAZ     | Secretary        | FN25bk  | Yes   | Yes |
 | Lawrence Dobranski     | VA3IQ      | Member           | FN25    | Yes   | Yes |
-| Fred                   | VE3LAF     | Visitor          |   -     | No    |  -  |      
+| Fred                   | VE3LAF     | Visitor          |   -     | No    |  -  |
 | Peter Jago             | VA3PJ      | Member           | FN25ag  | Yes   | Yes |
-| John                   | VA3JYK     | Visitor          |   -     | No    |  -  |          
+| John                   | VA3JYK     | Visitor          |   -     | No    |  -  |
 | Clayton Smith          | VE3IRR     | Member           | EN82qb  | Yes   | Yes |
 | Wayne Getchell         | VE3CZO     | Director         | FN25dh  | Yes   | Yes |
 
@@ -30,7 +30,7 @@ The following report was provided by email ahead of the meeting by Ray (VE3FN), 
 - There are 24 members as of today. There are also three life members.
 
 ### Vice President's Report
-- Mike (VE3MKX) reported via email: He has moved out of the Ottawa area. He does not currently have high speed internet, so it is not possible for him to attend the meeting. He has advised the board that he would resign from the Vice President position at the end of the year.  
+- Mike (VE3MKX) reported via email: He has moved out of the Ottawa area. He does not currently have high speed internet, so it is not possible for him to attend the meeting. He has advised the board that he would resign from the Vice President position at the end of the year.
 - In response to Mike's plan to resign as Vice President:
   - Charles (VA3CPY) announced that the Officers election to be held in December will also include the Vice President's position.
   - Bert (VE2ZAZ) mentioned that a few members can fill in with presentations when told ahead of time, if Mike cannot book one in time.

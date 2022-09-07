@@ -12,12 +12,12 @@ The following people were present:
 | Bertrand Zauhar        | VE2ZAZ     | Secretary        | FN25bk  | Yes   | Yes |
 | Peter Jago             | VA3PJ      | Member           | FN25ag  | Yes   | Yes |
 | Glenn MacDonell        | VE3XRA     | Member           | FN25dj  | Yes   | Yes |
-| Rémi De Cristofaro     | VA3DRI     | Member           | FN25    | Yes   | Yes |    
+| Rémi De Cristofaro     | VA3DRI     | Member           | FN25    | Yes   | Yes |
 | Clare Fowler           | VE3NPC     | Member           | FN25    | Yes   | Yes |
 | Mike Kassay            | VE3MKX     | Vice President   | FN14st  | Yes   | Yes |
 | Wayne Getchell         | VE3CZO     | Director         | FN25dh  | Yes   | Yes |
 | Ray Perrin             | VE3FN      | Treasurer        | FN25dk  | Yes   | Yes |
-| John                   | VA3JYK     | Visitor          |   -     | No    |  -  |          
+| John                   | VA3JYK     | Visitor          |   -     | No    |  -  |
 | Clayton Smith          | VE3IRR     | Member           | EN82qb  | Yes   | Yes |
 | Lawrence Dobranski     | VA3IQ      | Member           | FN25    | Yes   | Yes |
 

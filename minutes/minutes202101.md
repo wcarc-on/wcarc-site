@@ -13,7 +13,7 @@ The following people were present:
 | Lawrence Dobranski     | VA3IQ      | Member           | FN25    | Yes   | Yes |
 | Peter Jago             | VA3PJ      | Member           | FN25ag  | Yes   | Yes |
 | Wayne Getchell         | VE3CZO     | Director         | FN25dh  | Yes   | Yes |
-| Rémi De Cristofaro     | VA3DRI     | Member           | FN25    | Yes   | Yes |    
+| Rémi De Cristofaro     | VA3DRI     | Member           | FN25    | Yes   | Yes |
 | Raj Thukral            | VA3RZT     | Member           | FN25    | Yes   | Yes |
 | Ray Perrin             | VE3FN      | Treasurer        | FN25dk  | Yes   | Yes |
 | Jeremy Jones           | VA3ZTF     | Member           | FN25ac  | Yes   | Yes |

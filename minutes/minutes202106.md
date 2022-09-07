@@ -12,7 +12,7 @@ The following people were present:
 | Bertrand Zauhar        | VE2ZAZ     | Secretary        | FN25bk  | Yes   | Yes |
 | Wayne Getchell         | VE3CZO     | Director         | FN25dh  | Yes   | Yes |
 | Glenn MacDonell        | VE3XRA     | Member           | FN25dj  | Yes   | Yes |
-| Rémi De Cristofaro     | VA3DRI     | Member           | FN25    | Yes   | Yes |    
+| Rémi De Cristofaro     | VA3DRI     | Member           | FN25    | Yes   | Yes |
 | Ray Perrin             | VE3FN      | Treasurer        | FN25dk  | Yes   | Yes |
 | Clayton Smith          | VE3IRR     | Member           | FN25ai  | Yes   | Yes |
 | Andrew Hart            | VE3NVK     | Member           | FN25bh  | Yes   | Yes |

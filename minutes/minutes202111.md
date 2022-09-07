@@ -10,7 +10,7 @@ The following people were present:
 | Charles MacDonald      | VA3CPY     | President        | FN25ag  | Yes   | Yes |
 | Karen Bryden           | VA3IGO     | Member           | FN25ag  | Yes   | Yes |
 | Bertrand Zauhar        | VE2ZAZ     | Secretary        | FN25bk  | Yes   | Yes |
-| Rémi De Cristofaro     | VA3DRI     | Member           | FN25    | Yes   | Yes |    
+| Rémi De Cristofaro     | VA3DRI     | Member           | FN25    | Yes   | Yes |
 | Luc Pernot             | VE3JGL     | Member           | FN25ek  | Yes   | Yes |
 | Lawrence Dobranski     | VA3IQ      | Member           | FN25    | Yes   | Yes |
 | Kieran                 | VA3KS      | Member           | FN25    | Yes   | Yes |
@@ -24,9 +24,9 @@ The following people were present:
 | Clare Fowler           | VE3NPC     | Member           | FN25    | Yes   | Yes |
 | Bill                   | VE3MRX     | Visitor          |   -     | No    |  -  |
 | William McConnell      | VE3TUJ     | Visitor          |   -     | No    |  -  |
-| John                   | VA3JYK     | Visitor          |   -     | No    |  -  |          
-| Fred                   | VE3LAF     | Visitor          |   -     | No    |  -  |      
-| John                   | VE3FDK     | Visitor          |   -     | No    |  -  |          
+| John                   | VA3JYK     | Visitor          |   -     | No    |  -  |
+| Fred                   | VE3LAF     | Visitor          |   -     | No    |  -  |
+| John                   | VE3FDK     | Visitor          |   -     | No    |  -  |
 
 
 ### Opening
@@ -72,7 +72,7 @@ None.
 ### Show and Tell / Announcements
 - Charles (VA3CPY) showed a Chinese-made semiconductor and passive component tester. Available for less than $20, it offers a surprising measurement accuracy.
 - Bert (VE2ZAZ) showed a DC electronic load sold for about $20. He also showed a magnifying head band, which does not suit him.
-- Glenn (VE3XRA) reported back on his experience with the loop-on-the-ground antenna.  
+- Glenn (VE3XRA) reported back on his experience with the loop-on-the-ground antenna.
 
 ### Ask the Club
 This period in the meeting offers an opportunity to ask technical questions and get answers from knowledgeable Club members.
