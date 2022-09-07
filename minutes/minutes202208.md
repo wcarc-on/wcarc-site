@@ -36,14 +36,14 @@ There were twelve visitors attending the meeting.
 - Clayton (VE3IRR) filled in for Bert (VE2ZAZ), who was absent. He posted a draft version of the July 2022 meeting minutes on the Club website prior to this meeting. Moved by him that the minutes be adopted as posted on the website. Seconded by Wayne (VE3CZO). The motion was carried.
 
 ### Treasurer's Report
-- The balance as of July 31st was $2,366.06. The main difference from the previous month is a $50 withdrawal, as one of the two VHF Contest expense-contribution cheques had been cashed. There is also $2,000 which is split up into two term deposits. One has a maturity date of August 21st, 2022. We will let it renew for another one year term. The other one will mature on October 21st, 2022. We also have $15 in our "share accounts".
+- The balance as of July 31st was $2,366.06. The main difference from the previous month is a $50 withdrawal, as one of the two VHF Contest expense-contribution cheques had been cashed. There is also $2,000 which is split up into two term deposits. One has a maturity date of August 21st, 2022. We will let it renew for another one year term. The other one will mature on October 21st, 2022. We also have $15 in our "share accounts."
 - There are 18 members as of today. There are also three life members.
 - One person has asked to join the Club. We will give him a membership that extends through 2023.
 
 ### Vice President's Report
 - At the September meeting, we will have a presentation on Parks-On-The-Air given by the co-founder of POTA.
-- To be confirmed, at the October meeting, a presentation by the founder of Amateur Radio Science Citizen Investigation.
-- To be confirmed, at the November meeting, a St-Paul Island CY9C DXpedition report. The speaker will be announced later.
+- To be confirmed, at the October meeting, a presentation by the founder of Ham Radio Science Citizen Investigation.
+- To be confirmed, at the November meeting, a St. Paul Island CY9C DXpedition report. The speaker will be announced later.
 
 ### Director's Report
 - We now have printed WCARC QSL cards. Samples are available to members.
@@ -59,7 +59,7 @@ Charles (VA3CPY) showed an old Shure 444 desk microphone.
 
 ### Old Business
 - VHF/UHF Beacon move:
-   - We moved the Club beacons to the Carp location on August 2nd.
+   - We moved the Club beacons to the Carp location on August 2<sup>nd</sup>.
    - The 70cm antenna still needs to be adjusted, as the measured VSWR was 2:1. We got a 2m reception report from a ham in Peterborough.
    - Lee Boltwood found excess tellurometer material in the observatory after we had left. She has handed it to Charles (VA3CPY).
 
