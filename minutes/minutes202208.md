@@ -25,7 +25,7 @@ The following people were present:
 | John                   | VE3FDK     | Visitor          |   -     | No    |  ?  |
 | Lenny                  | VE3ISS     | Visitor          |   -     | No    |  ?  |
 | Norman Siemens         |   -        | Visitor          |   -     | No    |  ?  |
-| Steve Matzura          |   -        | Visitor          |   -     | No    |  ?  | 
+| Steve Matzura          |   -        | Visitor          |   -     | No    |  ?  |
 
 
 ### Opening
@@ -37,7 +37,7 @@ There were twelve visitors attending the meeting.
 
 ### Treasurer's Report
 - The balance as of July 31st was $2,366.06. The main difference from the previous month is a $50 withdrawal, as one of the two VHF Contest expense-contribution cheques had been cashed. There is also $2,000 which is split up into two term deposits. One has a maturity date of August 21st, 2022. We will let it renew for another one year term. The other one will mature on October 21st, 2022. We also have $15 in our "share accounts".
-- There are 18 members as of today. There are also three life members. 
+- There are 18 members as of today. There are also three life members.
 - One person has asked to join the Club. We will give him a membership that extends through 2023.
 
 ### Vice President's Report
@@ -51,16 +51,16 @@ There were twelve visitors attending the meeting.
 ### President's Report
 - Charles will issue a new Zoom meeting link for the next meeting. This will help in reducing the number of trolls trying to connect to our meeting.
 
-### Presentation 
+### Presentation
 Clint Bradford (K6LCS) - Working amateur radio satellites with a low power handy-talkie.
 
 ### Show and tell
 Charles (VA3CPY) showed an old Shure 444 desk microphone.
 
 ### Old Business
-- VHF/UHF Beacon move: 
-   - We moved the Club beacons to the Carp location on August 2nd. 
-   - The 70cm antenna still needs to be adjusted, as the measured VSWR was 2:1. We got a 2m reception report from a ham in Peterborough. 
+- VHF/UHF Beacon move:
+   - We moved the Club beacons to the Carp location on August 2nd.
+   - The 70cm antenna still needs to be adjusted, as the measured VSWR was 2:1. We got a 2m reception report from a ham in Peterborough.
    - Lee Boltwood found excess tellurometer material in the observatory after we had left. She has handed it to Charles (VA3CPY).
 
 ### New Business
