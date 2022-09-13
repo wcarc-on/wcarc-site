@@ -17,7 +17,7 @@ into a couple of hours.
 
 * Sep. 19, 2022 – Matt Heere (N3NWV) – POTA 101 and typical equipment used on POTA activations
 * Oct. 17, 2022 – TBA
-* Nov. 21, 2022 – TBA
+* Nov. 21, 2022 – Kristina Collins (KD8OXT) – Ham Radio Science Citizen Investigation (HamSCI)
 * Dec. 19, 2022 – Annual General Meeting and Christmas Party
 * Jan. 16, 2023 – TBA
 * Feb. 20, 2023 – TBA
