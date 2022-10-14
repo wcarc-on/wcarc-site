@@ -19,7 +19,7 @@ The following people were present:
 | Glenn MacDonell        | VE3XRA     | Member           | FN25dj  | Yes   | Yes |
 | Mark Biegler           | VA3CPB     | Member           | FN25be  | Yes   | Yes |
 | Norman Siemens         |   -        | Member           |   -     | Yes   |  ?  |
-| Andrew Hart            | G8VTV      | Visitor          |   -     | No    |  ?  |     
+| Andrew Hart            | G8VTV      | Visitor          |   -     | No    |  ?  |
 | Al Dee                 | VA3DZZ     | Visitor          |   -     | No    |  ?  |
 | Dennis Whalen          | KC3EJA     | Visitor          |   -     | No    | No  |
 | John Vaillancourt      | VA3DPZ     | Visitor          |   -     | No    |  ?  |
@@ -35,7 +35,7 @@ There were five visitors attending the meeting.
 
 ### Treasurer's Report
 - The balance as of August 31st was $2,366.16. This statement doe not reflect that a cheque for $50.00 (for gasoline expenses associated with the June VHF contest) has not yet been cashed. We also received $60 from two new members. There is also $2,000 which is split up into two term deposits. One has a maturity date of August 21st, 2023. The other one will mature on October 21st, 2022. We also have $15 in our "share accounts".
-- There are 20 members as of today. There are also three life members. 
+- There are 20 members as of today. There are also three life members.
 - One more person has asked to join the Club. The officers have agreed to issue him a membership that extends through 2023.
 
 ### Vice President's Report
@@ -49,9 +49,9 @@ There were five visitors attending the meeting.
 - Nothing to report.
 
 ### President's Report
-- We had a Club table at the Carp Hamfest. We used the Club projector and had posters showing pictures and Club information. As a result, one new member joined the Club during the event. 
+- We had a Club table at the Carp Hamfest. We used the Club projector and had posters showing pictures and Club information. As a result, one new member joined the Club during the event.
 
-### Presentation 
+### Presentation
 Dennis Whalen (KC3EJA) - Parks On The Air (POTA).
 
 ### Old Business
@@ -60,7 +60,7 @@ Dennis Whalen (KC3EJA) - Parks On The Air (POTA).
 
 ### New Business
 - Charles (VA3CPY): We must find a 432 antenna. Bert (VE2ZAZ) informed the members that Ken (VA3KA), a Club member, will soon be taking down his ham radio antenna farm. Bert will contact Ken to find out whether he has one UHF long boom antenna to sell. Otherwise we will have to purchase one. Lawrence (VA3IQ) is planning an antenna purchase from M2 Antennas. We could combine the shipping with his order and save money.
-- Lawrence (VA3IQ) is proposing a WCARC name tag group purchase. Dominion Rubber Stamp & Engraving will make them. He will get a quote on badges and look for interested members at the next meeting. The cost will be approximately $10 ea. 
+- Lawrence (VA3IQ) is proposing a WCARC name tag group purchase. Dominion Rubber Stamp & Engraving will make them. He will get a quote on badges and look for interested members at the next meeting. The cost will be approximately $10 ea.
 
 ### Show and tell
 - Glenn (VE3XRA) showed pictures and videos of Ray (VE3FN)'s trip to Mont Tremblant during the ARRL Microwave contest.
