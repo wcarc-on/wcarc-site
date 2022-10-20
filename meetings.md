@@ -15,7 +15,6 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* Oct. 17, 2022 – TBA
 * Nov. 21, 2022 – Kristina Collins (KD8OXT) – Ham Radio Science Citizen Investigation (HamSCI)
 * Dec. 19, 2022 – Annual General Meeting and Christmas Party
 * Jan. 16, 2023 – TBA
