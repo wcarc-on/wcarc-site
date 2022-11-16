@@ -29,7 +29,7 @@ There were no visitors attending the meeting.
 Bert (VE2ZAZ) posted a draft version of the September 2022 meeting minutes on the Club website prior to this meeting. Moved by him that the minutes be adopted as posted on the website. Seconded by Karen (VA3IGO). The motion was carried.
 
 ### Treasurer's Report
-- As of today, the September bank statement has not been received. As for changes from last month, three new membership fees (90$ total) were deposited in the savings account. There is also $2,000 which is split up into two term deposits. One has a maturity date of August 21st, 2023. The other one will mature on October 21st, 2022. We also have $15 in our "share accounts".
+- As of today, the September bank statement has not been received. As for changes from last month, three new membership fees ($90 total) were deposited in the savings account. There is also $2,000 which is split up into two term deposits. One has a maturity date of August 21st, 2023. The other one will mature on October 21st, 2022. We also have $15 in our "share accounts."
 - There are 21 members as of today. There are also three life members.
 
 ### Vice President's Report
@@ -38,7 +38,7 @@ Meeting presentations:
    - At the November meeting, we will have a presentation on Ham Radio Science Citizen Investigation. The presentation will be given by a PhD student.
    - At the January meeting, we will have a presentation of a ham's story from an historical perspective.
 - In planning:
-   - A presentation on the technical side of POTA, such as recommendations on radios and antennas,
+   - A presentation on the technical side of POTA, such as recommendations on radios and antennas.
    - A presentation on transatlantic 2m communications.
 
 ### Director's Report
@@ -53,15 +53,15 @@ None at this meeting.
 
 ### Old Business
 - 902/1296 MHz Beacons: Bert (VE2ZAZ) has contacted Ying (VA3YH) again to see whether the beacons could be recovered from the YMCA site soon. Ying is trying to reach Jeff (VE3EFF) to get a contact name at the YMCA. There is currently no forecast on when it will be possible to recover the beacons.
-- 432MHz Yagi Antenna procurement: Bert (VE2ZAZ) has contacted Ken (VA3KA), a former Club member, to find out whether he had one UHF long boom antenna to sell to the Club. He will indeed have two 432 MHz long boom yagis for sale in the spring. Bert will contact him in March to remind him of our need.
--WCARC badges: Lawrence (VA3IQ) mentioned that no progress had been made on that matter since the last meeting.
+- 432 MHz Yagi Antenna procurement: Bert (VE2ZAZ) has contacted Ken (VA3KA), a former Club member, to find out whether he had one UHF long boom antenna to sell to the Club. He will indeed have two 432 MHz long boom yagis for sale in the spring. Bert will contact him in March to remind him of our need.
+- WCARC badges: Lawrence (VA3IQ) mentioned that no progress had been made on that matter since the last meeting.
 
 ### New Business
 Leftover Club tower sections at VA3KA's place: Ken (VA3KA) informed the Club that there still were tower sections in storage on his property. These will have to get removed in the spring, at the latest. Wayne (VE3CZO) and Luc (VE3JGL) will visit Ken's place in November to inventory the tower sections.
 
 ### Show and tell
 - Some members showed various items and projects that they are working on.
-- Bert (VE2ZAZ) provided a report on the Near-Fest fall hamfest in Deerfield, NH.
+- Bert (VE2ZAZ) provided a report on the NEAR-Fest fall hamfest in Deerfield, NH.
 - Clayton (VE3IRR) provided a report on GRCon-22, the GNU Radio Conference that took place in late September.
 
 ### Ask the Club
