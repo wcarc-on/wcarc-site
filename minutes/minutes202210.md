@@ -19,7 +19,7 @@ The following people were present:
 | Peter Jago             | VA3PJ      | Member           | FN25ag  | Yes   | Yes |
 | Mike Kassay            | VE3MKX     | Member           | FN14st  | Yes   | Yes |
 | Luc Pernot             | VE3JGL     | Member           | FN25ek  | Yes   | Yes |
- 
+
 
 ### Opening
 The meeting was opened by the President, Charles (VA3CPY) at 7:08 pm.
@@ -30,7 +30,7 @@ Bert (VE2ZAZ) posted a draft version of the September 2022 meeting minutes on th
 
 ### Treasurer's Report
 - As of today, the September bank statement has not been received. As for changes from last month, three new membership fees (90$ total) were deposited in the savings account. There is also $2,000 which is split up into two term deposits. One has a maturity date of August 21st, 2023. The other one will mature on October 21st, 2022. We also have $15 in our "share accounts".
-- There are 21 members as of today. There are also three life members. 
+- There are 21 members as of today. There are also three life members.
 
 ### Vice President's Report
 Meeting presentations:
@@ -45,10 +45,10 @@ Meeting presentations:
 - Nothing to report.
 
 ### President's Report
-- Zoom has sent out a notice about the Linux client. A key may be required to install updates. Those who use Zoom on Linux should check whether they need to take action. 
+- Zoom has sent out a notice about the Linux client. A key may be required to install updates. Those who use Zoom on Linux should check whether they need to take action.
 - Application of privacy act vs. the Club's groups.io email reflector:  There is some thought that it would not be appropriate to subscribe members to the Club email reflector without their consent. Should the web application form be modified to make it explicit that they accept to be registered? The consensus is that if they write down their email in the form, that they consent to be registered in order to receive news from the Club. They can always unsubscribe manually if they wish.
 
-### Presentation 
+### Presentation
 None at this meeting.
 
 ### Old Business
@@ -62,7 +62,7 @@ Leftover Club tower sections at VA3KA's place: Ken (VA3KA) informed the Club tha
 ### Show and tell
 - Some members showed various items and projects that they are working on.
 - Bert (VE2ZAZ) provided a report on the Near-Fest fall hamfest in Deerfield, NH.
-- Clayton (VE3IRR) provided a report on GRCon-22, the GNU Radio Conference that took place in late September. 
+- Clayton (VE3IRR) provided a report on GRCon-22, the GNU Radio Conference that took place in late September.
 
 ### Ask the Club
 A few members asked technical questions, and received valuable answers.
