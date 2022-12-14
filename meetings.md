@@ -25,6 +25,10 @@ into a couple of hours.
 * Jun. 19, 2023 – TBA
 * Jul. 17, 2023 – TBA
 * Aug. 21, 2023 – TBA
+* Sep. 18, 2023 – TBA
+* Oct. 16, 2023 – TBA
+* Nov. 20, 2023 – TBA
+* Dec. 18, 2023 – Annual General Meeting and Christmas Party
 
 ## Meeting Location
 
