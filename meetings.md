@@ -15,8 +15,7 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* Dec. 19, 2022 – Annual General Meeting and Christmas Party
-* Jan. 16, 2023 – TBA
+* Jan. 16, 2023 – Mike Kennedy (VA3TEC) – Digital amateur television (DATV)
 * Feb. 20, 2023 – TBA
 * Mar. 20, 2023 – TBA
 * Apr. 17, 2023 – TBA
