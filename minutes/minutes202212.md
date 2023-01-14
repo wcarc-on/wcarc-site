@@ -50,12 +50,12 @@ According to the Club's constitution, two positions, namely Vice-President and T
 - Vice-President: No one came forward as new candidate for the Vice President position. Moreover, Lawrence (VA3IQ) accepted to carry on with the Vice President duties. He is thus re-elected for another term as Vice President by acclamation.
 - Treasurer: No one came forward as new candidate for the Treasurer position. Since the outgoing Treasurer, Ray (VE3FN), is absent and has not manifested whether he would accept to carry on with the Treasurer duties, the election for that position is deferred to the January 2023 meeting.
 
-### Presentation 
+### Presentation
 None since this is the Annual General Meeting.
 
 ### Old Business
 - 902/1296 MHz Beacons: Bert (VE2ZAZ) received an update email from Phil (VE3HOA). He, along with a few other Almonte ARC executives, got in touch and met with the new YMCA facilities manager, Peter Townsend. The manager confirmed that it would be a few years before anything happens with the YMCA building. We are therefore welcome to leave our equipment in place and in operation until we absolutely need to get out. Access to the site is as simple as contacting the manager prior to any visit. Clayton (VE3IRR) suggested that one checks the operational status of the two beacons.
-- 432 MHz Yagi Antenna procurement: No update. Bert (VE2ZAZ) will contact Ken (VA3KA) in March to remind him of our needs. Ken will have two 432 MHz long boom yagis for sale in the spring. 
+- 432 MHz Yagi Antenna procurement: No update. Bert (VE2ZAZ) will contact Ken (VA3KA) in March to remind him of our needs. Ken will have two 432 MHz long boom yagis for sale in the spring.
 - WCARC badges: A prototype badge was shown. See the Vice President's report.
 - WCARC Winter POTA (Parks On The Air): Lawrence (VA3IQ) proposed a one-day activation at the Baxter Conservation Area shelter. The progress in detailed in the Vice President's report section.
 
@@ -66,7 +66,7 @@ None since this is the Annual General Meeting.
 - Karen (VA3IGO) discussed her saga on the procurement of a Screwdriver antenna.
 - Bert (VE2ZAZ) reported back on his experience during the 2022 ARRL 10m Contest.
 - Mike (VA3TEC) showed his hand-made 1.2 GHz loop yagi. He received some comments and suggestions from other attendees.
-- Mike (VE3MKX) showed a Xiegu X6100 HF QRP rig. He reported liking it a lot. 
+- Mike (VE3MKX) showed a Xiegu X6100 HF QRP rig. He reported liking it a lot.
 
 ### Ask the Club
 No questions were asked.
