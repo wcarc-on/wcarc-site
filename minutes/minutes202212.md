@@ -45,7 +45,7 @@ The Treasurer was absent. However he provided this report by email prior to the 
 - Nothing to report.
 
 ### President's Report
-For the annual report, Charles listed the 2022 Club highlights. The report is filed as a separate document, and is available for consultation on the Club website.
+For the annual report, Charles listed the 2022 Club highlights. The report is filed as a separate document, and is available for consultation on the Club website: [2022 Annual Report](report2022.html)
 
 ### Officers Election
 According to the Club's constitution, two positions, namely Vice-President and Treasurer, are scheduled to be elected during this meeting.
