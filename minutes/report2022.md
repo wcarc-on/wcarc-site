@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Annual Report, 2022 - DRAFT
+title: Annual Report, 2022
 ---
 *On December 19, 2022, Charles MacDonald (VA3CPY) delivered this Annual Report:*
 
