@@ -15,7 +15,6 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* Jan. 16, 2023 – Mike Kennedy (VA3TEC) – Digital amateur television (DATV)
 * Feb. 20, 2023 – Bert Zauhar (VE2ZAZ) – Modernized TailTwister controller
 * Mar. 20, 2023 – Ray Perrin (VE3FN) – 10 GHz and up: a practical guide to getting active on the SHF bands
 * Apr. 17, 2023 – TBA
