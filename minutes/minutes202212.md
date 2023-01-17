@@ -1,6 +1,6 @@
 ---
 layout: minutes
-title: Minutes of the Annual General Meeting on December 19th, 2022 - DRAFT
+title: Minutes of the Annual General Meeting on December 19th, 2022
 ---
 The meeting was held over the internet via a Zoom video conference.
 The following people were present:
