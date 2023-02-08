@@ -22,12 +22,12 @@ The following people were present:
 | John McGowan           | VA3JYK     | Member           | FN25    | Yes   | Yes |
 | Alan Howard            | VE3VTT     | Member           | FN14    | Yes   | Yes |
 | Norman Siemens         | VE3NPP     | Member           | FN25    | Yes   | Yes |
-| Richard                | VA3VGR     | Visitor          |  -      | No    |  -  |      
-| Leo                    | VE3ZLG     | Visitor          |  -      | No    |  -  | 
-| Charles Gale           | VE3XCC     | Visitor          |  -      | No    |  -  | 
-| Matt Dean              | VE3MAT     | Visitor          |  -      | No    |  -  |  
-| Dave                   | VA3CP      | Visitor          |  -      | No    |  -  | 
-| Norm Freidin           | VE3CZI     | Visitor          |  -      | No    |  -  | 
+| Richard                | VA3VGR     | Visitor          |  -      | No    |  -  |
+| Leo                    | VE3ZLG     | Visitor          |  -      | No    |  -  |
+| Charles Gale           | VE3XCC     | Visitor          |  -      | No    |  -  |
+| Matt Dean              | VE3MAT     | Visitor          |  -      | No    |  -  |
+| Dave                   | VA3CP      | Visitor          |  -      | No    |  -  |
+| Norm Freidin           | VE3CZI     | Visitor          |  -      | No    |  -  |
 
 
 ### Opening
@@ -35,8 +35,8 @@ The meeting was opened by the President, Charles (VA3CPY) at 7:17 pm.
 There were six visitors attending the meeting.
 
 ### Secretary's Report
-- Bert (VE2ZAZ) posted a draft version of the December 2022 meeting minutes on the Club website prior to this meeting. Moved by him that the minutes be adopted as posted on the website. Seconded by Lawrence (VA3IQ). The motion was carried. 
-- A draft of the President's annual report was also posted on the website. Moved by Bert (VE2ZAZ) that the report be adopted as posted. Seconded by Wayne (VE3CZO). The motion was carried. 
+- Bert (VE2ZAZ) posted a draft version of the December 2022 meeting minutes on the Club website prior to this meeting. Moved by him that the minutes be adopted as posted on the website. Seconded by Lawrence (VA3IQ). The motion was carried.
+- A draft of the President's annual report was also posted on the website. Moved by Bert (VE2ZAZ) that the report be adopted as posted. Seconded by Wayne (VE3CZO). The motion was carried.
 - The RAC affiliation and liability insurance applications were completed. The full fee was paid to RAC by the Treasurer.
 
 ### Treasurer's Report
@@ -59,12 +59,12 @@ There were six visitors attending the meeting.
 ### Officers Election
 Since the outgoing Treasurer, Ray (VE3FN), was absent from the Annual General Assembly meeting, and had not indicated whether he would accept to carry on with the Treasurer duties, the election for that position was postponed to this month's meeting. Ray informed us that he had agreed to carry on with the Treasurer duties.
 
-### Presentation 
+### Presentation
 Mike Kennedy (VA3TEC) – Digital Amateur Television (DATV)
 
 ### Old Business
 - 902/1296 MHz Beacons: Bert (VE2ZAZ) checked for the presence on the air of the 902 and 1296 MHz beacons, and both seem to be nonoperational. Ray (VE3FN) confirmed that had not heard them for months. The VE3ODG D-Star is back operational.
-- 432 MHz Yagi Antenna procurement: No update. 
+- 432 MHz Yagi Antenna procurement: No update.
 - WCARC badges: Lawrence will send an email to invite those who are interested to sent 10$ to the Treasurer. Then the order will be placed.
 - WCARC Winter POTA (Parks On The Air): Lawrence (VA3IQ) announced that the shelter is booked for the whole winter. The plan to use the Baxter Conservation Area shelter fell through. He will try again in the spring. Pinhey's Point is another venue to look into.
 - 2023 June VHF Contest: Bert (VE2ZAZ) confirmed that the Kinburn Community building would be available for our VHF contest under the same conditions as last year's venue. A reservation was made. The contract will be reviewed and a reservation payment will be issued by the Treasurer.
