@@ -1,6 +1,6 @@
 ---
 layout: minutes
-title: Minutes of the Regular Meeting on January 16th, 2023 - DRAFT
+title: Minutes of the Regular Meeting on January 16th, 2023
 ---
 The meeting was held over the internet via a Zoom video conference.
 The following people were present:
