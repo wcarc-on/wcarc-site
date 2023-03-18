@@ -33,7 +33,7 @@ There was one visitor attending the meeting.
 Bert (VE2ZAZ) posted a draft version of the January 2023 meeting minutes on the Club website prior to this meeting. Moved by him that the minutes be adopted as posted on the website. Seconded by Karen (VA3IGO). The motion was carried.
 
 ### Treasurer's Report
-- Ray (VE3FN) provided the following report. As of January 31st, 2023 we had $2585.09 in our bank account and $2107.60 in our term deposits. We also have $15.00 in the sharing account. Changes from last month are a deposit of $395.00 (for 13 memberships plus a donation of $5.00) and a cheque for $301.58 payed to RAC to cover our insurance. We also have $20.00 in cash to cover the cost of 2 name badges. I still have $60.00 to deposit to cover 2 memberships.
+- Ray (VE3FN) provided the following report: As of January 31st, 2023 we had $2,585.09 in our bank account and $2,107.60 in our term deposits. We also have $15.00 in the sharing account. Changes from last month are a deposit of $395.00 (for 13 memberships plus a donation of $5.00) and a cheque for $301.58 paid to RAC to cover our insurance. We also have $20.00 in cash to cover the cost of 2 name badges. I still have $60.00 to deposit to cover 2 memberships.
 - Ray sent the check to the Kinburn Community Association to complete the reservation of our venue for the upcoming June VHF Contest. He will verify on the next bank statement for evidence that it was cashed in.
 - Ray urges everyone to pay dues for 2023. Annual club dues are $30 for RAC members and $41 for those who are not members of RAC. You can either send a cheque to him or send an Interac money transfer to his email address.
 
@@ -55,15 +55,15 @@ Bertrand Zauhar, VE2ZAZ/VA2IW: Modernizing the HyGain TailTwister rotator contro
 ### Old Business
 - 902/1296 MHz Beacons: Bert (VE2ZAZ) checked for the presence on the air of the 902 and 1296 MHz beacons, and both seem to be nonoperational. We shall organize a visit to the site in the spring.
 - 432 MHz Yagi Antenna procurement: No update.
-- WCARC badges: The supplier has a backlog of orders. This will delay our order. Lawrence will send an email to invite those who are interested to sent 10$ to the Treasurer once the supplier is able to take our order.
+- WCARC badges: The supplier has a backlog of orders. This will delay our order. Lawrence will send an email to invite those who are interested to send $10 to the Treasurer once the supplier is able to take our order.
 - 2023 June VHF Contest: No update. We will discuss at the May meeting.
 
 ### New Business
 None.
 
 ### Show and tell
-Bert (VE2ZAZ) showed a 1296 MHz Yagi antenna he built. It is based on WA5VJB's "Cheap Yagi" design.
-Mike (VA3TEC): Showed the new LimeSDR board.
+- Bert (VE2ZAZ) showed a 1296 MHz Yagi antenna he built. It is based on WA5VJB's "Cheap Yagi" design.
+- Mike (VA3TEC): Showed the new LimeSDR board.
 
 ### Ask the Club
 No questions were asked.
