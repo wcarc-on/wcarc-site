@@ -15,8 +15,7 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* Mar. 20, 2023 – Ray Perrin (VE3FN) – 10 GHz and up: a practical guide to getting active on the SHF bands
-* Apr. 17, 2023 – TBA
+* Apr. 17, 2023 – Report on Microwave Update 2023
 * May 15, 2023 – Planning for the June VHF contest
 * Jun. 9-12, 2023 – **June VHF Contest**
 * Jun. 19, 2023 – TBA
