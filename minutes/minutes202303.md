@@ -30,14 +30,14 @@ There were no visitors attending the meeting.
 Bert (VE2ZAZ) posted a draft version of the February 2023 meeting minutes on the Club website prior to this meeting. Moved by him that the minutes be adopted as posted on the website. Seconded by Glenn (VE3XRA). The motion was carried.
 
 ### Treasurer's Report
-- Ray (VE3FN) provided the following report. We have $2,535.19 in our daily bank account, $2,107.60 in our term deposits and $15.00 in our share account. The changes from the previous month to our bank account are a withdrawal of $110.00 for a check to pay for the rental of the Kinburn Community site for our operation in the 2023 June VHF contest, and a deposit of $0.01 from earned interest. There was also a deposit of $60.00 from the annual dues of 3 members.
+- Ray (VE3FN) provided the following report: We have $2,535.19 in our daily bank account, $2,107.60 in our term deposits and $15.00 in our share account. The changes from the previous month to our bank account are a withdrawal of $110.00 for a check to pay for the rental of the Kinburn Community site for our operation in the 2023 June VHF contest, and a deposit of $0.01 from earned interest. There was also a deposit of $60.00 from the annual dues of 3 members.
 - As of today, the Club has 20 members and 3 life members.
 
 ### Vice President's Report
 - Meeting presentations in planning:
    - April 2023: Report on Microwave Update 2023 convention.
    - May 2023: No presentation is scheduled; the time will be spent preparing for the June VHF Contest.
-   - Ham Radio Science Citizen Investigation. The presentation will be given by a PhD student. A date has not been set.
+   - Ham Radio Science Citizen Investigation. The presentation will be given by a Ph. D. student. A date has not been set.
 
 ### Director's Report
 The Director was absent.
@@ -49,7 +49,7 @@ Nothing to report.
 Ray (VE3FN): Amateur VHF/UHF/Microwave Weak Signal Communications.
 
 ### Old Business
-- Vote on the motion to award Peter (VA3PJ) a lifetime Club membership: The vote took place and resulted in a unanimous result in favor of the motion. The motion was carried. The attendees congratulated Peter.
+- Vote on the motion to award Peter (VA3PJ) a lifetime Club membership: The vote took place and resulted in a unanimous result in favour of the motion. The motion was carried. The attendees congratulated Peter.
 - 902/1296 MHz Beacons: The beacons are non-operational. Bert (VE2ZAZ) proposed to visit the YMCA site within the next few weeks to assess the units' condition. He solicited help from one of the attendees to accompany him to the beacon site. Three members have offered to help.
 - WCARC badges: The time has come to order the badge at a cost of $10. The members who wish to obtain a badge bearing their callsign shall send their payment to the Treasurer starting today. An email containing this information was also sent through the Club's groups.io reflector.
 
