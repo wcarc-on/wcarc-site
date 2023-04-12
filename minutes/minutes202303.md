@@ -27,7 +27,7 @@ The meeting was opened by the President, Charles (VA3CPY) at 7:15 pm.
 There were no visitors attending the meeting.
 
 ### Secretary's Report
-Bert (VE2ZAZ) posted a draft version of the February 2023 meeting minutes on the Club website prior to this meeting. Moved by him that the minutes be adopted as posted on the website. Seconded by Glenn (VE3XRA). The motion was carried. 
+Bert (VE2ZAZ) posted a draft version of the February 2023 meeting minutes on the Club website prior to this meeting. Moved by him that the minutes be adopted as posted on the website. Seconded by Glenn (VE3XRA). The motion was carried.
 
 ### Treasurer's Report
 - Ray (VE3FN) provided the following report. We have $2,535.19 in our daily bank account, $2,107.60 in our term deposits and $15.00 in our share account. The changes from the previous month to our bank account are a withdrawal of $110.00 for a check to pay for the rental of the Kinburn Community site for our operation in the 2023 June VHF contest, and a deposit of $0.01 from earned interest. There was also a deposit of $60.00 from the annual dues of 3 members.
@@ -35,18 +35,18 @@ Bert (VE2ZAZ) posted a draft version of the February 2023 meeting minutes on the
 
 ### Vice President's Report
 - Meeting presentations in planning:
-   - April 2023: Report on Microwave Update 2023 convention. 
+   - April 2023: Report on Microwave Update 2023 convention.
    - May 2023: No presentation is scheduled; the time will be spent preparing for the June VHF Contest.
    - Ham Radio Science Citizen Investigation. The presentation will be given by a PhD student. A date has not been set.
-   
+
 ### Director's Report
 The Director was absent.
 
 ### President's Report
 Nothing to report.
 
-### Presentation 
-Ray (VE3FN): Amateur VHF/UHF/Microwave Weak Signal Communications. 
+### Presentation
+Ray (VE3FN): Amateur VHF/UHF/Microwave Weak Signal Communications.
 
 ### Old Business
 - Vote on the motion to award Peter (VA3PJ) a lifetime Club membership: The vote took place and resulted in a unanimous result in favor of the motion. The motion was carried. The attendees congratulated Peter.
