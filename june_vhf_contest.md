@@ -47,4 +47,4 @@ Contact information:
 --------------------
 
 Bert Zauhar (VE2ZAZ)  
-Email: [ve2zaz@rac.ca](mailto:ve2zaz@rac.ca)
+Email: [ve2zaz@myrac.ca](mailto:ve2zaz@myrac.ca)
