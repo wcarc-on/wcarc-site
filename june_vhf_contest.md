@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 2022 ARRL June VHF Contest
+title: 2023 ARRL June VHF Contest
 ---
 
-After a two-year break due to COVID, the West Carleton Amateur Radio Club will once again participate in the ARRL June VHF contest from June 10<sup>th</sup> to 13<sup>th</sup>. This will be our 13<sup>th</sup> year competing as a multi-operator station (VE3WCC). We'll be operating from a new site: the [Kinburn Community Centre](https://www.kinburn.ca/), which is located West of Ottawa, between Carp and Arnprior.
+From June 9<sup>th</sup> to 12<sup>th</sup>, the West Carleton Amateur Radio Club will once again participate in the ARRL June VHF contest. This will be our 14<sup>th</sup> year competing as a multi-operator station (VE3WCC). We'll be operating from the [Kinburn Community Centre](https://www.kinburn.ca/), which is located West of Ottawa, between Carp and Arnprior.
 
 Helping with setup of the station is a great opportunity for beginners to get experience setting up a station. You'll learn how to assemble antennas, towers, rotors, coax, radios, and logging software.
 
