@@ -15,10 +15,9 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* Apr. 17, 2023 – Report on Microwave Update 2023
 * May 15, 2023 – Planning for the June VHF contest
 * Jun. 9-12, 2023 – **June VHF Contest**
-* Jun. 19, 2023 – TBA
+* Jun. 19, 2023 – VHF contest recap
 * Jul. 17, 2023 – TBA
 * Aug. 21, 2023 – TBA
 * Sep. 18, 2023 – TBA
