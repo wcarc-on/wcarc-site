@@ -22,7 +22,7 @@ into a couple of hours.
   * Paul Fredette (K1YBE): Update on the North East ARTEN Project
 * Jul. 17, 2023 – TBA
 * Aug. 21, 2023:
-  * After action report on 222 MHz and Up Distance Contest and 10 GHZ & Up Contest (Round 1)
+  * After action report on 222 MHz and Up Distance Contest and 10 GHz & Up Contest (Round 1)
   * Mike Kennedy (VA3TEC): State of the art in FPGAs
 * Sep. 18, 2023 – TBA
 * Oct. 16, 2023 – TBA
