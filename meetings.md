@@ -17,9 +17,13 @@ into a couple of hours.
 
 * May 15, 2023 – Planning for the June VHF contest
 * Jun. 9-12, 2023 – **June VHF Contest**
-* Jun. 19, 2023 – VHF contest recap
+* Jun. 19, 2023:
+  * After action report on the June VHF Contest
+  * Paul Fredette (K1YBE): Update on the North East ARTEN Project
 * Jul. 17, 2023 – TBA
-* Aug. 21, 2023 – TBA
+* Aug. 21, 2023:
+  * After action report on 222 MHz and Up Distance Contest and 10 GHZ & Up Contest (Round 1)
+  * Mike Kennedy (VA3TEC): State of the art in FPGAs
 * Sep. 18, 2023 – TBA
 * Oct. 16, 2023 – TBA
 * Nov. 20, 2023 – TBA
