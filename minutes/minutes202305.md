@@ -27,7 +27,7 @@ The meeting was opened by the President, Charles (VA3CPY) at 7:13 pm.
 There were three visitors attending the meeting.
 
 ### Secretary's Report
-Bert (VE2ZAZ) posted a draft version of the April 2023 meeting minutes on the Club website prior to this meeting. Moved by him that the minutes be adopted as posted on the website. Seconded by Glenn (VE3XRA). The motion was carried. 
+Bert (VE2ZAZ) posted a draft version of the April 2023 meeting minutes on the Club website prior to this meeting. Moved by him that the minutes be adopted as posted on the website. Seconded by Glenn (VE3XRA). The motion was carried.
 
 ### Treasurer's Report
 - As of this meeting's date, no April 2023 bank statement had been received.
@@ -40,16 +40,16 @@ Lawrence (VA3IQ) informed the members of the following upcoming meeting presenta
 - Meeting presentations in planning
    - Mike (VA3TEC): State of the art in FPGAs.
    - Paul (W1GHZ): Subject to be determined.
-   - Ham Radio Science Citizen Investigation. The presentation will be given by a PhD student. 
-      
+   - Ham Radio Science Citizen Investigation. The presentation will be given by a PhD student.
+
 ### Director's Report
 Nothing to report.
 
 ### President's Report
 Nothing to report.
 
-### Presentation 
-None. The bulk of the meeting was spent preparing for the WCARC's participation in the 2023 ARRL June VHF Contest. 
+### Presentation
+None. The bulk of the meeting was spent preparing for the WCARC's participation in the 2023 ARRL June VHF Contest.
 
 ### Old Business
 - 902/1296 MHz Beacons: The beacons are still non-operational. Bert (VE2ZAZ) will contact Phil Lytle (VE3HOA) to get an update on their attempt to organize a visit to the YMCA roof to re-activate the beacons.
@@ -62,7 +62,7 @@ None. The bulk of the meeting was spent preparing for the WCARC's participation 
 ### New Business
 None.
 
-### Show and tell 
+### Show and tell
 None.
 
 ### Ask the Club
