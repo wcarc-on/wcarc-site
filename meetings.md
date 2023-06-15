@@ -15,8 +15,6 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* May 15, 2023 – Planning for the June VHF contest
-* Jun. 9-12, 2023 – **June VHF Contest**
 * Jun. 19, 2023:
   * After action report on the June VHF Contest
   * Paul Fredette (K1YBE): Update on the North East ARTEN Project
