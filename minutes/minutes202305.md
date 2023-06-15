@@ -35,12 +35,12 @@ Bert (VE2ZAZ) posted a draft version of the April 2023 meeting minutes on the Cl
 ### Vice President's Report
 Lawrence (VA3IQ) informed the members of the following upcoming meeting presentations.
 - Meeting presentations already scheduled
-   - June 2023: Action report of the contest. Also, Paul (K1YBE): ARTEN Project - New England Mesh Networking.
-   - July 2023: Dennis (WA4LPR): INTRFIL - Round rod inter-digital filtering construction software.
+  - June 2023: Action report of the contest. Also, Paul (K1YBE): ARTEN Project - New England Mesh Networking.
+  - July 2023: Dennis (WA4LPR): INTRFIL - Round rod inter-digital filtering construction software.
 - Meeting presentations in planning
-   - Mike (VA3TEC): State of the art in FPGAs.
-   - Paul (W1GHZ): Subject to be determined.
-   - Ham Radio Science Citizen Investigation. The presentation will be given by a PhD student.
+  - Mike (VA3TEC): State of the art in FPGAs.
+  - Paul (W1GHZ): Subject to be determined.
+  - Ham Radio Science Citizen Investigation. The presentation will be given by a PhD student.
 
 ### Director's Report
 Nothing to report.
@@ -56,8 +56,8 @@ None. The bulk of the meeting was spent preparing for the WCARC's participation 
 - WCARC badges: Lawrence (VA3IQ) informed the attendees that the badges had been received. They will be distributed at the Kinburn Community Centre during the VHF Contest.
 - 432 Yagi antenna Procurement: As previously mentioned, Bert (VE2ZAZ) will contact Ken (VA3KA)  again at the end of May to set up a pick up of the antenna.
 - Clayton (VE3IRR): A few early notes on the upcoming June VHF contest
-   - The contest web page has been updated with 2023 information, and is now posted on the WCARC website.
-   - Clayton is trying to reach previously active rover stations to gauge their interest in coordinating their activities with the WCARC.
+  - The contest web page has been updated with 2023 information, and is now posted on the WCARC website.
+  - Clayton is trying to reach previously active rover stations to gauge their interest in coordinating their activities with the WCARC.
 
 ### New Business
 None.
