@@ -15,9 +15,6 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* Jun. 19, 2023:
-  * After action report on the June VHF Contest
-  * Paul Fredette (K1YBE): Update on the North East ARTEN Project
 * Jul. 17, 2023 – TBA
 * Aug. 21, 2023:
   * After action report on 222 MHz and Up Distance Contest and 10 GHz & Up Contest (Round 1)
