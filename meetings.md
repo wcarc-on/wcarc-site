@@ -21,7 +21,8 @@ into a couple of hours.
   * Mike Kennedy (VA3TEC) – State of the art in FPGAs
 * Sep. 18, 2023:
   * Dennis Sweeney (WA4LPR) – INTRFIL: Design and Construction of Round Rod Interdigitated Filters
-* Oct. 16, 2023: TBA
+* Oct. 16, 2023:
+  * Rene Barbeau (VE2UG) – Cassegrain Antennas for 47, 78, & 122 GHz
 * Nov. 20, 2023: TBA
 * Dec. 18, 2023:
   * Annual General Meeting and Christmas Party
