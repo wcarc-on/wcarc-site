@@ -30,7 +30,7 @@ Bert (VE2ZAZ) posted a draft version of the June 2023 meeting minutes on the Clu
 - The Club currently has 24 regular members and 4 life members.
 
 ### Vice President's Report
-Lawrence (VA3IQ) informed the members of the following upcoming meeting presentations.
+Lawrence (VA3IQ) informed the members of the following upcoming meeting presentations:
 - Meeting presentations already scheduled:
    - August 2023: Mike (VA3TEC) - The state of the art in FPGAs.
    - September 2023: Dennis (WA4LPR) - INTRFIL - Round rod inter-digital filtering construction software.
@@ -54,11 +54,11 @@ No presentation was given this month.
 - Lawrence (VA3IQ): The Club's interest in providing advice on emergency communications to a local emergency preparedness committee. Lawrence reached out to the president of the emergency preparedness committee. He has not heard back from him. A discussion on that matter between the Club Officers will take place when we know more. The board will report back to the members at a future meeting.
 
 ### New Business
-- In-person meetings. Lawrence (VA3IQ) will start to search for a low cost location for our meetings. Members are asked to come up with suggestions of venues. An informal discussion followed.
-- Club participation at the OARC Carp hamfest (scheduled September 9th 2023). Bert (VE2ZAZ) will make the table reservation.
+- In-person meetings: Lawrence (VA3IQ) will start to search for a low-cost location for our meetings. Members are asked to come up with suggestions of venues. An informal discussion followed.
+- Club participation at the OARC Carp hamfest (scheduled September 9th 2023): Bert (VE2ZAZ) will make the table reservation.
 
 ### Show and tell
-- Bert (VE2ZAZ) talked about a RCS-10 coaxial switch smart controller he designed and built. It works great with an Icom IC-7300, or with any Icom HF radio equipped with a physical "Remote" CI-V jack.
+- Bert (VE2ZAZ) talked about an RCS-10 coaxial switch smart controller he designed and built. It works great with an Icom IC-7300, or with any Icom HF radio equipped with a physical "Remote" CI-V jack.
 - Clayton (VE3IRR) showed a simple antenna installation for receiving weather balloon radiosonde beacons.
 - A few participants tried to place calls on the the Hamshack Hotline VoIP network.
 - Mike (VA3TEC) showed an Intel N95 dual-core mini-computer, which is available on Amazon for around $225. This PC beats the Raspberry Pi units in features and performance.
