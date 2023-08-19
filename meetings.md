@@ -15,9 +15,6 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* Jul. 17, 2023:
-  * Show & Tell
-  * Questions for Elmers
 * Aug. 21, 2023:
   * After action report on 222 MHz and Up Distance Contest and 10 GHz & Up Contest (Round 1)
   * Mike Kennedy (VA3TEC) – State of the art in FPGAs
