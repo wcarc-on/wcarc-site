@@ -54,7 +54,7 @@ Nothing to report.
 Nothing to report.
 
 ### Presentation(s)
-Mike (VA3TEC): Introduction to Field-Programmable-Gate-Arrays (FPGA).
+Mike (VA3TEC): Introduction to Field-Programmable Gate Arrays (FPGA).
 
 ### Old Business
 - 903/1296 MHz Beacons: Bert (VE2ZAZ) joined Phil Lytle (VE3HOA) and Phil St-Germain (VE3CIQ) for a visit to the YMCA roof to recover the beacons. The plan is to revise them and then to install them at the Diefenbunker site, next to our other beacons. This will be completed in the next few weeks.
