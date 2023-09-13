@@ -58,7 +58,7 @@ Following is a list of the WCARC beacons:
 
 ## Photos
 
-### 2m, 1,25m, 70cm, and 33cm Beacons
+### 6m, 2m, 1.25m, and 70cm Beacons
 
 ![interior of beacon enclosure](images/beacon_enclosure_inside.jpg)
 
