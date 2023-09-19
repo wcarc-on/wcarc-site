@@ -56,6 +56,10 @@ Following is a list of the WCARC beacons:
 * antenna is a horizontal omni (big wheel by WA5VJB)
 * elevation is about 25 ft AGL
 
+## Source Code
+
+Source code for the beacons is [available on GitHub](https://github.com/wcarc-on/VE3WCC-Beacon-Firmware).
+
 ## Photos
 
 ### 6m, 2m, 1.25m, and 70cm Beacons
