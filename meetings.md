@@ -15,8 +15,6 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* Sep. 18, 2023:
-  * Dennis Sweeney (WA4LPR) – INTRFIL: Design and Construction of Round Rod Interdigitated Filters
 * Oct. 16, 2023:
   * Rene Barbeau (VE2UG) – Cassegrain Antennas for 47, 78, & 122 GHz
 * Nov. 20, 2023: TBA
