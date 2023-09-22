@@ -43,7 +43,7 @@ Following is a list of the WCARC beacons:
 ### 33cm - VE3WCC - 903.360MHz CW
 * status: fully operational
 * beacon module purchased from Bruce (W7BAS)
-* located in FN25xi
+* located in FN15xi
 * power is 100mW
 * antenna is a horizontal omni (big wheel by WA5VJB)
 * elevation is about 25 ft AGL
@@ -51,7 +51,7 @@ Following is a list of the WCARC beacons:
 ### 23cm - VE3WCC - 1296.060MHz CW
 * status: fully operational
 * beacon module purchased from Bruce (W7BAS)
-* located in FN25xi
+* located in FN15xi
 * power is 100mW
 * antenna is a horizontal omni (big wheel by WA5VJB)
 * elevation is about 25 ft AGL
