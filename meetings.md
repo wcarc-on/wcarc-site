@@ -16,7 +16,7 @@ into a couple of hours.
 ## Upcoming Speakers and Topics
 
 * Nov. 20, 2023:
-  * Leo Yoshinaka (VA3CZZ) – Carleton University Cubesat Project
+  * Leo Yoshinaka (VA3EBI) – Carleton University Cubesat Project
 * Dec. 18, 2023:
   * Annual General Meeting and Christmas Party
 
