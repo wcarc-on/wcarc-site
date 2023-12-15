@@ -43,10 +43,10 @@ There was one visitor attending the meeting.
 The director had nothing to report.
 
 ### President's Report
-Prior to the October meeting, Charles suffered an appendicitis with rupture. Moreover, while being under observation, the doctors also detected an irregular heart rate. As a result, he will be scaling back his involvement in the Club. This means that he will not be running again for Club President, a position to be filled at this upcoming Annual General Meeting. Nonetheless, Charles will try to run the December meeting and will also issue the yearly President report.
+Prior to the October meeting, Charles suffered an appendicitis with rupture. Moreover, while being under observation, the doctors also detected an irregular heart rate. As a result, he will be scaling back his involvement in the Club. This means that he will not be running again for Club President, a position to be filled at this upcoming Annual General Meeting. Nonetheless, Charles will try to run the December meeting and will also issue the Club's Annual Report.
 
 ### Presentation(s)
-Leo Yoshinaka,VA3CZZ, Carleton University Aerospace/Aerophysics Radio Club cubesat project.
+Leo Yoshinaka (VA3CZZ): Carleton University Aerospace/Aerophysics Radio Club cubesat project.
 
 ### Old Business
 - Lawrence (VA3IQ): The Club's interest in providing advice on emergency communications to the Galetta Community Association Emergency Planning Committee. Lawrence reached out to the president of the Committee. Since there has not been any news received from the Committee in months, Bert (VE2ZAZ) proposed that we remove that item from the Old Business section. Lawrence agreed to do so.
@@ -59,9 +59,9 @@ Leo Yoshinaka,VA3CZZ, Carleton University Aerospace/Aerophysics Radio Club cubes
 - No new business.
 
 ### Show and tell
-- Bert (VE2ZAZ) showed pictures of the SOTA activation of Mont-Ste-Marie he did with Georges-André (VE2VAB) on November 11th.
+- Bert (VE2ZAZ) showed pictures of the SOTA activation of Mont-Ste-Marie he did with Georges-André (VE2VAB) on November 11<sup>th</sup>.
 - Bert (VE2ZAZ) displayed pictures showing the progress of the Corkery Community Centre expansion. He will contact the Association in January to inquire about using the facility for our 2024 June VHF Contest activity.
-- New rule for the VHF contest: Equipment must be able to establish a bidirectional communication over a 5 Km distance. A longer link requirement may impact the Club's plans for frequency band coverage. To be discussed in the Spring.
+- New rule for the VHF contest: Equipment must be able to establish a bidirectional communication over a 5 km distance. A longer link requirement may impact the Club's plans for frequency band coverage. To be discussed in the spring.
 
 
 ### Ask the Club
