@@ -15,9 +15,8 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* Dec. 18, 2023:
-  * Annual General Meeting
-  * Show & Tell
+* Jan. 15, 2023:
+  * TBA
 
 ## Meeting Location
 
