@@ -15,7 +15,7 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* Jan. 15, 2023:
+* Jan. 15, 2024:
   * TBA
 
 ## Meeting Location
