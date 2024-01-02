@@ -3,7 +3,7 @@ layout: page
 title: Contacts
 ---
 ## Executive
-* President: Charles MacDonald (VA3CPY)
+* President: vacant
 * Vice President: Lawrence Dobranski (VA3IQ)
 * Treasurer: Ray Perrin (VE3FN)
 * Secretary: Bert Zauhar (VE2ZAZ)
