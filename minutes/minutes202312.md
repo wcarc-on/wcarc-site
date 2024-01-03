@@ -23,7 +23,7 @@ There were no visitors attending the meeting.
 Since next year will be an even-numbered year, the following positions were to be renewed at this Annual General Meeting: President, Secretary and Director. Thus, an election had to to take place.
 - Secretary: Bert (VE2ZAZ) officially offered by email to carry on with the Secretary duties for another two-year term. No other candidates came forward at this meeting. Bert (VE2ZAZ) is thus re-elected by acclamation.
 - The Officers present at the meeting being unsure of whether a quorum was reached, it was decided to defer the election of the President and Director positions until the January 2024 meeting.
-- Due to health reasons, the outgoing President cannot carry on his duties until a new President is elected. Thus the Vice President is taking over the President duties in the interim.
+- Due to health reasons, the outgoing President cannot carry on his duties until a new President is elected. Thus the Vice President is taking over the President's duties in the interim.
 - Mike (VA3TEC), though not present, has offered to help the Club by getting involved on the Executive board. His role and/or position will be defined at the next meeting, granted that he is present then.
 
 ### Secretary's Report
@@ -40,7 +40,7 @@ At the next meeting, Lawrence would like to discuss a few proposals of amendment
 The director was absent.
 
 ### President's Report
-Charles (VA3CPY) read the President's Annual Report, listing the 2023 Club highlights. Peter (VA3PJ) moved that the report be adopted as is, and Lawrence (VA3IQ) seconded. The motion was carried. The report is filed as a separate document, and will be made available for consultation on the Club website.
+Charles (VA3CPY) read the [President's Annual Report](report2023.html), listing the 2023 Club highlights. Peter (VA3PJ) moved that the report be adopted as is, and Lawrence (VA3IQ) seconded. The motion was carried. The report is filed as a separate document, and will be made available for consultation on the Club website.
 
 ### Presentation(s)
 This being the Annual General Meeting, no presentation was scheduled.
