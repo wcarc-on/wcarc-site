@@ -15,8 +15,35 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* Jan. 15, 2024:
+* January 15, 2024:
   * TBA
+* February 12, 2024\*:
+  * TBA
+* March 18, 2024:
+  * TBA
+* April 15, 2024:
+  * TBA
+* May 13, 2024\*:
+  * Planning for the June VHF contest
+* June 7-10, 2024:
+  * **June VHF Contest**
+* June 17, 2024:
+  * TBA
+* July 15, 2024:
+  * TBA
+* August 19, 2024:
+  * TBA
+* September 16, 2024:
+  * TBA
+* October 21, 2024:
+  * TBA
+* November 18, 2024:
+  * TBA
+* December 16, 2024:
+  * Annual General Meeting and Christmas Party
+
+\* Note: The February and May meetings will take place on the second Monday of the
+month to avoid the Family Day and Victoria Day holidays.
 
 ## Meeting Location
 
