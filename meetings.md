@@ -15,8 +15,6 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* January 15, 2024:
-  * TBA
 * February 19, 2024:
   * TBA
 * March 18, 2024:
