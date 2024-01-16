@@ -10,7 +10,7 @@ Year Beginning January 1<sup>st</sup> 2024
 Due to the COVID-19 pandemic, all meetings are being held online using Zoom.
 
 ## Executive
-* President: vacant
+* President: Mike Kennedy (VA3TEC)
 * Vice President: Lawrence Dobranski (VA3IQ)
 * Treasurer: Ray Perrin (VE3FN)
 * Secretary: Bert Zauhar (VE2ZAZ)
