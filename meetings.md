@@ -17,7 +17,7 @@ into a couple of hours.
 
 * January 15, 2024:
   * TBA
-* February 12, 2024\*:
+* February 19, 2024:
   * TBA
 * March 18, 2024:
   * TBA
@@ -42,8 +42,8 @@ into a couple of hours.
 * December 16, 2024:
   * Annual General Meeting and Christmas Party
 
-\* Note: The February and May meetings will take place on the second Monday of the
-month to avoid the Family Day and Victoria Day holidays.
+\* Note: The May meeting will take place on the second Monday of the
+month to avoid the Victoria Day holiday.
 
 ## Meeting Location
 
