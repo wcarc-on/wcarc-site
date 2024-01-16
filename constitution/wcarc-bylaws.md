@@ -91,6 +91,10 @@ available to the President and Webmaster. The Club, by majority vote of the
 members present at a general meeting, may levy upon the membership additional
 or alternative dues or assessments. Non-payment of such dues or assessments may
 be cause for expulsion from the Club at the discretion of the membership.
+[*Editor's note:* Dues were increased by majority vote on
+[October 4, 2011](../minutes/minutes201110.html)
+and [November 18, 2019](../minutes/minutes201911.html)
+and now stand at $30 per member.]
 7. Liability Insurance: For purposes of liability insurance coverage under the Radio
 Amateurs of Canada (RAC) master plan, an applicant for membership and all
 renewing members must disclose and maintain their membership status in RAC,
