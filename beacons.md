@@ -14,6 +14,8 @@ The beacons were relocated from FN15vf to FN25ce in May 2015.
 The beacons were relocated from FN25ce to FN25bg in June-July 2015.  
 The beacons were relocated from FN25bg to FN15xi in August 2022.
 
+In 2017, the Club added a 2m WSPR beacon. It operated from FN25bg before being relocated to FN25bk in 2019.
+
 Following is a list of the WCARC beacons:
 
 ### 6m - VE3WCC - 50.009MHz CW
@@ -56,6 +58,13 @@ Following is a list of the WCARC beacons:
 * antenna is a horizontal omni (big wheel by WA5VJB)
 * elevation is about 25 ft AGL
 
+### 2m - VE2ZAZ/B - 144.490460 MHz WSPR
+* status: fully operational
+* located in FN25bk
+* power is 500mW
+* EggBeater-II antenna at about 30 ft AGL
+* more detail on [Bert's website](https://ve2zaz.net/2m_WSPR_Beacon/VE2ZAZ-B_2m_WSPR_Beacon.htm)
+
 ## Source Code
 
 Source code for the beacons is [available on GitHub](https://github.com/wcarc-on/VE3WCC-Beacon-Firmware).
@@ -85,6 +94,12 @@ Source code for the beacons is [available on GitHub](https://github.com/wcarc-on
 ![900 MHz and 1296 MHz beacon PVC encapsulation](images/pvc_beacon_encapsulation_01.jpg)
 
 ![all beacons on their masts](images/2023_all_beacons.jpg)
+
+### 2m WSPR Beacon
+
+![2m WSPR beacon transmitter](images/wspr_beacon.jpg)
+
+![2m WSPR beacon antenna](images/wspr_beacon_antenna.jpg)
 
 ## Other Beacons
 
