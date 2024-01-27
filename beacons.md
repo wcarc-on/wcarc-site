@@ -14,7 +14,7 @@ The beacons were relocated from FN15vf to FN25ce in May 2015.
 The beacons were relocated from FN25ce to FN25bg in June-July 2015.  
 The beacons were relocated from FN25bg to FN15xi in August 2022.
 
-In 2017, the Club added a 2m WSPR beacon. It operated from FN25bg before being relocated to FN25bk in 2019.
+In 2017, the Club added a 2m WSPR beacon. It operated from FN25bg before being relocated to FN25bk in 2018.
 
 Following is a list of the WCARC beacons:
 
