@@ -26,8 +26,8 @@ The meeting was opened by the Vice President, Lawrence Dobranski (VA3IQ), at 7:1
 There was one visitor attending the meeting.
 
 ### Secretary's Report
-- Bert (VE2ZAZ) had posted a draft version of the November 2023 meeting minutes on the Club website prior to the December meeting. However these minutes were not adopted at the December meeting. Moved by him that the November meeting minutes be adopted as posted on the website. Seconded by Mike (VA3TEC). The motion was carried. 
-- He has also posted a draft version of the December 2023 meeting minutes on the Club website prior to this meeting. Moved by him that the minutes be adopted as posted on the website. Seconded by Lawrence (VA3IQ). The motion was carried. 
+- Bert (VE2ZAZ) had posted a draft version of the November 2023 meeting minutes on the Club website prior to the December meeting. However these minutes were not adopted at the December meeting. Moved by him that the November meeting minutes be adopted as posted on the website. Seconded by Mike (VA3TEC). The motion was carried.
+- He has also posted a draft version of the December 2023 meeting minutes on the Club website prior to this meeting. Moved by him that the minutes be adopted as posted on the website. Seconded by Lawrence (VA3IQ). The motion was carried.
 - Bert submitted the RAC Affiliated Club and Insurance Program paperwork to RAC on January 6th. RAC will come back soon with a quotation for us to pay. Bert will then forward the invoice to the Treasurer so that he can proceed with the payment.
 
 ### Treasurer's Report
@@ -37,13 +37,13 @@ There was one visitor attending the meeting.
 ### Vice President's Report
 - Lawrence thanked Charles (VA3CPY), our past President, for his contribution to the Club.
 - Upcoming presentations:
-    - Confirmed: 
+    - Confirmed:
         - February: VE2ZAZ - A presentation of his 10G Narrow-band transverter system.
-    - In planning: 
-        - RT Systems: Their radio programming software. 
+    - In planning:
+        - RT Systems: Their radio programming software.
         - VE2DX: His product line of add-ons, mainly for Icom radios.
         - VA2FSQ: Win4Icom and Win4Yaesu radio control software.
-- The February Meeting will be held on Monday the 19th, the usual third Monday of the month. The third Monday in May being the Victoria Day holiday, the May meeting will be held on the 13th, the second Monday of the month. 
+- The February Meeting will be held on Monday the 19th, the usual third Monday of the month. The third Monday in May being the Victoria Day holiday, the May meeting will be held on the 13th, the second Monday of the month.
 
 ### Director's Report
 The director had nothing to report.
@@ -51,12 +51,12 @@ The director had nothing to report.
 ### President's Report
 The position of President was vacant.
 
-### Presentation(s) 
+### Presentation(s)
 There was no presentation.
 
 ### Old Business
 - Lawrence (VA3IQ) is organizing a Saturday morning (8AM) breakfast in February. The selected location is the Summerhays Restaurant. A reservation will be made, and then communicated on the WCARC groups.io.
-- Microwave day in a park: Lawrence is proposing that we hold a VHF and microwave communication day in a park when the warm weather returns and prior to the June VHF contest, likely at the end of April or in early in May. In early March, Bert (VE2ZAZ) will inquire about the Corkery Community Centre field as a potential venue for this event. 
+- Microwave day in a park: Lawrence is proposing that we hold a VHF and microwave communication day in a park when the warm weather returns and prior to the June VHF contest, likely at the end of April or in early in May. In early March, Bert (VE2ZAZ) will inquire about the Corkery Community Centre field as a potential venue for this event.
 - Constitution and bylaws discussion.
 The Club will revise the bylaws to reflect the current Club situation. A proposal is to have a 2-member sub-committee to perform the exercise, and then to submit the updated bylaws to the members for approval at the 2024 Annual General Meeting. Composition of the sub-committee will be decided at the February meeting. Some of the items discussed are:
     - One proposal is to add the webmaster as a Director. This would ensure that a higher number of Officers are active and available at any time.
@@ -74,7 +74,7 @@ The following Executive positions were still vacant prior to the meeting: Presid
 - June VHF Contest venue reservation: We will know only in March whether we move back to the Corkery Community building for the VHF Contest. It was agreed by the participants that the Club reserves both the Kinburn and the Corkey Community Centres. This will insure that we have a backup plan in case the Corkery Centre ends up being unavailable. Bert (VE2ZAZ) will contact the Kinburn Centre to reserve the site.
 - Zoom conference account: The previous meetings were set up using Charles's (VA3CPY) personal Zoom account. In the future, Laurence (VA3IQ), the Vice President, will be using his personal Zoom account for the monthly meetings.
 
-### Show and tell 
+### Show and tell
 - Bert (VE2ZAZ) showed his 10 GHz 3 Watt power amplifier, generously donated by a Québec ham.
 - Bert (VE2ZAZ) reminded the participants that the Club-sponsored 144 MHz WSPR beacon he runs at his place is still active. It transmits on 144.490,460 MHz, with around 500 mW of power into an omnidirectional horizontally-polarized antenna. The beacon was decoded by a few hams in the Québec City area, some 400 Km away.
 
