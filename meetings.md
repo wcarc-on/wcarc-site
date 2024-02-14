@@ -16,11 +16,11 @@ into a couple of hours.
 ## Upcoming Speakers and Topics
 
 * February 19, 2024:
-  * TBA
+  * Howard J. Simkover, Royal Canadian Astronomical Society of Canada, Ottawa Branch — Celestial Shadows: Eclipses of the Sun
 * March 18, 2024:
-  * TBA
+  * Bert Zauhar (VE2ZAZ) — QRV on 10 GHz
 * April 15, 2024:
-  * TBA
+  * Karin Thompson (KD4DXX) — RT Systems present and discuss their programmers, radios, cables, and also give hints and tricks of their family of products.
 * May 13, 2024\*:
   * Planning for the June VHF contest
 * June 7-10, 2024:
