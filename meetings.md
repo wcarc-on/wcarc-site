@@ -15,8 +15,6 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* February 19, 2024:
-  * Howard J. Simkover, Royal Canadian Astronomical Society of Canada, Ottawa Branch — Celestial Shadows: Eclipses of the Sun
 * March 18, 2024:
   * Bert Zauhar (VE2ZAZ) — QRV on 10 GHz
 * April 15, 2024:
