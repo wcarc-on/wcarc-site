@@ -17,6 +17,8 @@ into a couple of hours.
 
 * March 18, 2024:
   * Bert Zauhar (VE2ZAZ) — QRV on 10 GHz
+* April 6, 2024:
+  * [Microwave Activity Day (MAD)](mad.html) at the Diefenbunker
 * April 15, 2024:
   * Karin Thompson (KD4DXX) — RT Systems present and discuss their programmers, radios, cables, and also give hints and tricks of their family of products.
 * May 13, 2024\*:
