@@ -30,16 +30,16 @@ There was one visitor attending the meeting.
 - Bert (VE2ZAZ) posted a draft version of the January 2024 meeting minutes on the Club website prior to this meeting. Moved by him that the minutes be adopted as posted on the website. Seconded by Rémi (VA3DRI). The motion was carried.
 - Bert received the RAC Affiliation Program and insurance quote from RAC on February 7th. The quote was forwarded to our Treasurer, who will make the payment to RAC.
 - Bert sent an Officers update form for our non-for-profit status to the Government of Ontario. The update shows Mike (VA3TEC) as our new President. Bert later received an email confirmation that the change had been successfully processed.
-- Bert reserved the Kinburn Community Centre as a backup site for our VHF contest. This was done at no cost. Bert will contact them again in March to either cancel of confirm the reservation, based on whether the Corkery Building is available or not.
+- Bert reserved the Kinburn Community Centre as a backup site for our VHF contest. This was done at no cost. Bert will contact them again in March to either cancel of confirm the reservation, based on whether the Corkery building is available or not.
 
 ### Treasurer's Report
-- Ray (VE3FN) reported: As of January 31 2024, we had $15.00 in our share account.  We also had $2,734.76 in our checking account and a total of $2,185.44 in our two term deposits.
+- Ray (VE3FN) reported: As of January 31, 2024, we had $15.00 in our share account.  We also had $2,734.76 in our chequing account and a total of $2,185.44 in our two term deposits.
 - The Club currently has 19 regular (paid) members and 3 life members. Ray asked to forward membership dues to him via an Interac email transfer, or to send him a check by mail. He has also sent a reminder email to the Club groups.io reflector.
 
 ### Vice President's Report
 - Upcoming presentations:
   - Confirmed:
-    - March: VE2ZAZ - A presentation of his 10G Narrow-band transverter system.
+    - March: VE2ZAZ - A presentation of his 10G narrow-band transverter system.
     - April: RT Systems - Their radio programming software.
     - May: No presentation. We will hold our VHF Contest preparation meeting.
   - In planning:
@@ -57,7 +57,7 @@ Mike (VA3TEC) thanked everyone for electing him as the Club President. Being new
 Howard J. Simkover of the Ottawa Branch of the Royal Astronomical Society of Canada: The April 2024 Eclipse in Eastern Canada.
 
 ### Old Business
-- Club Saturday morning breakfast: The Summerhays Restaurant will not take reservation for Saturdays. Consequently, Lawrence (VA3IQ) must find another restaurant.
+- Club Saturday morning breakfast: The Summerhays Restaurant will not take a reservation for Saturdays. Consequently, Lawrence (VA3IQ) must find another restaurant.
 - Microwave day in a park: Lawrence is proposing that we hold a VHF and microwave communication day in a park when the warm weather returns and prior to the June VHF contest, likely at the end of April or in early in May. In early March, Bert (VE2ZAZ) will inquire about the Corkery Community Centre field as a potential venue for this event.
 - Constitution and bylaws discussion: The Club will revise the bylaws to reflect the current Club situation.
   - A proposal is to have a 2-member sub-committee to perform the exercise, and then to submit the updated bylaws to the members for approval at the 2024 Annual General Meeting.
