@@ -38,13 +38,13 @@ There was one visitor attending the meeting.
 
 ### Vice President's Report
 - Upcoming presentations:
-    - Confirmed:
-        - March: VE2ZAZ - A presentation of his 10G Narrow-band transverter system.
-        - April: RT Systems - Their radio programming software.
-        - May: No presentation. We will hold our VHF Contest preparation meeting.
-    - In planning:
-        - VE2DX: His product line of add-ons, mainly for Icom radios.
-        - VA2FSQ: Win4Icom and Win4Yaesu radio control software.
+  - Confirmed:
+    - March: VE2ZAZ - A presentation of his 10G Narrow-band transverter system.
+    - April: RT Systems - Their radio programming software.
+    - May: No presentation. We will hold our VHF Contest preparation meeting.
+  - In planning:
+    - VE2DX: His product line of add-ons, mainly for Icom radios.
+    - VA2FSQ: Win4Icom and Win4Yaesu radio control software.
 - The February Meeting will be held on Monday the 19th, the usual third Monday of the month. The third Monday in May being the Victoria Day holiday, the May meeting will be held on the 13th, the second Monday of the month.
 
 ### Director's Report
@@ -60,13 +60,13 @@ Howard J. Simkover of the Ottawa Branch of the Royal Astronomical Society of Can
 - Club Saturday morning breakfast: The Summerhays Restaurant will not take reservation for Saturdays. Consequently, Lawrence (VA3IQ) must find another restaurant.
 - Microwave day in a park: Lawrence is proposing that we hold a VHF and microwave communication day in a park when the warm weather returns and prior to the June VHF contest, likely at the end of April or in early in May. In early March, Bert (VE2ZAZ) will inquire about the Corkery Community Centre field as a potential venue for this event.
 - Constitution and bylaws discussion: The Club will revise the bylaws to reflect the current Club situation.
-   - A proposal is to have a 2-member sub-committee to perform the exercise, and then to submit the updated bylaws to the members for approval at the 2024 Annual General Meeting.
-   - Bert mentioned that Norm (VE3NPP) could be a good candidate for the revision work. Mike (VA3TEC) offered to contact him to see whether he would be interested in helping out with that task.
-   - Some of the items previously discussed were:
-      - One proposal is to add the webmaster as a Director. This would ensure that a higher number of Officers are active and available at any time.
-      - The bylaws web page should be updated to reflect, either by referring to some external information, or explicitly, the current member dues.
-      - The online (Zoom) nature of our meetings should be reflected into our bylaws.
-      - According to Norm (VE3NPP), all 4 Officers (President, Vice President, Treasurer and Secretary) are directors, and we have a fifth director, which we call the Director. This complies with the Non-For-Profit corporation structure in Ontario.
+  - A proposal is to have a 2-member sub-committee to perform the exercise, and then to submit the updated bylaws to the members for approval at the 2024 Annual General Meeting.
+  - Bert mentioned that Norm (VE3NPP) could be a good candidate for the revision work. Mike (VA3TEC) offered to contact him to see whether he would be interested in helping out with that task.
+  - Some of the items previously discussed were:
+    - One proposal is to add the webmaster as a Director. This would ensure that a higher number of Officers are active and available at any time.
+    - The bylaws web page should be updated to reflect, either by referring to some external information, or explicitly, the current member dues.
+    - The online (Zoom) nature of our meetings should be reflected into our bylaws.
+    - According to Norm (VE3NPP), all 4 Officers (President, Vice President, Treasurer and Secretary) are directors, and we have a fifth director, which we call the Director. This complies with the Non-For-Profit corporation structure in Ontario.
 
 ### New Business
 - Microwave demo by the Club at the Smiths Falls hamfest: The hamfest will be held at a new location this year, the Civitan Club, just outside of the city. Bert (VE2ZAZ) will perform a link study between the Civitan Club and the Numogate communication hill. He will report back on the results.
