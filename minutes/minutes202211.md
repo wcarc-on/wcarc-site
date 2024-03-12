@@ -30,7 +30,7 @@ There were two visitors attending the meeting.
 Bert (VE2ZAZ) posted a draft version of the October 2022 meeting minutes on the Club website prior to this meeting. Moved by him that the minutes be adopted as posted on the website. Seconded by Karen (VA3IGO). The motion was carried.
 
 ### Treasurer's Report
-- On October 31st, the balance for our checking account was $2,456.36. There is also $2,000 which is split up into two term deposits. One has a maturity date of August 21st, 2023. The other matured on October 21st. It was rolled over into a new one-year deposit earning 3.40% interest. This is up from 0.85% that it had been previously earning.
+- On October 31st, the balance for our chequing account was $2,456.36. There is also $2,000 which is split up into two term deposits. One has a maturity date of August 21st, 2023. The other matured on October 21st. It was rolled over into a new one-year deposit earning 3.40% interest. This is up from 0.85% that it had been previously earning.
 - There are 21 members as of today. There are also three life members.
 
 ### Vice President's Report
