@@ -15,8 +15,6 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* March 18, 2024:
-  * Bert Zauhar (VE2ZAZ) — QRV on 10 GHz
 * April 6, 2024:
   * [Microwave Activity Day (MAD)](mad.html) at the Diefenbunker
 * April 15, 2024:
