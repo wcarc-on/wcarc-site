@@ -74,7 +74,7 @@ No new business was brought forward.
 ### Show and tell
 - Georges-André (VA2VAB): Concurrent Ontario and Quebec QSO parties will take place on April 20th (ON) and 21st (ON and QC).
 - A discussion on home-buit 6m horizontal omnidirectional antennas took place.
-- Lawrence showed a EXP Microwave high power 4:1 microwave coaxial relay he purchased for 60$.
+- Lawrence showed a EXP Microwave high power 4:1 microwave coaxial relay he purchased for $60.
 
 ### Ask the Club
 No questions were asked.
