@@ -4,7 +4,8 @@ title: Meeting Minutes
 ---
 * 2024:
 [Jan](minutes202401.html),
-[Feb](minutes202402.html)
+[Feb](minutes202402.html),
+[Mar](minutes202403.html)
 * 2023:
 [Jan](minutes202301.html),
 [Feb](minutes202302.html),
