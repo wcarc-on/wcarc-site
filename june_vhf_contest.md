@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 2023 ARRL June VHF Contest
+title: 2024 ARRL June VHF Contest
 ---
 
-From June 9<sup>th</sup> to 12<sup>th</sup>, the West Carleton Amateur Radio Club will once again participate in the ARRL June VHF contest. This will be our 14<sup>th</sup> year competing as a multi-operator station (VE3WCC). We'll be operating from the [Kinburn Community Centre](https://www.kinburn.ca/), which is located West of Ottawa, between Carp and Arnprior.
+From June 7<sup>th</sup> to 10<sup>th</sup>, the West Carleton Amateur Radio Club will once again participate in the ARRL June VHF contest. This will be our 15<sup>th</sup> year competing as a multi-operator station (VE3WCC). We'll be operating from the [Kinburn Community Centre](https://www.kinburn.ca/), which is located West of Ottawa, between Carp and Arnprior.
 
 Helping with setup of the station is a great opportunity for beginners to get experience setting up a station. You'll learn how to assemble antennas, towers, rotors, coax, radios, and logging software.
 
@@ -31,7 +31,7 @@ Maidenhead grid square FN15vj
 When?
 -----
 
-Outdoor setup (towers, rotators, antennas, coax) will begin on Friday morning (June 10) around 09:00. We'll have access to the inside of the community centre starting around noon. Final setup will take place on Saturday morning. The contest begins at 14:00 (local) on Saturday (June 11) and continues until 23:00 (local) on Sunday (June 12). We'll dismantle the station on Monday morning (June 13) from about 09:00 to 12:00.
+Outdoor setup (towers, rotators, antennas, coax) will begin on Friday morning (June 7) around 09:00. We'll have access to the inside of the community centre starting around noon. Final setup will take place on Saturday morning. The contest begins at 14:00 (local) on Saturday (June 8) and continues until 23:00 (local) on Sunday (June 9). We'll dismantle the station on Monday morning (June 10) from about 09:00 to 12:00.
 
 What to bring?
 --------------
@@ -39,7 +39,6 @@ What to bring?
 * Work boots and work gloves, if you'll be helping with tower setup or teardown
 * A smartphone, tablet or laptop (to make 2.4 GHz microwave contacts over WiFi during your visit)
 * A transmit-capable SDR (e.g. HackRF, BladeRF, LimeSDR), if you have one
-* A Ramsey laser kit, if you have one
 * A handy-talkie to make FM contacts with the station
 * Food and drinks for yourself
 
