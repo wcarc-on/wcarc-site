@@ -15,8 +15,6 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* April 15, 2024:
-  * Karin Thompson (KD4DXX) — RT Systems present and discuss their programmers, radios, cables, and also give hints and tricks of their family of products.
 * May 13, 2024\*:
   * Planning for the June VHF contest
 * June 7-10, 2024:
