@@ -16,11 +16,14 @@ into a couple of hours.
 ## Upcoming Speakers and Topics
 
 * May 13, 2024\*:
-  * Planning for the June VHF contest
+  * Draft WCARC bylaw plans
+  * Report on N.E.W.S. conference
+  * Planning for the June VHF Contest
 * June 7-10, 2024:
   * **June VHF Contest**
 * June 17, 2024:
-  * TBA
+  * After-action report on the June VHF Contest
+  * Project roundtable
 * July 15, 2024:
   * TBA
 * August 19, 2024:
@@ -28,11 +31,12 @@ into a couple of hours.
 * September 16, 2024:
   * TBA
 * October 21, 2024:
-  * TBA
+  * Microwave Update conference report
+  * Universal Serial Bus (USB) overview, Wayne Getchell (VE3CZO)
 * November 18, 2024:
-  * TBA
+  * Design of a homebrew pole-mounted rover setup, Mike Kennedy (VA3TEC)
 * December 16, 2024:
-  * Annual General Meeting and Christmas Party
+  * Annual General Meeting and Christmas party
 
 \* Note: The May meeting will take place on the second Monday of the
 month to avoid the Victoria Day holiday.
