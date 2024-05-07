@@ -28,16 +28,16 @@ There was one visitor attending the meeting.
 - Bert (VE2ZAZ) posted a draft version of the March 2024 meeting minutes on the Club website prior to this meeting. Moved by him that the minutes be adopted as posted on the website. Seconded by Lawrence (VA3IQ). The motion was carried.
 
 ### Treasurer's Report
-- Ray (VE3FN) reported: The major change in our finances this month is that our cheque to RAC for $305.63 was cashed.  This cheque is to pay for our liability insurance.  Please note that this represents more than half of our total income so far this year. In summary, we have $15.00 in our share account, $3029.37 in our daily banking account, and $2185.44 in our term deposit.
+- Ray (VE3FN) reported: The major change in our finances this month is that our cheque to RAC for $305.63 was cashed.  This cheque is to pay for our liability insurance.  Please note that this represents more than half of our total income so far this year. In summary, we have $15.00 in our share account, $3,029.37 in our daily banking account, and $2,185.44 in our term deposit.
 - The Club currently has 20 regular (paid) members and 3 life members.
 
 ### Vice President's Report
-- The Club had an excellent MAD activity at the Diefenbunker on April 6th. In total, our operators made four 10 Ghz QSOs, Hamilton-ON being the farthest QSO achieved. A German ham radio magazine contacted Lawrence to inquire about our activity. Also, Paul (W1GHZ) asked for some pictures for a potential publication. The Diefenbunker appears to be a good location to reach the GTA area.
+- The Club had an excellent MAD activity at the Diefenbunker on April 6th. In total, our operators made four 10 GHz QSOs, with Hamilton, ON being the farthest QSO achieved. A German ham radio magazine contacted Lawrence to inquire about our activity. Also, Paul (W1GHZ) asked for some pictures for a potential publication. The Diefenbunker appears to be a good location to reach the GTA area.
 - Lawrence is working on having a Club breakfast on the last Saturday of May.
 - Upcoming presentations:
   - Confirmed:
     - May: No presentation. We will hold our VHF Contest preparation meeting.
-    - June: Summary of our VHF contest participation.
+    - June: Summary of our VHF Contest participation.
   - In planning:
     - VE2DX: His product line of add-ons, mainly for Icom radios.
     - VA2FSQ: Win4Icom and Win4Yaesu radio control software.
@@ -54,15 +54,15 @@ Karin Thompson (KD4DXX) of RT Systems: Their Windows programming software, radio
 
 ### Old Business
 - Microwave demo by the Club at the Smiths Falls hamfest on May 11th: Lawrence (VA3IQ) is still trying to contact the new Numogate site owner to obtain a permission to access the site. Mike will notify the hamfest staff of our intention to do a live demo. At the very least, we could display Bert's (VE2ZAZ) system behind a table.
-- Constitution and bylaws discussion: The Club will revise the constitution and bylaws to reflect the current Club situation and comply with the Ontario Corporations Act (ONCA).
+- Constitution and bylaws discussion: The Club will revise the constitution and bylaws to reflect the current Club situation and comply with the Ontario Not-for-Profit Corporations Act (ONCA).
   - Norman (VE3NPP), who has had previous experience in similar legal matters, has agreed to lead the sub-committee. We are looking for another member to assist him.
-  - Alan Hotte VE3IAH contacted Norman regarding his OVMRC work on that matter. He provided him with some written material and valuable indications. According to Alan, there are three possible approaches for the revision:
-    - Rework our existing Constitution and Bylaws,
-    - Use some of the available samples and templates, then copy and paste in our clauses,
+  - Alan Hotte (VE3IAH) contacted Norman regarding his OVMRC work on that matter. He provided him with some written material and valuable indications. According to Alan, there are three possible approaches for the revision:
+    - Rework our existing Constitution and Bylaws.
+    - Use some of the available samples and templates, then copy and paste in our clauses.
     - Run the bylaws builder tool on the ONCA website to produce a customized template, then paste in our clauses.
   - Norman thinks we should adopt the 2nd approach, based on other clubs' constitution.
   - Some items that must be addressed:
-    - Dissolution
+    - Dissolution.
     - Number of directors.
     - The new Bylaws have to be in place by October 2024.
     - Votes on bylaw changes have to be in-person, 2/3rd approval.
@@ -75,7 +75,7 @@ Karin Thompson (KD4DXX) of RT Systems: Their Windows programming software, radio
     - According to Norm (VE3NPP), all 4 Officers (President, Vice President, Treasurer and Secretary) are directors, and we have a fifth director, which we call the Director. This complies with the Non-For-Profit corporation structure in Ontario.
 
 ### New Business
-- 2024 June VHF Contest: Bert (VE2ZAZ) informed the members of a major change in the ARRL VHF Contest rules: Starting this year, our 5.8G phones and Laser communicators will no longer qualify for the minimum 5km link distance. So we will not be able to use them.
+- 2024 June VHF Contest: Bert (VE2ZAZ) informed the members of a major change in the ARRL VHF Contest rules: Starting this year, our 5.8G phones and Laser communicators will no longer qualify for the minimum 5km link distance, so we will not be able to use them.
 
 ### Show and tell
 - Mike (VA3TEC) showed a few pictures he took of the 2024 eclipse.
