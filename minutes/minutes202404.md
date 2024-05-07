@@ -1,3 +1,4 @@
+---
 layout: minutes
 title: Minutes of the Regular Monthly Meeting on April 15th, 2024 - DRAFT
 ---
