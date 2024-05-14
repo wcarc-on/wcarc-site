@@ -15,10 +15,8 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* May 13, 2024\*:
-  * Draft WCARC bylaw plans
-  * Report on N.E.W.S. conference
-  * Planning for the June VHF Contest
+* June 3, 2024:
+  * Final planning for the June VHF Contest
 * June 7-10, 2024:
   * **June VHF Contest**
 * June 17, 2024:
