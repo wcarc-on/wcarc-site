@@ -27,12 +27,12 @@ into a couple of hours.
 * August 19, 2024:
   * TBA
 * September 16, 2024:
-  * TBA
+  * Craig Delmage (VE3OP): What's new at RAC?
 * October 21, 2024:
+  * Wayne Getchell (VE3CZO): Universal Serial Bus (USB) overview
   * Microwave Update conference report
-  * Universal Serial Bus (USB) overview, Wayne Getchell (VE3CZO)
 * November 18, 2024:
-  * Design of a homebrew pole-mounted rover setup, Mike Kennedy (VA3TEC)
+  * Mike Kennedy (VA3TEC): Design of a homebrew pole-mounted rover setup
 * December 16, 2024:
   * Annual General Meeting and Christmas party
 
