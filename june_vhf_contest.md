@@ -11,6 +11,8 @@ Although we have scored very well in past years, this isn't our primary focus. M
 
 We'll be active on all bands from 50 MHz through to 24 GHz. Please contact us during the contest if you're able to do so, whether from your home station or as a rover. Every contact makes the contest more interesting and helps us increase our score.
 
+This year, WCARC will have an FM simplex station operating on the 2m, 70cm, and 23cm bands on the following frequencies: 146.550 MHz (primary), 146.520 MHz (secondary), 446.000 MHz, and 1294.500 MHz.
+
 More information about the contest can be found below.
 
 -----
