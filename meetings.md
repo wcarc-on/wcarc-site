@@ -36,9 +36,6 @@ into a couple of hours.
 * December 16, 2024:
   * Annual General Meeting and Christmas party
 
-\* Note: The May meeting will take place on the second Monday of the
-month to avoid the Victoria Day holiday.
-
 ## Meeting Location
 
 During the COVID-19 pandemic, all meetings will take place online. Details are
