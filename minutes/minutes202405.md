@@ -27,21 +27,21 @@ The meeting was opened by the President, Mike Kennedy (VA3TEC), at 7:12 pm.
 There were three visitors attending the meeting.
 
 ### Secretary's Report
-- Bert (VE2ZAZ) posted a draft version of the April 2024 meeting minutes on the Club website prior to this meeting. Moved by him that the minutes be adopted as posted on the website. Seconded by Randy (VE3AX). The motion was carried. 
+- Bert (VE2ZAZ) posted a draft version of the April 2024 meeting minutes on the Club website prior to this meeting. Moved by him that the minutes be adopted as posted on the website. Seconded by Randy (VE3AX). The motion was carried.
 
 ### Treasurer's Report
 - Ray (VE3FN) reported: I just received the latest statement from our bank.  It shows that as of the end of April, we had $15.00 in our Share Account, $3,029.29 in our Daily Banking Account, and $2,185.44 in our Term Deposit.  This represents an increase of $0.12 from last month. Two cheques have been written but they have not yet been charged to our bank account. These should appear in our statement for May.
-- The Club currently has 20 regular (paid) members and 3 life members. 
+- The Club currently has 20 regular (paid) members and 3 life members.
 
 ### Vice President's Report
 - Upcoming presentations:
-    - Confirmed: 
+    - Confirmed:
         - June: Clayton (VE3IRR), Summary of our VHF contest participation.
         - September: Craig Delmage (VE3OP), The new RAC radio station
-    - In planning: 
+    - In planning:
         - Wayne (VE3CZO), The USB serial bus
         - Later this summer, Ultra-VLF
-        - October: Summary of the 2024 Microwave Update Conference 
+        - October: Summary of the 2024 Microwave Update Conference
         - Peterborough ARC: Their AREDN network
     - Please contact Lawrence if there are projects you would like to talk about.
 - Lawrence is working on having a Club breakfast on Saturday May 25th, again at Zak's Diner.
@@ -52,7 +52,7 @@ The director had nothing to report.
 ### President's Report
 The President had nothing to report.
 
-### Presentation(s): 
+### Presentation(s):
 None, as this meeting was allocated to the WCARC's participation in the ARRL June VHF Contest.
 
 ### Old Business
@@ -62,7 +62,7 @@ None, as this meeting was allocated to the WCARC's participation in the ARRL Jun
 ### New Business
 - Mike (VA3TEC) proposed to build a "Gin Pole" to help raise/lower our towers during the VHF contest.
 
-### Show and tell 
+### Show and tell
 Lawrence (VA3IQ) - The Northeast VHF/UHF/Microwave Conference. There were eight hams from Eastern-Ontario and Western-Quebec who were present. They had a lot of fun and had great conversations.
 
 ### Ask the Club
