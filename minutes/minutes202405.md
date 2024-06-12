@@ -64,7 +64,7 @@ None, as this meeting was allocated to the WCARC's participation in the ARRL Jun
 - Mike (VA3TEC) proposed to build a "Gin Pole" to help raise/lower our towers during the VHF contest.
 
 ### Show and tell
-Lawrence (VA3IQ) - The Northeast VHF/UHF/Microwave Conference. There were eight hams from Eastern-Ontario and Western-Quebec who were present. They had a lot of fun and had great conversations.
+Lawrence (VA3IQ) - The Northeast VHF/UHF/Microwave Conference. There were eight hams from Eastern Ontario and Western Quebec who were present. They had a lot of fun and had great conversations.
 
 ### Ask the Club
 No questions were asked.
