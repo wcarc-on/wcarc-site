@@ -15,10 +15,6 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* June 3, 2024:
-  * Final planning for the June VHF Contest
-* June 7-10, 2024:
-  * **June VHF Contest**
 * June 17, 2024:
   * After-action report on the June VHF Contest
   * Project roundtable
