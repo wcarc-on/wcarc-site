@@ -15,9 +15,6 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* June 17, 2024:
-  * After-action report on the June VHF Contest
-  * Project roundtable
 * July 15, 2024:
   * TBA
 * August 19, 2024:
