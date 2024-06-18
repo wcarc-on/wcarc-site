@@ -9,6 +9,10 @@ For a list of meeting dates, speakers and topics, please see our [meetings page]
 
 ## Past Presentations
 
+### 2024
+
+* [June VHF Contest 2024 Recap by Clayton Smith VE3IRR (June 17, 2024)](presentations/ve3irr_2024_june_contest_review.pdf)
+
 ### 2023
 
 * [June VHF Contest 2023 Recap by Clayton Smith VE3IRR (June 19, 2023)](presentations/ve3irr_2023_june_contest_review.pdf)
