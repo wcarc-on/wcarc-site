@@ -1,7 +1,7 @@
-## layout: minutes
-
+---
+layout: minutes
 title: Minutes of the Regular Monthly Meeting on June 17th, 2024 - DRAFT
-
+---
 The meeting was held over the internet via a Zoom video conference.
 The following people were present:
 
@@ -39,7 +39,7 @@ There was one visitor attending the meeting.
   - Confirmed:
     - September: Craig Delmage (VE3OP), The new RAC headquarters radio station
     - October: Wayne (VE3CZO), A USB serial bus overview
-    - November Mike (VA3TEC), hise home-brew pole-mounted rover setup
+    - November Mike (VA3TEC), His home-brew pole-mounted rover setup
   - In planning:
     - July and August: Difficult to find someone to speak in the summer.
     - Later this summer, Ultra-VLF
