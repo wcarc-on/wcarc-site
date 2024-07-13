@@ -16,7 +16,7 @@ into a couple of hours.
 ## Upcoming Speakers and Topics
 
 * July 15, 2024:
-  * TBA
+  * Members' round table
 * August 19, 2024:
   * TBA
 * September 16, 2024:
