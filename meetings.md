@@ -15,8 +15,8 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* July 15, 2024:
-  * Members' round table
+* August 3, 2024:
+  * [Microwave Activity Day (MAD)](mad.html) at the Diefenbunker
 * August 19, 2024:
   * TBA
 * September 16, 2024:

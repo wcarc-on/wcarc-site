@@ -2,11 +2,11 @@
 layout: page
 title: Microwave Activity Day (MAD)
 ---
-**First Microwave Activity Day of 2024**
+**Second Microwave Activity Day of 2024**
 
-**April 6, 2024, 08:30 – 12:30**
+**August 3, 2024, 10:00 – 12:00**
 
-On Saturday, April 6, 2024, between 08:30 – 12:30, the West Carleton Amateur Radio Club (WCARC) will be having a Microwave Activity Day (MAD) on the grounds of the [Diefenbunker: Canada’s Cold War Museum](https://diefenbunker.ca). The Diefenbunker is at [grid square FN15xi](https://www.levinecentral.com/ham/grid_square.php?&Grid=FN15xi&Zoom=13&sm=y).
+On Saturday, August 3, 2024, between 10:00 – 12:00, the West Carleton Amateur Radio Club (WCARC) will be having a Microwave Activity Day (MAD) on the grounds of the [Diefenbunker: Canada’s Cold War Museum](https://diefenbunker.ca). The Diefenbunker is at [grid square FN15xi](https://www.levinecentral.com/ham/grid_square.php?&Grid=FN15xi&Zoom=13&sm=y).
 
 MADs are events when amateur radio operator microwave enthusiasts get out into the field and set up their portable stations to test, align, and hopefully establish two-way communications with other microwave aficionados. They offer an opportunity to amateurs who are curious about microwave operations to learn more. All are welcome. We hope to see you there!
 
