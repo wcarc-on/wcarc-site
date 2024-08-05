@@ -3,7 +3,7 @@ layout: page
 title: Membership
 ---
 
-## Constitution of the WCARC
+## Bylaws of WCARC
 
 At a [Special Meeting held on August 3, 2024](minutes/minutes202408_special.html), the WCARC membership approved a new set of bylaws, which are currently pending approval by the Government of Ontario:
 
