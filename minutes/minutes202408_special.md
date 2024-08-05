@@ -34,7 +34,7 @@ The members present thanked Norman (VE3NPP) for the time and effort he put in pr
 
 ### Vote on the Bylaws
 
-- The final draft document on which the vote would take place is titled "Draft Bylaws of West Carleton Amateur Radio Club - Last updated July 15, 2024". The document was sent to the members by email on July 16th, 2024.
+- The final draft document on which the vote would take place is titled "Draft Bylaws of West Carleton Amateur Radio Club - Last updated July 15, 2024." The document was sent to the members by email on July 16th, 2024.
 - The members present were allowed to comment prior to holding the vote. There were no comments.
 - Norman (VE3NPP) moved that a vote be held on the above-described Bylaws document. Lawrence (VA3IQ) seconded the motion.
 - A show of hands vote took place. The members present voted unanimously in favor of the motion. The motion was carried.
@@ -43,7 +43,7 @@ The members present thanked Norman (VE3NPP) for the time and effort he put in pr
 
 Bert (VE2ZAZ) will coordinate the following actions:
 - Norman (VE3NPP) will update the bylaws document to show as having been approved by the membership. He will then make the final Bylaws document available to the Officers.
-- The Bylaws will be posted on the Club website,
+- The Bylaws will be posted on the Club website.
 - An official copy of the Bylaws will be sent to the Government of Ontario.
 
 ### Adjournment
