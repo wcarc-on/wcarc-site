@@ -5,9 +5,9 @@ title: Membership
 
 ## Constitution of the WCARC
 
-* [Constitution of the West Carleton Amateur Radio Club](constitution/wcarc-constitution.html)
-* [Bylaws to the Constitution of the West Carleton Amateur Radio Club](constitution/wcarc-bylaws.html)
-* [Special Information Attachment to the Constitution of the West Carleton Amateur Radio Club](constitution/wcarc-specialinfo.html)
+At a [Special Meeting held on August 3, 2024](minutes/minutes202408_special.html), the WCARC membership approved a new set of bylaws, which are currently pending approval by the Government of Ontario:
+
+* [Bylaws of West Carleton Amateur Radio Club](bylaws/wcarc_bylaws_20240803.pdf)
 
 ## Membership and Dues
 
