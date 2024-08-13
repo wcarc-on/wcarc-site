@@ -57,6 +57,7 @@ The director had nothing to report.
 The President had nothing to report.
 
 ### Presentation(s):
+
 No presentation was given.
 
 ### Old Business
