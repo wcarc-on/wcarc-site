@@ -51,7 +51,7 @@ There were no visitors attending the meeting.
 ### Director's Report
 
 The director had nothing to report.
- 
+
 ### President's Report
 
 The President had nothing to report.
@@ -66,11 +66,11 @@ No presentation was given.
 
 ### New Business
 
-Lawrence (VA3IQ): Announced that we will have a discussion on attracting more people in the Club at the next meeting 
+Lawrence (VA3IQ): Announced that we will have a discussion on attracting more people in the Club at the next meeting
 
 ### Show and tell
 
-- Bert (VE2ZAZ) showed a finger pressure Morse paddle, which he put together following VK3IL's design. 
+- Bert (VE2ZAZ) showed a finger pressure Morse paddle, which he put together following VK3IL's design.
 - Bert (VE2ZAZ) showed a 10 MHz OCXO reference board, which can be purchased for $14 (US).
 - Bert (VE2ZAZ) announced that he is writing a logging software for the Québec and Ontario QSO Party contests.
 - Lawrence (VA3IQ) described his current work on a 20W 5.8 GHz power brick.
