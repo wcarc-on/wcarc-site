@@ -15,8 +15,6 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* August 19, 2024:
-  * TBA
 * September 16, 2024:
   * Craig Delmage (VE3OP): What's new at RAC?
 * October 21, 2024:
