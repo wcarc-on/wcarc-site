@@ -1,6 +1,6 @@
 ---
 layout: minutes
-title: Minutes of the Special Meeting on August 3rd, 2024 - DRAFT
+title: Minutes of the Special Meeting on August 3rd, 2024
 ---
 The meeting was held at the Zak's Diner restaurant in Stittsville, ON.
 The following people were present:
