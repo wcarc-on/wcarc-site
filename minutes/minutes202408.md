@@ -37,9 +37,9 @@ The Treasurer was absent.
 
 - Upcoming monthly meeting presentations:
   - Confirmed:
-    - September: Craig Delmage (VE3OP), What is new at RAC.
+    - September: Craig Delmage (VE3OP), What is new at RAC
     - October: Wayne (VE3CZO), A USB serial bus overview
-    - November: Mike (VA3TEC), His home-brew pole-mounted remote switching on his rover setup.
+    - November: Mike (VA3TEC), His home-brew pole-mounted remote switching on his rover setup
   - Lawrence asked those present to contact him if there are projects they would like to talk about.
 - In-person meeting: Lawrence is trying to set up an in-person meeting/gathering in January at a cost-effective venue. More details to come.
 
@@ -57,7 +57,7 @@ No presentation was given.
 ### Old Business
 
 - Constitution and bylaws: As described in the Secretary's report, Bert (VE2ZAZ) wrapped up the update work on our non-for profit corporation status. Lawrence (VA3IQ) thanked Norman (VE3NPP) and Bert (VE2ZAZ) for their involvement in the constitution and bylaws re-writing. He also thanked those who showed up to the August 6th Special meeting.
-- Carp Hamfest, September 7th: Once again, the Club will be present at the Carp Hamfest. Bert (VE2ZAZ) reserved one club table. Lawrence (VA3IQ), Glenn (VE3XRA) and Bert (VE2ZAZ) have offered to man the table. Bert will send an email in late August to solicit for more members to help out with manning the table.
+- Carp Hamfest, September 7th: Once again, the Club will be present at the Carp Hamfest. Bert (VE2ZAZ) reserved one club table. Lawrence (VA3IQ), Glenn (VE3XRA), and Bert (VE2ZAZ) have offered to man the table. Bert will send an email in late August to solicit for more members to help out with manning the table.
 
 ### New Business
 
@@ -67,7 +67,7 @@ No presentation was given.
 
 ### Show and tell
 
--Bert gave a report about Club members participating in the first part of the ARRL 10GHz and Up contest. The locations used were the Diefenbunker and the Numogate tower hill.
+- Bert gave a report about Club members participating in the first part of the ARRL 10GHz and Up contest. The locations used were the Diefenbunker and the Numogate tower hill.
 
 ### Ask the Club
 
