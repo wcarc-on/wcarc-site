@@ -15,8 +15,6 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* September 16, 2024:
-  * Craig Delmage (VE3OP): What's new at RAC?
 * October 21, 2024:
   * Wayne Getchell (VE3CZO): Universal Serial Bus (USB) overview
   * Microwave Update conference report
