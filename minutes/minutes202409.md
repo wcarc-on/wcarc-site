@@ -35,7 +35,7 @@ Our bylaws only define a minimum, which does not meet the above requirements. La
 ### Vice President's Report
 - Upcoming monthly meeting presentations:
   - Confirmed:
-    - October: Wayne (VE3CZO), A USB serial bus overview
+    - October: Wayne (VE3CZO), A USB serial bus overview.
     - November: Mike (VA3TEC), His home-brew pole-mounted remote switching on his rover setup.
   - Lawrence asked those present to contact him if there are projects they would like to talk about.
 - Microwave Activity Day: Lawrence proposed that we participate in the Microwave Activity Day on the first weekend of November, and that we could meet prior to the event for a group breakfast.
