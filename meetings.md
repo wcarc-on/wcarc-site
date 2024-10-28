@@ -15,9 +15,6 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* October 21, 2024:
-  * Wayne Getchell (VE3CZO): Universal Serial Bus (USB) overview
-  * Microwave Update conference report
 * November 18, 2024:
   * Mike Kennedy (VA3TEC): Design of a homebrew pole-mounted rover setup
 * December 16, 2024:
