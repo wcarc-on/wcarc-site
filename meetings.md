@@ -37,7 +37,7 @@ into a couple of hours.
 * June 13-16, 2025:
   * **June VHF Contest**
 * July 21, 2025:
-  * TBA
+  * After-action report on the June VHF Contest
 * August 18, 2025:
   * TBA
 * September 15, 2025:
