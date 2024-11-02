@@ -22,6 +22,36 @@ into a couple of hours.
 * December 16, 2024:
   * Annual General Meeting and Christmas party
   * In-person at [RAC Headquarters, 720 Belfast Road, Suite 217](https://maps.app.goo.gl/kPxo6PqzqaAAUNJE8), and online via Zoom.
+* January 20, 2025:
+   * TBA
+* February 17, 2025:
+  * TBA
+* March 17, 2025:
+  * TBA
+* April 21, 2025:
+  * TBA
+* May 12, 2025\*:
+  * Planning for the June VHF contest
+* June 9, 2025\*:
+  * Final planning for the June VHF contest
+* June 13-16, 2025:
+  * **June VHF Contest**
+* July 21, 2025:
+  * TBA
+* August 18, 2025:
+  * TBA
+* September 15, 2025:
+  * TBA
+* October 20, 2025:
+  * TBA
+* November 17, 2025:
+  * TBA
+* December 15, 2025:
+  * Annual General Meeting and Christmas Party
+
+\* Note: The May meeting will take place on the second Monday of the
+month to avoid the Victoria Day holiday. The June meeting will also take
+place on the second Monday to avoid the ARRL June VHF contest.
 
 ## Meeting Location
 
