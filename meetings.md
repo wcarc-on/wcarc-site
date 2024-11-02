@@ -16,12 +16,15 @@ into a couple of hours.
 ## Upcoming Speakers and Topics
 
 * November 18, 2024:
+  * Bert Zauhar (VE2ZAZ): An IC-9700 smart switch and PTT multiplier
   * Mike Kennedy (VA3TEC): Design of a homebrew pole-mounted rover setup
+  * Lawrence Dobranski (VA3IQ): IC-705 and IC-905 rover setup using N1MM+
 * December 16, 2024:
   * Annual General Meeting and Christmas party
+  * In-person at [RAC Headquarters, 720 Belfast Road, Suite 217](https://maps.app.goo.gl/kPxo6PqzqaAAUNJE8), and online via Zoom.
 
 ## Meeting Location
 
-During the COVID-19 pandemic, all meetings will take place online. Details are
+Most club meetings take place online using Zoom. Sign-in details are
 sent to the [WCARC mailing list](https://groups.io/g/wcclist/topics) before each
 meeting.
