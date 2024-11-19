@@ -5,7 +5,7 @@ title: Membership
 
 ## Bylaws of WCARC
 
-At a [Special Meeting held on August 3, 2024](minutes/minutes202408_special.html), the WCARC membership approved a new set of bylaws, which are currently pending approval by the Government of Ontario:
+As of August 2024, the club is governed by a revised set of bylaws, compliant with the the [Ontario Not-for-Profit Corporations Act](https://www.ontario.ca/laws/statute/10n15):
 
 * [Bylaws of West Carleton Amateur Radio Club](bylaws/wcarc_bylaws_20240803.pdf)
 
