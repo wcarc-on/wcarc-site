@@ -3,6 +3,14 @@ layout: page
 title: Awards
 ---
 
+## 2024
+
+![2024 June VHF Contest certificate](2024-jun-vhf.jpg)
+
+## 2023
+
+![2023 June VHF Contest certificate](2023-jun-vhf.jpg)
+
 ## 2022
 
 ![2022 June VHF Contest certificate](2022-jun-vhf.jpg)
