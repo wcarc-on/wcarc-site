@@ -42,12 +42,12 @@ The director had nothing to report.
 The President had nothing to report.
 
 ### Presentation(s):
-- Mike (VA3TEC): A home-brew pole-mounted rover setup,
-- Bert (VE2ZAZ): An IC-9700 smart switch and PTT multiplier,
+- Mike (VA3TEC): A home-brew pole-mounted rover setup.
+- Bert (VE2ZAZ): An IC-9700 smart switch and PTT multiplier.
 - Lawrence (VA3IQ): An IC-705 and IC-905 rover setup using N1MM+.
 
 ### Old Business
-- In-person meeting: The Vice President set up the in-person AGM and Christmas Party on December 16th in the RAC Headquarters board room, 720 Belfast Road, Suite 217, in Ottawa. We will meet at 5PM for room setup.
+- In-person meeting: The Vice President set up the in-person AGM and Christmas Party on December 16th in the RAC Headquarters board room, 720 Belfast Road, Suite 217, in Ottawa. We will meet at 5 PM for room setup.
 - Lawrence (VA3IQ) would like to try setting up a MAD day on Saturday December 7th. We should decide on the location. Lawrence will send the details on the various forums.
 
 ### New Business
