@@ -54,7 +54,7 @@ title: Web Links
 * [GMT and the exact time](http://wwp.greenwichmeantime.com/)
 * [Meteors and Comets](http://stardate.org/nightsky/meteors)
 * [VE3CVG's Antennas](https://ve3cvg.webqth.com/antennas/index.html)
-* [Lightning Strikes in North America ](http://www.strikestarus.com/)
+* [Lightning Strikes in North America](http://www.strikestarus.com/)
 * [Earthquake Info](http://earthquake.usgs.gov/)
 * [GBP - Many interesting projects](http://www.qsl.net/n9zia/)
 * [Lots of interesting information](http://www.k0bg.com/)
