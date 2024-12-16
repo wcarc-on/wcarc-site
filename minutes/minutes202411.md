@@ -47,7 +47,7 @@ The President had nothing to report.
 - Lawrence (VA3IQ): An IC-705 and IC-905 rover setup using N1MM+.
 
 ### Old Business
-- In-person meeting: The Vice President set up the in-person AGM and Christmas Party on December 16th in the RAC Headquarters board room, 720 Belfast Road, Suite 217, in Ottawa. We will meet at 5 PM for room setup.
+- In-person meeting: The Vice President set up the in-person AGM and Christmas Party on December 16th in the RAC Headquarters board room, 720 Belfast Road, Suite 217, in Ottawa. We will meet at 5pm for room setup.
 - Lawrence (VA3IQ) would like to try setting up a MAD day on Saturday December 7th. We should decide on the location. Lawrence will send the details on the various forums.
 
 ### New Business
