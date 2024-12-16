@@ -56,9 +56,6 @@ From Robert (VE3BE): The 6m, 2m, 1.25m and 70cm beacons are still off the air. R
 #### Broadband Hamnet
 Nothing to report.
 
-### New Business
-None.
-
 ### Announcements / Show & Tell
 Karen (VA3IGO) had solicited the members for suggestions of HF antenna on the Club's email mailing list. Her request generated several replies and many suggestions. Resulting from that discussion, she opted to install a Cobweb antenna.
 
