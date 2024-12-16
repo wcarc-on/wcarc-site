@@ -28,18 +28,18 @@ The club had a full schedule of interesting presentations.  [Materials](../prese
 
 Attendance at this year's meetings was up slightly compared to last year, averaging around 13:
 
-* January	16
-* February	14
-* March		14
-* April		10
-* May		15
-* June		10
-* July		12
-* August		17
-* September	13
-* October	13
-* November	16
-* December	17
+* January: 16
+* February: 14
+* March: 14
+* April: 10
+* May: 15
+* June: 10
+* July: 12
+* August: 17
+* September: 13
+* October: 13
+* November: 16
+* December: 17
 
 Membership was somewhat lower than last year, with 19 regular members and three life members.  The Club’s regular meeting date was changed from the first Tuesday of the month to the third Monday to avoid a conflict with the Diefenbunker radio group’s meetings, and this is likely to result in increased attendance and membership in 2017.
 

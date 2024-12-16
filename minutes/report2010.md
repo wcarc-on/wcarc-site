@@ -27,17 +27,17 @@ October and November marked a return to purely Amateur Radio topics.  In October
 
 Membership peaked at 32 regular members and 3 life members.  Attendance at the meetings remained very high, with 26 at the February meeting - possibly a club record:
 
-* January	  15
-* February  26
-* March	  18
-* April	  19
-* May	  14
-* June	  15
-* July	  16
-* August	  12
-* September 11
-* October	  16
-* November  16
+* January: 15
+* February: 26
+* March: 18
+* April: 19
+* May: 14
+* June: 15
+* July: 16
+* August: 12
+* September: 11
+* October: 16
+* November: 16
 
 Although a relatively small club, the West Carleton Amateur Radio Club has maintained a well-deserved reputation for technical expertise and excellent operators.  This is no accident - it has taken a lot of hard work by a number of very dedicated individuals to put the West Carleton Club where it is.  I ask you to join me in a round of applause for those people, and for the success of the club in general.  I also remind everyone that each and every member of the club has something to offer - please remember this the next time the club needs a volunteer!
 

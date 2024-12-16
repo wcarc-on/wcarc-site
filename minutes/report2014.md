@@ -28,18 +28,18 @@ The club had a full schedule of interesting presentations. [Materials](../presen
 
 Attendance at this year's meetings was up slightly, compared to 2012 and 2013, averaging around 14:
 
-* January	15
-* February	10
-* March	12
-* April	12
-* May		14
-* June	20
-* July	14
-* August	 9
-* September	14
-* October	18
-* November	16
-* December	12
+* January: 15
+* February: 10
+* March: 12
+* April: 12
+* May: 14
+* June: 20
+* July: 14
+* August: 9
+* September: 14
+* October: 18
+* November: 16
+* December: 12
 
 Membership was identical to the previous year, with 22 regular members and three life members.
 

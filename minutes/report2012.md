@@ -57,17 +57,17 @@ antennas to serve Radio Amateur needs.   Several members of the West Carleton Am
 
 Membership peaked at 23 regular members and 3 life members.  Attendance at the meetings was down considerable from the previous year:
 
-* January	14
-* February 10
-* March 10
-* April 8
-* May 15
-* June 8
-* July 10
-* August 9
-* September 11
-* October	18
-* November 13
+* January: 14
+* February: 10
+* March: 10
+* April: 8
+* May: 15
+* June: 8
+* July: 10
+* August: 9
+* September: 11
+* October: 18
+* November: 13
 
 The Executive recognized the decreased attendance, and made efforts to improve it, with some success late in the year.  This is a continuing issue however, and
 will be monitored.
