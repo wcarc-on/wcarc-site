@@ -15,9 +15,6 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* December 16, 2024:
-  * Annual General Meeting and Christmas party
-  * In-person at [RAC Headquarters, 720 Belfast Road, Suite 217](https://maps.app.goo.gl/kPxo6PqzqaAAUNJE8), and online via Zoom.
 * January 20, 2025:
   * TBA
 * February 17, 2025:
