@@ -5,7 +5,7 @@ title: Contacts
 ## Executive
 * President: Mike Kennedy (VA3TEC)
 * Vice President: Lawrence Dobranski (VA3IQ)
-* Treasurer: Ray Perrin (VE3FN)
+* Treasurer: Glenn MacDonell (VE3XRA)
 * Secretary: Bert Zauhar (VE2ZAZ)
 * Director: Wayne Getchell (VE3CZO)
 
