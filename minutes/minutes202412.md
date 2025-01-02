@@ -35,7 +35,7 @@ The following people were present:
 
 ### Treasurer's Report
 - Monthly report: Due to the postal service strike, no monthly bank statement was received.
-- Yearly Financial Statement: With the information provided by the Treasurer, the document was prepared by the Auditor, Wayne (VE3CZO). He presented and explained the document to the members. Lawrence (VA3IQ) moved that the Yearly Financial Statement be adopted as is. Bert (VE2ZAZ) seconded the motion. A unanimous vote in favour of the motion took place, and the motion was carried. The report will be annexed to these meeting minutes, and posted on the Club website.
+- Yearly Financial Statement: With the information provided by the Treasurer, the document was prepared by the Auditor, Wayne (VE3CZO). He presented and explained the document to the members. Lawrence (VA3IQ) moved that the Yearly Financial Statement be adopted as is. Bert (VE2ZAZ) seconded the motion. A unanimous vote in favour of the motion took place, and the motion was carried. The report will be annexed to these meeting minutes, and posted on the Club website: [WCARC Balance Sheet, 2024](attachments/WCARC_balance_sheet_2024.pdf)
 - Bert (VE2ZAZ) asked for an update on whether the Club donations to Ray Burrell had been completed. To this day, Ray (VE3FN) had not detected an account withdrawal of the amounts corresponding to the checks issued to Ray Burrell.
 - Bert (VE2ZAZ) also asked about whether the reimbursement to Larissa (VE3KGC) for the plastic bins had been made. Despite multiple attempts trying to reach Larissa, Ray had not been successful. Lawrence (VA3IQ) offered to contact her via the Department of National Defence internal email system.
 - Ray reported that the Club has 20 members and 3 life members.
@@ -55,7 +55,7 @@ Yearly report: The President provided a written report summarizing the Club acti
 - The addition of Luc (VE3JGL) and the correction of Lawrence (VA3IQ)'s call sign in the list of contributors to the microwave trip to Mont-Tremblant.
 - The addition of the Upper Frequencies SSB net hosted by Glenn (VE3XRA), a Club-sponsored weekly event.
 
-Bert (VE2ZAZ) seconded the motion. A unanimous vote in favour of the motion took place, and the motion was carried. The report will be annexed to these meeting minutes, and posted on the Club website.
+Bert (VE2ZAZ) seconded the motion. A unanimous vote in favour of the motion took place, and the motion was carried. The report will be annexed to these meeting minutes, and posted on the Club website: [Annual Report, 2024](attachments/AGM_2024_final.pdf)
 
 ### Presentation(s):
 - None, as no presentation is given at the AGM.

@@ -15,7 +15,9 @@ title: Meeting Minutes
 [Sep](minutes202409.html),
 [Oct](minutes202410.html),
 [Nov](minutes202411.html),
-[Dec](minutes202412.html)
+[Dec](minutes202412.html),
+[Annual Report](attachments/AGM_2024_final.pdf),
+[Financial Statement](attachments/WCARC_balance_sheet_2024.pdf)
 * 2023:
 [Jan](minutes202301.html),
 [Feb](minutes202302.html),
