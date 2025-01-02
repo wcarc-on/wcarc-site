@@ -63,7 +63,7 @@ Bert (VE2ZAZ) seconded the motion. A unanimous vote in favour of the motion took
 ### Election of Directors
 At this AGM, a Board election must be held to replace or renew two of its five Directors. The two elected Directors are expected to occupy the Vice President and Treasurer Officer positions. The incumbent Directors are Lawrence (VE3IQ) and Ray (VE3FN). The Club thanked the two outgoing Directors for their contribution to the Club operations.
 - Director for Vice President position: Lawrence (VA3IQ) offered to carry on with the Vice President position. No other candidate for Vice President stepped forward. As a result, Lawrence (VA3IQ) was voted in by acclamation as a continuing Director (Vice President).
-- Director for Treasurer position: Ray (VE3FN) offered to carry on with the Treasurer position only if no other candidate for Treasurer stepped forward. Glenn (VE3XRA) offered to replace Ray(VE3FN) as Treasurer. As a result, Ray (VE3FN) withdrew his candidature. Glenn (VE3XRA) was voted in  by acclamation as a new Director (Treasurer).
+- Director for Treasurer position: Ray (VE3FN) offered to carry on with the Treasurer position only if no other candidate for Treasurer stepped forward. Glenn (VE3XRA) offered to replace Ray (VE3FN) as Treasurer. As a result, Ray (VE3FN) withdrew his candidacy. Glenn (VE3XRA) was voted in by acclamation as a new Director (Treasurer).
 
 ### Old Business
 - December MAD day: Due to bad a weather forecast, it was decided to cancel our participation in the Saturday December 7th MAD day.
@@ -83,4 +83,4 @@ None. This was part of the post-meeting Christmas party.
 None. This was part of the post-meeting Christmas party.
 
 ### Adjournment
-The  President observed that there was no further business; the meeting was adjourned at 8:11 pm.
+The President observed that there was no further business; the meeting was adjourned at 8:11 pm.
