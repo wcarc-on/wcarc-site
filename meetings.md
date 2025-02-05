@@ -15,8 +15,6 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* January 20, 2025:
-  * TBA
 * February 17, 2025:
   * TBA
 * March 17, 2025:
