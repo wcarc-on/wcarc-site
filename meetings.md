@@ -44,7 +44,7 @@ into a couple of hours.
 * September 20-21, 2025:
   * ARRL 10 GHz and Up Contest Weekend 2. Location(s) and other details to follow.
 * October 5, 2025:
-  * Breakfast followed by our 3rd Microwave Activity Day (MA) of 2025.  Location and other details to follow.
+  * Breakfast followed by our 3rd Microwave Activity Day (MAD) of 2025.  Location and other details to follow.
 * October 20, 2025:
   * TBA
 * November 17, 2025:
