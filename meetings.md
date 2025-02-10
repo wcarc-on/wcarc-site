@@ -16,39 +16,49 @@ into a couple of hours.
 ## Upcoming Speakers and Topics
 
 * February 17, 2025:
+  * Monthly meeting
   * Rene (VE2UG): The evolution of his Optical Receiver based on the designs of KA7OEI/K7RJ/K0XL.
   * Mike (VA3TEC): Progress on his SDR work based on SRSRAN.
   * Bert (VE2ZAZ): His logging software QPLog for the Québec/Ontario QSO Parties.
 * March 17, 2025:
-  * TBA
+  * Monthly meeting
+  * Speaker TBA
 * April 5, 2025:
   * Breakfast followed by our 1st Microwave Activity Day (MAD) of 2025. Location and other details to follow.
 * April 21, 2025:
-  * TBA
+  * Monthly meeting
+  * Speaker TBA
 * May 3, 2025:
   * Breakfast followed by our 2nd Microwave Activity Day (MAD) of 2025. Location and other details to follow.
 * May 12, 2025\*:
+  * Monthly meeting
   * Planning for the June VHF contest
 * June 9, 2025\*:
+  * Monthly meeting
   * Final planning for the June VHF contest
 * June 13-16, 2025:
   * **June VHF Contest**
 * July 21, 2025:
+  * Monthly meeting
   * After-action report on the June VHF Contest
 * August 16-17, 2025:
   * ARRL 10 GHz and Up Contest Weekend 1. Location(s) and other details to follow.
 * August 18, 2025:
-  * TBA
+  * Monthly meeting
+  * Speaker TBA
 * September 15, 2025:
-  * TBA
+  * Monthly meeting
+  * Speaker TBA
 * September 20-21, 2025:
   * ARRL 10 GHz and Up Contest Weekend 2. Location(s) and other details to follow.
 * October 5, 2025:
   * Breakfast followed by our 3rd Microwave Activity Day (MAD) of 2025.  Location and other details to follow.
 * October 20, 2025:
-  * TBA
+  * Monthly meeting
+  * Speaker TBA
 * November 17, 2025:
-  * TBA
+  * Monthly meeting
+  * Speaker TBA
 * December 15, 2025:
   * Annual General Meeting and Christmas Party
 
