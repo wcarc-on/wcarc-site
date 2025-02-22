@@ -15,11 +15,6 @@ into a couple of hours.
 
 ## Upcoming Speakers and Topics
 
-* February 17, 2025:
-  * Monthly meeting
-  * Rene (VE2UG): The evolution of his Optical Receiver based on the designs of KA7OEI/K7RJ/K0XL.
-  * Mike (VA3TEC): Progress on his SDR work based on srsRAN.
-  * Bert (VE2ZAZ): His logging software QPLog for the Québec/Ontario QSO Parties.
 * March 17, 2025:
   * Monthly meeting
   * Speaker TBA
