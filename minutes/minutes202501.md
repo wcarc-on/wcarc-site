@@ -31,7 +31,7 @@ The meeting was opened by the President, Mike (VA3TEC), at 7:10 pm. There was on
 ### Secretary's Report
 
 - Bert (VE2ZAZ) posted a draft version of the December 2024 Annual General meeting minutes, along with the President's report and the Auditor's Report, on the Club website prior to this meeting. Moved by him that the minutes and reports be adopted as posted on the website. The motion was seconded by Norman (VE3NPP). A unanimous vote in favour of the motion took place, and the motion was carried.
-- Bert has submitted the RAC Affiliation and group insurance application forms to the RAC staff, and they got approved. We have received the invoice and the Treasurer will proceed with the payment.
+- Bert has submitted the RAC Affiliation and group insurance application forms to the RAC staff, and they were approved. We have received the invoice and the Treasurer will proceed with the payment.
 - Bert submitted the ONCA (non-for-profit status) yearly update form on the Government of Ontario website.
 
 ### Treasurer's Report
@@ -44,8 +44,8 @@ In the Treasurer's absence, Ray (VE3FN), our former Treasurer, gave the monthly 
   Upcoming monthly meeting presentations:
   - Confirmed: None
   - Being Planned:
-    - Some of the speakers at the 2024 Microwave Update, with some very interesting contents,
-    - Paul Wade W1GHZ on 3D printed plastic microwave horns,
+    - Some of the speakers at the 2024 Microwave Update, with some very interesting contents;
+    - Paul Wade W1GHZ on 3D printed plastic microwave horns;
     - Personal Cellphone project: An open source LTE software is available. Mike (VA3TEC) offered to do a demo of the technology.
   - Lawrence asked those present to contact him if there are projects they would like to talk about.
 - Lawrence is preparing the summer activity schedule, to be posted on the Club website.
@@ -57,19 +57,19 @@ The Director had nothing to report.
 
 ### President's Report
 
-- Since Mike's daughter is back from the hospital, He has more time for the hobby and for the Club.
-- Mike volunteered to make a beneficial sign for the RAC Headquarters.
+- Since Mike's daughter is back from the hospital, he has more time for the hobby and for the Club.
+- Mike volunteered to make a sign for the RAC Headquarters.
 - Mike asked if anyone had ideas of Club projects for 2025. A 222 MHz link and a DATV link were mentioned.
 
 ### Presentation(s)
 
-- Wayne (VE3CZO): A PTT Module - A PTT switch for Power Amplifiers.
+- Wayne (VE3CZO): A PTT Module — A PTT switch for Power Amplifiers.
 - Bert (VE2ZAZ): An update on his 10 GHz Tower-mounted system.
-- Lawrence (VA3IQ): 3D Printing electronics enclosures.
+- Lawrence (VA3IQ): 3D-printed electronics enclosures.
 
 ### Old Business
 
-- Bert (VE2ZAZ) mentioned that Glenn (VE3XRA), our Treasurer, is working with Alterna on electronic deposits for dues. He hopes to have this completed by the end of the month. He is also setting up an Officer signature authorisation session with the bank. More to follow.
+- Bert (VE2ZAZ) mentioned that Glenn (VE3XRA), our Treasurer, is working with Alterna on electronic deposits for dues. He hopes to have this completed by the end of the month. He is also setting up an Officer signature authorization session with the bank. More to follow.
 - Tower raising gin-pole: Mike (VA3TEC) can resume the work on the gin-pole system.
 
 ### New Business
