@@ -1,6 +1,6 @@
 ---
 layout: minutes
-title: Minutes of the Annual General Meeting on December 16th, 2024 - DRAFT
+title: Minutes of the Annual General Meeting on December 16th, 2024
 ---
 The meeting was held in person at the Radio Amateurs of Canada headquarters and over the internet via a Zoom video conference.
 The following people were present:
