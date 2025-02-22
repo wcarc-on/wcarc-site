@@ -56,7 +56,7 @@ The director had nothing to report.
 
 The President had nothing to report.
 
-### Presentation(s):
+### Presentation(s)
 
 No presentation was given.
 

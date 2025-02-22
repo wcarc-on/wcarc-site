@@ -51,7 +51,8 @@ The director was absent.
 
 The President was absent.
 
-### Presentation(s):
+### Presentation(s)
+
 No presentation was given.
 
 ### Old Business

@@ -57,7 +57,7 @@ The director is absent.
 
 The President had nothing to report.
 
-### Presentation(s):
+### Presentation(s)
 
 Clayton (VE3IRR): A report on the WCARC's participation in the ARRL June VHF Contest.
 

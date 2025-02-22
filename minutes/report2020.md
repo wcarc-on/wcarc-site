@@ -7,24 +7,29 @@ title: Annual Report, 2020
 
 
 ### January
+
 - The passing of Doug Leach, VE3XK.
 - Effort at clarifying the Non-profit status of WCARC got underway.
 - Transfer of the the Club email list to groups.io because of the expected closure of Yahoo groups.
 
 ### March
+
 - March meeting cancelled because of Lockdown.
 - Trying to find a suitable meeting space prior to COVID lock down. Fringewood Community Center will no longer be our meeting venue. Either the Kanata Recreation Complex or the Kanata Seniors Centre will be chosen for our meeting location.
 
 ### April
+
 -  The continuance of monthly meetings via the Zoom conferencing platform.
 -  Cancellation of participation in the June VHF contest due to COVID pandemic.
 
 ### June
+
 - Robert (VE3BE) applied Club ID stickers on all Club assets located in the Boltwood observatory.
 - The longer term plan is to move all Club assets in storage to the Diefenbunker.
 - Charles MacDonald (VA3CPY) stepped forward to occupy the President’s position. As he is the only candidate, he is elected by acclamation as the Club’s 2020/2021 President.
 
 ### August
+
 - The board has noticed, likely due to the pandemic, that nobody has volunteered to organize the September VHF Contest. Moreover, it is anticipated that there would insufficient participation. Thus there will be no Club participation in the 2020 September VHF contest.
 - Wayne (VE3CZO) took over management of the Club-owned test equipment loaning process.
 - Bert (VE2ZAZ): Confirmed having submitted the Ontario non-for-profit status update forms by mail.

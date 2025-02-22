@@ -21,18 +21,22 @@ The following people were present:
 
 
 ### Opening
+
 The meeting was opened by the Vice President Lawrence (VA3IQ), at 7:18 pm.
 There were two visitors attending the meeting.
 
 ### Secretary's Report
+
 - Bert (VE2ZAZ) posted a draft version of the September 2024 meeting minutes on the Club website prior to this meeting. Moved by him that the minutes be adopted as posted on the website. Seconded by Lawrence (VA3IQ). The motion was carried.
 
 ### Treasurer's Report
+
 - As usual, we have $15.00 in our share account.  We also have $2,950.11 in our daily banking accounts plus $2,185.55 in our term deposits.
 - With regard to expenses, Ray (VE3FN) reported the following: "I have sent an email to Larissa VE3KGC concerning the amount of expenses we still owe her from the June VHF contest.  I believe it is approximately $28.00.  If so, I will pay it myself because of my delay in sending a payment from the Club."
 - Bert (VE2ZAZ) asked about whether Ray Burrell (VE3BVV) had received the Club's contributions for the 2023 and 2024 VHF Contests. Ray (VE3FN) has not contacted him yet. Bert will provide him with his phone number so he can be reached.
 
 ### Vice President's Report
+
 - Upcoming monthly meeting presentations:
   - Confirmed:
     - November: Three or four short presentations will be given by Club members.
@@ -42,27 +46,35 @@ There were two visitors attending the meeting.
 
 
 ### Director's Report
+
 The director had nothing to report.
 
 ### President's Report
+
 The President had nothing to report.
 
-### Presentation(s):
+### Presentation(s)
+
 Wayne Getchell (VE3CZO): A Universal Serial Bus Journey
 
 ### Old Business
+
 - In-person meeting: Lawrence is trying to set up the in-person AGM and Christmas Party on December 16th at the RAC headquarters. More details to come. A fallback date would be the January 2025 regular meeting.
 - Lawrence would like to try setting up a MAD day on the first Saturday of December.
 
 ### New Business
+
 There were no new business items.
 
 ### Show and tell
+
 - Bert (VE2ZAZ) briefly showed his current project, an IC-9700 Switch/sequencer/PTT multiplier box.
 - Randy (VE3AX) mentioned that Down East Microwave had already re-opened, despite having suffered damage due to the Florida hurricane.
 
 ### Ask the Club
+
 Wayne asked for advice on why the coaxial jumper he showed off has an unexpected RF behaviour.
 
 ### Adjournment
+
 The Vice President observed that there was no further business; the meeting was adjourned at 9:10pm.
