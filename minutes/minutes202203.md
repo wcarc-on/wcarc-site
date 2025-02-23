@@ -20,39 +20,49 @@ The following people were present:
 | Mike Kassay            | VE3MKX     | Member           | FN14st  | Yes   | Yes |
 
 ### Opening
+
 The meeting was opened by the President, Charles (VA3CPY) at 7:15 pm.
 There were no visitors attending the meeting.
 
 ### Secretary's Report
+
 - Bert (VE2ZAZ) posted a draft version of the February 2022 meeting minutes on the Club website prior to this meeting. Moved by him that the minutes be adopted as posted on the website. Seconded by Karen (VA3IGO). The motion was carried.
 
 ### Treasurer's Report
+
 - To date, Alterna had not sent the February monthly report.
 - There are 18 members as of today. There are also three life members.
 
 ### Vice President's Report
+
 - Lawrence is looking for suggestions of potential contacts for our monthly presentations.
 - He is proposing virtual shack tours for future meetings.
 - He is working on having a speaker on the St. Paul Island DXpeditions.
 
 ### Director's Report
+
 The Director was absent.
 
 ### President's Report
+
 - The April meeting date is moved to the second Monday of the month, April 11th. This is due to Easter Monday being the third Monday of the month.
 - Charles has created a [WCARC Facebook page](https://www.facebook.com/groups/west.carleton.arc). The objective is to increase our Club's exposure on social media. Members can suggest content to add to the page.
 
 ### Speaker(s)
+
 Lawrence Dobranski (VA3IQ) on his HF rover setup for the Ontario QSO party.
 
 ### Old Business
+
 - VHF/UHF Beacons:
   - The beacon move is On Hold until we get further notice from the DARC officers. Charles will contact the DARC officers to see whether anything has changed on that front.
 
 ### Reports / Club Project Updates
+
 None.
 
 ### New Business
+
 - 2022 June VHF Contest on June 11th-13th 2022:
   - Clayton (VE3IRR) fully supports the event. He proposed that we find an organizer. He will also pass on all the contest logistics information and documents he has.
   - Bert (VE2ZAZ) suggested that a sub-committee be created. Several members agreed to participate. The sub-committee will meet on March 28 at 7pm on Zoom. Charles (VA3CPY) will book a separate Zoom meeting.
@@ -61,10 +71,13 @@ None.
 - Bert (VE2ZAZ): He is questioning how soon the Club should resume the in-person meetings. A proposal is to wait until September. In the mean time, we could organize a ham radio in the park gathering.
 
 ### Show and Tell / Announcements
+
 - Charles is trying to get onto the Tuesday SSB VHF Net. He has decided to purchase an IC-7100 HF/VHF transceiver.
 
 ### Ask the Club
+
 - Bert (VE2ZAZ) showed an antique capacitor and bulb in a Bakelite box. He did not know what it was used for. Peter (VA3PJ) suggested that it could be a passive frequency meter.
 
 ### Adjournment
+
 The President observed that there was no further business; the meeting was adjourned at 9:20 pm.

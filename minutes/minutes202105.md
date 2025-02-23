@@ -65,42 +65,54 @@ The following people were present:
 | Tom                    | VE3YTN     | Visitor          |   -     | No    |  -  |
 
 ### Opening
+
 The meeting was opened by the President, Charles (VA3CPY) at 7:10 pm.
 There were 45 visitors attending the meeting.
 
 ### Secretary's Report
+
 Bert (VE2ZAZ) posted a draft version of the April 2021 meeting minutes on the website prior to this meeting. Moved by him that the minutes be adopted as posted on the website. Seconded by Glenn (VE3XRA). The motion was carried.
 
 ### Treasurer's Report
+
 - The bank balance as of April 30th was $2,002.78. There is also $2,000 which is split up into two term deposits. One has a maturity date of June 21st, 2021. The other one will mature on October 21st, 2021.
 - There are 24 members as of today. There are also three life members.
 
 ### Vice President's Report
+
 - The June meeting speaker will be Wayne VE3CZO.
 - One 6m CW beacon in Québec had its frequency changed to 50.070 MHz. Mike will send an email to the WCC groups.io with additional details.
 
 ### Director's Report
+
 Nothing to report. No Club-owned test equipment was borrowed during the month.
 
 ### President's Report
+
 - The Club received a troll email. Someone claimed to own the rights to a USAF airplane photograph that was included in one presentation PDF file hosted on our website. They claimed some money as compensation. We declined to pay, and we also removed the photograph from the document just to be sure. No further action should be required.
 
 ### Speaker
+
 Bob Heil (K9EID), Heil Sound - His story.
 
 ### Old Business
+
 - Our beacons are currently located in Stittsville. The Officers had a conversation with Bryan (VE3UU) regarding the possibility of moving our beacons there. The Diefenbunker hosts a ham club, VE3CWM, The Cold War Museum Club; Bryan is one of the club officers. They offer to take over ownership of the beacons, and to run and to maintain them. Some help would be provided by us to set up the beacons at their location. In the event that they would no longer want to run them, they agree to return the equipment back to WCARC. Discussions will be ongoing, as there are still several technical details to clarify before we can decide on that matter. There are also discussions on storing our Club equipment at the Museum, with a storage fee charged to us. Fee details are unknown at this point. Charles (VA3CPY) will send a meeting request email to Bryan. Wayne (VE3CZO) will provide a list of open issues to be included in the email.
 - The Club will not participate in the September 2021 VHF contest, as other ham venues are also cancelled. One activity that will take place is the OARC participation in the ARRL Field Day, assuming that the Ontario lockdown is lifted.
 - Bert (VE2ZAZ) will send an email about the ARRL June VHF contest to remind Club members of the event, and to set a date and time for a meet over the air during the Contest.
 
 ### Reports / Club Project Updates
+
 Glenn (VE3XRA): The OARC is installing a VE2CRA DMR repeater at the Camp Fortune site. They are considering installing a BBHN link as a contingency plan for linking with the DMR network. Dave (VE3BOW) is looking after that project.
 
 ### New Business
+
 Charles (VA3CPY) brought up the item of finding ways to promote ham radio and the Club, and is requesting suggestions. He will send an email on the WCC groups.io to solicit feedback, and to inform that we will be discussing this at the June meeting. Glenn (VE3XRA) suggested that there may be a lot of new hams who are unaware of the Club's existence, as many got their license via online learning in the last year.
 
 ### Show and Tell / Announcements
+
 The show and tell was skipped due to the meeting duration.
 
 ### Adjournment
+
 The President observed that there was no further business; the meeting was adjourned at 10:30 pm.

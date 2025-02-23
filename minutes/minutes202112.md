@@ -19,37 +19,46 @@ The following people were present:
 | Peter Jago             | VA3PJ      | Member           | FN25ag  | Yes   | Yes |
 
 ### Opening
+
 The meeting was opened by the President, Charles (VA3CPY) at 7:15 pm.
 There were no visitors attending the meeting.
 
 ### Secretary's Report
+
 - The Secretary was absent.
 - Bert (VE2ZAZ) posted a draft version of the November 2021 meeting minutes on the Club website prior to this meeting. Moved by the President that the minutes be adopted as posted on the website. The motion was carried.
 
 ### Treasurer's Report
+
 - The balance as of November 30th was $2033.38. There is also $2,000 which is split up into two term deposits. One has a maturity date of August 21st, 2022. The other one will mature on October 21st, 2022.
 - There are 24 members as of today. There are also three life members.
 - Ray (VE3FN) is working with the Alterna Bank on setting up some electronic deposit capabilities. This would help on the collection of the Club dues. It is not clear at this point whether it will be possible, as the account is of the Non-Profit Organization type.
 
 ### Vice President's Report
+
 - The RAC Winter Contest was held last Saturday (December 18th).
 - The Ham Radio University event is scheduled for January 8th, 2022. Registration to the event is starting today.
 
 ### Director's Report
+
 The Director had nothing to report.
 
 ### President's Report
+
 - For the annual report, Charles listed the [2021 Club highlights](report2021.html). The report is filed as a separate document, and is available for consultation on the Club website.
 
 ### Speaker
+
 Since this is the Annual General Meeting, no presentation is scheduled.
 
 ### Old Business
+
 - VHF/UHF Beacon move:
   - John (VA3JYK) sent pictures of the proposed "Plan B" location at the Diefenbunker site. Charles (VA3CPY) showed and commented on the pictures.
   - We are currently waiting for the energy audit exercise to be completed. The DARC people will contact us when it is. We will then be able to resume the discussions on the move.
 
 ### Officer Election
+
 The President and Secretary positions are up for election. Additionally, the Vice President, Mike (VE3MKX) has moved out of the region, and has asked the board of Officers to be relieved of his duties.
 - No one came forward as a new candidate for the Secretary position. Since Bert (VE2ZAZ) had mentioned at the last meeting that he would be willing to carry on with the Secretary duties, he is thus re-elected as Secretary by acclamation.
 - No one came forward as a new candidate for the President position. Charles (VA3CPY) accepted to carry on with the President duties. He is thus re-elected as President by acclamation.
@@ -57,12 +66,15 @@ The President and Secretary positions are up for election. Additionally, the Vic
 - Wayne (VE3CZO) thanked Mike (VE3MKX) for his excellent work as Vice President.
 
 ### Reports / Club Project Updates
+
 None.
 
 ### New Business
+
 None.
 
 ### Show and Tell / Announcements
+
 - Mike (VE3MKX):
   - He mentioned about his personal Weather Station, which produces local reports accessible on the web.
   - He suggested that the attendees tune in to 437.800 MHz to listen to the International Space Station amateur radio down-link.
@@ -74,8 +86,10 @@ None.
 - Lawrence (VA3IQ) showed a picture of his Isotron 160m and 80m antennas. The Isotron performs surprisingly well on 160m.
 
 ### Ask the Club
+
 This period in the meeting offers an opportunity to ask technical questions and get answers from knowledgeable Club members.
 - Karen (VA3IGO) asked a question on how to mount a telescopic fiberglass mast to a motor-home bicycle rack. Mike (VE3MKX) suggested visiting Princess Auto, as they have several hitch mounts available. A military 3-foot fiberglass mast attached to a hitch mount is a good receptacle for a telescopic fiberglass mast.
 
 ### Adjournment
+
 The President observed that there was no further business; the meeting was adjourned at 8:15 pm.

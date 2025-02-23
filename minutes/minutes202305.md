@@ -23,16 +23,20 @@ The following people were present:
 | Ray Burrell            | VE3BVV     | Visitor          | FN24    | No    |  -  |
 
 ### Opening
+
 The meeting was opened by the President, Charles (VA3CPY) at 7:13 pm.
 There were three visitors attending the meeting.
 
 ### Secretary's Report
+
 Bert (VE2ZAZ) posted a draft version of the April 2023 meeting minutes on the Club website prior to this meeting. Moved by him that the minutes be adopted as posted on the website. Seconded by Glenn (VE3XRA). The motion was carried.
 
 ### Treasurer's Report
+
 - As of this meeting's date, no April 2023 bank statement had been received.
 
 ### Vice President's Report
+
 Lawrence (VA3IQ) informed the members of the following upcoming meeting presentations.
 - Meeting presentations already scheduled:
   - June 2023: Action report of the contest. Also, Paul (K1YBE): ARTEN Project - New England Mesh Networking.
@@ -43,15 +47,19 @@ Lawrence (VA3IQ) informed the members of the following upcoming meeting presenta
   - Ham Radio Science Citizen Investigation. The presentation will be given by a Ph.D. student.
 
 ### Director's Report
+
 Nothing to report.
 
 ### President's Report
+
 Nothing to report.
 
 ### Presentation
+
 None. The bulk of the meeting was spent preparing for the WCARC's participation in the 2023 ARRL June VHF Contest.
 
 ### Old Business
+
 - 902/1296 MHz Beacons: The beacons are still non-operational. Bert (VE2ZAZ) will contact Phil Lytle (VE3HOA) to get an update on their attempt to organize a visit to the YMCA roof to re-activate the beacons.
 - WCARC badges: Lawrence (VA3IQ) informed the attendees that the badges had been received. They will be distributed at the Kinburn Community Centre during the VHF Contest.
 - 432 Yagi antenna Procurement: As previously mentioned, Bert (VE2ZAZ) will contact Ken (VA3KA) again at the end of May to set up a pickup of the antenna.
@@ -60,13 +68,17 @@ None. The bulk of the meeting was spent preparing for the WCARC's participation 
   - Clayton is trying to reach previously active rover stations to gauge their interest in coordinating their activities with the WCARC.
 
 ### New Business
+
 None.
 
 ### Show and tell
+
 None.
 
 ### Ask the Club
+
 No questions were asked.
 
 ### Adjournment
+
 The President observed that there was no further business; the meeting was adjourned at 8:33pm.

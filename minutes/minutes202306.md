@@ -24,19 +24,23 @@ The following people were present:
 | Nancy Austin           | KC1NEK     | Visitor          |  -      | No    |  -  |
 
 ### Opening
+
 The meeting was opened by the President, Charles (VA3CPY) at 7:10 pm.
 There were three visitors attending the meeting.
 
 ### Secretary's Report
+
 Bert (VE2ZAZ) posted a draft version of the May 2023 meeting minutes on the Club website prior to this meeting. Moved by him that the minutes be adopted as posted on the website. Seconded by Glenn (VE3XRA). The motion was carried.
 
 ### Treasurer's Report
+
 - Ray (VE3FN) provided the following report: As of May 31st, we had $2733.83 in our chequing account. The changes from last month are a deposit of $10 (payment for a name badge), interest earned of $0.12, and a cheque for $101.70 to pay for our rental of the Kinburn Community Centre for the ARRL June VHF contest. We also had $2107.60 in our term deposits.
 - At the next meeting:
    - Ray will try to understand why the payment to the Kinburn Community Centre was $101.70, and not $110.
    - He will provide the current number of members.
 
 ### Vice President's Report
+
 Lawrence (VA3IQ) informed the members of the following upcoming meeting presentations.
 - Meeting presentations already scheduled:
    - July 2023: Dennis (WA4LPR): INTRFIL - Round rod inter-digital filtering construction software.
@@ -48,16 +52,20 @@ Lawrence (VA3IQ) informed the members of the following upcoming meeting presenta
 - There was an article published on the West Carleton Online website covering our participation in the June VHF contest. Following that article, a member of the local emergency preparedness committee contacted Clayton (VE3IRR) to inquire about the Club's interest in providing advice on emergency communications. The Officers will discuss this matter further and report back to the members at a future meeting.
 
 ### Director's Report
+
 No report, as the Director was absent.
 
 ### President's Report
+
 The Club had a successful VHF contest again this year. This is quite an achievement, considering the size of our Club, and the complexity in setting up, operating and tearing down our temporary station. The Club would like to thank Bert (VE2ZAZ) for his contribution in organizing the VHF contest.
 
 ### Presentation(s)
+
 - Paul (K1YBE): ARTEN Project - New England Mesh Networking.
 - Clayton (VE3IRR) - Report on our participation in the June VHF Contest. The Club did better than last year in the number of QSOs on most bands. In total, we had 400 QSOs and 173 multipliers. The submitted score is 111,066. More details are provided in the [PDF file](/presentations/ve3irr_2023_june_contest_review.pdf) which can be downloaded from the [Presentations page](/presentations.html) of the Club's website.
 
 ### Old Business
+
 - 902/1296 MHz Beacons: The beacons are still non-operational. Bert (VE2ZAZ) contacted Phil Lytle (VE3HOA) to get an update on their attempt to organize a visit to the YMCA roof to re-activate the beacons. Phil reported that no progress had been made. Bert recommended that we consider pulling out the beacons from the Y and move them to the Diefenbunker.
 - WCARC badges: Ray (VE3FN) distributed the badges at the Kinburn Community Centre during the VHF Contest. Ray took back the badges that were not picked up. He will mail them to the owners. The next order of badges will be processed in 2024.
 - 432 Yagi antenna procurement: The donated antenna was recovered from Ken (VA3KA) by Rémi (VA3DRI) before the VHF contest. The Club would like to sincerely thank Ken for the donation. The antenna was successfully used during the Contest. Bert (VE2ZAZ) took the antenna home after the Contest. He will try to improve its VSWR.
@@ -68,13 +76,17 @@ The Club had a successful VHF contest again this year. This is quite an achievem
    - The Club thanked Tyler Tidman (VA3DGN) and Margaret Tidman (VA3VXN) for their help in loading up the Club gear onto the truck on the day before the trip to the VHF contest venue.
 
 ### New Business
+
 None.
 
 ### Show and tell
+
 Lawrence (VA3IQ): 222 MHz and Up Distance Contest on August 5th-6th, 2023. Hams in the Greater-Toronto and the Rochester, NY areas will participate in that contest.
 
 ### Ask the Club
+
 No questions were asked.
 
 ### Adjournment
+
 The President observed that there was no further business; the meeting was adjourned at 9:26pm.
