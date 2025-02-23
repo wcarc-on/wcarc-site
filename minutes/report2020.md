@@ -19,8 +19,8 @@ title: Annual Report, 2020
 
 ### April
 
--  The continuance of monthly meetings via the Zoom conferencing platform.
--  Cancellation of participation in the June VHF contest due to COVID pandemic.
+- The continuance of monthly meetings via the Zoom conferencing platform.
+- Cancellation of participation in the June VHF contest due to COVID pandemic.
 
 ### June
 

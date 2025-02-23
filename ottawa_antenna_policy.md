@@ -56,7 +56,7 @@ Glenn MacDonell VE3XRA
 President, Ottawa Amateur Radio Club  
 Secretary, West Carleton Amateur Radio Club
 
------
+---
 
 Attachment  
 Moved by Councillor P. Hume  

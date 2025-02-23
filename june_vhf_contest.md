@@ -15,7 +15,7 @@ This year, WCARC will have an FM simplex station operating on the 2m, 70cm, and 
 
 More information about the contest can be found below.
 
------
+---
 
 What?
 -----
