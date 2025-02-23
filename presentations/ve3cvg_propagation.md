@@ -4,10 +4,12 @@ title: Propagation VHF and Above
 ---
 
 ## (an overview only)
+
 By Rick Bandla (VE3CVG)  
 As presented at RAC Forum in Carp, ON on August 30, 2003
 
 ## Radio Waves
+
 * Electromagnetic Waves composed of equal electric and magnetic power levels
 * Travel in straight lines more or less like light
 * Change direction if/when encounter atoms, molecules, ions, electrons.
@@ -15,6 +17,7 @@ As presented at RAC Forum in Carp, ON on August 30, 2003
 * Coherent electron activity re-enforces wave
 
 ## The Ground - info from OZ1RH
+
 * Low angle of radiation usually desirable
 * Vertical antennas need perfect ground to give low angle of radiation
 * Radiation angle of a horizontal beam is a function of its height over the ground.
@@ -33,12 +36,14 @@ Typical beam pattern above ground. The ground influences the angle of the lobes 
 ![pattern of beam](propagation/pattern-of-beam.gif)
 
 ## Ionization
+
 * Atoms are usually electrically neutral with a +ve nucleus surrounded by some quantity of electrons
 * If electrons become separated we have free electrons and positively charged ions
 * Ionization occurs as a result of bombardment by charged particles, UV, X-rays, gamma rays
 * Radio waves are non-ionizing radiation
 
 ## When Radio Waves meet Matter
+
 * Refraction
   - change in direction of wave
   - Refraction due to ionization looks like reflection
@@ -55,12 +60,14 @@ Typical beam pattern above ground. The ground influences the angle of the lobes 
   - Loss increases with scattering angle and frequency (clear takeoff more important at higher frequencies)
 
 ## Refractive Index or N
+
 * N is the radio wave velocity in free space/velocity in a new medium
 * Calculation: N = 77.6  (pressure in millibars/temp in kelvins) + 3.73 (105 (water vapour pressure in millibars/temp2)) which is typically about 324
 * N is independent of frequency
 * In normal atmosphere, air temp and dew point decrease with height above ground therefore N also decreases
 
 ## Troposphere
+
 * This is where our weather lives
 * Tropopause is upper boundary and is the temperature inversion layer (about 10 km depending on lat and conditions)
 * No significant ionization
@@ -69,6 +76,7 @@ Typical beam pattern above ground. The ground influences the angle of the lobes 
 * Refraction within the troposphere is what extends the optical horizon to the radio horizon (4/3 earth)
 
 ## Tropo Scatter
+
 * Point to point communication on radio horizon is typically 50km max, S9 signal strength Workable distance is d1(km)=4.1( root h1 +  root h2)
 * Troposcatter Ts is always possible, independent of frequency 50MHz - 10GHz
 * Range up to 800km is realistic
@@ -76,6 +84,7 @@ Typical beam pattern above ground. The ground influences the angle of the lobes 
 * Note: there is also Back Scatter and Side Scatter
 
 ## Tropo Ducting
+
 * Caused by radio waves reflected and refracted between layers
 * Waveguide in the sky, with very little loss
 * Often one opening and one exit
@@ -98,6 +107,7 @@ Typical beam pattern above ground. The ground influences the angle of the lobes 
 ![layers of the atmosphere](propagation/atmosphere.jpg)
 
 ## Ionosphere
+
 * MUF or Maximum Usable Frequency is highest freq returned to earth
 * D Region at 60-90km
   - Absorbs HF but almost transparent to VHF and above
@@ -111,6 +121,7 @@ Typical beam pattern above ground. The ground influences the angle of the lobes 
   - World wide communication at 50MHz but insufficient ionization to affect 144MHz and up
 
 ## Sporadic E (Es)
+
 * Range 500-8000km on 50MHz (multi hop)
 * Range 800 - 4000km on 144MHz (double hop)
 * Occasional openings to 222MHz
@@ -135,6 +146,7 @@ Typical beam pattern above ground. The ground influences the angle of the lobes 
 * Theory: Wind shear causing ion concentration
 
 ## Aurora (Au)
+
 * Complex! Charged particles emanating from sun in the solar wind become trapped in earth's magneto tail which streams behind earth away from sun. Increase in solar flux stretches magneto tail until it snaps and reconnects into a more stable configuration. Some snapped particles eject into space, retained particles collapse back to earth. These collapsing particles somehow pick up enough energy to penetrate the E region.
 * Auroral effects are in E layer
 * Daily rotation of magnetic pole about geographic pole & solar wind make the auroral zone approach and recede twice daily
@@ -146,6 +158,7 @@ Typical beam pattern above ground. The ground influences the angle of the lobes 
 * Region where auroral contact is possible is referred to as the "boundary fence". Oval 2000km to your east and your west and 1000km to your north (forward scatter) and south (back scatter).
 
 ## Auroral Es
+
 * Follows time and location of aurora
 * 50-200MHz
 * Higher latitudes, night or day, other times besides summer
@@ -159,6 +172,7 @@ Typical beam pattern above ground. The ground influences the angle of the lobes 
 ![map showing auroral doughnut](propagation/auroralmap.gif)
 
 ## Meteor Scatter (MS)
+
 * Propagation is actually from trails of ionization as high velocity fragments (grains) burn up at about 100km.
 * Trail (tail) 20 - 65km long 1m in diam
 * Meteors are random, any time works, but midnight to dawn best for MS
@@ -174,6 +188,7 @@ Typical beam pattern above ground. The ground influences the angle of the lobes 
 * MS significantly easier on 50MHz than on 432MHz
 
 ## Meteor Scatter - What Works?
+
 * High ERP an advantage, horizontal polarization at both stations
 * "Point a not too directional beam along the great circle path at the other station and hope for meteors"
 * With meteors at 88-100km high max range is 2100 - 2250km
@@ -198,11 +213,13 @@ Typical beam pattern above ground. The ground influences the angle of the lobes 
 | -               | Reflection          | -      | X  | X  | X    | X     |
 
 ## Polarization
+
 * Refraction and reflection of a wave is more probable when polarization of the wave and the surface are in the same plane. (less loss)
 * Horizon, Ionosphere, clouds, various layers are horizontal with respect to the surface of the earth.
 * Horizontal polarization more successful for DX propagation at VHF and above frequencies.
 
 ## So What Mode Was That?
+
 * Sometimes it's obvious from frequency or characteristics of the signals
 * Sometimes more than one mode contributes to a path
 * Short Es and long MS sound the same
@@ -212,6 +229,7 @@ Typical beam pattern above ground. The ground influences the angle of the lobes 
 * Listen a lot!   Experience!
 
 ## What You Need to Succeed on VHF/UHF & Up
+
 * A transceiver that covers the desired bands & has reasonable performance
 * Extra power useful but not mandatory
 * Good Antennas are mandatory!!!
@@ -230,6 +248,7 @@ Typical beam pattern above ground. The ground influences the angle of the lobes 
 ![chart showing best months for specific propagation](propagation/besttime.gif)
 
 ## Effective Transmission Modes
+
 * Voice on SSB
   - for all types of propagation
   - best for stronger signals
@@ -251,6 +270,7 @@ Typical beam pattern above ground. The ground influences the angle of the lobes 
 
 
 ## WSJT by K1JT Joe Taylor
+
 * Windows PC software (freeware) which uses a computer sound card connected to a transceiver for:
 * Tropo propagation using JT44 or JT6M
 * Meteor Scatter using FSK441
@@ -261,10 +281,12 @@ Typical beam pattern above ground. The ground influences the angle of the lobes 
 * See [http://www.pingjockey.net/cgi-bin/pingtalk](http://www.pingjockey.net/cgi-bin/pingtalk) for co-ordinating FSK441 contacts.
 
 ## References
+
 * The VHF/UHF DX Book Vol#1 RSGB - Editor Ian White G3SEK
 * See the list of web sites
 
 ## Web Sites
+
 * Bill Hepburn's VHF UHF Tropo Ducting as well as links to MUF, Aurora, Meteor Scatter,  F2 Skip [http://www.dxinfocentre.com/tropo.html](http://www.dxinfocentre.com/tropo.html)
 * Space Weather Now (solar, aurora, etc.) [http://www.swpc.noaa.gov/communities/space-weather-enthusiasts](http://www.swpc.noaa.gov/communities/space-weather-enthusiasts)
 * Gary Kronk's Meteor Observing Calendar [http://meteorshowersonline.com/calendar.html](http://meteorshowersonline.com/calendar.html)

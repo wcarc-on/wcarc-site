@@ -19,30 +19,35 @@ In 2017, the Club added a 2m WSPR beacon. It operated from FN25bg before being r
 Following is a list of the WCARC beacons:
 
 ### 6m - VE3WCC - 50.009MHz CW
+
 * status: fully operational
 * located in FN15xi
 * power is 500mW
 * PAR Electronics OA-50 antenna at about 25 ft AGL
 
 ### 2m - VE3WCC - 144.297MHz CW
+
 * status: fully operational
 * located in FN15xi
 * power is 2W
 * PAR Electronics OA-144 antenna at about 25 ft AGL
 
 ### 1.25m - VE3WCC - 222.063MHz CW
+
 * status: fully operational
 * located in FN15xi
 * power is 2W
 * PAR Electronics OA-222 antenna at about 25 ft AGL
 
 ### 70cm VE3WCC - 432.358MHz CW
+
 * status: fully operational
 * located in FN15xi
 * power is 1W
 * PAR Electronics OA-432 antenna at about 25 ft AGL
 
 ### 33cm - VE3WCC - 903.360MHz CW
+
 * status: fully operational
 * beacon module purchased from Bruce (W7BAS)
 * located in FN15xi
@@ -51,6 +56,7 @@ Following is a list of the WCARC beacons:
 * elevation is about 25 ft AGL
 
 ### 23cm - VE3WCC - 1296.060MHz CW
+
 * status: fully operational
 * beacon module purchased from Bruce (W7BAS)
 * located in FN15xi
@@ -59,6 +65,7 @@ Following is a list of the WCARC beacons:
 * elevation is about 25 ft AGL
 
 ### 2m - VE2ZAZ/B - 144.490460 MHz WSPR
+
 * status: fully operational
 * located in FN25bk
 * power is 500mW

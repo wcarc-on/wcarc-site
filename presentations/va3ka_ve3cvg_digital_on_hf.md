@@ -11,6 +11,7 @@ October 15-17, 2004 QUARTER CENTURY WIRELESS ASSOCIATION Conference
 Lord Elgin Hotel, Ottawa, Ontario, Canada
 
 ## Table of Contents
+
 * Introduction
 * Common HF Modes include RTTY, TOR modes (AMTOR, PACTOR), CLOVER, HELL, MFSK, MT63, Packet, SSTV, PSK-31
 * Hardware
@@ -21,11 +22,13 @@ Lord Elgin Hotel, Ottawa, Ontario, Canada
 * Discussion, questions and demo
 
 ## Introduction
+
 * Thanks to the generosity of radio hams with programming knowledge, the World Wide Web and the availability of personal computers, new and powerful communications tools are available to all hams.
 * We can all participate in the revolution by trying out these modes and judging their performance on all of the HF bands.
 * This presentation will provide a summary of the most common digital modes in use today and how you can get on the air with only a little effort!
 
 ## RTTY
+
 * "Radio Teletype" is an FSK (Frequency Shift Keying) mode that has been in use longer than any other digital mode
 * RTTY is a very simple technique which uses a five-bit code to represent all the letters of the alphabet, the numbers, some punctuation and some control characters
 * 45 baud (typically) corresponds to a typing speed of 60 WPM.
@@ -36,6 +39,7 @@ Lord Elgin Hotel, Ottawa, Ontario, Canada
 <audio src="digital_on_hf/rtty.wav" controls="controls"></audio>
 
 ## AMTOR
+
 * AMateur Teleprinting Over Radio
 * Derived from the commercial SITOR system (Simplex Telex Over radio) developed primarily for Maritime use in the 1970s.
 * In the early 1980's, Peter Martinez, G3PLX, made several minor changes to the SITOR protocol and called it AMTOR
@@ -50,6 +54,7 @@ Lord Elgin Hotel, Ottawa, Ontario, Canada
 <audio src="digital_on_hf/amtor.wav" controls="controls"></audio>
 
 ## PACTOR
+
 * FSK mode and is a standard on modern TNCs
 * Combination of packet and AMTOR Techniques
 * The most popular ARQ digital mode on amateur HF today
@@ -59,18 +64,21 @@ Lord Elgin Hotel, Ottawa, Ontario, Canada
 <audio src="digital_on_hf/pactor.wav" controls="controls"></audio>
 
 ## Winlink
+
 * Winlink 2000 provides a full-featured radio digital message transfer system, [**worldwide**](http://winlink.org/userPositions)
 * Email transfer with attachments, map & text-based position reporting, graphic & text-based weather bulletin services, and emergency communications are now available to the Amateur radio community by linking radio to the Internet using PACTOR on the HF Bands
 * The mobile user, whether on the high seas, jungles of a remote region, or travelling in an RV,  has the ability to provide family and friends with the state of their safety and well-being along with the joys of their travels.
 * **The Winlink 2000 system is currently used for  emergency communications where local or regional  communications are disrupted, including the the loss of the Internet, and where accuracy of information is paramount.**
 
 ## PACTOR II
+
 * Robust and powerful PSK mode which operates well under varying conditions
 * Uses strong logic, automatic frequency tracking; it is DSP based
 * As much as 8 times faster then PACTOR 1
 * Both PACTOR and PACTOR-2 use the same protocol handshake, making the modes compatible
 
 ## PACTOR III
+
 * Proprietary mode used for message and traffic handling over an HF radio circuit
 * Use of PACTOR-III protocol is limited for NA hams and some other countries due to the very wide bandwidth
 * Only the embedded hardware (modem) from the German company that owns the rights to this mode, is capable of operating PACTOR-III.
@@ -78,6 +86,7 @@ Lord Elgin Hotel, Ottawa, Ontario, Canada
 * EXPENSIVE modems!
 
 ## CLOVER
+
 * PSK mode which provides a full duplex simulation
 * Suited for HF operation (especially under good conditions)
 * Clover's key characteristics are band-width efficiency with high error-corrected data rates
@@ -87,6 +96,7 @@ Lord Elgin Hotel, Ottawa, Ontario, Canada
 <audio src="digital_on_hf/clover.wav" controls="controls"></audio>
 
 ## HELLSCHREIBER
+
 * A method of sending and receiving text using facsimile technology
 * This mode has been around a long time; the recent use of PC sound cards as DSP units has increased the interest in Hellschreiber
 * The single-tone version (Feld-Hell) is the method of choice for HF operation
@@ -97,6 +107,7 @@ Lord Elgin Hotel, Ottawa, Ontario, Canada
 <audio src="digital_on_hf/hell.wav" controls="controls"></audio>
 
 ## MFSK16
+
 * An advancement to the THROB mode and encodes 16 tones
 * Uses Fast Fourier Transform technology to decode the ASCII characters, and Constant Phase Frequency Shift Keying to send the coded signal. Continuous Forward Error Correction (FEC) sends all data twice with an interleaving technique to reduce errors from impulse noise and static crashes
 * The relatively wide bandwidth (316 Hz) for this mode allows faster baud rates (typing is about 42 WPM) and greater immunity to multipath phase shift
@@ -105,6 +116,7 @@ Lord Elgin Hotel, Ottawa, Ontario, Canada
 <audio src="digital_on_hf/mfsk16.wav" controls="controls"></audio>
 
 ## MT63
+
 * New DSP based mode for sending keyboard text over paths that experience fading and interference
 * Complex scheme to encode text in a matrix of 64 tones over time and frequency
 * Error correction at the receiving end while still providing a 100 WPM rate
@@ -114,6 +126,7 @@ Lord Elgin Hotel, Ottawa, Ontario, Canada
 <audio src="digital_on_hf/mt63.wav" controls="controls"></audio>
 
 ## HF PACKET
+
 * HF Packet is an FSK mode that is an adaptation of the very popular Packet radio used on VHF FM
 * The HF version of Packet Radio maintains the same protocols and ability to "node" many stations on one frequency
 * Even with the reduced bandwidth (300 baud rate), this mode is unreliable for general HF ham communications and is mainly used to pass routine traffic and data between areas where VHF repeaters may be lacking
@@ -121,6 +134,7 @@ Lord Elgin Hotel, Ottawa, Ontario, Canada
 <audio src="digital_on_hf/hf-packet.wav" controls="controls"></audio>
 
 ## PSK-31
+
 * Developed by Peter Martinez G3PLX in 1995
 * Integration between computers and ham radio. Replacement for RTTY?
 * Software uses DSP processing of computer soundcards
@@ -137,6 +151,7 @@ Lord Elgin Hotel, Ottawa, Ontario, Canada
 <audio src="digital_on_hf/psk31.wav" controls="controls"></audio>
 
 ## PSK-31 - Technical Info
+
 * By comparing the 31Hz bandwidth of PSK31 against a CW filter of 500 Hz; 10 * log (500/31) dB = 12 dB, reveals that a CW transmitter must put out 15 to 18 times more power than a PSK31 transmitter, to achieve the same S/N ratio at the Rx
 * phase shift keying (BPSK or QPSK) - 2 pure tones 31Hz apart
 * 0 bit in the data stream generates a 180° audio phase shift, but 1 does not
@@ -144,6 +159,7 @@ Lord Elgin Hotel, Ottawa, Ontario, Canada
 * QPSK mode is very accurate but requires 4 Hertz frequency stability
 
 ## SSTV
+
 * MMSSTV - software solution that has made hardware obsolete
 * By JE3HHT Makoto Mori and it's freeware
 * MMSSTV supports numerous subsets of the following modes: Robot, AVT90, Scottie, Martin, SC2, PD, P3, P5, P7, MP,MR,ML
@@ -151,6 +167,7 @@ Lord Elgin Hotel, Ottawa, Ontario, Canada
 * There are other software packages but this is the ultimate
 
 ## Hardware
+
 * Computer 486 with 16 bit sound card at least
   - Almost every Creative Labs or clone works OK
   - Faster computers are better + Windows 98 or above is better
@@ -166,6 +183,7 @@ Lord Elgin Hotel, Ottawa, Ontario, Canada
   - Some multi-mode TNCs
 
 ## PSK- 80 Warbler
+
 * Transceiver on a card for PSK-31
 * For 80m 3.580.5MHz +/- 500Hz
 * \>3w PEP
@@ -176,12 +194,14 @@ Lord Elgin Hotel, Ottawa, Ontario, Canada
 * Cost for the transceiver as a kit is $49 USD
 
 ## Software - General
+
 * Many software packages available on the INTERNET mostly  "freeware" or "shareware"
 * Single Mode programs i.e. RTTY
 * Multi Mode Programs
 * Soundblaster compatible
 
 ## Software - Single Mode
+
 * Single Mode
   - MMTTY (RTTY)
   - WinPSKse (PSK31)
@@ -193,6 +213,7 @@ Lord Elgin Hotel, Ottawa, Ontario, Canada
   - MMSSTV (SSTV)
 
 ## Software - Multi Mode
+
 * Multi-Mode
   - WinWarbler (PSK31, RTTY)
   - Digipan (PSK31, PACTOR I)
@@ -203,12 +224,14 @@ Lord Elgin Hotel, Ottawa, Ontario, Canada
   - Many others!!
 
 ## Getting Started - basic pieces
+
 * Any modern solid state HF rig (low power OK for most digital modes)
 * PC (Pentium + preferred but some modes will work OK on 486) with Soundblaster compatible sound card
 * Interface
 * Software (download from Internet)
 
 ## Getting Started - frequencies
+
 * Where to find digital modes??
   - 6 Meter Band: 50.290 - 50.292 MHz
   - 10 Meter Band: 28.110 - 28.125 MHz
@@ -222,6 +245,7 @@ Lord Elgin Hotel, Ottawa, Ontario, Canada
 
 
 ## Getting Started - PSK frequencies
+
 * PSK 31 Frequencies
   - 1838
   - 3580
@@ -234,6 +258,7 @@ Lord Elgin Hotel, Ottawa, Ontario, Canada
   - 28120
 
 ## What's In the Future
+
 * Present options are excellent!
 * Can it get much better?
 * Software Defined Modes on Software Defined Radios?
@@ -241,6 +266,7 @@ Lord Elgin Hotel, Ottawa, Ontario, Canada
 * Continuous path testing. Automatic compensation for fading and interference?
 
 ## Internet Resources
+
 * [http://myplace.frontier.com/~nb6z/frame.htm](http://myplace.frontier.com/~nb6z/frame.htm)
   - Great source of technical information
 * [http://www.aintel.bi.ehu.es/psk31.html](http://www.aintel.bi.ehu.es/psk31.html)
@@ -258,6 +284,7 @@ Lord Elgin Hotel, Ottawa, Ontario, Canada
 * Do a Google search PSK31!!
 
 ## Hardware Suppliers - there are many
+
 * Interfaces
   - [http://www.radioworld.ca/](http://www.radioworld.ca/)
   - [http://www.packetradio.com/psk31.html](http://www.packetradio.com/psk31.html)
@@ -267,9 +294,11 @@ Lord Elgin Hotel, Ottawa, Ontario, Canada
   - [http://www.smallwonderlabs.com](http://www.smallwonderlabs.com)
 
 ## Acknowledgements
+
 * Thanks to NB6Z for providing some materials for this presentation: [http://myplace.frontier.com/~nb6z/frame.htm](http://myplace.frontier.com/~nb6z/frame.htm)
 
 ## Email Us
+
 * Ken [va3ka@rac.ca](mailto:va3ka@rac.ca)
 * Rick [ve3cvg@rac.ca](mailto:ve3cvg@rac.ca)
 

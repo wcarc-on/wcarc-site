@@ -4,6 +4,7 @@ title: 900 MHz Power Amplifiers Suitable for Use in Amateur Radio
 ---
 
 ## Description
+
 * Ericsson 900 MHz cellular amplifier, removed during site upgrade, working
 * RF Transistors TP3022A (1), TP3020A (2)
 * Control Transistors TIP36A (2), TIP32 (1)
