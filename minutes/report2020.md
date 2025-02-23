@@ -46,30 +46,30 @@ The Club's 6m, 2m, 1.25m and 70cm beacons continued to operate from the Boltwood
 
 The Club had a full schedule of interesting presentations. Many of them are available on the Club's web site.
 
-* Steven Harrison - The Renfrew/Almonte Amateur Radio Emergency Services.
-* Norm Rashleigh (VE3LC) - His electric vehicle, and the state of the EV market and the technologies.
-* Bryan Rawlings (VE3QN) - Reported back on the WRC-19 conference.
-* Clayton Smith (VE3IRR) - BSides Ottawa 2019 Radio Challenges (SDR receiving and processing competition).
-* Rich Ferch (VE3KI) - The FT8 digital mode, its history and its future.
-* Ray Perrin (VE3FN) - Introduction to VHF/UHF Weak-Signal Activity.
-* Bert (VE2ZAZ) - A brief overview on Fiber Optics Communications.
-* Lawrence (VA3IQ) - SO2R (Single Operator 2 Radios).
-* Mike (VE3MKX) - Weather Observing and Recording.
-* Lawrence (VA3IQ) - Security and the digital amateur, and why I should care about information security.
+- Steven Harrison - The Renfrew/Almonte Amateur Radio Emergency Services.
+- Norm Rashleigh (VE3LC) - His electric vehicle, and the state of the EV market and the technologies.
+- Bryan Rawlings (VE3QN) - Reported back on the WRC-19 conference.
+- Clayton Smith (VE3IRR) - BSides Ottawa 2019 Radio Challenges (SDR receiving and processing competition).
+- Rich Ferch (VE3KI) - The FT8 digital mode, its history and its future.
+- Ray Perrin (VE3FN) - Introduction to VHF/UHF Weak-Signal Activity.
+- Bert (VE2ZAZ) - A brief overview on Fiber Optics Communications.
+- Lawrence (VA3IQ) - SO2R (Single Operator 2 Radios).
+- Mike (VE3MKX) - Weather Observing and Recording.
+- Lawrence (VA3IQ) - Security and the digital amateur, and why I should care about information security.
 
 Attendance at this year's meetings was comparable to last year, averaging around 15:
 
-* January: 16
-* February: 10
-* March: -
-* April: 17
-* May: 18
-* June: 14
-* July: 19
-* August: 12
-* September: 15
-* October: 17
-* November: 14
-* December: 15
+- January: 16
+- February: 10
+- March: -
+- April: 17
+- May: 18
+- June: 14
+- July: 19
+- August: 12
+- September: 15
+- October: 17
+- November: 14
+- December: 15
 
 Membership was a bit lower than last year but comparable to prior years, with 25 regular members and three life members.

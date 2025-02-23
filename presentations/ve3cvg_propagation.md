@@ -45,19 +45,19 @@ Typical beam pattern above ground. The ground influences the angle of the lobes 
 ## When Radio Waves meet Matter
 
 * Refraction
-  - change in direction of wave
-  - Refraction due to ionization looks like reflection
+  * change in direction of wave
+  * Refraction due to ionization looks like reflection
 * Reflection
-  - some fraction of a wave is turned back
+  * some fraction of a wave is turned back
 * Scattering
-  - wave encounters objects smaller than a wavelength.
-  - Over-dense scattering resembles refraction and reflection.
-  - Under-dense scattering from objects with order, may result in usable propagation (meteors, aurora)
+  * wave encounters objects smaller than a wavelength.
+  * Over-dense scattering resembles refraction and reflection.
+  * Under-dense scattering from objects with order, may result in usable propagation (meteors, aurora)
 * Absorption
-  - energy converted into heat
+  * energy converted into heat
 * Diffraction
-  - obstacle removes part of a wave front. Causes propagation into the shadow of the object
-  - Loss increases with scattering angle and frequency (clear takeoff more important at higher frequencies)
+  * obstacle removes part of a wave front. Causes propagation into the shadow of the object
+  * Loss increases with scattering angle and frequency (clear takeoff more important at higher frequencies)
 
 ## Refractive Index or N
 
@@ -93,14 +93,14 @@ Typical beam pattern above ground. The ground influences the angle of the lobes 
 * May last a few minutes or several hours
 * Typically 144MHz and above
 * Surface Ducting
-  - If temp increases with height, we have a temperature inversion.
-  - N decreases more sharply at the boundary, bending radio waves downwards and trapping them between earth and boundary
-  - Usually occurs over water
-  - generally between 15m and 400m deep
+  * If temp increases with height, we have a temperature inversion.
+  * N decreases more sharply at the boundary, bending radio waves downwards and trapping them between earth and boundary
+  * Usually occurs over water
+  * generally between 15m and 400m deep
 * Elevated ducting
-  - formed by double discontinuity in N.
-  - .5 - 2 km above ground or sea
-  - shallow compared to surface ducts
+  * formed by double discontinuity in N.
+  * .5 - 2 km above ground or sea
+  * shallow compared to surface ducts
 
 ## Atmosphere Chart
 
@@ -110,15 +110,15 @@ Typical beam pattern above ground. The ground influences the angle of the lobes 
 
 * MUF or Maximum Usable Frequency is highest freq returned to earth
 * D Region at 60-90km
-  - Absorbs HF but almost transparent to VHF and above
-  - Contributes to VHF and above forward scatter during intense solar activity
+  * Absorbs HF but almost transparent to VHF and above
+  * Contributes to VHF and above forward scatter during intense solar activity
 * E Region at 90 to 120km
-  - Ions predominate neutral atoms
-  - Sporadic E, Aurora, Meteors capable of reflecting VHF and above
+  * Ions predominate neutral atoms
+  * Sporadic E, Aurora, Meteors capable of reflecting VHF and above
 * F region
-  - F1 provides some refraction at 50MHz
-  - F2 at about 350km elevation, between 100km and 200km deep
-  - World wide communication at 50MHz but insufficient ionization to affect 144MHz and up
+  * F1 provides some refraction at 50MHz
+  * F2 at about 350km elevation, between 100km and 200km deep
+  * World wide communication at 50MHz but insufficient ionization to affect 144MHz and up
 
 ## Sporadic E (Es)
 
@@ -131,14 +131,14 @@ Typical beam pattern above ground. The ground influences the angle of the lobes 
 * A station can work several stations all in one or 2 grid squares
 * Signals are often very strong
 * Types:
-  - Temperate Zone Es - solar driven, summertime, 50-200MHz
-  - Auroral Es - see Aurora slide
-  - Equatorial Zone Es - 50-100MHz, around the magnetic equator
+  * Temperate Zone Es - solar driven, summertime, 50-200MHz
+  * Auroral Es - see Aurora slide
+  * Equatorial Zone Es - 50-100MHz, around the magnetic equator
 * Some Temperate Zone predictability/probability:
-  - 50MHz Apr-Sept, between 6am and 10pm
-  - 144MHz May-Aug, between 11am and 8 pm
-  - mid-morning peak & larger peak at about 6pm
-  - Tends to occur repeatedly between same spots
+  * 50MHz Apr-Sept, between 6am and 10pm
+  * 144MHz May-Aug, between 11am and 8 pm
+  * mid-morning peak & larger peak at about 6pm
+  * Tends to occur repeatedly between same spots
 * Es layers contain high concentrations of ionized metal, which gradually fall to earth
 * Constantly being replaced by meteor debris
 * No definite relationship between solar cycle and E layer
@@ -177,11 +177,11 @@ Typical beam pattern above ground. The ground influences the angle of the lobes 
 * Trail (tail) 20 - 65km long 1m in diam
 * Meteors are random, any time works, but midnight to dawn best for MS
 * Meteor "showers" are very predictable.
-  - Quadrantids 3-4 Jan
-  - Arietids 8 June
-  - Nu Geminids 12 July
-  - Perseids 12-13 Aug
-  - Geminids 13-14 Dec
+  * Quadrantids 3-4 Jan
+  * Arietids 8 June
+  * Nu Geminids 12 July
+  * Perseids 12-13 Aug
+  * Geminids 13-14 Dec
 * Pings are abrupt and rapidly fades (semi-coherent scatter)
 * Bursts are much longer and may come from over or under dense trails
 * Bursts from over dense trails increase in strength & oscillate then fade
@@ -250,22 +250,22 @@ Typical beam pattern above ground. The ground influences the angle of the lobes 
 ## Effective Transmission Modes
 
 * Voice on SSB
-  - for all types of propagation
-  - best for stronger signals
+  * for all types of propagation
+  * best for stronger signals
 * CW
-  - For all types of propagation
-  - Best for weaker signals
+  * For all types of propagation
+  * Best for weaker signals
 * Digital JT44 & JT6M
-  - Excellent for Tropo
-  - Best for very weak signals
-  - Superior to CW
+  * Excellent for Tropo
+  * Best for very weak signals
+  * Superior to CW
 * Digital FSK441
-  - Best for any short burst scatter
-  - Doppler tolerant
-  - Excellent for Meteor Scatter
+  * Best for any short burst scatter
+  * Doppler tolerant
+  * Excellent for Meteor Scatter
 * Digital PSK31
-  - For signals too weak for SSB
-  - Slightly better than CW
+  * For signals too weak for SSB
+  * Slightly better than CW
 * Other?
 
 

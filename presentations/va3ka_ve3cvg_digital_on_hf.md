@@ -169,18 +169,18 @@ Lord Elgin Hotel, Ottawa, Ontario, Canada
 ## Hardware
 
 * Computer 486 with 16 bit sound card at least
-  - Almost every Creative Labs or clone works OK
-  - Faster computers are better + Windows 98 or above is better
+  * Almost every Creative Labs or clone works OK
+  * Faster computers are better + Windows 98 or above is better
 * Interface - provides elegant connectivity between computer and radio
-  - Rigblaster - Cadillac - $60+ USD
-  - MFJ Sound Card to Rig Interface - Cadillac- $60+ USD
-  - Rascal by Buxcom (Buck Rogers) - $30 USD simple kit
-  - Homebrew - $10 in parts
+  * Rigblaster - Cadillac - $60+ USD
+  * MFJ Sound Card to Rig Interface - Cadillac- $60+ USD
+  * Rascal by Buxcom (Buck Rogers) - $30 USD simple kit
+  * Homebrew - $10 in parts
 * Commercial boxes
-  - PSK80, PSK-40, PSK-20, PSK-10 by Small Wonder Labs for PSK-31
-  - IC756Pro is RTTY Rx capable
-  - PACTOR III modem - proprietary
-  - Some multi-mode TNCs
+  * PSK80, PSK-40, PSK-20, PSK-10 by Small Wonder Labs for PSK-31
+  * IC756Pro is RTTY Rx capable
+  * PACTOR III modem - proprietary
+  * Some multi-mode TNCs
 
 ## PSK- 80 Warbler
 
@@ -203,25 +203,25 @@ Lord Elgin Hotel, Ottawa, Ontario, Canada
 ## Software - Single Mode
 
 * Single Mode
-  - MMTTY (RTTY)
-  - WinPSKse (PSK31)
-  - W1SQLPSK (PSK31)
-  - RckRTTY (RTTY)
-  - FELDHELL (Hell)
-  - IZ8BLY (MT63)
-  - STREAM (MFSK16)
-  - MMSSTV (SSTV)
+  * MMTTY (RTTY)
+  * WinPSKse (PSK31)
+  * W1SQLPSK (PSK31)
+  * RckRTTY (RTTY)
+  * FELDHELL (Hell)
+  * IZ8BLY (MT63)
+  * STREAM (MFSK16)
+  * MMSSTV (SSTV)
 
 ## Software - Multi Mode
 
 * Multi-Mode
-  - WinWarbler (PSK31, RTTY)
-  - Digipan (PSK31, PACTOR I)
-  - Hamscope (CW, PR, RTTY PSK31, MFSK16)
-  - MultiPSK (BPSK31, QPSK31, PSK63, PSKFEC31, PSKAM, PSKAM10, CW, CCW, RTTY, SITOR-AMTOR-NAVTEX, FELD HELL, PSK HELL, HF FAX, FILTERS)
-  - MixW (SSB, AM, FM, CW, BPSK31, QPSK31, FSK31, RTTY, Packet (HF/VHF), PACTOR (RX only), AMTOR (FEC), MFSK, Hellschreiber, Throb, Fax (RX only), SSTV, MT63)
-  - INTERCOM (CW, RTTY Feldhell, PSK (RX & TX),TOR-FEC (RX)
-  - Many others!!
+  * WinWarbler (PSK31, RTTY)
+  * Digipan (PSK31, PACTOR I)
+  * Hamscope (CW, PR, RTTY PSK31, MFSK16)
+  * MultiPSK (BPSK31, QPSK31, PSK63, PSKFEC31, PSKAM, PSKAM10, CW, CCW, RTTY, SITOR-AMTOR-NAVTEX, FELD HELL, PSK HELL, HF FAX, FILTERS)
+  * MixW (SSB, AM, FM, CW, BPSK31, QPSK31, FSK31, RTTY, Packet (HF/VHF), PACTOR (RX only), AMTOR (FEC), MFSK, Hellschreiber, Throb, Fax (RX only), SSTV, MT63)
+  * INTERCOM (CW, RTTY Feldhell, PSK (RX & TX),TOR-FEC (RX)
+  * Many others!!
 
 ## Getting Started - basic pieces
 
@@ -233,29 +233,29 @@ Lord Elgin Hotel, Ottawa, Ontario, Canada
 ## Getting Started - frequencies
 
 * Where to find digital modes??
-  - 6 Meter Band: 50.290 - 50.292 MHz
-  - 10 Meter Band: 28.110 - 28.125 MHz
-  - 12 Meter Band: 24.920 - 24.930 MHz
-  - 15 Meter Band: 21.060 - 21.090 MHz
-  - 17 Meter Band: 18.100 - 18.110 MHz
-  - 20 Meter Band: 14.065 - 14.090 MHz
-  - 30 Meter Band: 10.130 - 10.145 MHz
-  - 40 Meter Band: 7.060 - 7.080 MHz
-  - 80 Meter Band: 3.620 - 3.640 & 3.575 - 3.585 MHz
+  * 6 Meter Band: 50.290 - 50.292 MHz
+  * 10 Meter Band: 28.110 - 28.125 MHz
+  * 12 Meter Band: 24.920 - 24.930 MHz
+  * 15 Meter Band: 21.060 - 21.090 MHz
+  * 17 Meter Band: 18.100 - 18.110 MHz
+  * 20 Meter Band: 14.065 - 14.090 MHz
+  * 30 Meter Band: 10.130 - 10.145 MHz
+  * 40 Meter Band: 7.060 - 7.080 MHz
+  * 80 Meter Band: 3.620 - 3.640 & 3.575 - 3.585 MHz
 
 
 ## Getting Started - PSK frequencies
 
 * PSK 31 Frequencies
-  - 1838
-  - 3580
-  - 7035 for region 1 and region 3, and 7080 for region 2 *
-  - 10142
-  - **14070**
-  - 18100
-  - 21070
-  - 24920
-  - 28120
+  * 1838
+  * 3580
+  * 7035 for region 1 and region 3, and 7080 for region 2 *
+  * 10142
+  * **14070**
+  * 18100
+  * 21070
+  * 24920
+  * 28120
 
 ## What's In the Future
 
@@ -268,30 +268,30 @@ Lord Elgin Hotel, Ottawa, Ontario, Canada
 ## Internet Resources
 
 * [http://myplace.frontier.com/~nb6z/frame.htm](http://myplace.frontier.com/~nb6z/frame.htm)
-  - Great source of technical information
+  * Great source of technical information
 * [http://www.aintel.bi.ehu.es/psk31.html](http://www.aintel.bi.ehu.es/psk31.html)
-  - The "Official PSK31 Homepage"
+  * The "Official PSK31 Homepage"
 * [http://www.qsl.net/wm2u/psk31.html](http://www.qsl.net/wm2u/psk31.html)
-  - Interface designs, links etc.
+  * Interface designs, links etc.
 * [http://psk31.com/](http://psk31.com/)
-  - Lots of information
+  * Lots of information
 * [http://hamsoft.ca/pages/mmsstv.php](http://hamsoft.ca/pages/mmsstv.php)
-  - Slow scan TV
+  * Slow scan TV
 * [http://www.arrl.org/tis/info/HTML/psk31/index.html](http://www.arrl.org/tis/info/HTML/psk31/index.html)
-  - PSK31 information
+  * PSK31 information
 * [http://winlink.org/](http://winlink.org/)
-  - Winlink information
+  * Winlink information
 * Do a Google search PSK31!!
 
 ## Hardware Suppliers - there are many
 
 * Interfaces
-  - [http://www.radioworld.ca/](http://www.radioworld.ca/)
-  - [http://www.packetradio.com/psk31.html](http://www.packetradio.com/psk31.html)
-  - [http://www.mfjenterprises.com/](http://www.mfjenterprises.com/)
-  - [http://www.westmountainradio.com/RIGblaster.htm](http://www.westmountainradio.com/RIGblaster.htm)
+  * [http://www.radioworld.ca/](http://www.radioworld.ca/)
+  * [http://www.packetradio.com/psk31.html](http://www.packetradio.com/psk31.html)
+  * [http://www.mfjenterprises.com/](http://www.mfjenterprises.com/)
+  * [http://www.westmountainradio.com/RIGblaster.htm](http://www.westmountainradio.com/RIGblaster.htm)
 * Radio on a card
-  - [http://www.smallwonderlabs.com](http://www.smallwonderlabs.com)
+  * [http://www.smallwonderlabs.com](http://www.smallwonderlabs.com)
 
 ## Acknowledgements
 
