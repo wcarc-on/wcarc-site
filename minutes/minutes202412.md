@@ -58,6 +58,7 @@ The following people were present:
 ### President's Report
 
 Yearly report: The President provided a written report summarizing the Club activities and engagements throughout 2024. The report was shown and read out loud to the members. Mike moved that his report be adopted, with the inclusion of the following changes:
+
 - The addition of Luc (VE3JGL) and the correction of Lawrence (VA3IQ)'s call sign in the list of contributors to the microwave trip to Mont-Tremblant.
 - The addition of the Upper Frequencies SSB net hosted by Glenn (VE3XRA), a Club-sponsored weekly event.
 
@@ -70,6 +71,7 @@ Bert (VE2ZAZ) seconded the motion. A unanimous vote in favour of the motion took
 ### Election of Directors
 
 At this AGM, a Board election must be held to replace or renew two of its five Directors. The two elected Directors are expected to occupy the Vice President and Treasurer Officer positions. The incumbent Directors are Lawrence (VE3IQ) and Ray (VE3FN). The Club thanked the two outgoing Directors for their contribution to the Club operations.
+
 - Director for Vice President position: Lawrence (VA3IQ) offered to carry on with the Vice President position. No other candidate for Vice President stepped forward. As a result, Lawrence (VA3IQ) was voted in by acclamation as a continuing Director (Vice President).
 - Director for Treasurer position: Ray (VE3FN) offered to carry on with the Treasurer position only if no other candidate for Treasurer stepped forward. Glenn (VE3XRA) offered to replace Ray (VE3FN) as Treasurer. As a result, Ray (VE3FN) withdrew his candidacy. Glenn (VE3XRA) was voted in by acclamation as a new Director (Treasurer).
 

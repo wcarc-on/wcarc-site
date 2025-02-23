@@ -26,9 +26,11 @@ There were three visitors attending the meeting.
 
 - Bert (VE2ZAZ) posted a draft version of the August 2024 meeting minutes on the Club website prior to this meeting. Moved by him that the minutes be adopted as posted on the website. Seconded by Lawrence (VA3IQ). The motion was carried.
 - Bert has wrapped up the non-for-profit status and bylaws work on the ServiceOntario website account. One issue that remains to be fixed in our bylaws is how the number of directors is set. The ONCA requires that either:
+
   - a minimum AND maximum number of directors be defined, or
   - a fixed number of directors be set, with three directors being the minimum.
-Our bylaws only define a minimum, which does not meet the above requirements. Lawrence (VA3IQ) suggested that we elect an odd number of directors. This will have to be addressed in the future.
+
+  Our bylaws only define a minimum, which does not meet the above requirements. Lawrence (VA3IQ) suggested that we elect an odd number of directors. This will have to be addressed in the future.
 
 ### Treasurer's Report
 

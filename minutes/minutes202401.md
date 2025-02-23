@@ -65,8 +65,8 @@ There was no presentation.
 
 - Lawrence (VA3IQ) is organizing a Saturday morning (8AM) breakfast in February. The selected location is the Summerhays Restaurant. A reservation will be made, and then communicated on the WCARC groups.io.
 - Microwave day in a park: Lawrence is proposing that we hold a VHF and microwave communication day in a park when the warm weather returns and prior to the June VHF contest, likely at the end of April or in early in May. In early March, Bert (VE2ZAZ) will inquire about the Corkery Community Centre field as a potential venue for this event.
-- Constitution and bylaws discussion.
-The Club will revise the bylaws to reflect the current Club situation. A proposal is to have a 2-member sub-committee to perform the exercise, and then to submit the updated bylaws to the members for approval at the 2024 Annual General Meeting. Composition of the sub-committee will be decided at the February meeting. Some of the items discussed are:
+- Constitution and bylaws discussion:
+  The Club will revise the bylaws to reflect the current Club situation. A proposal is to have a 2-member sub-committee to perform the exercise, and then to submit the updated bylaws to the members for approval at the 2024 Annual General Meeting. Composition of the sub-committee will be decided at the February meeting. Some of the items discussed are:
   - One proposal is to add the webmaster as a Director. This would ensure that a higher number of Officers are active and available at any time.
   - The bylaws web page should be updated to reflect, either by referring to some external information, or explicitly, the current member dues.
   - The online (Zoom) nature of our meetings should be reflected into our bylaws.
@@ -75,6 +75,7 @@ The Club will revise the bylaws to reflect the current Club situation. A proposa
 ### Officer Election
 
 The following Executive positions were still vacant prior to the meeting: President, and Director. The election of these positions was thus deferred to this meeting. As a result, an election took place:
+
 - Wayne (VE3CZO) was re-elected by acclamation as our Director.
 - Mike (VA3TEC) was elected by acclamation as our President.
 

@@ -105,17 +105,17 @@ Gents,
 I spoke to Steve (N2CEI) at Down East Microwave Inc. this afternoon and asked our questions. Steve is one of the principles in DEMI. Here is what I learned:
 
 1. Does the 10w version of the transverter require an outboard relay?
-Answer - No outboard relays are required for the 10w version - it is complete except for antenna, IF radio and cable.
+   Answer - No outboard relays are required for the 10w version - it is complete except for antenna, IF radio and cable.
 1. Any thoughts about 902 vs 903?
-Answer - Either unit will work fine. They are identical in every way except the LO crystal. Filters are 20MHz wide so no re-tuning needed for either 902 or 903.
+   Answer - Either unit will work fine. They are identical in every way except the LO crystal. Filters are 20MHz wide so no re-tuning needed for either 902 or 903.
 1. Any thoughts about crystal switching?
-Answer - Not recommended because of built-in heater and LO cover, etc. It is possible to construct the unit designed for an outboard LO but this would be a deviation from the basic kit.
+   Answer - Not recommended because of built-in heater and LO cover, etc. It is possible to construct the unit designed for an outboard LO but this would be a deviation from the basic kit.
 1. Any chance of a deeper discount?
-Answer - At least 12.5% possibly more. Determined at time of order. Free shipping.
+   Answer - At least 12.5% possibly more. Determined at time of order. Free shipping.
 1. Does discount apply to entire order - i.e. other parts, MMICs, crystals, etc?
-Answer - Yes discount applies to everything except parts identified in policy statement, as on the web pages.
+   Answer - Yes discount applies to everything except parts identified in policy statement, as on the web pages.
 1. Availability?
-Answer - 3 to 4 weeks ARO for 8 units, +/- a week.
+   Answer - 3 to 4 weeks ARO for 8 units, +/- a week.
 
 Please decide which unit you want and be prepared to discuss/let me know on the evening of March 1.
 
@@ -213,10 +213,10 @@ What excitement! You should have heard Tom when he hooked up with me for the fir
 The problems that we encountered:
 
 1. All units need to have the oscillator drift resolved and the frequency needs to be set.
-I spoke with Steve at DEMI this afternoon. Here were his suggestions:
-> It is remotely possible that the crystals are off frequency but doubtful that they are all off.
->
-> Activate the crystal heater on all units. The heater is a thermistor with a positive coefficient. The resistance increases as the device approaches 50C. Set the oscillator by first peaking for voltage. This should be very close to correct freq (say within a couple of kHz). If unit does not oscillate in the correct area, do the series capacitance mod - cut the trace to the crystal and solder a cap in series (across the cut). The supplied cap is 10pF but Steve feels that is too large. Try 5pF instead. Note: that the voltage peak should not change much, if at all, between a cold crystal and a hot crystal.
+   I spoke with Steve at DEMI this afternoon. Here were his suggestions:
+   > It is remotely possible that the crystals are off frequency but doubtful that they are all off.
+   >
+   > Activate the crystal heater on all units. The heater is a thermistor with a positive coefficient. The resistance increases as the device approaches 50C. Set the oscillator by first peaking for voltage. This should be very close to correct freq (say within a couple of kHz). If unit does not oscillate in the correct area, do the series capacitance mod - cut the trace to the crystal and solder a cap in series (across the cut). The supplied cap is 10pF but Steve feels that is too large. Try 5pF instead. Note: that the voltage peak should not change much, if at all, between a cold crystal and a hot crystal.
 1. The rover seemed to drift down in frequency considerably during a contact. This should not happen if everything is working properly.
 1. Power output varies considerably with battery voltage. Yes - this is normal. These modules are quite resilient right up to 17v or more. Running at 15w should not hurt them and they will maintain linearity. If they will be run from 12v all the time (like a rover), the PA module can be re-biased to substantially increase power out.
 

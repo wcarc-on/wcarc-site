@@ -20,6 +20,7 @@ perfect!
 It is even adjustable so I can lower the mast and drive in my garage.. life is good!
 
 Next steps:
+
 * Waterproof the oak and connectors. ;-)
 * New mast
 * Add the 432 loop and a duplexer

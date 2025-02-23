@@ -20,6 +20,7 @@ Once again, the Pandemic has severely limited what our club can do as a group. N
 While to many DX means talking across the world, for other hams it might mean 100 km from mountain to mountain at frequencies 4 times as high as a microwave oven.  Both just participating in QSO’s and contest activities were enjoyed by many of our members.
 
 One of the Positives about Ham radio in a time of pandemic is that it can be the most socially distanced way to have round table discussions.
+
 - Parks-OTA and Summits-OTA have been very popular
 - The solar flux is fluctuating.
 - Ray (VE3FN)'s participation in the 10 GHz and Up contest was a success.
@@ -36,6 +37,7 @@ One of the Positives about Ham radio in a time of pandemic is that it can be the
 ### Hamfests
 
 One of the highlights of many operators is a chance to visit a Hamfest, where old, non-working and unwanted equipment can be sold off and different equipment in unknown condition can be purchased.  A Hamfest may be the only place where many of the uncommon parts and supplies can be seen before purchasing. Many of the traditional Hamfests in our area have been postponed, and so the fact that a few have managed to run is a reason to be happy.
+
 - The Lanark Hamfest (August), the Hanover Hamfest (August) and the Barrie Hamfest (September) took place, and turned out to be successful events.
 - The Kingston Hamfest (October) ended up being wet. It ended early due to a major thunderstorm.
 
@@ -45,6 +47,7 @@ The RAC website does have a listing of upcoming Hamfest events at
 ### Show and Tell
 
 Many of the members have been reaching into dusty corners, or the latest project areas to show us some of their Ham related treasures. Some highlights are:
+
 - Bert (VE2ZAZ) showed a VHF contest logging software package he is putting together. The software package is available on GitHub or via the ve2zaz.net website: [http://ve2zaz.net/VHF_QSO_Logger/VHF_Contest_Logger.htm](http://ve2zaz.net/VHF_QSO_Logger/VHF_Contest_Logger.htm)
 - Bert (VE2ZAZ) showed a TinySA $50 spectrum analyzer.
 - Charles (VA3CPY) showed a Chinese-made semiconductor and passive component tester. It is available for less than $20, and it offers a surprising measurement accuracy.
