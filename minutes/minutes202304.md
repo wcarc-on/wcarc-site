@@ -41,6 +41,7 @@ Bert (VE2ZAZ) posted a draft version of the March 2023 meeting minutes on the Cl
 ### Vice President's Report
 
 Lawrence (VA3IQ) informed the members of the following upcoming meeting presentations:
+
 - Meeting presentations scheduled:
    - May 2023: No presentation is scheduled; the time will be spent preparing for the June VHF Contest.
    - June 2023: Action report of the contest. Another presentation will be added to supplement the technical content of the meeting.

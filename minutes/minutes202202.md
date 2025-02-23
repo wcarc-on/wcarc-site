@@ -60,6 +60,7 @@ We now have a full Board of Officers. See the Officer Election section for more 
 ### Officer Election
 
 All Officer positions are now filled.
+
 - Vice President: Lawrence (VA3IQ) has come forward as a candidate for the Vice President position. As he is the only candidate for that position, he is elected by acclamation.
 - Director: Wayne (VE3CZO) confirmed his candidacy for the Director position. As he is the only candidate for that position, he is re-elected by acclamation.
 

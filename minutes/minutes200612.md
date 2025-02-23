@@ -54,7 +54,8 @@ Graham, VE3BYT, noted that the
 minutes for the November meeting are up on the web site.
 
 Tom, in looking over the past
-year, reminded everyone that
+year, reminded everyone that:
+
 * Membership is at a high level.
 * We have a good web site, thanks to Rick, VE3CVG.
 * We have a good turnout for VHF contests.
@@ -77,6 +78,7 @@ by Brian, VE3UU.
 Election of Officers: The current officers were voted back into
 office for another term, there being no other candidates demanding to be
 nominated.
+
 * President: Tom, VA3NFA. Nominated by VO1NO, seconded by VE3BSM.
 * Vice President, Rick, VE3CVG. Nominated by VE3XK, seconded by VE3IAO.
 * Treasurer, Ken, VA3KA. Nominated by VE3CVG, seconded by VA3NFA.
@@ -85,7 +87,8 @@ nominated.
 It was generally agreed that to
 keep club activities functioning smoothly, certain Committee Chairpersons and
 Coordinators need to be appointed. The
-first of these are
+first of these are:
+
 * Dale, VE3XZT, Chairman, Repeaters and Beacons.
 * Al, VO1NO, Chairman, Presentations and Programs.
 * Brad, VE3BSM, Chairman, APRS and Packet Facilities.

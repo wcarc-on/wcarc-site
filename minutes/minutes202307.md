@@ -35,6 +35,7 @@ Bert (VE2ZAZ) posted a draft version of the June 2023 meeting minutes on the Clu
 ### Vice President's Report
 
 Lawrence (VA3IQ) informed the members of the following upcoming meeting presentations:
+
 - Meeting presentations already scheduled:
    - August 2023: Mike (VA3TEC) - The state of the art in FPGAs.
    - September 2023: Dennis (WA4LPR) - INTRFIL - Round rod inter-digital filtering construction software.

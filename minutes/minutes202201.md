@@ -55,6 +55,7 @@ Michael VE3TKI (Ontario Incoming QSL Bureau manager) on the IARU and QSL Bureau 
 ### Officer Election
 
 Not all Officer positions were fulfilled during the AGM.
+
 - Secretary: Bert (VE2ZAZ), being the only candidate for the Secretary position, is acclaimed as the 2022-2023 WCARC Secretary.
 - Director: no other candidates for that position have come forward. Moreover, Wayne (VE3CZO), the previous Director, is absent. As he cannot confirm whether he accepts to renew his role as Director for the 2022-2023 period, his re-election is deferred to the next meeting.
 

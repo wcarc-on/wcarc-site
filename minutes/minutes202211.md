@@ -39,6 +39,7 @@ Bert (VE2ZAZ) posted a draft version of the October 2022 meeting minutes on the 
 ### Vice President's Report
 
 Meeting presentations in planning:
+
 - The History of the Ten-Tec Corporation
 - A presentation on the technical side of POTA, such as recommendations on radios and antennas
 - A presentation on transatlantic 2m communications

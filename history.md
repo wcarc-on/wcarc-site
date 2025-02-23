@@ -41,6 +41,7 @@ Eventually, the UHF radios and cans from Gord's home system became part of the 9
 As Gord relates "By this time, WCARC had reached a membership of 35 strong as I recall, and was meeting in the Legion building in Stittsville, but the air was really smoky in there. Somewhere in here, Manfred VA3MWK, of IGS fame joined the club and we had a web page on his company's server. Anyway, my wife, Trudy VE3TRD and I had Julie in 1995, and I became too busy so Peter VE3TFP took over the reins of the club".
 
 **More to come.** If you can fill in some or all of this period, please forward to the webmaster:
+
 * Field Days
 * Meetings at IGS World Headquarters
 * Flea Markets

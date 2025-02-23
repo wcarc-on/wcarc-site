@@ -85,16 +85,11 @@ Nil.
 
 ### Announcements / Show & Tell
 
-* Wayne (VE3CZO) mentioned that at the Smiths Falls flea market he was approached
-by VE3LTI (SK)'s wife (Verna) to sell his station. $600 was given as a donation to
-the club for Wayne's efforts. He asked that a thank-you letter be sent to her.
-* Bert (VE2ZAZ) showed a synthesizer he designed that generates from 4 kHz to 200 MHz.
-He is looking at doing an open source project with it.
+* Wayne (VE3CZO) mentioned that at the Smiths Falls flea market he was approached by VE3LTI (SK)'s wife (Verna) to sell his station. $600 was given as a donation to the club for Wayne's efforts. He asked that a thank-you letter be sent to her.
+* Bert (VE2ZAZ) showed a synthesizer he designed that generates from 4 kHz to 200 MHz. He is looking at doing an open source project with it.
 * Georges-André (VE2VAB) showed a 160m magnetic loop.
-* Wayne (VE3CZO) showed photos of a small museum called "Secrets of Radar Museum"
-he visited near London, Ontario.
-* Jeremy (VA3ZTF) talked about a project he is working on. It's a Satellite simulator
-using SDR.
+* Wayne (VE3CZO) showed photos of a small museum called "Secrets of Radar Museum" he visited near London, Ontario.
+* Jeremy (VA3ZTF) talked about a project he is working on. It's a Satellite simulator using SDR.
 * Wayne (VE3CZO) gave an update on the VHF Superconference held in Sterling, VA.
 
 ### Speaker

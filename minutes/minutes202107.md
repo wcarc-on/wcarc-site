@@ -33,17 +33,20 @@ Bert (VE2ZAZ) posted a draft version of the June 2021 meeting minutes on the web
 ### Treasurer's Report
 
 The following report was provided by email ahead of the meeting by the Ray (VE3FN), the Treasurer.
+
 - The balance as of June 30th was $2,032.95. There is also $2,000 which is split up into two term deposits. One has a maturity date of June 21st, 2021. The other one will mature on October 21st, 2021.
 - There are 24 members as of today. There are also three life members.
 
 ### Vice President's Report
 
 Mike (VE3MKX) mentioned several ham radio upcoming events and contests:
+
 - Two events—the Hanover Hamfest in August and the Barrie Hamfest in September—are being organized. They will likely take place.
 - Lighthouse on the Air
 - Parks on the Air
 
 Glenn (VE3XRA) added two more events:
+
 - The RAC Portable Station Challenge started on July 1st and runs until year end.
 - The 2021 RAC conference and AGM on September 19th. More information available on the [RAC website](https://www.rac.ca/agm/).
 

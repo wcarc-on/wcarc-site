@@ -83,6 +83,7 @@ None.
 ### Ask the Club
 
 This period in the meeting offers an opportunity to ask technical questions and get answers from knowledgeable Club members.
+
 - No questions were asked.
 
 ### Adjournment

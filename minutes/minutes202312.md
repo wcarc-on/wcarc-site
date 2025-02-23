@@ -23,6 +23,7 @@ There were no visitors attending the meeting.
 ### Officer Election
 
 Since next year will be an even-numbered year, the following positions were to be renewed at this Annual General Meeting: President, Secretary and Director. Thus, an election had to to take place.
+
 - Secretary: Bert (VE2ZAZ) officially offered by email to carry on with the Secretary duties for another two-year term. No other candidates came forward at this meeting. Bert (VE2ZAZ) is thus re-elected by acclamation.
 - The Officers present at the meeting being unsure of whether a quorum was reached, it was decided to defer the election of the President and Director positions until the January 2024 meeting.
 - Due to health reasons, the outgoing President cannot carry on his duties until a new President is elected. Thus the Vice President is taking over the President's duties in the interim.

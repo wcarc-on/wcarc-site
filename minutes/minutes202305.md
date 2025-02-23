@@ -38,6 +38,7 @@ Bert (VE2ZAZ) posted a draft version of the April 2023 meeting minutes on the Cl
 ### Vice President's Report
 
 Lawrence (VA3IQ) informed the members of the following upcoming meeting presentations.
+
 - Meeting presentations already scheduled:
   - June 2023: Action report of the contest. Also, Paul (K1YBE): ARTEN Project - New England Mesh Networking.
   - July 2023: Dennis (WA4LPR): INTRFIL - Round rod interdigital filtering construction software.

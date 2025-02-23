@@ -56,6 +56,7 @@ For the annual report, Charles listed the 2022 Club highlights. The report is fi
 ### Officers Election
 
 According to the Club's constitution, two positions, namely Vice-President and Treasurer, are scheduled to be elected during this meeting.
+
 - Vice-President: No one came forward as new candidate for the Vice President position. Moreover, Lawrence (VA3IQ) accepted to carry on with the Vice President duties. He is thus re-elected for another term as Vice President by acclamation.
 - Treasurer: No one came forward as new candidate for the Treasurer position. Since the outgoing Treasurer, Ray (VE3FN), is absent and has not indicated whether he would accept to carry on with the Treasurer duties, the election for that position is deferred to the January 2023 meeting.
 

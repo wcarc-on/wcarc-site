@@ -43,6 +43,7 @@ Bert (VE2ZAZ) posted a draft version of the July 2023 meeting minutes on the Clu
 ### Vice President's Report
 
 Lawrence (VA3IQ) informed the members of the following upcoming meeting presentations:
+
 - Meeting presentations already scheduled:
   - September 2023: Dennis (WA4LPR) - INTRFIL - Round rod inter-digital filtering construction software.
   - October 2023: René (VE2UG) - 47 GHz 3D printed antenna.

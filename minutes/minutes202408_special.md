@@ -42,6 +42,7 @@ The members present thanked Norman (VE3NPP) for the time and effort he put in pr
 ### Follow up actions
 
 Bert (VE2ZAZ) will coordinate the following actions:
+
 - Norman (VE3NPP) will update the bylaws document to show as having been approved by the membership. He will then make the final Bylaws document available to the Officers.
 - The Bylaws will be posted on the Club website.
 - An official copy of the Bylaws will be sent to the Government of Ontario.

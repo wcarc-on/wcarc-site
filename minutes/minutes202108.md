@@ -33,6 +33,7 @@ Bert (VE2ZAZ) posted a draft version of the July 2021 meeting minutes on the web
 ### Treasurer's Report
 
 The following report was provided by email ahead of the meeting by Ray (VE3FN), the Treasurer.
+
 - The balance as of July 31st was $2033.04. There is also $2,000 which is split up into two term deposits. One has a maturity date of June 21st, 2021. The other one will mature on October 21st, 2021.
 - There are 24 members as of today. There are also three life members.
 
@@ -75,6 +76,7 @@ None.
 ### Ask the Club
 
 This new period in the meeting offers an opportunity to ask technical questions and get answers from knowledgeable Club members.
+
 - No questions were asked.
 
 ### Adjournment

@@ -74,7 +74,7 @@ Bert (VE2ZAZ) mentioned that some tests were done at the Camp Fortune transmitte
 ### New Business
 
 * Doug (VE3XK) mentioned that his KPA500 amplifier had been damaged during the contest and was asking that the club be responsible for the repairs.
-Clayton (VE3IRR) moved that once the amplifier is repaired that the club reimburse the cost up to $500. If the repairs exceed $500 it will be discussed at a later meeting. Andy (VE3NVK) seconded the motion. The motion was carried.
+* Clayton (VE3IRR) moved that once the amplifier is repaired that the club reimburse the cost up to $500. If the repairs exceed $500 it will be discussed at a later meeting. Andy (VE3NVK) seconded the motion. The motion was carried.
 * Clayton asked that the club reimburse Ray (VE3BVV) for his expenses during the contest. A $50 cheque was sent to him.
 
 ### Announcements / Show & Tell

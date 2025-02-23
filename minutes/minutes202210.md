@@ -38,6 +38,7 @@ Bert (VE2ZAZ) posted a draft version of the September 2022 meeting minutes on th
 ### Vice President's Report
 
 Meeting presentations:
+
 - Scheduled:
    - At the November meeting, we will have a presentation on Ham Radio Science Citizen Investigation. The presentation will be given by a PhD student.
    - At the January meeting, we will have a presentation of a ham's story from an historical perspective.

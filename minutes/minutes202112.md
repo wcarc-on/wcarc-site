@@ -60,6 +60,7 @@ Since this is the Annual General Meeting, no presentation is scheduled.
 ### Officer Election
 
 The President and Secretary positions are up for election. Additionally, the Vice President, Mike (VE3MKX) has moved out of the region, and has asked the board of Officers to be relieved of his duties.
+
 - No one came forward as a new candidate for the Secretary position. Since Bert (VE2ZAZ) had mentioned at the last meeting that he would be willing to carry on with the Secretary duties, he is thus re-elected as Secretary by acclamation.
 - No one came forward as a new candidate for the President position. Charles (VA3CPY) accepted to carry on with the President duties. He is thus re-elected as President by acclamation.
 - No one came forward as a new candidate for the Vice President position. The election of Vice President is then deferred to the January 2022 meeting.
@@ -88,6 +89,7 @@ None.
 ### Ask the Club
 
 This period in the meeting offers an opportunity to ask technical questions and get answers from knowledgeable Club members.
+
 - Karen (VA3IGO) asked a question on how to mount a telescopic fiberglass mast to a motor-home bicycle rack. Mike (VE3MKX) suggested visiting Princess Auto, as they have several hitch mounts available. A military 3-foot fiberglass mast attached to a hitch mount is a good receptacle for a telescopic fiberglass mast.
 
 ### Adjournment

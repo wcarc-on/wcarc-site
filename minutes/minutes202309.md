@@ -35,6 +35,7 @@ Bert (VE2ZAZ) posted a draft version of the August 2023 meeting minutes on the C
 ### Vice President's Report
 
 Lawrence (VA3IQ) informed the members of the following upcoming meeting presentations:
+
 - Meeting presentations already scheduled:
   - October 2023: René (VE2UG) - 47, 78 and 122 GHz 3D-printed antennas.
 - Meeting presentations in planning:
