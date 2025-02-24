@@ -20,7 +20,7 @@ The regular Net Control station is Glenn VE3XRA, located in FN25dj.
 
 We look forward to chatting with you. Please join us.
 
-## Summary of VHF Nets within our reach:
+## Summary of VHF Nets within our reach
 
 | Area                | Day      | Time  | Freq     | Grid | Controller                   |
 |---------------------|----------|-------|----------|------|------------------------------|

@@ -17,26 +17,26 @@ More information about the contest can be found below.
 
 ---
 
-What?
------
+What
+----
 
 The ARRL June VHF Contest: [https://www.arrl.org/june-vhf](https://www.arrl.org/june-vhf)
 
-Where?
-------
+Where
+-----
 
 [Kinburn Community Centre](https://www.kinburn.ca/), 3045 Kinburn Side Road, Kinburn, ON  
 Maidenhead grid square FN15vj
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2801.793598741986!2d-76.1893590843448!3d45.39333424619007!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cd1f5c48e4c2959%3A0x2f3da9989ea48c03!2sKinburn%20Community%20Centre!5e0!3m2!1sen!2sca!4v1652758616920!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-When?
------
+When
+----
 
 Outdoor setup (towers, rotators, antennas, coax) will begin on Friday morning (June 7) around 09:00. We'll have access to the inside of the community centre starting around noon. Final setup will take place on Saturday morning. The contest begins at 14:00 (local) on Saturday (June 8) and continues until 23:00 (local) on Sunday (June 9). We'll dismantle the station on Monday morning (June 10) from about 09:00 to 12:00.
 
-What to bring?
---------------
+What to bring
+-------------
 
 * Work boots and work gloves, if you'll be helping with tower setup or teardown
 * A smartphone, tablet or laptop (to make 2.4 GHz microwave contacts over WiFi during your visit)
@@ -44,8 +44,8 @@ What to bring?
 * A handy-talkie to make FM contacts with the station
 * Food and drinks for yourself
 
-Contact information:
---------------------
+Contact information
+-------------------
 
 Bert Zauhar (VE2ZAZ)  
 Email: [ve2zaz@myrac.ca](mailto:ve2zaz@myrac.ca)

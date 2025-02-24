@@ -35,7 +35,7 @@ By Frank Curry
 
 **"Life in the Corvette Navy"**
 
-## On the Internet:
+## On the Internet
 
 [http://www.warsailors.com/freefleet/index.html](http://www.warsailors.com/freefleet/index.html)  
 Select Convoys, and pick a number to read all about that Convoy.
