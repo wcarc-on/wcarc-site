@@ -57,7 +57,7 @@ Nil.
 Some missing presentations were added to the club's web site.
 Andy asked if a list of equipment can be posted to the website. Clayton will add them.
 The site now has an updated club logo.
-The URL has been changed to https://wcarc.ca/. The original URL is still active.
+The URL has been changed to [https://wcarc.ca/](https://wcarc.ca/). The original URL is still active.
 
 ### Speaker
 

@@ -25,9 +25,9 @@ video of launches and recoveries.  In February, Bert (VE2ZAZ) described the proc
 Due to renovations at the Sobeys, the March meeting was held at Mobile Knowledge thanks to Jeff (VE3EFF).  Instead of a guest speaker, members engaged in a
 'show and tell" of their latest projects.  The guest speaker for April was Al (VO1NO), who described his expedition to Bon Portage Island for the 2011 IOTA Contest.
 
-In May, the club decided to cancel the http://www.wc-arc.org domain name to save the club webhosting fees and save the webmaster, Rick (VE3CVG), considerable work.
-Up til then he had maintained identical information on 2 different websites - http://www.wc-arc.org, the site which had been set up while trying to recover the original
-club URL; and the long standing url, http://wcarc.on.ca/.  The original url was recovered thanks to the efforts of Jeff (VA3ISP).
+In May, the club decided to cancel the [http://www.wc-arc.org](http://www.wc-arc.org) domain name to save the club webhosting fees and save the webmaster, Rick (VE3CVG), considerable work.
+Up til then he had maintained identical information on 2 different websites - [http://www.wc-arc.org](http://www.wc-arc.org), the site which had been set up while trying to recover the original
+club URL; and the long standing url, [http://wcarc.on.ca/](http://wcarc.on.ca/).  The original url was recovered thanks to the efforts of Jeff (VA3ISP).
 
 Also in May it was announced that WCARC secretary Glenn (VE3XRA) had been named Deputy Director for the RAC Ontario North East section.  As well, Bert (VE2ZAZ)
 delivered an excellent description of how he modified defective police 24 GHz radars to operate as full duplex transceivers.

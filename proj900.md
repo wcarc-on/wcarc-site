@@ -2,7 +2,7 @@
 layout: page
 title: 903MHz Transverter Club Project
 ---
-The objective is to purchase complete 903MHz transverter kits described as #903-144CK, from Down East Microwave, as shown on the DEM website at http://www.downeastmicrowave.com/Catalog.htm.
+The objective is to purchase complete 903MHz transverter kits described as #903-144CK, from Down East Microwave, as shown on the DEM website at [http://www.downeastmicrowave.com/Catalog.htm](http://www.downeastmicrowave.com/Catalog.htm).
 
 This kit will include a 144MHz to 903MHz transverter outputting either 10mW or approximately 10 watts and with a receive noise figure better (less) than 1.5dBNF. The transverter will not need a sequencer and will accept up to 10 w of drive from the IF radio (as per DEM documentation). The transverter will be complete with case and ALL hardware (if that is the kit you choose), but will be a KIT with full instructions, requiring assembly. VE3CVG will be available to assist with assembly.
 
