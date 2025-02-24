@@ -60,8 +60,8 @@ Ray Perrin (VE3FN): Introduction to VHF/UHF Weak-Signal Activity
 ### Old Business
 
 - September VHF Contest:
-  - From Jeremy (VA3ZTF): Tentative September VHF Contest 12-14 September. Clayton (VE3IRR) will not be available to help with the contest this year. He can transfer the information to anyone who would like to take over. Jeremy would like to know if there is interest in participating in the contest, or as an alternative, have a rover setup by the Club members. As nobody volunteered to lead the organization during the meeting, Charles will send an email on the WCC list asking one last time for a volunteer to take ownership of contest organization. *Item open.*
-  - Check with Ray Burrell for his availability in the event that the Club participates in the ARRL September VHF contest. *Item open.*
+   - From Jeremy (VA3ZTF): Tentative September VHF Contest 12-14 September. Clayton (VE3IRR) will not be available to help with the contest this year. He can transfer the information to anyone who would like to take over. Jeremy would like to know if there is interest in participating in the contest, or as an alternative, have a rover setup by the Club members. As nobody volunteered to lead the organization during the meeting, Charles will send an email on the WCC list asking one last time for a volunteer to take ownership of contest organization. *Item open.*
+   - Check with Ray Burrell for his availability in the event that the Club participates in the ARRL September VHF contest. *Item open.*
 
 ### Reports / Project Updates
 

@@ -45,12 +45,12 @@ Bert (VE2ZAZ) posted a draft version of the July 2023 meeting minutes on the Clu
 Lawrence (VA3IQ) informed the members of the following upcoming meeting presentations:
 
 - Meeting presentations already scheduled:
-  - September 2023: Dennis (WA4LPR) - INTRFIL - Round rod inter-digital filtering construction software.
-  - October 2023: René (VE2UG) - 47 GHz 3D printed antenna.
+   - September 2023: Dennis (WA4LPR) - INTRFIL - Round rod inter-digital filtering construction software.
+   - October 2023: René (VE2UG) - 47 GHz 3D printed antenna.
 - Meeting presentations in planning:
-  - Paul (W1GHZ) - Subject and date to be determined.
-  - Ham Radio Science Citizen Investigation. The presentation will be given by a Ph.D. student.
-  - The Codec 2 HF Voice codec. One of the creators will make a presentation.
+   - Paul (W1GHZ) - Subject and date to be determined.
+   - Ham Radio Science Citizen Investigation. The presentation will be given by a Ph.D. student.
+   - The Codec 2 HF Voice codec. One of the creators will make a presentation.
 
 ### Director's Report
 

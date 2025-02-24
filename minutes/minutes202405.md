@@ -40,15 +40,15 @@ There were three visitors attending the meeting.
 ### Vice President's Report
 
 - Upcoming presentations:
-  - Confirmed:
-    - June: Clayton (VE3IRR), Summary of our VHF contest participation.
-    - September: Craig Delmage (VE3OP), The new RAC radio station
-  - In planning:
-    - Wayne (VE3CZO), The USB serial bus
-    - Later this summer, Ultra-VLF
-    - October: Summary of the 2024 Microwave Update Conference
-    - Peterborough ARC: Their AREDN network
-  - Please contact Lawrence if there are projects you would like to talk about.
+   - Confirmed:
+      - June: Clayton (VE3IRR), Summary of our VHF contest participation.
+      - September: Craig Delmage (VE3OP), The new RAC radio station
+   - In planning:
+      - Wayne (VE3CZO), The USB serial bus
+      - Later this summer, Ultra-VLF
+      - October: Summary of the 2024 Microwave Update Conference
+      - Peterborough ARC: Their AREDN network
+   - Please contact Lawrence if there are projects you would like to talk about.
 - Lawrence is working on having a Club breakfast on Saturday May 25th, again at Zak's Diner.
 
 ### Director's Report

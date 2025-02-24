@@ -37,9 +37,9 @@ There were two visitors attending the meeting.
 ### Vice President's Report
 
 - Upcoming monthly meeting presentations:
-  - Confirmed:
-    - November: Three or four short presentations will be given by Club members.
-  - Lawrence asked those present to contact him if there are projects they would like to talk about.
+   - Confirmed:
+      - November: Three or four short presentations will be given by Club members.
+   - Lawrence asked those present to contact him if there are projects they would like to talk about.
 - Microwave Activity Day: Lawrence informed us that the hams who do microwave communications in the Greater Toronto area will meet for a brunch in the Niagara area on the same day as the November Microwave Activity Day. Consequently, there will be no MAD in November.
 - Lawrence has found a breakfast restaurant, Colonnade Pizza, where cheaper meals are served compared to Zak's Diner. We will try that place in the future.
 

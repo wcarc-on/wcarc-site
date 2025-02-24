@@ -27,8 +27,8 @@ There were three visitors attending the meeting.
 - Bert (VE2ZAZ) posted a draft version of the August 2024 meeting minutes on the Club website prior to this meeting. Moved by him that the minutes be adopted as posted on the website. Seconded by Lawrence (VA3IQ). The motion was carried.
 - Bert has wrapped up the non-for-profit status and bylaws work on the ServiceOntario website account. One issue that remains to be fixed in our bylaws is how the number of directors is set. The ONCA requires that either:
 
-  - a minimum AND maximum number of directors be defined, or
-  - a fixed number of directors be set, with three directors being the minimum.
+   - a minimum AND maximum number of directors be defined, or
+   - a fixed number of directors be set, with three directors being the minimum.
 
   Our bylaws only define a minimum, which does not meet the above requirements. Lawrence (VA3IQ) suggested that we elect an odd number of directors. This will have to be addressed in the future.
 
@@ -40,10 +40,10 @@ There were three visitors attending the meeting.
 ### Vice President's Report
 
 - Upcoming monthly meeting presentations:
-  - Confirmed:
-    - October: Wayne (VE3CZO), A USB serial bus overview.
-    - November: Mike (VA3TEC), His home-brew pole-mounted remote switching on his rover setup.
-  - Lawrence asked those present to contact him if there are projects they would like to talk about.
+   - Confirmed:
+      - October: Wayne (VE3CZO), A USB serial bus overview.
+      - November: Mike (VA3TEC), His home-brew pole-mounted remote switching on his rover setup.
+   - Lawrence asked those present to contact him if there are projects they would like to talk about.
 - Microwave Activity Day: Lawrence proposed that we participate in the Microwave Activity Day on the first weekend of November, and that we could meet prior to the event for a group breakfast.
 - In-person meeting: Lawrence is trying to set up an in-person meeting/gathering in January at a cost-effective venue. There is a possibility to have our meet at the RAC headquarters. More details to come.
 - The Carp Hamfest table worked very well, and many hams visited us. Mike (VA3TEC)'s 10G system attracted a lot of interest. Lawrence thanked those who manned the table.

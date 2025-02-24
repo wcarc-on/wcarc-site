@@ -40,13 +40,13 @@ There were no visitors attending the meeting.
 ### Vice President's Report
 
 - Upcoming presentations:
-  - Confirmed:
-    - April: RT Systems - Their radio programming software.
-    - May: No presentation. We will hold our VHF Contest preparation meeting.
-    - June: Summary of our VHF contest participation.
-  - In planning:
-    - VE2DX: His product line of add-ons, mainly for Icom radios.
-    - VA2FSQ: Win4Icom and Win4Yaesu radio control software.
+   - Confirmed:
+      - April: RT Systems - Their radio programming software.
+      - May: No presentation. We will hold our VHF Contest preparation meeting.
+      - June: Summary of our VHF contest participation.
+   - In planning:
+      - VE2DX: His product line of add-ons, mainly for Icom radios.
+      - VA2FSQ: Win4Icom and Win4Yaesu radio control software.
 - Due to the third Monday of the month of May being a statutory holiday, the May meeting will be held on the 13th, the second Monday of the month.
 
 ### Director's Report
@@ -66,13 +66,13 @@ Bert (VE2ZAZ): The Route To My 10GHz Narrow-band Communication System, taking a 
 - Microwave day in a park: The Club will participate in the Microwave Activity Day (MAD) on April 6th, from 8:30am to noon. We will set up at the Diefenbunker, the Canadian Cold War Museum. We will try to contact some of the Rochester and Toronto area hams on 10 GHz. Concurrently, Mike (VA3TEC) will activate the Museum as a POTA site on HF.
 - Club Saturday morning breakfast: The MAD activity on April 6th will be preceded by a breakfast at Zak's Diner, starting at 7:00am.
 - Constitution and bylaws discussion: The Club will revise the constitution and bylaws to reflect the current Club situation.
-  - The proposal is to have a 2-member sub-committee to perform the exercise, and then to submit the updated bylaws to the members for approval at the 2024 Annual General Meeting.
-  - Norm (VE3NPP), who has had previous experience in similar legal matters, has agreed to lead the sub-committee. We are looking for another member to assist him.
-  - Some of the items previously discussed were:
-    - One proposal is to add the webmaster as a Director. This would ensure that a higher number of Officers are active and available at any time.
-    - The bylaws web page should be updated to reflect, either by referring to some external information, or explicitly, the current member dues.
-    - The online (Zoom) nature of our meetings should be reflected into our bylaws.
-    - According to Norm (VE3NPP), all 4 Officers (President, Vice President, Treasurer and Secretary) are directors, and we have a fifth director, which we call the Director. This complies with the Non-For-Profit corporation structure in Ontario.
+   - The proposal is to have a 2-member sub-committee to perform the exercise, and then to submit the updated bylaws to the members for approval at the 2024 Annual General Meeting.
+   - Norm (VE3NPP), who has had previous experience in similar legal matters, has agreed to lead the sub-committee. We are looking for another member to assist him.
+   - Some of the items previously discussed were:
+      - One proposal is to add the webmaster as a Director. This would ensure that a higher number of Officers are active and available at any time.
+      - The bylaws web page should be updated to reflect, either by referring to some external information, or explicitly, the current member dues.
+      - The online (Zoom) nature of our meetings should be reflected into our bylaws.
+      - According to Norm (VE3NPP), all 4 Officers (President, Vice President, Treasurer and Secretary) are directors, and we have a fifth director, which we call the Director. This complies with the Non-For-Profit corporation structure in Ontario.
 - Microwave demo by the Club at the Smiths Falls hamfest on May 11th: The hamfest will be held at a new location this year, the Civitan Club, just outside of the city. Bert (VE2ZAZ) has performed a link study between the Civitan Club and the Numogate communication hill. The results are that there is plenty of link margin, so there should be no problem establishing a demo link, despite a wooded area blocking the path. Lawrence (VA3IQ) is trying to contact the new Numogate site owner to obtain a permission to access the site. We will confirm our participation in this activity next month.
 
 ### New Business

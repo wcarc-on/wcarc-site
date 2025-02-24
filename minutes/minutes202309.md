@@ -37,11 +37,11 @@ Bert (VE2ZAZ) posted a draft version of the August 2023 meeting minutes on the C
 Lawrence (VA3IQ) informed the members of the following upcoming meeting presentations:
 
 - Meeting presentations already scheduled:
-  - October 2023: René (VE2UG) - 47, 78 and 122 GHz 3D-printed antennas.
+   - October 2023: René (VE2UG) - 47, 78 and 122 GHz 3D-printed antennas.
 - Meeting presentations in planning:
-  - Paul (W1GHZ) - Subject and date to be determined.
-  - Ham Radio Science Citizen Investigation. The presentation will be given by a Ph. D. student.
-  - The Codec 2 HF Voice codec. One of the creators will make a presentation.
+   - Paul (W1GHZ) - Subject and date to be determined.
+   - Ham Radio Science Citizen Investigation. The presentation will be given by a Ph. D. student.
+   - The Codec 2 HF Voice codec. One of the creators will make a presentation.
 
 ### Director's Report
 

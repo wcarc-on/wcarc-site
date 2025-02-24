@@ -45,11 +45,11 @@ The meeting was opened by the President, Mike (VA3TEC), at 7:07 pm. There was on
 
 - Lawrence updated the activity calendar on the Meetings page of our Club website. It lists the monthly meeting dates with the planned speakers and topics, the proposed breakfasts and MAD days, and VHF+ contest dates.
 - Upcoming monthly meeting presentations:
-  - Being Planned:
-    - A presentation of the new QSY feature in the WSJT-X software;
-    - A presentation on the microwave Canadian Coastal Radar project;
-    - A presentation by Paul Wade (W1GHZ);
-    - A presentation by Ted (VE3EDE).
+   - Being Planned:
+      - A presentation of the new QSY feature in the WSJT-X software;
+      - A presentation on the microwave Canadian Coastal Radar project;
+      - A presentation by Paul Wade (W1GHZ);
+      - A presentation by Ted (VE3EDE).
 - Breakfast at Colonnade Pizza: Due to staff shortages, Colonnade Pizza no longer serve breakfasts.
 
 ### Director's Report

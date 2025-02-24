@@ -42,12 +42,12 @@ In the Treasurer's absence, Ray (VE3FN), our former Treasurer, gave the monthly 
 
 - Lawrence mentioned that a lot of the planned or scheduled speakers had pulled out recently.
   Upcoming monthly meeting presentations:
-  - Confirmed: None
-  - Being Planned:
-    - Some of the speakers at the 2024 Microwave Update, with some very interesting contents;
-    - Paul Wade W1GHZ on 3D printed plastic microwave horns;
-    - Personal Cellphone project: An open source LTE software is available. Mike (VA3TEC) offered to do a demo of the technology.
-  - Lawrence asked those present to contact him if there are projects they would like to talk about.
+   - Confirmed: None
+   - Being Planned:
+      - Some of the speakers at the 2024 Microwave Update, with some very interesting contents;
+      - Paul Wade W1GHZ on 3D printed plastic microwave horns;
+      - Personal Cellphone project: An open source LTE software is available. Mike (VA3TEC) offered to do a demo of the technology.
+   - Lawrence asked those present to contact him if there are projects they would like to talk about.
 - Lawrence is preparing the summer activity schedule, to be posted on the Club website.
 - Monthly breakfast: Lawrence may organize a breakfast in January at Colonnade Pizza in Barrhaven. More information will be communicated via the groups.io mail reflector.
 

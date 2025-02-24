@@ -66,8 +66,8 @@ All Officer positions are now filled.
 ### Old Business
 
 - VHF/UHF Beacon:
-  - Bert (VE2ZAZ) measured the UHF beacon frequency remotely. The objective was to assess the impact temperature has on its transmitted frequency. At +1° Celsius, the frequency was 432.3571 MHz, the publicized frequency being 432.357 MHz. From +1° Celsius to -21° Celsius, he measured a -915 Hz drift. It would then be expected for the frequency to drift upward by about 1 kHz as the temperature reaches +25° Celsius. Considering that it is centred at zero Celsius and that there is an absence of radio congestion on the 432 MHz band, Bert concludes that the existing drift is acceptable, and that there is no need to activate the beacon enclosure heating system.
-  - The beacon move is On Hold until we get further notice from the DARC officers.
+   - Bert (VE2ZAZ) measured the UHF beacon frequency remotely. The objective was to assess the impact temperature has on its transmitted frequency. At +1° Celsius, the frequency was 432.3571 MHz, the publicized frequency being 432.357 MHz. From +1° Celsius to -21° Celsius, he measured a -915 Hz drift. It would then be expected for the frequency to drift upward by about 1 kHz as the temperature reaches +25° Celsius. Considering that it is centred at zero Celsius and that there is an absence of radio congestion on the 432 MHz band, Bert concludes that the existing drift is acceptable, and that there is no need to activate the beacon enclosure heating system.
+   - The beacon move is On Hold until we get further notice from the DARC officers.
 
 ### Reports / Club Project Updates
 

@@ -64,11 +64,11 @@ Mike (VE3MKX) on HF Contesting.
 ### Old Business
 
 - VHF/UHF Beacon move:
-  - Bert (VE2ZAZ) confirmed with Rick (VE3CVG) that "Dale the Electrician" is Dale Hennigar (VE3XZT).
-  - Plan B location at the Diefenbunker: Bert (VE2ZAZ) sent an email to Nick (VE3OWV) requesting a visit of the proposed location. Nick found out that the Diefenbunker staff is currently performing an Energy Audit. Until that exercise is completed, there will be no additions made to the power distribution. They expect the exercise to be completed by January. Knowing this, and with the winter weather arriving, Bert reckoned that the move would be postponed to next spring. All agreed.
-  - In the mean time, we shall assess the maximum power consumption of the beacon enclosure, including the winter heating system.
-  - Bert informed the members that the beacon manuals are currently located at Andy (VE3NVK)'s place.
-  - John (VA3JYK) will visit the site next week, will take pictures and assess the frame ruggedness.
+   - Bert (VE2ZAZ) confirmed with Rick (VE3CVG) that "Dale the Electrician" is Dale Hennigar (VE3XZT).
+   - Plan B location at the Diefenbunker: Bert (VE2ZAZ) sent an email to Nick (VE3OWV) requesting a visit of the proposed location. Nick found out that the Diefenbunker staff is currently performing an Energy Audit. Until that exercise is completed, there will be no additions made to the power distribution. They expect the exercise to be completed by January. Knowing this, and with the winter weather arriving, Bert reckoned that the move would be postponed to next spring. All agreed.
+   - In the mean time, we shall assess the maximum power consumption of the beacon enclosure, including the winter heating system.
+   - Bert informed the members that the beacon manuals are currently located at Andy (VE3NVK)'s place.
+   - John (VA3JYK) will visit the site next week, will take pictures and assess the frame ruggedness.
 
 ### Reports / Club Project Updates
 

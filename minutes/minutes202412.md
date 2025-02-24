@@ -46,13 +46,13 @@ The following people were present:
 ### Vice President's Report
 
 - Lawrence presented his brief verbal report on year 2024.
-  - It was a fun year, with multiple interesting presentations. A few examples are the Solar Eclipse presentation, the RT Systems radio remote control software, and tonight's host Craig Delmage on the new RAC headquarters. Finding speakers remains a difficult task.
-  - We participated in three microwave outings (MAD and ARRL 10GHz+ Contest combined). We intend to repeat these next year. In the next couple of months we shall come up with an activity schedule.
-  - The members shared many personal home-brew projects with others.
+   - It was a fun year, with multiple interesting presentations. A few examples are the Solar Eclipse presentation, the RT Systems radio remote control software, and tonight's host Craig Delmage on the new RAC headquarters. Finding speakers remains a difficult task.
+   - We participated in three microwave outings (MAD and ARRL 10GHz+ Contest combined). We intend to repeat these next year. In the next couple of months we shall come up with an activity schedule.
+   - The members shared many personal home-brew projects with others.
 - Upcoming monthly meeting presentations:
-  - Confirmed: None
-  - Being Planned: One of our former Club president may talk about his ham experience in the USSR.
-  - Lawrence (VA3IQ) asked those present to contact him if there are projects they would like to talk about.
+   - Confirmed: None
+   - Being Planned: One of our former Club president may talk about his ham experience in the USSR.
+   - Lawrence (VA3IQ) asked those present to contact him if there are projects they would like to talk about.
 
 ### President's Report
 
@@ -83,8 +83,8 @@ At this AGM, a Board election must be held to replace or renew two of its five D
 - Monthly breakfast: Lawrence (VA3IQ) may organize a breakfast in January at Colonnade Pizza in Barrhaven. More information will be communicated via the groups.io mail reflector.
 - Discussion with universities regarding Cubesats or other radio projects: Mike may try to contact people to explore possibilities of a collaboration with the Club.
 - Glenn (VE3XRA), as the new Treasurer, proposed working on the following:
-  - Fill out the bank electronic deposit form. This will allow direct deposits by members of the Club dues to our bank account. Glenn will communicate the details for the member dues payments via the groups.io mail reflector in the next few weeks.
-  - Move our bank accounts to another Alterna bank branch closer to him.
+   - Fill out the bank electronic deposit form. This will allow direct deposits by members of the Club dues to our bank account. Glenn will communicate the details for the member dues payments via the groups.io mail reflector in the next few weeks.
+   - Move our bank accounts to another Alterna bank branch closer to him.
 - Bert (VE2ZAZ) highlighted the need to update the Officer signatures on file at the Alterna bank, as we have had three new Officers in the last year.
 
 ### Show and tell

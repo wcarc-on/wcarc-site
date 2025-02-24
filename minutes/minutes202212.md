@@ -39,9 +39,9 @@ The Treasurer was absent. However he provided this report by email prior to the 
 ### Vice President's Report
 
 - Meeting presentations in planning:
-  - January 2023: Mike (VA3TEC) will talk about Digital Amateur Television (DATV)
-  - February 2023: Bert (VE2ZAZ) will describe his modernized HyGain TailTwister rotator controller
-  - March 2023: Ray (VE3FN) will present his 10 GHz station
+   - January 2023: Mike (VA3TEC) will talk about Digital Amateur Television (DATV)
+   - February 2023: Bert (VE2ZAZ) will describe his modernized HyGain TailTwister rotator controller
+   - March 2023: Ray (VE3FN) will present his 10 GHz station
 - WCARC member badge: A prototype design of the badge was shown to the attendees. The badge will have red marking on a white background. It will include the WCARC logo.
 - WCARC Winter day: Lawrence reached the conservation area superintendent. He will visit the site and come back with a an event date soon.
 

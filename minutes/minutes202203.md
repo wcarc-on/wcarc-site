@@ -55,7 +55,7 @@ Lawrence Dobranski (VA3IQ) on his HF rover setup for the Ontario QSO party.
 ### Old Business
 
 - VHF/UHF Beacons:
-  - The beacon move is On Hold until we get further notice from the DARC officers. Charles will contact the DARC officers to see whether anything has changed on that front.
+   - The beacon move is On Hold until we get further notice from the DARC officers. Charles will contact the DARC officers to see whether anything has changed on that front.
 
 ### Reports / Club Project Updates
 
@@ -64,9 +64,9 @@ None.
 ### New Business
 
 - 2022 June VHF Contest on June 11th-13th 2022:
-  - Clayton (VE3IRR) fully supports the event. He proposed that we find an organizer. He will also pass on all the contest logistics information and documents he has.
-  - Bert (VE2ZAZ) suggested that a sub-committee be created. Several members agreed to participate. The sub-committee will meet on March 28 at 7pm on Zoom. Charles (VA3CPY) will book a separate Zoom meeting.
-  - Lawrence (VA3IQ) proposed that we book the Corkery Community Centre as soon as possible. Cost should be around $110 for the weekend. A majority of the members present voted in favour of the expenditure. Motion carried. Ray (VE3FN) will reserve the Centre as soon as possible.
+   - Clayton (VE3IRR) fully supports the event. He proposed that we find an organizer. He will also pass on all the contest logistics information and documents he has.
+   - Bert (VE2ZAZ) suggested that a sub-committee be created. Several members agreed to participate. The sub-committee will meet on March 28 at 7pm on Zoom. Charles (VA3CPY) will book a separate Zoom meeting.
+   - Lawrence (VA3IQ) proposed that we book the Corkery Community Centre as soon as possible. Cost should be around $110 for the weekend. A majority of the members present voted in favour of the expenditure. Motion carried. Ray (VE3FN) will reserve the Centre as soon as possible.
 - Charles (VA3CPY): The Smiths Falls hamfest will take place on June 18th 2022. A possibility is that Club members could distribute WCARC flyers or show a poster with a QR code at their own vendor table.
 - Bert (VE2ZAZ): He is questioning how soon the Club should resume the in-person meetings. A proposal is to wait until September. In the mean time, we could organize a ham radio in the park gathering.
 

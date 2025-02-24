@@ -45,8 +45,8 @@ There were five visitors attending the meeting.
 - At the October meeting: The speaker has cancelled his participation. The replacement speaker and topic will be announced later.
 - At the November meeting, we will have a presentation by Ham Radio Science Citizen Investigation. The presentation will be given by a PhD student.
 - In planning:
-  - A presentation on the technical side of POTA, such as recommendations on radios and antennas
-  - A presentation on transatlantic 2m communications
+   - A presentation on the technical side of POTA, such as recommendations on radios and antennas
+   - A presentation on transatlantic 2m communications
 
 ### Director's Report
 

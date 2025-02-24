@@ -16,46 +16,46 @@ into a couple of hours.
 ## Upcoming Speakers and Topics
 
 * March 17, 2025:
-  * Monthly meeting
-  * Speaker TBA
+   * Monthly meeting
+   * Speaker TBA
 * April 5, 2025:
-  * Breakfast followed by our 1st Microwave Activity Day (MAD) of 2025. Location and other details to follow.
+   * Breakfast followed by our 1st Microwave Activity Day (MAD) of 2025. Location and other details to follow.
 * April 21, 2025:
-  * Monthly meeting
-  * Speaker TBA
+   * Monthly meeting
+   * Speaker TBA
 * May 3, 2025:
-  * Breakfast followed by our 2nd Microwave Activity Day (MAD) of 2025. Location and other details to follow.
+   * Breakfast followed by our 2nd Microwave Activity Day (MAD) of 2025. Location and other details to follow.
 * May 12, 2025\*:
-  * Monthly meeting
-  * Planning for the June VHF contest
+   * Monthly meeting
+   * Planning for the June VHF contest
 * June 9, 2025\*:
-  * Monthly meeting
-  * Final planning for the June VHF contest
+   * Monthly meeting
+   * Final planning for the June VHF contest
 * June 13-16, 2025:
-  * **June VHF Contest**
+   * **June VHF Contest**
 * July 21, 2025:
-  * Monthly meeting
-  * After-action report on the June VHF Contest
+   * Monthly meeting
+   * After-action report on the June VHF Contest
 * August 16-17, 2025:
-  * ARRL 10 GHz and Up Contest Weekend 1. Location(s) and other details to follow.
+   * ARRL 10 GHz and Up Contest Weekend 1. Location(s) and other details to follow.
 * August 18, 2025:
-  * Monthly meeting
-  * Speaker TBA
+   * Monthly meeting
+   * Speaker TBA
 * September 15, 2025:
-  * Monthly meeting
-  * Speaker TBA
+   * Monthly meeting
+   * Speaker TBA
 * September 20-21, 2025:
-  * ARRL 10 GHz and Up Contest Weekend 2. Location(s) and other details to follow.
+   * ARRL 10 GHz and Up Contest Weekend 2. Location(s) and other details to follow.
 * October 5, 2025:
-  * Breakfast followed by our 3rd Microwave Activity Day (MAD) of 2025.  Location and other details to follow.
+   * Breakfast followed by our 3rd Microwave Activity Day (MAD) of 2025.  Location and other details to follow.
 * October 20, 2025:
-  * Monthly meeting
-  * Speaker TBA
+   * Monthly meeting
+   * Speaker TBA
 * November 17, 2025:
-  * Monthly meeting
-  * Speaker TBA
+   * Monthly meeting
+   * Speaker TBA
 * December 15, 2025:
-  * Annual General Meeting and Christmas Party
+   * Annual General Meeting and Christmas Party
 
 \* Note: The May meeting will take place on the second Monday of the
 month to avoid the Victoria Day holiday. The June meeting will also take

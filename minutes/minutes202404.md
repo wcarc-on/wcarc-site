@@ -38,12 +38,12 @@ There was one visitor attending the meeting.
 - The Club had an excellent MAD activity at the Diefenbunker on April 6th. In total, our operators made four 10 GHz QSOs, with Hamilton, ON being the farthest QSO achieved. A German ham radio magazine contacted Lawrence to inquire about our activity. Also, Paul (W1GHZ) asked for some pictures for a potential publication. The Diefenbunker appears to be a good location to reach the GTA area.
 - Lawrence is working on having a Club breakfast on the last Saturday of May.
 - Upcoming presentations:
-  - Confirmed:
-    - May: No presentation. We will hold our VHF Contest preparation meeting.
-    - June: Summary of our VHF Contest participation.
-  - In planning:
-    - VE2DX: His product line of add-ons, mainly for Icom radios.
-    - VA2FSQ: Win4Icom and Win4Yaesu radio control software.
+   - Confirmed:
+      - May: No presentation. We will hold our VHF Contest preparation meeting.
+      - June: Summary of our VHF Contest participation.
+   - In planning:
+      - VE2DX: His product line of add-ons, mainly for Icom radios.
+      - VA2FSQ: Win4Icom and Win4Yaesu radio control software.
 - Due to the third Monday of the month of May being a statutory holiday, the May meeting will be held on the 13th, the second Monday of the month.
 
 ### Director's Report
@@ -62,24 +62,24 @@ Karin Thompson (KD4DXX) of RT Systems: Their Windows programming software, radio
 
 - Microwave demo by the Club at the Smiths Falls hamfest on May 11th: Lawrence (VA3IQ) is still trying to contact the new Numogate site owner to obtain a permission to access the site. Mike will notify the hamfest staff of our intention to do a live demo. At the very least, we could display Bert's (VE2ZAZ) system behind a table.
 - Constitution and bylaws discussion: The Club will revise the constitution and bylaws to reflect the current Club situation and comply with the Ontario Not-for-Profit Corporations Act (ONCA).
-  - Norman (VE3NPP), who has had previous experience in similar legal matters, has agreed to lead the sub-committee. We are looking for another member to assist him.
-  - Alan Hotte (VE3IAH) contacted Norman regarding his OVMRC work on that matter. He provided him with some written material and valuable indications. According to Alan, there are three possible approaches for the revision:
-    - Rework our existing Constitution and Bylaws.
-    - Use some of the available samples and templates, then copy and paste in our clauses.
-    - Run the bylaws builder tool on the ONCA website to produce a customized template, then paste in our clauses.
-  - Norman thinks we should adopt the 2nd approach, based on other clubs' constitution.
-  - Some items that must be addressed:
-    - Dissolution.
-    - Number of directors.
-    - The new Bylaws have to be in place by October 2024.
-    - Votes on bylaw changes have to be in-person, 2/3rd approval.
-    - No constitution is required, only bylaws from now on.
-  - Lawrence (VA3IQ) moved that we contact the legal advisor at RAC to see whether this revision work really applies to us, without exemption. Bert (VE2ZAZ) seconded the motion. The motion was carried.
-  - Some of the items previously discussed to be addressed in the new Bylaws were:
-    - Add the webmaster as a Director. This would ensure that a higher number of Officers are active and available at any time.
-    - The bylaws web page should be updated to reflect, either by referring to some external information, or explicitly, the current member dues.
-    - The online (Zoom) nature of our meetings should be reflected into our bylaws.
-    - According to Norm (VE3NPP), all 4 Officers (President, Vice President, Treasurer and Secretary) are directors, and we have a fifth director, which we call the Director. This complies with the Non-For-Profit corporation structure in Ontario.
+   - Norman (VE3NPP), who has had previous experience in similar legal matters, has agreed to lead the sub-committee. We are looking for another member to assist him.
+   - Alan Hotte (VE3IAH) contacted Norman regarding his OVMRC work on that matter. He provided him with some written material and valuable indications. According to Alan, there are three possible approaches for the revision:
+      - Rework our existing Constitution and Bylaws.
+      - Use some of the available samples and templates, then copy and paste in our clauses.
+      - Run the bylaws builder tool on the ONCA website to produce a customized template, then paste in our clauses.
+   - Norman thinks we should adopt the 2nd approach, based on other clubs' constitution.
+   - Some items that must be addressed:
+      - Dissolution.
+      - Number of directors.
+      - The new Bylaws have to be in place by October 2024.
+      - Votes on bylaw changes have to be in-person, 2/3rd approval.
+      - No constitution is required, only bylaws from now on.
+   - Lawrence (VA3IQ) moved that we contact the legal advisor at RAC to see whether this revision work really applies to us, without exemption. Bert (VE2ZAZ) seconded the motion. The motion was carried.
+   - Some of the items previously discussed to be addressed in the new Bylaws were:
+      - Add the webmaster as a Director. This would ensure that a higher number of Officers are active and available at any time.
+      - The bylaws web page should be updated to reflect, either by referring to some external information, or explicitly, the current member dues.
+      - The online (Zoom) nature of our meetings should be reflected into our bylaws.
+      - According to Norm (VE3NPP), all 4 Officers (President, Vice President, Treasurer and Secretary) are directors, and we have a fifth director, which we call the Director. This complies with the Non-For-Profit corporation structure in Ontario.
 
 ### New Business
 

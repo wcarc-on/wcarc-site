@@ -36,11 +36,11 @@ The Treasurer was absent.
 ### Vice President's Report
 
 - Upcoming monthly meeting presentations:
-  - Confirmed:
-    - September: Craig Delmage (VE3OP), What is new at RAC
-    - October: Wayne (VE3CZO), A USB serial bus overview
-    - November: Mike (VA3TEC), His home-brew pole-mounted remote switching on his rover setup
-  - Lawrence asked those present to contact him if there are projects they would like to talk about.
+   - Confirmed:
+      - September: Craig Delmage (VE3OP), What is new at RAC
+      - October: Wayne (VE3CZO), A USB serial bus overview
+      - November: Mike (VA3TEC), His home-brew pole-mounted remote switching on his rover setup
+   - Lawrence asked those present to contact him if there are projects they would like to talk about.
 - In-person meeting: Lawrence is trying to set up an in-person meeting/gathering in January at a cost-effective venue. More details to come.
 
 ### Director's Report

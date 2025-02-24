@@ -27,19 +27,19 @@ The N2061SA Vector Impedance Analyzer is mainly used for testing antenna, RF com
 * Frequency Accuracy: <+/- 10 ppm
 * Test Port Connectors: SMA female
 * Measurement Range
-  * Impedance: 10 – 1000 ohms absolute value
-  * VSWR: 1.000 to ~65
-  * S11: 0dB to ~50 dB
-  * S11: Single Point Measurement Error – absolute impedance value X10% +/- 0.1Ω  
-    for Z: <200Ω (1.1 MHz – 600 MHz, 137.5 MHz - ~1300 MHz)  
-    for Z: <200Ω (60 MHz – 137.5 MHz)
-  * S21: 10 to ~50 dB (1.1 to 137.5 MHz); 6 dB to 60 dB (137.5 to 600 MHz)
-  * S21: Error +/-3dB (0 to ~50 dB)
-  * S11: Directivity <35dB (after calibration)
-  * Sweep Points: 280
-  * Output Level: -10 dBm
-  * Working Temperature: 5°C to ~40°C
-  * Atmospheric Pressure Range: 860 hPa to ~1060 hPa
+   * Impedance: 10 – 1000 ohms absolute value
+   * VSWR: 1.000 to ~65
+   * S11: 0dB to ~50 dB
+   * S11: Single Point Measurement Error – absolute impedance value X10% +/- 0.1Ω  
+     for Z: <200Ω (1.1 MHz – 600 MHz, 137.5 MHz - ~1300 MHz)  
+     for Z: <200Ω (60 MHz – 137.5 MHz)
+   * S21: 10 to ~50 dB (1.1 to 137.5 MHz); 6 dB to 60 dB (137.5 to 600 MHz)
+   * S21: Error +/-3dB (0 to ~50 dB)
+   * S11: Directivity <35dB (after calibration)
+   * Sweep Points: 280
+   * Output Level: -10 dBm
+   * Working Temperature: 5°C to ~40°C
+   * Atmospheric Pressure Range: 860 hPa to ~1060 hPa
 
 ![AAI N2061SA](aai-n2061sa.jpg)
 

@@ -34,16 +34,16 @@ There were no visitors attending the meeting.
 ### Vice President's Report
 
 - Upcoming monthly meeting presentations:
-  - Confirmed:
-    - September: Craig Delmage (VE3OP), The new RAC headquarters radio station
-    - October: Wayne (VE3CZO), A USB serial bus overview
-    - November Mike (VA3TEC), His home-brew pole-mounted rover setup
-  - In planning:
-    - August: Difficult to find someone to speak in the summer.
-    - Ultra-VLF
-    - Summary of the 2024 Microwave Update Conference
-    - Peterborough ARC: Their AREDN network
-  - Please contact Lawrence if there are projects you would like to talk about.
+   - Confirmed:
+      - September: Craig Delmage (VE3OP), The new RAC headquarters radio station
+      - October: Wayne (VE3CZO), A USB serial bus overview
+      - November Mike (VA3TEC), His home-brew pole-mounted rover setup
+   - In planning:
+      - August: Difficult to find someone to speak in the summer.
+      - Ultra-VLF
+      - Summary of the 2024 Microwave Update Conference
+      - Peterborough ARC: Their AREDN network
+   - Please contact Lawrence if there are projects you would like to talk about.
 - Lawrence is working on having a Club breakfast on Saturday August 3rd, prior to the Microwave Activity Day, this time again at Zak's Diner.
 - Members' T-shirt, polo shirt or hat: Lawrence has found an inexpensive source of customized shirts and hats. He will follow up in the fall.
 - In-person December meeting: Lawrence is trying to set up an in-person Annual General Meeting and Christmas party. More details will be provided later.

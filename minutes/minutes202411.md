@@ -35,9 +35,9 @@ There were two visitors attending the meeting.
 ### Vice President's Report
 
 - Upcoming monthly meeting presentations:
-  - Confirmed: None
-  - Being Planned: One of our former Club president may talk about his ham experience in the USSR.
-  - Lawrence (VA3IQ) asked those present to contact him if there are projects they would like to talk about.
+   - Confirmed: None
+   - Being Planned: One of our former Club president may talk about his ham experience in the USSR.
+   - Lawrence (VA3IQ) asked those present to contact him if there are projects they would like to talk about.
 
 ### Director's Report
 

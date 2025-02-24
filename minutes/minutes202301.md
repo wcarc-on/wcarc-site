@@ -48,10 +48,10 @@ There were six visitors attending the meeting.
 ### Vice President's Report
 
 - Meeting presentations in planning:
-  - February 2023: Bert (VE2ZAZ) will describe his modernized HyGain TailTwister rotator controller.
-  - March 2023: Ray (VE3FN) will present his 10 GHz station.
-  - April 2023: To be determined.
-  - May 2023: No presentation is scheduled; the time will be spent preparing for the June VHF Contest.
+   - February 2023: Bert (VE2ZAZ) will describe his modernized HyGain TailTwister rotator controller.
+   - March 2023: Ray (VE3FN) will present his 10 GHz station.
+   - April 2023: To be determined.
+   - May 2023: No presentation is scheduled; the time will be spent preparing for the June VHF Contest.
 
 ### Director's Report
 

@@ -54,8 +54,8 @@ Since this is the Annual General Meeting, no presentation is scheduled.
 ### Old Business
 
 - VHF/UHF Beacon move:
-  - John (VA3JYK) sent pictures of the proposed "Plan B" location at the Diefenbunker site. Charles (VA3CPY) showed and commented on the pictures.
-  - We are currently waiting for the energy audit exercise to be completed. The DARC people will contact us when it is. We will then be able to resume the discussions on the move.
+   - John (VA3JYK) sent pictures of the proposed "Plan B" location at the Diefenbunker site. Charles (VA3CPY) showed and commented on the pictures.
+   - We are currently waiting for the energy audit exercise to be completed. The DARC people will contact us when it is. We will then be able to resume the discussions on the move.
 
 ### Officer Election
 
@@ -77,11 +77,11 @@ None.
 ### Show and Tell / Announcements
 
 - Mike (VE3MKX):
-  - He mentioned about his personal Weather Station, which produces local reports accessible on the web.
-  - He suggested that the attendees tune in to 437.800 MHz to listen to the International Space Station amateur radio down-link.
-  - He also suggested listening to some of the ham satellites' down-links.
-  - He gave a quick report on the recent hamfests, all held outdoors.
-  - He showed a solid-brass Morse key that he purchased for $10 at the Niagara hamfest. The key was made in Toronto.
+   - He mentioned about his personal Weather Station, which produces local reports accessible on the web.
+   - He suggested that the attendees tune in to 437.800 MHz to listen to the International Space Station amateur radio down-link.
+   - He also suggested listening to some of the ham satellites' down-links.
+   - He gave a quick report on the recent hamfests, all held outdoors.
+   - He showed a solid-brass Morse key that he purchased for $10 at the Niagara hamfest. The key was made in Toronto.
 - Ray (VE3FN) showed a cwmorse.us plastic Morse key which sells for $35 US.
 - Wayne (VE3CZO) showed a pressure-sensitive electronic Morse key he built. He still has blank PCBs available for anyone wanting to replicate the key.
 - Lawrence (VA3IQ) showed a picture of his Isotron 160m and 80m antennas. The Isotron performs surprisingly well on 160m.

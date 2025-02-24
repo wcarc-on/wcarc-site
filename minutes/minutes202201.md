@@ -61,8 +61,8 @@ Not all Officer positions were fulfilled during the AGM.
 ### Old Business
 
 - VHF/UHF Beacon move:
-  - On Hold until further notice from the DARC officers.
-  - Bert (VE2ZAZ) reported that the beacon enclosure power consumption should be much less than 100W, as the built in heating system made up of a few power resistors is disconnected.
+   - On Hold until further notice from the DARC officers.
+   - Bert (VE2ZAZ) reported that the beacon enclosure power consumption should be much less than 100W, as the built in heating system made up of a few power resistors is disconnected.
 
 ### Reports / Club Project Updates
 
