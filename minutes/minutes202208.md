@@ -27,7 +27,6 @@ The following people were present:
 | Norman Siemens         |   -        | Visitor          |   -     | No    |  ?  |
 | Steve Matzura          |   -        | Visitor          |   -     | No    |  ?  |
 
-
 ### Opening
 
 The meeting was opened by the President, Charles (VA3CPY) at 7:01 pm.

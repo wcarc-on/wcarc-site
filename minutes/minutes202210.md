@@ -20,7 +20,6 @@ The following people were present:
 | Mike Kassay            | VE3MKX     | Member           | FN14st  | Yes   | Yes |
 | Luc Pernot             | VE3JGL     | Member           | FN25ek  | Yes   | Yes |
 
-
 ### Opening
 
 The meeting was opened by the President, Charles (VA3CPY) at 7:08 pm.

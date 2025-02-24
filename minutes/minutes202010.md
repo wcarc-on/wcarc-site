@@ -25,7 +25,6 @@ The following people were present:
 | John Kassay            | VE3FDK     | Visitor          | FN03cf  |       |     |
 | Graham Ide             | VE3BYT     | Member           | FN25ch  | Yes   | Yes |
 
-
 ### Opening
 
 The meeting was opened by the President, Charles (VA3CPY) at 19:10.

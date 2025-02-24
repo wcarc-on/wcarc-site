@@ -39,7 +39,6 @@ The following people were present:
 | John Kassay            | VE3FDK     | Visitor          |   -     | No    |  -  |
 | John Vaillancourt      | SWL        | Visitor          |   -     | No    |  -  |
 
-
 ### Opening
 
 The meeting was opened by the President, Charles (VA3CPY) at 7:07 pm.

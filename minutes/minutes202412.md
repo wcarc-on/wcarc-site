@@ -22,7 +22,6 @@ The following people were present:
 | Mike Kelly         | VE3FFK    | Visitor        |   -     | No    | Yes |
 | Craig Delmage      | VE3OP     | Visitor        |   -     | No    | Yes |
 
-
 ### Opening
 
 - The meeting was opened by the President, Mike (VA3TEC), at 7:12 pm. There were four visitors attending the meeting.

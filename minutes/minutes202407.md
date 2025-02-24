@@ -76,7 +76,6 @@ Lawrence (VA3IQ): Announced that we will have a discussion on attracting more pe
 - Bert (VE2ZAZ) announced that he is writing a logging software for the Québec and Ontario QSO Party contests.
 - Lawrence (VA3IQ) described his current work on a 20W 5.8 GHz power brick.
 
-
 ### Ask the Club
 
 Mike (VA3TEC) had questions on how to control and interface several coaxial relays for pole-mounted antenna switching.

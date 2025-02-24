@@ -16,7 +16,6 @@ The following people were present:
 | Karen Bryden       | VA3IGO    | Member         | FN25ag  | Yes   | Yes |
 | Luc Pernot         | VE3JGL    | Member         | FN25ek  | Yes   | Yes |
 
-
 ### Opening
 
 - The meeting was opened by the President at 8:12 am.

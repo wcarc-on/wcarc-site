@@ -22,7 +22,6 @@ The following people were present:
 | Mike Kassay            | VE3MKX     | Member           | FN14st  | Yes   | Yes |
 | Clayton Smith          | VE3IRR     | Member           | FN25ai  | Yes   | Yes |
 
-
 ### Opening
 
 The meeting was opened by the President, Charles (VA3CPY) at 7:00 pm.

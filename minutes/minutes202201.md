@@ -20,7 +20,6 @@ The following people were present:
 | Ray Perrin             | VE3FN      | Member           | FN25dk  | Yes   | Yes |
 | Michael                | VE3TKI     | Visitor          |   -     |  -    |  -  |
 
-
 ### Opening
 
 The meeting was opened by the President, Charles (VA3CPY) at 7:12 pm.

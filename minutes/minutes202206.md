@@ -19,7 +19,6 @@ The following people were present:
 | Peter Jago             | VA3PJ      | Member           | FN25ag  | Yes   | Yes |
 | Graham Ide             | VE3BYT     | Visitor          | FN25ch  | No    | Yes |
 
-
 ### Opening
 
 The meeting was opened by the President, Charles (VA3CPY) at 7:09 pm.

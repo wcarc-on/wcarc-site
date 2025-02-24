@@ -20,7 +20,6 @@ The following people were present:
 | John McGowan           | VA3JYK     | Member           |   -     | Yes   | Yes |
 | Robert Clermont        | VE3AKV     | Visitor          | FN15    | No    |  -  |
 
-
 ### Opening
 
 The meeting was opened by the President, Charles (VA3CPY) at 7:09 pm.

@@ -21,7 +21,6 @@ The following people were present:
 | Wayne Getchell         | VE3CZO     | Director         | FN25dh  | Yes   | Yes |
 | Phil Somers            | VE3HST     | Visitor          | FN14    | No    |  -  |
 
-
 ### Opening
 
 The meeting was opened by the President, Mike Kennedy (VA3TEC), at 7:10 pm.

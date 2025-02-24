@@ -243,7 +243,6 @@ Lord Elgin Hotel, Ottawa, Ontario, Canada
   * 40 Meter Band: 7.060 - 7.080 MHz
   * 80 Meter Band: 3.620 - 3.640 & 3.575 - 3.585 MHz
 
-
 ## Getting Started - PSK frequencies
 
 * PSK 31 Frequencies

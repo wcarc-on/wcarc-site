@@ -5,7 +5,6 @@ title: Annual Report, 2020
 
 *On December 21, 2020, Charles MacDonald (VA3CPY) delivered this Annual Report:*
 
-
 ### January
 
 - The passing of Doug Leach, VE3XK.

@@ -25,7 +25,6 @@ The following people were present:
 | Luc Pernot             | VE3JGL     | Member           | FN25ek  | Yes   | Yes |
 | Brian Jeffrey          | VE3UU      | Member           | FN15    | Yes   | Yes |
 
-
 ### Opening
 
 The meeting was opened by the President, Charles (VA3CPY) at 7:00 pm.

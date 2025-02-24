@@ -23,7 +23,6 @@ The following people were present:
 | Mike Kassay            | VE3MKX     | Vice President   | FN14st  | Yes   | Yes |
 | Rémi De Cristofaro     | VA3DRI     | Member           | FN25    | Yes   | Yes |
 
-
 ### Opening
 
 The meeting was opened by the President, Charles (VA3CPY) at 7:13 pm.

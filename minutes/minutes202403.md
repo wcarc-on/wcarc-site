@@ -21,7 +21,6 @@ The following people were present:
 | Luc Pernot             | VE3JGL     | Member           | FN25ek  | Yes   | Yes |
 | Peter Jago             | VA3PJ      | Member           | FN25ag  | Yes   | Yes |
 
-
 ### Opening
 
 The meeting was opened by the President, Mike Kennedy (VA3TEC), at 7:10 pm.

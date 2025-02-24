@@ -28,7 +28,6 @@ The following people were present:
 | Fred                   | VE3LAF     | Visitor          |   -     | No    |  -  |
 | John                   | VE3FDK     | Visitor          |   -     | No    |  -  |
 
-
 ### Opening
 
 The meeting was opened by the President, Charles (VA3CPY) at 7:16 pm.

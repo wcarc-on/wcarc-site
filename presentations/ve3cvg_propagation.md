@@ -268,7 +268,6 @@ Typical beam pattern above ground. The ground influences the angle of the lobes 
   * Slightly better than CW
 * Other?
 
-
 ## WSJT by K1JT Joe Taylor
 
 * Windows PC software (freeware) which uses a computer sound card connected to a transceiver for:

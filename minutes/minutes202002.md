@@ -19,7 +19,6 @@ The following people were present:
 | G-A Chaudron           | VE2VAB     | Member           | FN25    | Yes   | Yes |
 | Norm Rashleigh         | VE3LC      | Visitor          | FN25FK  |       | Yes |
 
-
 ### Opening
 
 The meeting was opened by the Vice President, Jeremy (VA3ZTF) at 19:02.

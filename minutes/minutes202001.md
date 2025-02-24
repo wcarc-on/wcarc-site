@@ -25,7 +25,6 @@ The following people were present:
 | Karen Bryden           |            | Visitor          |         |     |       |
 | Charles MacDonald      |            | Visitor          |         |     |       |
 
-
 ### Opening
 
 The meeting was opened by the Vice President, Jeremy (VA3ZTF) at 19:02.

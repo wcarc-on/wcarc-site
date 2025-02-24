@@ -35,8 +35,5 @@ And, at the request of the President, the following notice:
 
 Estos minutos también son disponibles en español por nuestros amigos más del sur.
 
-
-
-
 Graham Ide VE3BYT  
 Secretary.

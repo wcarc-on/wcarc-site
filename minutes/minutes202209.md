@@ -25,7 +25,6 @@ The following people were present:
 | John Vaillancourt      | VA3DPZ     | Visitor          |   -     | No    |  ?  |
 | Ian Snow               | VA3QT      | Visitor          |   -     | No    |  ?  |
 
-
 ### Opening
 
 The meeting was opened by the President, Charles (VA3CPY) at 7:08 pm.

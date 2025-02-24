@@ -19,7 +19,6 @@ The following people were present:
 | Ray Perrin         | VE3FN     | Treasurer      | FN25dk  | Yes   | Yes |
 | Peter Jago         | VA3PJ     | Member         | FN25ag  | Yes   | Yes |
 
-
 ### Opening
 
 The meeting was opened by the Vice President Lawrence (VA3IQ), at 7:18 pm.
@@ -43,7 +42,6 @@ There were two visitors attending the meeting.
   - Lawrence asked those present to contact him if there are projects they would like to talk about.
 - Microwave Activity Day: Lawrence informed us that the hams who do microwave communications in the Greater Toronto area will meet for a brunch in the Niagara area on the same day as the November Microwave Activity Day. Consequently, there will be no MAD in November.
 - Lawrence has found a breakfast restaurant, Colonnade Pizza, where cheaper meals are served compared to Zak's Diner. We will try that place in the future.
-
 
 ### Director's Report
 

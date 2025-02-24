@@ -22,7 +22,6 @@ The following people were present:
 | Wayne Getchell         | VE3CZO     | Director         | FN25dh  | Yes   | Yes |
 | Leo Yoshinaka          | VA3CZZ     | Visitor          |   -     | No    |  -  |
 
-
 ### Opening
 
 The meeting was opened by the Vice President, Lawrence Dobranski (VA3IQ) at 7:12 pm.
@@ -72,7 +71,6 @@ Leo Yoshinaka (VA3CZZ): Carleton University Aerospace/Aerophysics Radio Club cub
 - Bert (VE2ZAZ) showed pictures of the SOTA activation of Mont-Ste-Marie he did with Georges-André (VE2VAB) on November 11<sup>th</sup>.
 - Bert (VE2ZAZ) displayed pictures showing the progress of the Corkery Community Centre expansion. He will contact the Association in January to inquire about using the facility for our 2024 June VHF Contest activity.
 - New rule for the VHF contest: Equipment must be able to establish a bidirectional communication over a 5 km distance. A longer link requirement may impact the Club's plans for frequency band coverage. To be discussed in the spring.
-
 
 ### Ask the Club
 

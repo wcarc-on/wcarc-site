@@ -29,7 +29,6 @@ The following people were present:
 | Dan                    | N9PGM      | Visitor          |   -     | No    |  ?  |
 | Dan G.                 |   ?        | Visitor          |   -     | No    |  ?  |
 
-
 ### Opening
 
 The meeting was opened by the President, Charles (VA3CPY) at 7:09 pm.

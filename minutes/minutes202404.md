@@ -19,7 +19,6 @@ The following people were present:
 | Georges-André Chaudron | VE2VAB     | Member           | FN25    | Yes   | Yes |
 | Karin Thompson         | KD4DXX     | Visitor          |         | No    | No  |
 
-
 ### Opening
 
 The meeting was opened by the President, Mike Kennedy (VA3TEC), at 7:12 pm.

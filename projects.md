@@ -26,7 +26,6 @@ The club is concentrating on putting up local beacons to assist testing. Beacons
 
 March 2005 Update - The ID'er is built and operational. Ken VA3KA has donated a 222MHz FM handheld for the project and Rick has donated a 432MHz FM handheld, so this has become a 222MHz AND 432MHz beacon project. Work continues on modifying the radios. Proposed frequencies for the beacons are 222.037MHz and 432.370MHz. These both appear to be clear (as per RAC Operating Manual) and in the right portion of the respective bands. Pending club approval.
 
-
 ## 903MHz Transverter Project (Club)
 
 The objective was to stimulate 900MHz activity in the Ottawa area. We felt that the overall best way to do that was to purchase complete 903MHz transverter kits described as #903-144CK, from Down East Microwave, as shown on the [DEMI website](http://www.downeastmicrowave.com/).

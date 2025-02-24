@@ -27,7 +27,6 @@ The following people were present:
 | Randy Nordlund         | VE3AX      | Member           | FN25jg  | Yes   | Yes |
 | John Vandermey         | VA3RLC     | Member           | FN15xd  | Yes   | Yes |
 
-
 ### Opening
 
 The meeting was opened by the President, Charles (VA3CPY) at 19:14.

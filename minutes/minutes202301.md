@@ -29,7 +29,6 @@ The following people were present:
 | Dave                   | VA3CP      | Visitor          |  -      | No    |  -  |
 | Norm Freidin           | VE3CZI     | Visitor          |  -      | No    |  -  |
 
-
 ### Opening
 
 The meeting was opened by the President, Charles (VA3CPY) at 7:17 pm.
