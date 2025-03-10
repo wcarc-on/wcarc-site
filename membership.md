@@ -35,6 +35,69 @@ We are proud to introduce our Life Members. These individuals have made extraord
 
 ## Members
 
+### 2023
+
+| Call | Name | QTH | Grid Square |
+| --- | --- | --- | --- |
+| VE3NPP | Norman Siemens | Richmond | FN25 |
+| VA3CPB | Mark Biegler | Richmond | FN25 |
+| VA3RKM | Robert MacKenzie | Ottawa | FN25 |
+| VA3TEC | Mike Kennedy | Orléans | FN25 |
+| VE3BYT | Graham Ide | Nepean | FN25ch |
+| VE3CZO | Wayne Getchell | Ottawa | FN25dh |
+| VE2VAB | Georges-André Chaudron | Gatineau | FN25 |
+| VE3JGL | Luc Pernot | Gloucester | FN25ek |
+| VA3CPY | Charles MacDonald | Stittsville | FN25ag |
+| VA3IGO | Karen Bryden | Stittsville | FN25ag |
+| VA3JYK | John McGowan | Gloucester | FN25 |
+| VE3LAF | Fred Crowe | Ottawa | FN25 |
+| VE3JBC | Gordon Marwood | Kanata | FN25 |
+| VE3FN | Ray Perrin | Ottawa | FN25dk |
+| VE3VTT | Alan Howard | Perth | FN14 |
+| VE2ZAZ | Bert Zauhar | Gatineau | FN25 |
+| VE3NGN | Chad Scarborough | Stittsville | FN25 |
+| VE3IRR | Clayton Smith | Leamington | EN82qb |
+| VA3IQ | Lawrence Dobranski | Nepean | FN25 |
+| VE3XRA | Glenn MacDonell | Ottawa | FN25dj |
+| VE3KI | Rich Ferch | Richmond | FN25 |
+| VE2UG | René Barbeau | Repentigny | FN35 |
+| VE3AX | Randy Nordlund | Embrun | FN25jg |
+| VA3DRI | Rémi De Cristofaro | Kanata | FN25 |
+| VE3CIQ | Phil St-Germain | Carleton Place | FN15 |
+| VA3KS | Kieran Shepherd | Ottawa | FN25 |
+| VA3WK | Manfred Kahle | Ottawa | FN25 |
+| VA3PJ | Peter Jago | Stittsville | FN25ag |
+
+### 2022
+
+| Call | Name | QTH | Grid Square |
+| --- | --- | --- | --- |
+| VE3AX | Randy Nordlund | Embrun | FN25jg |
+| VA3DRI | Rémi De Cristofaro | Kanata | FN25 |
+| VE2ZAZ | Bert Zauhar | Gatineau | FN25 |
+| VA3JYK | John McGowan | Gloucester | FN25 |
+| VE3FN | Ray Perrin | Ottawa | FN25dk |
+| VA3IGO | Karen Bryden | Stittsville | FN25ag |
+| VA3CPY | Charles MacDonald | Stittsville | FN25ag |
+| VE2VAB | Georges-André Chaudron | Gatineau | FN25 |
+| VA3IQ | Lawrence Dobranski | Nepean | FN25 |
+| VE3CZO | Wayne Getchell | Ottawa | FN25dh |
+| VA3RZT | Rajesh Thukral | Kanata | FN25 |
+| VE3KI | Rich Ferch | Richmond | FN25 |
+| VE3OWV | Nick Shepherd | Kinburn | FN15vk |
+| VA3PJ | Peter Jago | Stittsville | FN25ag |
+| VE3IRR | Clayton Smith | Leamington | EN82qb |
+| VE3JGL | Luc Pernot | Gloucester | FN25ek |
+| VE3YTZ | Greg Danylchenko | Ottawa | FN25 |
+| VE3XRA | Glenn MacDonell | Ottawa | FN25dj |
+| VE3NPP | Norman Siemens | Richmond | FN25 |
+| VA3CPB | Mark Biegler | Richmond | FN25 |
+| VA3RKM | Robert MacKenzie | Ottawa | FN25 |
+| VA3TEC | Mike Kennedy | Orléans | FN25 |
+| VE3CIQ | Phil St-Germain | Carleton Place | FN15 |
+| VA3KS | Kieran Shepherd | Ottawa | FN25 |
+| VA3WK | Manfred Kahle | Ottawa | FN25 |
+
 ### 2014
 
 | Call | Name | QTH | Grid Square |
