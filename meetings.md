@@ -17,7 +17,8 @@ into a couple of hours.
 
 * March 17, 2025:
    * Monthly meeting
-   * Speaker TBA
+   * Jeremy Jones (VA3ZTF): Az/El Rotator for Arrow Antennas project & software explanation
+   * Mike Kennedy (VA3TEC): LiteX M2SDR – Quick Demo 
 * April 5, 2025:
    * Breakfast followed by our 1st Microwave Activity Day (MAD) of 2025. Location and other details to follow.
 * April 21, 2025:
