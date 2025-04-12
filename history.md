@@ -9,7 +9,7 @@ Meetings were first held in the Bells Corners library building and a little late
 
 Hap Chafe VE3MW was involved with the club back in the days after the library and he recounts "The club's main interest and activity was the annual Field Day operation, set up in a different locale each year. I remember one year we worked one of the RS satellites with one of the gang manually steering a ten element 2 metre beam mounted on a pole about 5 feet high and getting the info for the azimuth shouted through the tent wall.  '5 right ... another 5 right ... hold it ... another 5 right ... up a bit'. Very high tech but it worked!"
 
-Members included Hap Chafe VE3MW, Ralph Cameron VE3BBM, Barrie Crampton VE3BSB, John Brummel, Ivan Jensen VE3AKL, Joyce Jensen, George Acton VA3QH (SK), and Brian Crook VE3CRG, who was the high speed CW operator.
+Members included Hap Chafe VE3MW, Ralph Cameron VE3BBM, Barrie Crampton VE3BSB, John Brummel, Ivan Jensen VE3AKL, Joyce Jensen, George Acton VA3QH (SK), and Brian Crook VE3CRG (SK), who was the high speed CW operator.
 
 At this point the original WCARC faded.
 
