@@ -37,7 +37,7 @@ The meeting agenda, which these meeting minutes rigorously follow, was published
 
 ### Treasurer's Report
 
-Glenn is working on a system that will allow the members to pay the dues via and Interac email transfer, with the money be automatically deposited into the Club bank account. The arrangement with the bank is almost ready. As soon as it is, Glenn will send payment instructions on the Club groups.io email reflector. The 2025 dues are $30, payable as soon as possible.
+Glenn is working on a system that will allow members to pay their dues via an Interac email transfer, with the money automatically deposited into the Club bank account. The arrangement with the bank is almost ready. As soon as it is, Glenn will send payment instructions on the Club groups.io email reflector. The 2025 dues are $30, payable as soon as possible.
 
 ### Vice President's Report
 
