@@ -33,7 +33,7 @@ The meeting agenda, which these meeting minutes rigorously follow, was published
 
 ### Treasurer's Report
 
-- Glenn sent a check to the Kinburn Association to cover the rental cost of the community centre for the June VHF Contest.
+- Glenn sent a cheque to the Kinburn Association to cover the rental cost of the community centre for the June VHF Contest.
 - Glenn is still working on a system that will allow the members to pay the dues via an Interac email transfer, with the money being automatically deposited to the Club bank account. There are still email issues with the account. As soon as it is operational, Glenn will send payment instructions on the Club groups.io email reflector, which should happen in the next few days. The 2025 dues are $30, payable as soon as possible. We currently have 7 paid members. This will increase when the payment system is functional.
 - Glenn will bring in cash at the VHF Contest to cover Ray Burrell's current and past expenditures.
 
@@ -70,7 +70,7 @@ Rich (VE3KI): The new QSY feature in the WSJT-X software.
 ### Show and tell
 
 - Bert (VE2ZAZ) showed the Rigol DHO804 oscilloscope, which he finds impressive for the $360 US dollars it costs.
-- Lawrence showed a  Raspberry Pi 5 SSD adapter.
+- Lawrence showed a Raspberry Pi 5 SSD adapter.
 
 ### Ask the Club
 
@@ -89,7 +89,7 @@ V1.0 2025-04-21
 May 3
 MAD:
 
-- Breakfast followed by our 2nd Microwave Activity Day of 2025.  Location and other details to follow.
+- Breakfast followed by our 2nd Microwave Activity Day of 2025. Location and other details to follow.
 
 May 12
 Club Meeting:
@@ -114,7 +114,7 @@ Club Meeting:
 August 16-17
 10 GHz contest
 
-- ARRL 10 GHz and Up Contest Weekend 1.  Location(s) and other details to follow.
+- ARRL 10 GHz and Up Contest Weekend 1. Location(s) and other details to follow.
 
 August 18
 Club Meeting
@@ -125,9 +125,9 @@ Club Meeting
 September 20-21
 10 GHz contest
 
-- ARRL 10 GHz and Up Contest Weekend 2.   Location(s) and other details to follow
+- ARRL 10 GHz and Up Contest Weekend 2. Location(s) and other details to follow
 
 October 5
 MAD
 
-- Breakfast followed by our 3rd Microwave Activity Day of 2025.  Location and other details to follow.
+- Breakfast followed by our 3rd Microwave Activity Day of 2025. Location and other details to follow.
