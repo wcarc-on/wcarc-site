@@ -36,7 +36,7 @@ The meeting agenda, which these meeting minutes rigorously follow, was published
 
 ### Treasurer's Report
 
-- Glenn announced that the dues payment system is now operational. Since June 1st, seven people have paid via the Interac system. The 2025 dues are $30, payable as soon as possible. He added that few 2024 members have renewed so far.
+- Glenn announced that the dues payment system is now operational. Since June 1st, seven people have paid via the Interac system. The 2025 dues are $30, payable as soon as possible. He added that a few 2024 members have not renewed yet.
 - Glenn will take arrangements with Ray Burrell to compensate him for current and past expenditures he had incurred when moving our antenna gear to/from the VHF contest site.
 
 ### Vice President's Report
