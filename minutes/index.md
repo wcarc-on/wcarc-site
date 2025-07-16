@@ -7,7 +7,9 @@ title: Meeting Minutes
   [Jan](minutes202501.html),
   [Feb](minutes202502.html),
   [Mar](minutes202503.html),
-  [Apr](minutes202504.html)
+  [Apr](minutes202504.html),
+  May,
+  [Jun](minutes202506.html)
 * 2024:
   [Jan](minutes202401.html),
   [Feb](minutes202402.html),
@@ -281,7 +283,7 @@ title: Meeting Minutes
   [Mar](minutes200503.html),
   [Apr](minutes200504.html),
   [May](minutes200505.html),
-Jun,
+  Jun,
   [Jul](minutes200507.html),
   [Aug](minutes200508.html),
   [Sep](minutes200509.html),
