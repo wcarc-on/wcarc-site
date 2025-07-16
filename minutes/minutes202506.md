@@ -16,7 +16,7 @@ The following people were present:
 | Larissa Reise       | VE3KGC    | Visitor        | FN14    | No    | -   |
 | Ray Perrin          | VE3FN     | Member         | FN25dk  | Yes   | Yes |
 | Norman Siemens      | VE3NPP    | Member         | FN25    | Yes   | Yes |
-| Malcolm  Harper     | VE2NR     | Visitor        | FN35    |No     |  -  |
+| Malcolm Harper      | VE2NR     | Visitor        | FN35    | No    |  -  |
 | Luc Pernot          | VE3JGL    | Member         | FN25ek  | Yes   | Yes |
 | Randy Nordlund      | VE3AX     | Member         | FN25jg  | Yes   | Yes |
 | Andrew Hart         | VE3NVK    | Visitor        | FN25    | No    |  -  |
@@ -36,7 +36,7 @@ The meeting agenda, which these meeting minutes rigorously follow, was published
 
 ### Treasurer's Report
 
-- Glenn announced that the dues payment system is now operational. Since June 1st, seven people have paid via the Interac system. The 2025 dues are $30, payable as soon as possible. He added that few 2024 members have not renewed so far.
+- Glenn announced that the dues payment system is now operational. Since June 1st, seven people have paid via the Interac system. The 2025 dues are $30, payable as soon as possible. He added that few 2024 members have renewed so far.
 - Glenn will take arrangements with Ray Burrell to compensate him for current and past expenditures he had incurred when moving our antenna gear to/from the VHF contest site.
 
 ### Vice President's Report
@@ -84,16 +84,16 @@ The President observed that there was no further business. Randy (VE3AX) moved t
 
 ### WCARC Regular Meeting Agenda
 
-23rd June 2025
+June 23rd, 2025
 
 1. Call to Order @ 7 pm (Recording Reminder)
 1. Opening Statements, Take attendance
 1. Approve Agenda
 1. Secretary's Report
-1. Treasurer’s Report
-   1. Update on fees payments
-1. Vice President’s Report
-1. Director’s Report
+1. Treasurer's Report
+   1. Update on fee payments
+1. Vice President's Report
+1. Director's Report
 1. President's Report
 1. Presentation: Review of June 2025 Contest Efforts
 1. Old Business
