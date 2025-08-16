@@ -1,6 +1,6 @@
 ---
 layout: minutes
-title: Minutes of the Regular Monthly Meeting on June 23rd, 2025 - DRAFT
+title: Minutes of the Regular Monthly Meeting on June 23rd, 2025
 ---
 The meeting was held over the internet via a Zoom video conference.
 The following people were present:
@@ -22,7 +22,7 @@ The following people were present:
 | Andrew Hart         | VE3NVK    | Visitor        | FN25    | No    |  -  |
 
 ## Opening
-
+﻿
 The meeting was opened by the Vice President, Lawrence (VA3IQ), at 7:12 pm. There were three visitors attending the meeting.
 
 ### Meeting Agenda
