@@ -38,11 +38,11 @@ The treasurer was absent.
 ### Vice President's Report
 
 - Upcoming monthly meeting presentations:
-- Being Planned:
-   - Bert (VE2ZAZ) will present his tower mounted 10 GHz system.
-   - HamsOverIP and DMR linking by the folks of HamsOverIP Canada.
-   - Wayne (VE3CZO): Selecting the right capacitor for an application.
-   - Mike (VA3TEC): IP400 Presentation.
+   - Being Planned:
+      - Bert (VE2ZAZ) will present his tower mounted 10 GHz system.
+      - HamsOverIP and DMR linking by the folks of HamsOverIP Canada.
+      - Wayne (VE3CZO): Selecting the right capacitor for an application.
+      - Mike (VA3TEC): IP400 Presentation.
 - Lawrence mentioned that Ham Shack Hotline is discontinuing in August... Many of us will be switching over to HamsOverIP Canada.
 - Lawrence is looking for a December AGM location.
 
@@ -71,7 +71,7 @@ Carp hamfest: Bert (VE2ZAZ) confirmed that he had reserved a table at the upcomi
 - Lawrence (VA3IQ) is looking for someone to help repair/rebuild his GAP Challenger antenna.
 - Bert (VE2ZAZ) is now operational from home on the 10 GHz band.
 - Ray (VE3FN) needs help to tear down his station and roof antennas. Two members have offered to help.
-- Mike (VA3TEC) plans on operating as rover from Grafton ON during the September VHF contest. Lawrence (VA3IQ) may follow him.
+- Mike (VA3TEC) plans on operating as rover from Grafton, ON during the September VHF contest. Lawrence (VA3IQ) may follow him.
 - Wayne VE3CZO manned the amateur radio booth during an IEEE symposium on antennas and propagation. There was a lot of interest shown by conference participants.
 
 ### Ask the Club
@@ -91,10 +91,10 @@ The Vice President observed that there was no further business. Lawrence (VA3IQ)
 1. Opening Statements, Take attendance
 1. Approve Agenda
 1. Secretary's Report
-1. Treasurer’s Report
-   1. Update on fees payments
-1. Vice President’s Report
-1. Director’s Report
+1. Treasurer's Report
+   1. Update on fee payments
+1. Vice President's Report
+1. Director's Report
 1. President's Report
 1. Presentation: None, Round Table instead
 1. Old Business
