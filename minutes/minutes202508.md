@@ -42,7 +42,7 @@ Nothing new to report. Glenn will report the number of regular members back to t
    - Mike (VA3TEC): IP400 Presentation.
 - Lawrence mentioned that a lot of potential speakers are dropping out.
 - Lawrence is looking for a December AGM location.
-- He mentioned that many amateur radio antenna manufacturers were considering closing their business, and some have already shut down. The main reason is the higher cost and availability of aluminum stock, a consequence of the US. administration tariff policies.
+- He mentioned that many amateur radio antenna manufacturers were considering closing their business, and some have already shut down. The main reason is the higher cost and availability of aluminum stock, a consequence of the U.S. administration's tariff policies.
 
 ### Director's Report
 
@@ -66,11 +66,11 @@ No new business items.
 
 ### Show and tell / Round Table
 
-- Lawrence (VA3IQ) showed his 3D printed 47 GHz feed horn mount.
+- Lawrence (VA3IQ) showed his 3D-printed 47 GHz feed horn mount.
 
 ### Ask the Club
 
-- Mike (VA3TEC) asked for suggestions on building a beefy DC power supply for a 800W 222 MHz amplifier.
+- Mike (VA3TEC) asked for suggestions on building a beefy DC power supply for an 800W 222 MHz amplifier.
 
 ### Adjournment
 
