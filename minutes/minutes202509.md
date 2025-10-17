@@ -57,7 +57,7 @@ The President had nothing to report.
 
 ### Presentation(s)
 
-Lawrence (VA3IQ): Polar Modulation - An Introduction.
+Bert (VE2ZAZ): Tower-Mounted 10 GHz System, tricks and ideas.
 
 ### Old Business
 
