@@ -40,7 +40,7 @@ The Treasurer was absent.
    - Q65 on WSJT-X for UHF and above.
    - HamsOverIP and DMR linking by the folks of HamsOverIP Canada.
    - Mike (VA3TEC): IP400 Presentation.
-   - Lawrence - Logging software acting as Rover controller.
+   - Lawrence: Logging software acting as Rover controller.
 - The Club's Annual General Meeting (AGM) will take place at the RAC headquarters on December 15th.
 
 ### Director's Report
@@ -53,7 +53,7 @@ The Director was absent.
 
 ### Presentation(s)
 
-Ted (VE3EDE): A digital Beacon for Back-Country Activities
+Ted (VE3EDE): A Digital Beacon for Back-Country Activities
 
 ### Old Business
 
@@ -65,7 +65,7 @@ Bert (VE2ZAZ) mentioned that we would dispatch the actions in preparation for th
 
 ### Show and tell / Round Table
 
-Ted (VE2EDE) gave a report on the AREDN work in the Western Ottawa area. Both Ted and Lawrence (VA3IQ) have set up nodes, and Tom (VA3NFA) is setting up one.
+Ted (VE2EDE) gave a report on the AREDN work in the Western Ottawa area. Both Ted and Lawrence (VA3IQ) have set up nodes, and Tom (VA3NFA) is setting one up.
 
 ### Ask the Club
 
