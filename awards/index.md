@@ -3,6 +3,10 @@ layout: page
 title: Awards
 ---
 
+## 2025
+
+![2025 June VHF Contest certificate](2025-jun-vhf.jpg)
+
 ## 2024
 
 ![2024 June VHF Contest certificate](2024-jun-vhf.jpg)
