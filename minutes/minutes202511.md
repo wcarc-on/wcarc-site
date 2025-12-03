@@ -100,9 +100,9 @@ The Vice President observed that there was no further business. Lawrence (VA3IQ)
 1. Opening Statements, Take attendance
 1. Approve Agenda
 1. Secretary's Report
-1. Treasurer’s Report
-1. Vice President’s Report
-1. Director’s Report
+1. Treasurer's Report
+1. Vice President's Report
+1. Director's Report
 1. President's Report
 1. Presentation: No presentation, a round table instead.
 1. Old Business:
