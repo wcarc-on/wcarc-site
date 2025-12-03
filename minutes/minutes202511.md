@@ -36,11 +36,11 @@ The Treasurer was absent.
 
 ### Vice President's Report
 
-- The Club's Annual General Meeting (AGM) will take place at the RAC headquarters on December 15th.
+- The Club's Annual General Meeting (AGM) will take place at the RAC headquarters on December 15<sup>th</sup>.
 - Lawrence found a low-cost meeting space. We will try to get together at the March 2026 meeting.
 - Upcoming monthly meeting presentations:
    - December: AGM - No presentation scheduled.
-   - Being Planned (speakers shall provide a synopsis of their presentation to Lawrence):
+   - Being planned (speakers shall provide a synopsis of their presentation to Lawrence):
       - Wayne (VE3CZO) - Selecting the right capacitor for an application.
       - Q65 on WSJT-X for UHF and above.
       - HamsOverIP and DMR linking by the folks of HamsOverIP Canada.
@@ -53,7 +53,7 @@ The Director had nothing to report.
 
 ### President's Report
 
-The President was absent
+The President was absent.
 
 ### Presentation(s)
 
@@ -68,7 +68,7 @@ None.
 - Annual General Meeting
    - Election: Three Director positions, two of which for President and Secretary, must be renewed at the AGM.
    - Wayne (VE3CZO) will send an election reminder email.
-   - Food: Bert (VE2ZAZ) will bring sandwiches, Lawrence (VA3IQ) will bring soft drinks, Wayne (VE3CZO) will bring Chips/munchies.
+   - Food: Bert (VE2ZAZ) will bring sandwiches, Lawrence (VA3IQ) will bring soft drinks, Wayne (VE3CZO) will bring chips/munchies.
    - Lawrence was not sure whether the VE3RHQ RAC headquarters station would be open.
    - At last year's AGM, the meeting audio on Zoom was bad, likely due to the webcam used. For this year, Lawrence will bring a better webcam, with good audio.
    - The invite email should mention that access to the RAC headquarters is from the back of the building.
