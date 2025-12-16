@@ -8,7 +8,7 @@ title: Contacts
 * Vice President: Lawrence Dobranski (VA3IQ)
 * Treasurer: Glenn MacDonell (VE3XRA)
 * Secretary: Bert Zauhar (VE2ZAZ)
-* Director: Wayne Getchell (VE3CZO)
+* Director: Robert Boyd (VE3BE)
 
 ## Web Pages
 
