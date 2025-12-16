@@ -25,8 +25,7 @@ K2G 0J8
 ## Club Call Signs
 
 The Club call sign [VE3WCC](https://www.qrz.com/db/ve3wcc) is issued by Industry
-Canada. The official contact for matters related to the Club call sign is the
-WCARC Director.
+Canada. The official contact for matters related to the Club call sign is Wayne Getchell (VE3CZO).
 
 ## Mailing List
 
