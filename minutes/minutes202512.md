@@ -19,7 +19,7 @@ The following people were present:
 | Wayne Getchell      | VE3CZO    | Director       | FN25dh  | Yes   | Yes |
 | Ted Reinhardt       | VE3EDE    | Member         | FN25    | Yes   | Yes |
 | Tom Zinck           | VA3NFA    | Member         | FN25    | Yes   | Yes |
-| Clayton Smith       | VE3IRR    | Member         | EN82qb  | Yes   | Yes |
+| Clayton Smith       | VE3IRR    | Member         | EN82nh  | Yes   | Yes |
 | Ray Perrin          | VE3FN     | Member         | FN25dk  | Yes   | Yes |
 | Mike Kelly          | VE3FFK    | Visitor        |   -     | No    | Yes |
 

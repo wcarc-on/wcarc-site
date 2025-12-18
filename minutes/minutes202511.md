@@ -14,7 +14,7 @@ The following people were present:
 | Ted Reinhardt       | VE3EDE    | Member         | FN25    | Yes   | Yes |
 | Rémi De Cristofaro  | VA3DRI    | Member         | FN25    | Yes   | Yes |
 | Tom Zinck           | VA3NFA    | Member         | FN25    | Yes   | Yes |
-| Clayton Smith       | VE3IRR    | Member         | EN82qb  | Yes   | Yes |
+| Clayton Smith       | VE3IRR    | Member         | EN82nh  | Yes   | Yes |
 | Ray Perrin          | VE3FN     | Member         | FN25dk  | Yes   | Yes |
 
 ## Opening
