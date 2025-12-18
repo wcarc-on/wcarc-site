@@ -40,7 +40,7 @@ The meeting agenda was displayed prior to the meeting, and is reproduced below. 
 ### Treasurer's Report
 
 - Glenn (VE3XRA) provided an un-audited 2025 Financial Statement (balance sheet) covering the period of December 1st, 2024 to November 30th, 2025. The Statement will be audited by Wayne (VE3CZO) in the next few days. The audited document will be posted on the Website, along with these minutes.
-- Bert (VE2ZAZ) reminded that the Club should pay $150 to Ray Burrell as compensation for his expenditures for the 2023, 2024 and 2025 VHF contests. Mike (VA3TEC) offered to hand-carry the money to him.
+- Bert (VE2ZAZ) reminded that the Club should pay $150 to Ray Burrell as compensation for his expenditures for the 2023, 2024 and 2025 VHF contests. Mike (VA3TEC) offered to hand-deliver the money to him.
 
 ### Vice President's Report
 
@@ -51,7 +51,7 @@ The meeting agenda was displayed prior to the meeting, and is reproduced below. 
       - Mike (VA3TEC) - IP400 Presentation.
       - Lawrence (VA3IQ) - Logging software acting as Rover controller.
       - Bert (VE2ZAZ) - A Chinese 1296 MHz 100W amplifier brick.
-      - Tom (VA3NFA) / Ted (VE3EDE) / Lawrence (VA3IQ) - AREDN Status
+      - Tom (VA3NFA) / Ted (VE3EDE) / Lawrence (VA3IQ) - AREDN Status.
       - Lawrence (VA3IQ) - How to not brick AREDN nodes.
 
 ### Director's Report
@@ -73,7 +73,7 @@ At this AGM, a Board election had to be held to replace or renew three of its fi
 
 - Election of the Director to act as President and Chair of the Board of Directors: Mike Kennedy (VA3TEC) submitted his candidacy for re-election. No other candidacies were received. Mike Kennedy (VA3TEC) was thus re-elected by acclamation as Director to act as President and Chair of the Board of Directors.
 - Election of the Director to occupy the Secretary position: Bertrand Zauhar (VE2ZAZ) proposed his own candidacy for re-election. No other candidacies were received. Bertrand Zauhar (VE2ZAZ) was thus re-elected by acclamation as Director-Secretary.
-- Election of the Director: Wayne Getchell (VE3CZO) submitted his candidacy for re-election, with the condition that nobody else move forward with their candidacy. Robert Boyd (VE3BE) also proposed his candidacy for the Director position. As a result, Wayne Getchell (VE3CZO) withdrew his candidacy. Robert Boyd (VE3BE) was thus elected by acclamation as Director.
+- Election of the Director: Wayne Getchell (VE3CZO) submitted his candidacy for re-election, with the condition that he would withdraw if another candidate stepped forward. Robert Boyd (VE3BE) also proposed his candidacy for the Director position. As a result, Wayne Getchell (VE3CZO) withdrew his candidacy. Robert Boyd (VE3BE) was thus elected by acclamation as Director.
 
 ### Old Business
 
