@@ -14,7 +14,8 @@ title: Meeting Minutes
   [Aug](minutes202508.html),
   [Sep](minutes202509.html),
   [Oct](minutes202510.html),
-  [Nov](minutes202511.html)
+  [Nov](minutes202511.html),
+  [Dec](minutes202512.html)
 * 2024:
   [Jan](minutes202401.html),
   [Feb](minutes202402.html),
