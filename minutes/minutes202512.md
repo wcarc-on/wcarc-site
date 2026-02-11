@@ -1,6 +1,6 @@
 ---
 layout: minutes
-title: Minutes of the Annual General Meeting on December 15th, 2025 - DRAFT
+title: Minutes of the Annual General Meeting on December 15th, 2025
 ---
 The meeting was held at the Radio Amateurs of Canada headquarters and over the internet via a Zoom video conference.
 The following people were present:
