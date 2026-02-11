@@ -3,6 +3,8 @@ layout: page
 title: Meeting Minutes
 ---
 
+* 2026:
+  [Jan](minutes202601.html)
 * 2025:
   [Jan](minutes202501.html),
   [Feb](minutes202502.html),
