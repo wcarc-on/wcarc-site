@@ -14,7 +14,7 @@ The following people were present:
 | René Barbeau        | VE2UG     | Member         | FN35gs  | Yes   | Yes |
 | Randy Nordlund      | VE3AX     | Member         | FN25jg  | Yes   | Yes |
 | Tom Zinck           | VA3NFA    | Member         | FN25    | Yes   | Yes |
-| Clayton Smith       | VE3IRR    | Member         | EN82qb  | Yes   | Yes |
+| Clayton Smith       | VE3IRR    | Member         | EN82nh  | Yes   | Yes |
 | Ted Reinhardt       | VE3EDE    | Member         | FN25    | Yes   | Yes |
 | Ray Perrin          | VE3FN     | Member         | FN25dk  | Yes   | Yes |
 | Norman Siemens      | VE3NPP    | Member         | FN25    | Yes   | Yes |
@@ -35,17 +35,17 @@ The meeting agenda was displayed prior to the meeting, and is reproduced below. 
 ### Treasurer's Report
 
 - Glenn, the Treasurer, was absent.
-- The Vice President reported that Mike (VA3TEC), our President, is working on reconstituting the detailed members list, which allows to track the membership, dues and contact information.
+- The Vice President reported that Mike (VA3TEC), our President, is working on reconstituting the detailed members list, which allows us to track the membership, dues and contact information.
 
 ### Vice President's Report
 
 - Lawrence (VA3IQ) is working on organizing an in-person regular members meeting the Spring of 2026. Robert is working with the Diefenbunker on this matter, however he had no update to report.
-- May MAD. Lawrence is trying to set up a group event for the May Microwave Activity Day. This is a good rehearsal for the various upcoming contests.
+- May MAD: Lawrence is trying to set up a group event for the May Microwave Activity Day. This is a good rehearsal for the various upcoming contests.
 - Upcoming monthly meeting presentations:
    - Being Planned (speakers shall provide a synopsis of their presentation to Lawrence):
       - Wayne (VE3CZO) - Selecting the right capacitor for an application.
       - Mike (VA3TEC) - IP400 Presentation.
-      - Tom (VA3NFA) / Ted (VE3EDE) / Lawrence (VA3IQ) - AREDN Status
+      - Tom (VA3NFA) / Ted (VE3EDE) / Lawrence (VA3IQ) - AREDN Status.
       - Lawrence (VA3IQ) - How to not brick AREDN nodes.
       - Lawrence (VA3IQ) - Logging software acting as Rover controller.
 
@@ -70,13 +70,13 @@ None this month. A discussion on ongoing projects took place instead.
 
 ### New Business
 
-- Lawrence (VA3IQ) will issue a survey on our WCARC groups.io. The survey will ask the members on using Microsoft Teams instead of Zoom for our monthly meetings. The Zoom licensing cost is of more than $200, whereas using Teams is free. In no case will a transition occur before we fully test the Team solution.
+- Lawrence (VA3IQ) will issue a survey on our WCARC groups.io. The survey will ask the members about using Microsoft Teams instead of Zoom for our monthly meetings. The Zoom licensing cost is of more than $200, whereas using Teams is free. In no case will a transition occur before we fully test the Teams solution.
 
 ### Show and tell / Round Table
 
 - René (VE2UG) showed a 150W DF9IC 20dB gain 1296MHz amplifier to pair with his new transverter.
 - René (VE2UG) showed a Radio-Berry, an SDR HF transceiver based on the Raspberry Pi 4. It is sold on Ali-Express for $118.
-- Ted VE3EDE detailed a small SPDT absorptive switch to interrupt the output of the adf4351 on 1296 MHz for CW sending purpose.
+- Ted VE3EDE detailed a small SPDT absorptive switch to interrupt the output of the ADF4351 on 1296 MHz for CW sending purpose.
 - Bert showed a Williams 200 ps pulse generator he put together. It is used to check oscilloscope bandwidth.
 
 ### Ask the Club
