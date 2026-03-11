@@ -68,7 +68,7 @@ Nil.
 
 #### Broadband Hamnet
 
-New VE2’s on the mesh. They are planning to try to mesh with the Hull hospital and then the YMCA.
+New VE2s on the mesh. They are planning to try to mesh with the Hull hospital and then the YMCA.
 Some new VE3 stations are also connected.
 
 ### New Business
@@ -79,13 +79,13 @@ Doug (VE3XK) asked for further comments from the members on the feasibility of c
 
 * Clayton (VE3IRR) Showed a new DVB-T dongle from Nooelec - NESDR Smart. It has a TCXO and a low noise power supply. It also comes with a SMA connector. Also mentioned the new LimeSDR. It goes from 100 kHz – 3.8 GHz.
 * Glenn (VE3XRA) Talked about the Airspy Mini SDR receiver. It has a 12bit ADC. It goes from 24MHz to 1800MHz.
-* Graham (VE3GTC) mentioned some low cost LNA’s used for satellite reception. He also showed the PC boards he is getting from OSH Park.
-* Wayne (VE3CZO) is still looking for a replacement 12V cigarette lighter plug for the battery top-off project he’s designing. The ones he’s looked at so far cannot handle the current.
+* Graham (VE3GTC) mentioned some low cost LNAs used for satellite reception. He also showed the PC boards he is getting from OSH Park.
+* Wayne (VE3CZO) is still looking for a replacement 12V cigarette lighter plug for the battery top-off project he's designing. The ones he's looked at so far cannot handle the current.
 * Glenn (VE3XRA) gave an update on the record 47GHz contact by VE3FN and VE2UG.
 
 ### Program
 
-Tonight’s speaker is Clayton (VE3IRR) and the subject is the follow-up for the June contest.
+Tonight's speaker is Clayton (VE3IRR) and the subject is the follow-up for the June contest.
 
 ### Adjournment
 

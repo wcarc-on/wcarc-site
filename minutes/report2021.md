@@ -13,11 +13,11 @@ Once again, the Pandemic has severely limited what our club can do as a group. N
 - OARC VE2CRA DMR repeater is physically at the Camp Fortune site.
 - Clayton (VE3IRR) has left the region, BUT will continue his work as the club webmaster.
 - Bob Heil (K9EID), Heil Sound – resulted in one of the longest talks of the year...
-- Glenn (VE3XRA) suggested that there may be a lot of new hams who are unaware of the Club’s existence, as many got their license via online learning in the last year.
+- Glenn (VE3XRA) suggested that there may be a lot of new hams who are unaware of the Club's existence, as many got their license via online learning in the last year.
 
 ### DX
 
-While to many DX means talking across the world, for other hams it might mean 100 km from mountain to mountain at frequencies 4 times as high as a microwave oven.  Both just participating in QSO’s and contest activities were enjoyed by many of our members.
+While to many DX means talking across the world, for other hams it might mean 100 km from mountain to mountain at frequencies 4 times as high as a microwave oven.  Both just participating in QSOs and contest activities were enjoyed by many of our members.
 
 One of the Positives about Ham radio in a time of pandemic is that it can be the most socially distanced way to have round table discussions.
 

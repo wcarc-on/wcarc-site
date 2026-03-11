@@ -43,9 +43,9 @@ Motion was carried.
 
 ### Vice President's Report
 
-Doug discussed the challenges with the reservations of the old Sobey’s meeting place.
+Doug discussed the challenges with the reservations of the old Sobey's meeting place.
 
-If we need to change the meeting night, we need to change the constitution as it is specified in the bylaws. The Sobey’s on March road is an alternate venue if we change the meeting night.
+If we need to change the meeting night, we need to change the constitution as it is specified in the bylaws. The Sobey's on March road is an alternate venue if we change the meeting night.
 
 Discussion about the venue and day change followed.
 
@@ -55,15 +55,15 @@ Show of hands was called to see who was willing to change venue dates.
 
 Andy (VE3NVK) gave the info regarding the WCC yahoo mailing list.
 
-The speaker for the September meeting will be Paul Boltwood (VE3PLE) and the subject is ‘Inside his observatory’
+The speaker for the September meeting will be Paul Boltwood (VE3PLE) and the subject is "Inside his observatory."
 
-The October speaker will be Brian Rawlings (VE3QN) and the subject will be the 5 W’s of international radio regulations.
+The October speaker will be Brian Rawlings (VE3QN) and the subject will be the 5 Ws of international radio regulations.
 
 The November speaker will be Dave Conn (VE3KL) and the subject will be designing HF wire antennas, RF transformers and common mode chokes.
 
 December will be the annual meeting and Christmas party.
 
-January will be Brian and the subject will be ‘adventures from the coldest parts of the cold war’
+January will be Brian and the subject will be "adventures from the coldest parts of the cold war."
 
 March will be Dave Conn (VE3KL) and adding a 6<sup>th</sup> band to an OCF antenna.
 
@@ -112,7 +112,7 @@ Doug (VE3XK) asked for further comments from the members on the feasibility of c
 
 ### Program
 
-Tonight’s speaker is Greg (VE3YTZ) and the subject is extension cords.
+Tonight's speaker is Greg (VE3YTZ) and the subject is extension cords.
 
 ### Adjournment
 

@@ -84,7 +84,7 @@ Nil.
 
 ### Program
 
-The speaker this evening was Bryan VE3QN and the topic was the 5 W’s of International Radio Regulations.
+The speaker this evening was Bryan VE3QN and the topic was the 5 W's of International Radio Regulations.
 
 ### Adjournment
 

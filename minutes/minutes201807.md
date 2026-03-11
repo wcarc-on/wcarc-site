@@ -55,7 +55,7 @@ Nil.
 
 ### Speaker
 
-Tonight’s speaker is Bryan Rawlings (VE3QN) and the subject is "A Wire to the
+Tonight's speaker is Bryan Rawlings (VE3QN) and the subject is "A Wire to the
 New World."
 
 ### Old Business

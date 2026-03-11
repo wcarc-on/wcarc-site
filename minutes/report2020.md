@@ -25,7 +25,7 @@ title: Annual Report, 2020
 
 - Robert (VE3BE) applied Club ID stickers on all Club assets located in the Boltwood observatory.
 - The longer term plan is to move all Club assets in storage to the Diefenbunker.
-- Charles MacDonald (VA3CPY) stepped forward to occupy the President’s position. As he is the only candidate, he is elected by acclamation as the Club’s 2020/2021 President.
+- Charles MacDonald (VA3CPY) stepped forward to occupy the President's position. As he is the only candidate, he is elected by acclamation as the Club's 2020/2021 President.
 
 ### August
 

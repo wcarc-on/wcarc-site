@@ -93,13 +93,13 @@ Nothing new to report.
 
 Jeremy (VA3ZTF) proposed in writing a motion to modify the bylaws in order to change how the club can spend money and the amount limits:
 
-> Expenditures should be approved in advance, and prior to the actual expenditure. Single expenditures up to $200 may be approved by 2 Signing Officers and disclosed at the next general meeting. Expenditures exceeding $200 shall require approval by a majority of the members at a general meeting. Expenditures exceeding $500 shall require 2 weeks’ notice prior to discussion at a general meeting following which a majority vote will be held at the next general meeting.
+> Expenditures should be approved in advance, and prior to the actual expenditure. Single expenditures up to $200 may be approved by 2 Signing Officers and disclosed at the next general meeting. Expenditures exceeding $200 shall require approval by a majority of the members at a general meeting. Expenditures exceeding $500 shall require 2 weeks' notice prior to discussion at a general meeting following which a majority vote will be held at the next general meeting.
 
 A discussion followed with the members present at the meeting and if anyone has comments or suggestions they can email Jeremy directly and it can be discussed at the next meeting.
 
 Jeremy (VA3ZTF) suggested that the club finance and install a BBHN node at the Diefenbunker.
 
-Brian (VE3UU) suggested that we look at moving the club’s group on Yahoo to Groups.io.
+Brian (VE3UU) suggested that we look at moving the club's group on Yahoo to Groups.io.
 
 Doug (VE3XK) asked if members would be interested in borrowing the club VNA and Spectrum Analyzer.
 
