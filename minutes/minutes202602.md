@@ -1,6 +1,6 @@
 ---
 layout: minutes
-title: Minutes of the regular monthly meeting on February 16th, 2026 - DRAFT
+title: Minutes of the regular monthly meeting on February 16th, 2026
 ---
 The meeting was held over the internet via a Zoom video conference.
 
