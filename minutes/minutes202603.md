@@ -33,11 +33,11 @@ Glenn (VE3XRA), the Treasurer, was absent. Mike (VA3TEC), our President, is help
 
 - He is working on reconstituting the detailed members list, which allows us to track the membership, dues and contact information.
 - He thanked the many members who have renewed their membership.
-- He asked the members to bring in ideas of Club purchases that would help generating Club activity.
+- He asked the members to bring in ideas of Club purchases that would help generate Club activity.
 
 ### Vice President's Report
 
-- Lawrence is working on organizing an in-person regular members meeting the Spring of 2026.
+- Lawrence is working on organizing an in-person regular members meeting in the spring of 2026.
 - Lawrence has been having problems finding speakers.
   Upcoming monthly meeting presentations:
    - Being planned (speakers shall provide a synopsis of their presentation to Lawrence):
@@ -49,7 +49,7 @@ Glenn (VE3XRA), the Treasurer, was absent. Mike (VA3TEC), our President, is help
 
 ### Director's Report
 
-Robert, the Director, was absent. Nonetheless he provided this written report: With reference to the initiative he is working on with regards to acquiring potential meeting space at the Diefenbunker, he reported that the request is still working it's way up the management chain. He will report immediately on receipt of any update.
+Robert, the Director, was absent. Nonetheless he provided this written report: With reference to the initiative he is working on with regards to acquiring potential meeting space at the Diefenbunker, he reported that the request is still working its way up the management chain. He will report immediately upon receipt of any update.
 
 ### President's Report
 
@@ -64,7 +64,7 @@ Ted (VE3TD): Auxiliary Communications (AUXCOM) Training - A post-activity briefi
 - Bert requested that the Treasurer create a members spreadsheet and post it online for the Officers to consult or modify. A Google Sheet was created by Mike (VA3TEC), and is available online for those who have the link. __Item closed__.
 - Lawrence (VA3IQ) issued a survey on our WCARC groups.io. The survey asked the members about using Microsoft Teams instead of Zoom for our monthly meetings. The Zoom licensing cost is $280, whereas using Teams is free. The survey generated ten replies, six in favor of the change, three against it, and one with no opinion. The Officers will plan a test meeting on Teams later this month to verify proper operation, and prior to announcing any changes. __Item closed__.
 - Update the Officer signatures (President and Vice-President signatures) on file at the Alterna bank, as we have had a change of directorship at the last AGM. No progress to report on this item. __Open item__.
-- Glenn (VE3XRA), Tuesday evening SSB net: Glenn suggested that the Club Officers discuss, in the upcoming months, whether to carry on with holding the net. Lawrence (VA3IQ) is considering taking over the duties once his antenna stack is installed, which will happen in the Spring. Shared net control duties is also considered. __Open item__.
+- Glenn (VE3XRA), Tuesday evening SSB net: Glenn suggested that the Club Officers discuss, in the upcoming months, whether to carry on with holding the net. Lawrence (VA3IQ) is considering taking over the duties once his antenna stack is installed, which will happen in the spring. Shared net control duties are also being considered. __Open item__.
 - Bert (VE2ZAZ) on the 2026 June VHF Contest: The Corkery Community Centre will be available for our June VHF Contest outing. We are waiting for the rental fee structure, and will come back to the members with a firm weekend fee. We should expect it to be in the $300 range. The Centre contacted us to inquire on how we plan to feed our coaxial cables through the door, while keeping critters out. The May Club meeting will constitute the preparation session for the Contest. __Open item__.
 
 ### New Business
@@ -75,7 +75,7 @@ Ted (VE3TD): Auxiliary Communications (AUXCOM) Training - A post-activity briefi
 
 - Mike (VA3TEC) purchased a 33-acre property. There is a lot of space for wire antennas.
 - René (VE2UG) showed a Chinese 80W 1296 MHz brick amplifier he had just received.
-- René (VE2UG) showed a one-foot 24/47 GHz dish with a 3D printed feed point.
+- René (VE2UG) showed a one-foot 24/47 GHz dish with a 3D-printed feed point.
 
 ### Ask the Club
 
