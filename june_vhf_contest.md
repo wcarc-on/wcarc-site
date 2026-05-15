@@ -33,7 +33,7 @@ Maidenhead grid square FN15xg
 When
 ----
 
-Outdoor setup (towers, rotators, antennas, coax) will begin on Friday morning (June 12) around 09:00. We'll have access to the inside of the community centre starting around noon. Final setup will take place on Saturday morning. The contest begins at 14:00 (local) on Saturday (June 13) and continues until 23:00 (local) on Sunday (June 14). We'll dismantle the station on Monday morning (June 15) from about 09:00 to 12:00.
+Outdoor setup (towers, rotators, antennas, coax) will begin on Friday morning (June 12) around 09:00. Final setup will take place on Saturday morning. The contest begins at 14:00 (local) on Saturday (June 13) and continues until 23:00 (local) on Sunday (June 14). We'll dismantle the station on Monday morning (June 15) from about 09:00 to 12:00.
 
 What to bring
 -------------
