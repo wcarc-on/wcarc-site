@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 2025 ARRL June VHF Contest
+title: 2026 ARRL June VHF Contest
 ---
 
-From June 13<sup>th</sup> to 16<sup>th</sup>, the West Carleton Amateur Radio Club will once again participate in the ARRL June VHF contest. This will be our 16<sup>th</sup> year competing as a multi-operator station (VE3WCC). We'll be operating from the [Kinburn Community Centre](https://www.kinburn.ca/), which is located West of Ottawa, between Carp and Arnprior.
+From June 12<sup>th</sup> to 15<sup>th</sup>, the West Carleton Amateur Radio Club will once again participate in the ARRL June VHF contest. This will be our 17<sup>th</sup> year competing as a multi-operator station (VE3WCC). We'll be operating from the [Corkery Community Centre](https://www.corkerycommunity.ca/), which is located west of Kanata.
 
 Helping with setup of the station is a great opportunity for beginners to get experience setting up a station. You'll learn how to assemble antennas, towers, rotors, coax, radios, and logging software.
 
@@ -25,15 +25,15 @@ The ARRL June VHF Contest: [https://www.arrl.org/june-vhf](https://www.arrl.org/
 Where
 -----
 
-[Kinburn Community Centre](https://www.kinburn.ca/), 3045 Kinburn Side Road, Kinburn, ON  
-Maidenhead grid square FN15vj
+[Corkery Community Centre](https://www.corkerycommunity.ca/), 3447 Old Almonte Road, Carp, ON  
+Maidenhead grid square FN15xg
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2801.793598741986!2d-76.1893590843448!3d45.39333424619007!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cd1f5c48e4c2959%3A0x2f3da9989ea48c03!2sKinburn%20Community%20Centre!5e0!3m2!1sen!2sca!4v1652758616920!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d89870.12609831354!2d-76.1314487!3d45.2590866!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cd2046aedc31bc1%3A0x198dda441bc97b10!2s3447+Old+Almonte+Rd%2C+Carp%2C+ON+K0A+1L0!5e0!3m2!1sen!2sca!4v1496709063882" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 When
 ----
 
-Outdoor setup (towers, rotators, antennas, coax) will begin on Friday morning (June 13) around 09:00. We'll have access to the inside of the community centre starting around noon. Final setup will take place on Saturday morning. The contest begins at 14:00 (local) on Saturday (June 14) and continues until 23:00 (local) on Sunday (June 15). We'll dismantle the station on Monday morning (June 16) from about 09:00 to 12:00.
+Outdoor setup (towers, rotators, antennas, coax) will begin on Friday morning (June 12) around 09:00. We'll have access to the inside of the community centre starting around noon. Final setup will take place on Saturday morning. The contest begins at 14:00 (local) on Saturday (June 13) and continues until 23:00 (local) on Sunday (June 14). We'll dismantle the station on Monday morning (June 15) from about 09:00 to 12:00.
 
 What to bring
 -------------
