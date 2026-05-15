@@ -52,7 +52,7 @@ Glenn (VE3XRA), the Treasurer, was absent. Mike (VA3TEC), our President, is help
 ### Director's Report
 
 - Robert met with those who can set up the Diefenbunker for a Club meeting. The rental fee is $90 per hour. Due to this high rental fee, the Diefenbunker is no longer a viable meeting location.
-- The Club will be using the Bunker hill for its Microwave Activity Day on May 2nd. All is set up with the Bunker staff. Entrance will be open at 8:30am. Participants will meet for breakfast at Zack's Diner prior to the event.
+- The Club will be using the Bunker hill for its Microwave Activity Day on May 2nd. All is set up with the Bunker staff. Entrance will be open at 8:30am. Participants will meet for breakfast at Zak's Diner prior to the event.
 
 ### President's Report
 
@@ -78,7 +78,7 @@ No new business.
 
 ### Rental of Corkery Centre Vote
 
-A members vote was held to approve a $275 expenditure to cover the Corkery Centre rental fee for our participation in the 2026 June VHF contest. Bert (VE2ZAZ) moved that the members approve the expenditure. Ted (VE3TD) seconded the motion. There was a unanimous vote in favor. The motion was thus carried. Mike (VA3TEC) will proceed with the payment to the Corkery Association in the next few weeks.
+A members vote was held to approve a $275 expenditure to cover the Corkery Centre rental fee for our participation in the 2026 June VHF contest. Bert (VE2ZAZ) moved that the members approve the expenditure. Ted (VE3TD) seconded the motion. There was a unanimous vote in favor. The motion was thus carried. Mike (VA3TEC) will proceed with the payment to the Corkery Community Association in the next few weeks.
 
 ### Show and tell / Round Table
 
