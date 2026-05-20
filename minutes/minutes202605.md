@@ -75,7 +75,7 @@ No Presentation was scheduled; this monthly meeting was allocated to June VHF Co
 
 - An unofficial Club meeting will be required on June 8th for final VHF Contest readiness checks. This will be an informal Zoom meeting, so minutes will not be produced. Lawrence (VA3IQ) to schedule a Zoom meeting and send an invite email on our WCARC groups.io reflector. Lawrence reserved the Zoom meeting during this monthly meeting. __Closed item__.
 - The June monthly meeting was going to take place on June 15th, which is the Contest tear-down day. Bert (VE2ZAZ) moved that the June monthly meeting be re-scheduled one week later, on June 22nd. Lawrence (VA3IQ) seconded the motion. A unanimous vote in favour of the motion took place, and the motion was carried. __Closed item__.
-- Club membership list: Ted (VE3TD) has asked for a membership list for MeshCore mapping purpose. Mike (VA3TEC) will produce that list and provide it to Ted. __Open item__
+- Club membership list: Ted (VE3TD) has asked for a membership list for MeshCore mapping purpose. Mike (VA3TEC) will produce that list and provide it to Ted. __Open item__.
 
 ### June VHF Contest Planning Discussion
 
