@@ -9,6 +9,10 @@ For a list of meeting dates, speakers and topics, please see our [meetings page]
 
 ## Past Presentations
 
+### 2026
+
+* [June VHF Contest 2026 Recap by Clayton Smith VE3IRR (June 22, 2026)](presentations/ve3irr_2026_june_contest_review.pdf)
+
 ### 2025
 
 * [QSY feature in WSJT-X by Richard Ferch VE3KI (April 21, 2025)](presentations/qsy_feature_in_wsjtx_ve3ki.pdf)
