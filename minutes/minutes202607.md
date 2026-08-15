@@ -60,13 +60,13 @@ Lawrence (VA3IQ): Antenna Switching and PTT Routing: Logging Software in Control
 
 ### Old Business
 
-- Tuesday evening SSB net: Lawrence (VA3IQ) will take over the duties once his antenna stack and mast are installed, which is currently happening. He is planning on resuming the Net in September, and will be active on four bands and with 25 Watts of output power. He also requested for some help in hosting the net. Bert (VE2ZAZ) offered to take turn. __Open item__.
-- Mike (VA3TEC) to report back on the Club's finances. He will do so at the August meeting, or before. __Open item__
-- Lawrence (VA3IQ) updated the members on availability of the Corkery Centre as a location for our Christmas party. Unfortunately, the time slot for our AGM is already booked by someone else. Lawrence will follow up with the RAC staff to see if we can book the meeting room at the RAC HQ. __Open item__
+- Tuesday evening SSB net: Lawrence (VA3IQ) will take over the duties once his antenna stack and mast are installed, which is currently happening. He is planning on resuming the Net in September, and will be active on four bands and with 25 watts of output power. He also requested for some help in hosting the net. Bert (VE2ZAZ) offered to take turns. __Open item__.
+- Mike (VA3TEC) to report back on the Club's finances. He will do so at the August meeting, or before. __Open item__.
+- Lawrence (VA3IQ) updated the members on availability of the Corkery Centre as a location for our Christmas party. Unfortunately, the time slot for our AGM is already booked by someone else. Lawrence will follow up with the RAC staff to see if we can book the meeting room at the RAC HQ. __Open item__.
 
 ### New Business
 
-- Lawrence (VA3IQ): There is some confusion on whether our Club score can count in the Ontario VHF Association's submission for the ARRL June VHF Contest. Some of our participants did not show up as being OVHFA members. We will report back when we have more information. __Open item__
+- Lawrence (VA3IQ): There is some confusion on whether our Club score can count in the Ontario VHF Association's submission for the ARRL June VHF Contest. Some of our participants did not show up as being OVHFA members. We will report back when we have more information. __Open item__.
 
 ### Show and tell / Round Table
 
