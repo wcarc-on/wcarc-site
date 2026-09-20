@@ -95,9 +95,9 @@ The President observed that there was no further business. Bert (VE2ZAZ) moved t
 1. Opening Statements, Take attendance
 1. Approve Agenda
 1. Secretary's Report
-1. Treasurer’s Financial Statement
-1. Vice President’s Report
-1. Director’s Report
+1. Treasurer's Financial Statement
+1. Vice President's Report
+1. Director's Report
 1. President's Report
 1. Presentation: No presentation was given. A round table discussion was held.
 1. Old Business
