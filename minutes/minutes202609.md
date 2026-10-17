@@ -42,11 +42,11 @@ Glenn (VE3XRA), the Treasurer, was absent. Mike (VA3TEC), the President, is help
 - Upcoming monthly meeting presentations:
    - Being planned (speakers shall provide a synopsis of their presentation to Lawrence):
       - October: René (VE2UG) - Slot antennas for 1.2 GHz
-      - November: Mike (VA3TEC) - His Roving Trailer.
-      - Corey from Q5 Signals.
-      - Flex representative for Canada.
-      - Tom (VA3NFA) / Ted (VE3TD) / Lawrence (VA3IQ) - AREDN Status.
-      - Lawrence (VA3IQ) - How to not brick AREDN nodes.
+      - November: Mike (VA3TEC) - His roving trailer
+      - Corey from Q5 Signals
+      - Flex representative for Canada
+      - Tom (VA3NFA) / Ted (VE3TD) / Lawrence (VA3IQ) - AREDN Status
+      - Lawrence (VA3IQ) - How to not brick AREDN nodes
 
 ### Director's Report
 
@@ -62,8 +62,8 @@ No presentation was given. A round table discussion took place instead.
 
 ### Old Business
 
-- Tuesday evening SSB net: Lawrence (VA3IQ) will take over the duties once his antenna stack and mast are installed. He will be active on four bands and with 25 Watts of output power. He will initially activate the 2m, 70cm and 6m bands. He is planning on resuming the Net in the fall. The antenna mast and antennas are about to be raised. __Open item__.
-- Lawrence (VA3IQ) and our Christmas party. Lawrence will follow up with the RAC staff to see if we can book the meeting room at the RAC HQ. There has not been a response from their part. __Open item__
+- Tuesday evening SSB net: Lawrence (VA3IQ) will take over the duties once his antenna stack and mast are installed. He will be active on four bands and with 25 Watts of output power. He will initially activate the 2m, 70cm and 6m bands. He is planning on resuming the Net in the fall. The antenna mast and antennas are about to be raised. __Open item__
+- Lawrence (VA3IQ) and our Christmas party: Lawrence will follow up with the RAC staff to see if we can book the meeting room at the RAC HQ. There has not been a response on their part. __Open item__
 - Lawrence (VA3IQ): There is some confusion on whether our Club score can count in the Ontario VHF Association's submission for the ARRL June VHF Contest. Some of our participants did not show up as being OVHFA members. Update: The scores were published and our score was included in the OVHFA data. __Closed item__
 - Carp Hamfest. __Closed item__
    - Bert (VE2ZAZ) confirmed that a table is reserved for WCARC.
@@ -79,7 +79,7 @@ No presentation was given. A round table discussion took place instead.
 ### Show and tell / Round Table
 
 - Dan (VE3TOQ) talked about the CCERA 12.8m dish, which is located in Carp. He described the work needed to activate the dish on 1.2 GHz EME and do radio astronomy. He is soliciting help from other ham operators in the area.
-- Bert (VE2ZAZ) gave a report of his 10 GHz radio beacon.
+- Bert (VE2ZAZ) gave a report on his 10 GHz radio beacon.
 - René (VE2UG) showed us his 1.2 GHz slot antenna, which is made of PVC tubing and copper tape.
 - Randy (VE3AX): The 2026 Eastern Ontario Hamfest will take place on October 3rd in St-Albert.
 
